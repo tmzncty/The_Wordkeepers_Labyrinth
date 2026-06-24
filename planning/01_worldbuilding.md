@@ -280,7 +280,7 @@ This system means:
 
 ### 4.1 Feimo (绯墨) — Protagonist
 
-**Identity**: First-year student, House of the Forge. Nekomimi (猫娘) — human girl with cat ears and tail.
+**Identity**: First-year student, House of the Bridge (渡桥院). Nekomimi (猫娘) — human girl with cat ears and tail.
 
 **Name**: 绯墨 — *crimson ink*. The color of blood mixed with writing fluid.
 
