@@ -84,7 +84,7 @@ Feimo had not yet decided whether it existed between her and Mia.
 
 ---
 
-In the evenings, after training, Feimo attended Professor Jianmo's preparatory seminar on the theory of competition. The seminar was held in Lecture Room 4C, a small room on the second floor of the main building that smelled of chalk dust and old wood. The room held twenty desks. Twelve students attended the seminar. Feimo recognized most of them: Aya, who sat in the front row and took notes with mechanical precision; Kain, who leaned back in his chair with the practiced ease of someone who had been winning competitions since childhood and saw no reason to change his posture; Yue, who sat by the window and appeared to be taking notes but was, Feimo suspected, writing something else entirely.
+In the evenings, after training, Feimo attended Professor Jianmo's preparatory seminar on the theory of competition. The seminar was held in Lecture Room 4C, a small room on the second floor of the main building that smelled of chalk dust and old wood. The room held twenty desks. Twelve students attended the seminar. Feimo recognized most of them: Aya, who sat in the front row and took notes with mechanical precision; Cain, who leaned back in his chair with the practiced ease of someone who had been winning competitions since childhood and saw no reason to change his posture; Yue, who sat by the window and appeared to be taking notes but was, Feimo suspected, writing something else entirely.
 
 Professor Jianmo stood at the front of the room, behind a lectern that was slightly too tall for her. She was a small woman, precise in her movements, with a voice that did not carry so much as arrive, reaching every corner of the room without apparent effort.
 
@@ -108,11 +108,11 @@ She looked at the room.
 
 "You are all carrying something. Pressure. Expectation. The weight of a curriculum that demands more than any curriculum has the right to demand. The tournament will not remove that weight. But it will give you a structure within which to carry it. This is what ritual does. This is what all structured competition does. It does not solve problems. It transforms them into a form that can be endured."
 
-Kain raised his hand.
+Cain raised his hand.
 
 "Professor," he said, and his voice was the kind of voice that had been trained to fill rooms, "is that why the tournament uses teams of two? Because the structure requires a witness?"
 
-Professor Jianmo regarded him for a moment. Kain had a way of asking questions that revealed he already knew the answers, which was either a sign of intelligence or a sign of arrogance, and distinguishing between the two required more data than a single seminar could provide.
+Professor Jianmo regarded him for a moment. Cain had a way of asking questions that revealed he already knew the answers, which was either a sign of intelligence or a sign of arrogance, and distinguishing between the two required more data than a single seminar could provide.
 
 "Partially," she said. "Aristotle argued that the tragic hero is most effective when their downfall is witnessed. Recognition, *anagnorisis*, requires an audience. In the tournament, your partner is your audience. They see what you cannot see in yourself. They register the moments of strength and the moments of failure. This is not incidental to the experience. It is the experience. The tournament does not test what you can do alone. It tests what you can do when someone is watching."
 
@@ -138,13 +138,13 @@ She thought about this while Mia stood behind her in the training hall and said,
 
 ---
 
-On Thursday, Kain approached Feimo in the Library.
+On Thursday, Cain approached Feimo in the Library.
 
 He did this with the calculated casualness of someone who had been planning the encounter for several hours. He was carrying a book, which he set on the table in front of her with the spine facing outward so she could read the title: *The Danish Fashion Ethical Charter: Industry Self-Regulation and the Construction of Body Ideals.*
 
 "I thought you might find this relevant," he said, sitting down across from her without being invited. "Given your interest in how institutions construct standards."
 
-Feimo looked at the book. She looked at Kain.
+Feimo looked at the book. She looked at Cain.
 
 "This is about the fashion industry," she said.
 
@@ -154,11 +154,11 @@ Feimo looked at the book. She looked at Kain.
 
 "I think everything is relevant to the Academy. We are an institution that defines what counts as acceptable knowledge. We have standards for what can be read, what can be stored, what can be erased. The fashion industry defines beauty by body mass index. We define competence by Resonance density and extraction speed. Both are arbitrary. Both are enforced. Both damage the people who don't fit."
 
-Feimo considered this. Kain was not wrong. He was also not trustworthy. These were not contradictory states. Some of the most dangerous people in history had been people who were not wrong.
+Feimo considered this. Cain was not wrong. He was also not trustworthy. These were not contradictory states. Some of the most dangerous people in history had been people who were not wrong.
 
 "The difference," Feimo said, "is that body mass index measures a physical attribute that can be manipulated through starvation. Resonance density measures a cognitive capacity that is innate. You can't diet your way to better Resonance."
 
-"No," Kain agreed. "But you can train for it. You can prepare. You can optimize your performance within the metrics. And when you do, you become what the metric wants you to be, not what you actually are. The fashion industry produces bodies that conform to its ideals. The Academy produces minds that conform to ours. The process is the same. Only the substrate is different."
+"No," Cain agreed. "But you can train for it. You can prepare. You can optimize your performance within the metrics. And when you do, you become what the metric wants you to be, not what you actually are. The fashion industry produces bodies that conform to its ideals. The Academy produces minds that conform to ours. The process is the same. Only the substrate is different."
 
 He leaned back in his chair.
 

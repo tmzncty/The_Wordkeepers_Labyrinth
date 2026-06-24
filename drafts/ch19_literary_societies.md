@@ -54,13 +54,13 @@ Not literally. Architecturally, it was a standard rectangular lecture space with
 
 There were more students than Feimo expected. Not just Mirror House, though they were well represented, sitting in their characteristic clusters with notebooks open and expressions of prepared intensity. Forge students occupied the left side, solid and loud, their Resonance signatures dense with the impatience of people who preferred action to discussion. Weave students were scattered throughout, blending in, their Resonance signatures soft and adaptive, the textile metaphor made manifest. Bridge students were sparse, a few here and there, including Feimo, who took a seat near the back where she could watch the room without being watched by it.
 
-Kain was already there.
+Cain was already there.
 
-He sat in the exact center of the front row, which was either a deliberate statement or a natural consequence of his gravitational pull on any room he entered. He was leaning back in his seat with one ankle crossed over the opposite knee, the posture of someone who had decided in advance that whatever happened tonight would be entertaining. When Feimo's eyes found him, he raised two fingers in a salute that managed to be simultaneously friendly and condescending, which was a difficult combination that Kain made look effortless.
+He sat in the exact center of the front row, which was either a deliberate statement or a natural consequence of his gravitational pull on any room he entered. He was leaning back in his seat with one ankle crossed over the opposite knee, the posture of someone who had decided in advance that whatever happened tonight would be entertaining. When Feimo's eyes found him, he raised two fingers in a salute that managed to be simultaneously friendly and condescending, which was a difficult combination that Cain made look effortless.
 
 Aya was there too.
 
-She sat three rows behind Kain, slightly to the right, positioned with the geometric precision of someone who had calculated the optimal viewing angle for the stage and the optimal distance from the person in front of her. She was writing in a notebook, not the standard-issue Academy notebook but a personal one, leather-bound, its pages dense with annotations in a handwriting so small it was almost a cipher. She did not look up when Feimo entered. She did not need to. Feimo could feel Aya's awareness like a second pair of eyes, tracking her without focusing, cataloguing her without acknowledging.
+She sat three rows behind Cain, slightly to the right, positioned with the geometric precision of someone who had calculated the optimal viewing angle for the stage and the optimal distance from the person in front of her. She was writing in a notebook, not the standard-issue Academy notebook but a personal one, leather-bound, its pages dense with annotations in a handwriting so small it was almost a cipher. She did not look up when Feimo entered. She did not need to. Feimo could feel Aya's awareness like a second pair of eyes, tracking her without focusing, cataloguing her without acknowledging.
 
 The stage held a single table with two chairs. Behind the table, a banner had been hung: the same shifting ink as the notice, blue-black, reading **FOR LIFE** on the left and **FOR ART** on the right. Below the banner, in smaller text that required squinting to read, was a quote: *"Literature is not a mirror to reflect the world, but a hammer to shape it."* Beside it, in matching ink: *"Art for art's sake is the only honest position. Everything else is propaganda."*
 
@@ -122,13 +122,13 @@ Both pulls were real. Both were valid. And the tension between them was not a fl
 
 ---
 
-Kain spoke.
+Cain spoke.
 
 He stood slowly, the way he did everything, with the unhurried confidence of someone who knew that the room would wait for him and was not wrong.
 
-"I've been listening," he said, which was either an observation or a threat depending on how well you knew Kain. "And I notice that everyone arguing for 'For Life' assumes that life is something we all experience the same way. And everyone arguing 'For Art' assumes that art is something separate from life, a category we can draw a line around and defend." He paused. "Both assumptions are wrong."
+"I've been listening," he said, which was either an observation or a threat depending on how well you knew Cain. "And I notice that everyone arguing for 'For Life' assumes that life is something we all experience the same way. And everyone arguing 'For Art' assumes that art is something separate from life, a category we can draw a line around and defend." He paused. "Both assumptions are wrong."
 
-He did not gesture. He did not need to. His Resonance signature, normally contained and controlled, expanded slightly, filling the space around him with the particular frequency that Kain used when he wanted to be taken seriously.
+He did not gesture. He did not need to. His Resonance signature, normally contained and controlled, expanded slightly, filling the space around him with the particular frequency that Cain used when he wanted to be taken seriously.
 
 "Consider a text from the old world," he said. "A novel called *Midnight*, written in the early twentieth century. It was the first of its kind: a social analysis novel, a work that used the tools of economic and political theory to describe the collapse of an entire class of people. The protagonist was a man of great ambition and great capability, a captain of industry, a man who believed that the future belonged to those who could seize it."
 
@@ -144,9 +144,9 @@ He sat down.
 
 The hall was quiet for a moment. Then the Mirror House moderator said, "Thank you," in a tone that suggested she was filing that performance away for future reference.
 
-Feimo watched Kain settle back into his seat. He caught her eye again, and this time the salute was different: not friendly-condescending but something closer to acknowledgment. *I see you watching. Good. Watch carefully.*
+Feimo watched Cain settle back into his seat. He caught her eye again, and this time the salute was different: not friendly-condescending but something closer to acknowledgment. *I see you watching. Good. Watch carefully.*
 
-She did not know what to make of Kain. He was not kind. He was not cruel. He was something rarer: a person who understood power and used it with precision, the way a surgeon uses a scalpel, not because he wanted to hurt but because he believed that truth required incision.
+She did not know what to make of Cain. He was not kind. He was not cruel. He was something rarer: a person who understood power and used it with precision, the way a surgeon uses a scalpel, not because he wanted to hurt but because he believed that truth required incision.
 
 ---
 
@@ -216,7 +216,7 @@ She sat down.
 
 The hall did not erupt. It breathed. A long, collective exhalation that was not agreement or disagreement but recognition. The sound of a room full of readers encountering a text they had not expected.
 
-Kain was watching her. His expression was unreadable, which was itself a kind of commentary. Aya had stopped writing in her notebook. She was looking at Feimo with an expression that Feimo could not decode, something between calculation and curiosity and a third thing that had no name in any language Feimo knew.
+Cain was watching her. His expression was unreadable, which was itself a kind of commentary. Aya had stopped writing in her notebook. She was looking at Feimo with an expression that Feimo could not decode, something between calculation and curiosity and a third thing that had no name in any language Feimo knew.
 
 The Mirror House moderator stood. "We will take a brief recess," she said. "When we return, the floor will be open for responses."
 
@@ -364,7 +364,7 @@ Feimo held the two cards side by side. Card #030: the debate. Card #031: the pro
 
 *The mirror became a window. The analysis became a poem.*
 
-Kain had said that. And Kain, whatever else he was, was not wrong.
+Cain had said that. And Cain, whatever else he was, was not wrong.
 
 She put the cards back. She stood. The hall was empty.
 
@@ -376,7 +376,7 @@ Feimo walked the corridors of Bridge House, her footsteps echoing off walls that
 
 She reached the dormitory. Yue was asleep, or appeared to be, her blank-paged book open on the pillow beside her face. In the moonlight, the pages looked like they had writing on them, faint traces that disappeared when Feimo looked directly at them.
 
-She sat on her bed and took out her notebook. She did not write about the debate. She wrote about the feeling of standing in a room full of people who disagreed with each other and discovering that the disagreement was not a problem to be solved but a condition to be inhabited. She wrote about Kain's observation that the mirror and the window were the same thing. She wrote about Mia's challenge: *what happens next?* She wrote about Aya's distinction between debate and dialogue.
+She sat on her bed and took out her notebook. She did not write about the debate. She wrote about the feeling of standing in a room full of people who disagreed with each other and discovering that the disagreement was not a problem to be solved but a condition to be inhabited. She wrote about Cain's observation that the mirror and the window were the same thing. She wrote about Mia's challenge: *what happens next?* She wrote about Aya's distinction between debate and dialogue.
 
 She wrote, and as she wrote, she felt the familiar sensation of the page becoming a reader: the text she was producing was reading her back, asking her questions she had not intended to ask, revealing connections she had not planned to make. This was what the Literary Society understood. This was what the debate had been about. Not for life or for art but for the act of writing itself, the act of putting words on a page and discovering that the words have opinions of their own.
 

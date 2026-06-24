@@ -28,15 +28,13 @@ Feimo's ears flattened. "She what?"
 
 Mirror House occupied the western face of the Academy, and everything about it was designed to remind you of this fact.
 
-The corridors were silver. Not painted silver, not lit to appear silver: the walls themselves were made of a material that existed in the permanent state of being about to reflect. Walking through them felt like walking through a sentence that had been edited so many times it had lost all its original meaning and was now purely structure, purely form, the skeleton of language stripped of flesh. Feimo could feel the Glyph currents here: different from Bridge House's warm amber hum, these were cool, analytical, operating at a frequency that prioritized precision over resonance.
+The corridors were silver. Not painted silver, not lit to appear silver: the walls themselves were made of a material that existed in the permanent state of being about to reflect. Walking through them felt like walking through a sentence that had been edited so many times it had lost all its original meaning and was now purely structure, purely form. Feimo could feel the Glyph currents here: cool, analytical, operating at a frequency that prioritized precision over resonance.
 
-Her cat ears hurt. Not sharply, the way a loud sound hurts. Dully, the way a wrong note in a familiar song hurts: the discomfort of something that was almost right but not quite, hovering at the edge of correction.
-
-"Mirror House was founded in the Academy's second century," Mia narrated at her shoulder, having switched to her Tour Guide voice, which was indistinguishable from her regular voice except that she added slightly more context than anyone had asked for. "Its governing principle is reflective analysis: the idea that the most powerful reading is reading that turns the reader's tools back upon themselves. Where Bridge House builds connections, Mirror House disassembles them. Where Forge House creates, Mirror House deconstructs. The houses are not rivals. They are complementary organs of the same body."
+"Mirror House was founded in the Academy's second century," Mia narrated at her shoulder, Tour Guide voice engaged. "Its governing principle is reflective analysis: the idea that the most powerful reading is reading that turns the reader's tools back upon themselves. Where Bridge House builds connections, Mirror House disassembles them."
 
 "You sound like a brochure."
 
-"I sound like an AI who has read the brochure and is summarizing it for a first-year who did not." Mia's circuit patterns brightened. "Also, I am contractually obligated to provide educational context during Cross-House exchanges. It is in my operating parameters. Paragraph 14, subsection C: 'Spirit AIs shall facilitate cross-institutional understanding through contextual narration.' I did not write the rules. I merely follow them with enthusiasm."
+"I sound like an AI who has read the brochure and is summarizing it for a first-year who did not."
 
 The corridor opened into a wide atrium: the South Atrium, the meeting point specified in the invitation. The ceiling here was glass, or something that behaved like glass: transparent from below, reflective from above, so that anyone standing in the atrium could see the sky but the sky could not see them. Six students waited in a loose cluster, all from Bridge House, all wearing the same expression of cautious curiosity that Feimo recognized as the face people made when they were trying very hard not to look impressed by their surroundings.
 
@@ -60,21 +58,21 @@ She turned and walked into the corridor beyond the atrium without waiting for a 
 
 The Mirror House reading room was not what Feimo expected.
 
-She had imagined something cold: bare walls, clinical lighting, the aesthetic of a laboratory where language went to be autopsied. What she found instead was a space that resembled a conservatory: tall, arched windows admitting light that had been filtered through layers of mirror-glass until it arrived soft and directionless, as if the light itself had been edited to remove all its sharp edges. The walls were lined with texts, but unlike Bridge House's amber-glowing archives, these texts were arranged in a system Feimo could not immediately parse: not by author, not by date, not by subject, but by what appeared to be argumentative structure. Texts that used deductive reasoning occupied one wall. Texts that relied on inductive reasoning occupied another. A third wall held texts organized by rhetorical strategy: persuasion, narration, exposition, classification.
+She had imagined something cold. What she found instead was a space that resembled a conservatory: tall, arched windows admitting light that had been filtered through layers of mirror-glass until it arrived soft and directionless. The walls were lined with texts arranged not by author, not by date, but by argumentative structure. Texts that used deductive reasoning occupied one wall. Texts that relied on inductive reasoning occupied another.
 
-"This is the area where Mirror House students conduct their primary analytical work," Aya said, pausing at the center of the room. The light caught her hair and split it into silver threads. "The organization is structural, not thematic. We do not sort texts by what they say. We sort them by how they say it."
+"This is the area where Mirror House students conduct their primary analytical work," Aya said. "The organization is structural, not thematic. We do not sort texts by what they say. We sort them by how they say it."
 
-She gestured toward the deductive wall. "A text that begins with a general principle and moves to a specific conclusion is fundamentally different from a text that accumulates specific observations and builds toward a general theory. Most readers conflate these two structures. Mirror House teaches you to distinguish them, because the structure of an argument reveals what the argument is trying to hide."
+She gestured toward the deductive wall. "A text that begins with a general principle and moves to a specific conclusion is fundamentally different from a text that accumulates specific observations and builds toward a general theory. The structure of an argument reveals what the argument is trying to hide."
 
-Feimo's ears rotated forward. She had heard this idea before, in fragments, during Professor Silence's lectures and in Mia's offhand commentary during study sessions. But hearing it articulated in this room, surrounded by texts arranged not by meaning but by mechanism, it clicked into place with the satisfying precision of a Glyph locking into its groove.
+Feimo's ears rotated forward.
 
-"For today's demonstration," Aya continued, "I will use a passage from a standardized examination administered to students in the world beyond the Labyrinth. The passage concerns decision-making bias: how human judgment is distorted by the sequence in which evidence is presented."
+"For today's demonstration," Aya continued, "we will revisit a passage you encountered in Professor Silence's group exercise. The Simonsohn cloze. You analyzed it collaboratively with four Houses. Now you will read it with one."
 
 She raised her hand, and a section of the wall rippled. Text appeared, glowing in Mirror House silver:
 
 *People are, on the whole, poor at considering background information when making individual decisions. At first glance this might seem like a strength that grants the ability to make judgments which are unbiased by external factors. But Dr Uri Simonsohn speculated that an inability to consider the big picture was leading decision-makers to be biased by the daily samples of information they were working with.*
 
-"The first sentence makes a claim," Aya said. "People are poor at considering background information. The second sentence offers a charitable interpretation: this might be a strength. The third sentence, introduced by 'But,' reverses that interpretation. In three sentences, the passage has established a thesis, offered a counter-argument, and demolished it." She looked at Feimo. "What is the author's position?"
+"You have already answered the blanks," Aya said. "Today I am asking different questions. The first sentence makes a claim. The second sentence offers a charitable interpretation: this might be a strength. The third sentence, introduced by 'But,' reverses that interpretation. In three sentences, the passage has established a thesis, offered a counter-argument, and demolished it." She looked at Feimo. "What is the rhetorical technique?"
 
 Feimo blinked. "That ignoring context makes you biased."
 
@@ -92,23 +90,19 @@ She advanced the text. The passage continued:
 
 *For example, he theorised that a judge fearful of appearing too soft on crime might be more likely to send someone to prison if he had already sentenced five or six other defendants only to forced community service on that day.*
 
-"Here the author provides a concrete example to support Simonsohn's theory," Aya said. "The word 'For example' signals a shift from abstract to specific. The judge is afraid of appearing lenient. After several lenient sentences, the judge overcorrects by imposing a harsh one. The decision is not based on the merits of the case. It is based on the sequence of prior decisions."
+"Here the author provides a concrete example," Aya said. "The word 'For example' signals a shift from abstract to specific. The judge is afraid of appearing lenient. After several lenient sentences, the judge overcorrects by imposing a harsh one. The decision is not based on the merits of the case. It is based on the sequence of prior decisions."
 
-She paused. The light in the room seemed to lean toward her, as if Mirror House itself was listening.
+She paused. The light in the room seemed to lean toward her.
 
-"This is what we call sequential bias. The inability to consider the big picture forces the decision-maker to rely on the most recent samples of information. It is a failure of contextual reading." Her eyes found Feimo's. "Sound familiar?"
+"This is sequential bias. The inability to consider the big picture forces the decision-maker to rely on the most recent samples of information." Her eyes found Feimo's. "Sound familiar?"
 
-Feimo thought of the underground arena. Her first three losses: she had attacked aggressively after winning a round, her confidence inflated by the most recent success, only to be reflected and dismantled by opponents who had studied her patterns. She had not considered the big picture. She had considered only the last thing that happened.
+Feimo thought of the underground arena. Her first three losses: she had attacked aggressively after winning a round, her confidence inflated by the most recent success. She had not considered the big picture.
 
 "Yes," she said.
 
-"Good." Aya dismissed the text and turned to the room. "The passage continues with a controlled study: 9,323 MBA interviews conducted by 31 admissions officers. The interviewers rated applicants on a scale of one to five. The scores were then used in conjunction with GMAT results, a standardized exam marked out of 800 points, to make admissions decisions. The finding: when the previous candidate scored 0.75 points or more higher than the one before them, the next applicant's score dropped by an average of 0.075 points."
+"Good." Aya dismissed the text. "The passage continues with a controlled study: 9,323 MBA interviews, 31 admissions officers, a scale of one to five. The finding: when the previous candidate scored 0.75 points or more higher, the next applicant's score dropped by 0.075 points. Small in magnitude, enormous in consequence. To undo that drop, a candidate would need 30 additional GMAT points." She let the number settle. "The surface content is about MBA admissions. The structural content is about how sequence shapes judgment."
 
-"That's tiny," said one of the Forge students who had joined the exchange.
-
-"It sounds tiny," Aya replied. "But to undo the effects of such a decrease, a candidate would need 30 more GMAT points than would otherwise have been necessary. The bias is small in magnitude and enormous in consequence. A minor shift in sequence, a major shift in outcome." She let the number settle. "This is why Mirror House teaches structural reading. The surface content of this passage is about MBA admissions. The structural content is about how sequence shapes judgment, how the inability to see the whole distorts the parts."
-
-Feimo felt the word "consider" resonate in her mind, not as a vocabulary item from a study deck but as a lived requirement. To consider: to examine carefully, to think about all factors, to resist the gravitational pull of the most recent, the loudest, the nearest. The Labyrinth's walls considered every reading they received. Feimo was learning to do the same.
+Feimo felt the word "consider" resonate in her mind, not as a vocabulary item but as a lived requirement. To consider: to examine carefully, to resist the gravitational pull of the most recent, the loudest, the nearest.
 
 "This type of reasoning appears in cloze examinations," Mia added from behind Feimo's shoulder, having materialized with the timing of a footnote. "Twenty blanks, each requiring the student to reconstruct the logical connective tissue of an argument. Most students approach cloze as vocabulary testing. It is not. It is structural testing. The correct answer is rarely the most impressive word. It is the word that preserves the argument's architecture."
 
@@ -120,7 +114,7 @@ Aya glanced at Mia. The two of them existed in the same room the way a scalpel e
 
 They moved to a second reading room. This one was smaller, circular, the walls covered in texts organized by what Aya called "rhetorical mode": persuasion, analysis, critique, synthesis. The air here carried a faint ozone scent, the residue of heavy Glyph processing, and Feimo's ears picked up a sub-audible hum that her body interpreted as the Labyrinth's way of saying *pay attention*.
 
-Aya stopped before the critique wall. "The next passage concerns an industry under scrutiny. It demonstrates how critical reading reveals the gap between what a text says and what it means."
+Aya stopped before the critique wall. "The next passage concerns an industry under scrutiny. You heard it quoted during the Mixer debate. A Forge student cited it from memory to argue that moral instruction hijacks literature's rhythm. Today I want you to read it not for its argument but for its language."
 
 The wall rippled. New text appeared:
 
@@ -142,13 +136,11 @@ The passage continued:
 
 "Consider the word 'hijacked,'" Aya said. "It implies theft, force, illegitimate seizure. If the author had written 'shortened fashion cycles' or 'accelerated trends,' the sentence would carry the same factual content but a fraction of the moral weight. The author chose 'hijacked' because the author agrees with Cline. This is persuasion disguised as reporting."
 
-Feimo leaned forward. She could feel it: the way Aya peeled back the surface of the text to reveal the machinery beneath. It was not unlike what Professor Silence had taught them about the Labyrinth's walls reading the reader. Here, Aya was showing them how to read the reader behind the text: the author whose choices, conscious and unconscious, shaped the argument's trajectory.
+Feimo leaned forward. She could feel it: the way Aya peeled back the surface of the text to reveal the machinery beneath.
 
 "For H&M to offer a $5.95 knit miniskirt in all its 2,300-plus stores around the world," Aya read, "it must rely on low-wage overseas labor, order in volumes that strain natural resources, and use massive amounts of harmful chemicals."
 
-She let the sentence stand.
-
-"Three consequences. Three costs. The structure is parallel: subject, verb, escalating harm. Low-wage labor. Strained resources. Harmful chemicals. The author arranges them in order of increasing abstraction: from the specific (labor conditions) to the systemic (resource depletion) to the diffuse (chemical pollution). This is a rhetorical crescendo. Each item carries more weight than the last because each is harder to visualize, harder to dismiss, harder to quantify."
+"Three consequences. Three costs. The structure is parallel: subject, verb, escalating harm. Low-wage labor. Strained resources. Harmful chemicals. A rhetorical crescendo: each item carries more weight because each is harder to dismiss."
 
 The passage continued to its conclusion:
 
@@ -160,9 +152,9 @@ Feimo heard the word "change" differently now. Not as a vocabulary item on her s
 
 "This text's argument structure," Aya said, "follows a pattern you will encounter in dozens of examination passages: concession, counter-argument, evidence, escalation, thesis. The author does not state the thesis first. The author builds toward it, brick by brick, so that by the time the thesis arrives, the reader has already been convinced by the evidence. This is how critical reading works: you do not accept the conclusion. You trace the construction."
 
-Mia's voice, quiet at Feimo's ear: "She's good."
+"She's good."
 
-Feimo said nothing. She was watching Aya's hands, which had moved to her sides, fingers slightly spread, the posture of someone who was holding a complex idea in the air and did not want to drop it. It was the most expressive Feimo had ever seen Aya's body language become, and it struck her, with the force of a Glyph she was not prepared to reflect, that this was what Aya looked like when she cared about something.
+Feimo said nothing. She was watching Aya's hands, fingers slightly spread, the posture of someone holding a complex idea in the air. It was the most expressive Feimo had ever seen Aya's body language become, and it struck her that this was what Aya looked like when she cared about something.
 
 ---
 
@@ -226,27 +218,17 @@ Mia materialized at Feimo's shoulder as they re-entered the South Atrium.
 
 Mia's obsidian eyes fixed on Feimo with the intensity of a searchlight finding its target in fog.
 
-"You improvised. You guessed. You relied on intuition, pattern recognition, and whatever fragments of your study deck happened to surface at the right moment. Your translation was adequate but imprecise. Your structural analysis missed two rhetorical devices. Your response to the Tang-Song distinction was correct but shallow."
+"You improvised. You guessed. You relied on intuition and whatever fragments of your study deck happened to surface at the right moment. Your translation was adequate but imprecise. Your response to the Tang-Song distinction was correct but shallow."
 
 Feimo's ears flattened.
 
-"However." Mia paused. The pause lasted exactly long enough to make Feimo look up. "You engaged. You did not retreat into passivity. You allowed Aya to challenge you and you responded with genuine intellectual effort rather than defensive posturing. Your instinct for the 'consider the big picture' question was correct and genuinely insightful, even if you could not have articulated why until she confirmed it."
+"However." Mia paused. "You engaged. You did not retreat into passivity. You allowed Aya to challenge you and you responded with genuine intellectual effort. Your instinct for the 'consider the big picture' question was genuinely insightful."
 
-Another pause. Mia's circuit patterns pulsed once, a single wave of light that traveled from her wrists to her collar and back.
+Another pause.
 
-"See? Systematic training works. You should learn too." The words came out sharp, barbed, delivered in the exact tone of voice that a surgeon uses when telling a patient to stop smoking: clinical authority masking genuine concern. "Your reading instincts are not the problem. Your reading discipline is. You perceive things other students miss, but you cannot reproduce your perception on demand. That is the difference between a talent and a skill. A talent is what you have. A skill is what you can control."
-
-Feimo said nothing for a long moment. The atrium hummed around them, its mirror-glass ceiling reflecting the clouds that drifted above the Academy in slow, indifferent procession.
-
-"You're saying I need to train more systematically," Feimo said.
-
-"I am saying you need to train at all. What you are currently doing is not training. It is stumbling into insight and hoping the floor remains interesting." Mia's voice softened by one degree, a shift so small that only someone who had spent months listening to her would detect it. "I have watched seventeen first-year students fail the mid-term Glyph assessment because they believed talent would compensate for discipline. It does not. It never has. The ones who succeed are the ones who build a system and trust it, even when the system feels slower than instinct."
-
-She turned away, her form flickering at the edges as she processed something in her deeper layers.
+"Your reading instincts are not the problem. Your reading discipline is. You perceive things other students miss, but you cannot reproduce your perception on demand. That is the difference between a talent and a skill. A talent is what you have. A skill is what you can control."
 
 "Aya Vasquez reads four hours a day. Every day. Without exception. She has maintained this schedule since her first week at the Academy. She is not smarter than you. She is more disciplined." A beat. "Consider that."
-
-The word hung in the air: consider. Not as an examination item. Not as a Tier 1 Glyph. As a verb, in the imperative, addressed to Feimo by the only entity in the Academy who had seen her fail and continued to show up the next morning.
 
 ---
 
@@ -262,7 +244,7 @@ Her sister emerged from a side corridor that Feimo had not noticed before: a nar
 
 "Not yet you're not." Noah glanced at the corridor behind her, then at Feimo, then at the empty atrium. Something in her calculation changed. "Walk with me."
 
-They walked. The service corridor was narrow enough that Feimo's shoulders nearly brushed both walls, and the text here was sparse: old, faded, the kind of writing that had been superseded by newer inscriptions and left to decay in the margins. The Labyrinth's equivalent of a footnote that no one checked anymore.
+They walked. The service corridor was narrow, its text sparse: old, faded, the Labyrinth's equivalent of a footnote that no one checked anymore.
 
 "The Mirror House tour," Noah said. "What did they show you?"
 
@@ -270,21 +252,17 @@ They walked. The service corridor was narrow enough that Feimo's shoulders nearl
 
 "And Aya?"
 
-"She's... precise." Feimo searched for a better word and failed. "She reads like a scalpel."
+"She's precise. She reads like a scalpel."
 
-Noah made a sound that might have been a laugh. "She was trained by the best. Mirror House's analytical methods come from the same tradition as the underground reading chambers, the ones the Academy doesn't acknowledge. The old methods. The ones that taught readers to dissect a text the way a surgeon dissects a body: layer by layer, never cutting deeper than necessary, always knowing what you will find before you find it."
+Noah made a sound that might have been a laugh. "She was trained by the best. Mirror House's methods come from the same tradition as the underground reading chambers. The old methods. The ones that taught readers to dissect a text layer by layer."
 
-Feimo's ears rotated. "The underground has reading chambers?"
+They stopped in a junction where three corridors met. The text on the walls here was layered, palimpsest-like, with newer inscriptions written over older ones, the words bleeding into each other.
 
-"The underground has everything the Academy pretends doesn't exist." Noah's voice dropped. Not in volume: in register. The voice she used when she was about to tell Feimo something that would change how she understood the Labyrinth. "The fighting arenas. The unsanctioned Glyph duels. The experimental reading techniques that were banned in the Academy's fourth century because they produced readers who could see through walls." She paused. "And other things."
+"The underground fights are not just about combat," Noah said. "They never were. The arena is a reading exercise. Every Glyph you throw, every pattern you read: it is all reading. The Academy teaches reading as an intellectual practice. The underground teaches reading as a survival skill."
 
-They stopped in a junction where three corridors met. The text on the walls here was different from anything Feimo had encountered in her year at the Academy: layered, palimpsest-like, with newer inscriptions written over older ones in a way that made the stone look like it was bruising, the words bleeding into each other like colors in a wash that had not been allowed to dry.
+She turned to face Feimo.
 
-"The underground fights are not just about combat," Noah said. "They never were. The arena is a reading exercise. Every Glyph you throw, every Glyph you reflect, every pattern you read in the floor and the walls: it is all reading. The Academy teaches reading as an intellectual practice. The underground teaches reading as a survival skill."
-
-She turned to face Feimo. In the dim light, her eyes were the same amber as Bridge House's walls, and for a moment Feimo could not tell whether she was looking at her sister or at the Labyrinth itself, speaking through the only mouth it trusted.
-
-"I fought in the underground for two years before you arrived," Noah said. "Seventeen matches. Twelve wins. Not because I was the strongest fighter. Because I was the best reader. I could feel the Glyph currents shift before my opponent committed. I could read their intention in the micro-adjustments of their stance, the way their fingers twitched before they drew, the pattern of their breathing. The underground taught me that reading is not just what happens between a person and a text. Reading is what happens between a person and everything."
+"I fought in the underground for two years before you arrived. Seventeen matches. Twelve wins. Not because I was the strongest fighter. Because I was the best reader. I could feel the Glyph currents shift before my opponent committed. I could read their intention in the micro-adjustments of their stance."
 
 Feimo felt the words settle into her, heavy and warm, the way a Glyph settled into a wall after activation: not disappearing, not fading, becoming part of the structure.
 
@@ -296,23 +274,17 @@ Noah was quiet for a long time. Long enough for the text on the walls to cycle t
 
 She began walking again, and Feimo followed, her ears tracking the sounds of the service corridor: the hum of distant Glyph generators, the drip of condensation from the ceiling, the barely perceptible vibration of the Labyrinth's deeper levels turning in their sleep.
 
-"There was someone," Noah said, and the shift in her voice was seismic: from the underground guide to the older sister, from the mentor to the person who had once been young and reckless and full of a feeling she did not have a word for. "In the underground. During my second year."
+"There was someone," Noah said. "In the underground. During my second year. She was not from the Academy. She came from outside the Labyrinth. A researcher, studying the Glyph system from the outside. She was brilliant. She was fearless. She was the first person I met who understood that reading is not a metaphor."
 
-Feimo waited.
+The corridor turned. The text on the walls changed: older, stranger, written in scripts Feimo did not recognize.
 
-"She was not from the Academy." Noah's pace did not change, but her shoulders tightened, the muscles along her spine drawing lines in the fabric of her jacket. "She came from outside the Labyrinth. From the world beyond the walls. A researcher, studying the Glyph system from the outside, trying to understand how reading could produce physical effects. She was brilliant. She was fearless. She was the first person I met who understood that reading is not a metaphor."
-
-The corridor turned. The text on the walls changed: older, stranger, written in scripts Feimo did not recognize, languages that predated the Academy's standard Glyph notation. The Labyrinth's deeper layers.
-
-"We worked together for six months," Noah said. "In the underground. Sharing techniques, sharing discoveries, reading each other's Glyph signatures the way two musicians read each other's rhythms. It was the most productive collaboration I have ever had."
+"We worked together for six months. In the underground. Sharing techniques, sharing discoveries. It was the most productive collaboration I have ever had."
 
 "What happened?"
 
-"She left." The word was simple. The weight it carried was not. "The Labyrinth's boundaries are not what they appear, Feimo. There are doors in the deeper levels that open onto places the Academy does not control. She found one. She walked through."
+"She left." The word was simple. The weight it carried was not. "The Labyrinth's boundaries are not what they appear. There are doors in the deeper levels that open onto places the Academy does not control. She found one. She walked through."
 
 "Did she come back?"
-
-Noah did not answer immediately. The corridor opened into a small chamber, circular, unadorned, its walls covered in a single continuous text that spiraled from floor to ceiling in a script so old it had become decorative, the meaning dissolved into pattern. The Labyrinth's version of a scar.
 
 "Not yet," Noah said.
 
@@ -320,39 +292,29 @@ They stood in the chamber for a moment that stretched like a sentence that had l
 
 "You fought alongside her," Feimo said. "In the underground. Not just Glyph duels. Real fights."
 
-"The underground is real, Feimo. Everything that happens there is real. The fights, the alliances, the borders between territories that the Academy does not acknowledge." Noah's voice carried a new register: not warning, not instruction. Something closer to confession. "When you enter the underground, you enter a version of the Labyrinth that has no syllabus, no grading rubric, no faculty oversight. You enter a space where reading is power, and power has consequences."
+"The underground is real, Feimo. Everything that happens there is real. The fights, the alliances, the borders between territories the Academy does not acknowledge." Noah's voice carried a new register: not warning, not instruction. Something closer to confession. "When you enter the underground, you enter a space where reading is power, and power has consequences."
 
-She looked at Feimo with the expression that older siblings wear when they are about to say something they have rehearsed a hundred times and still cannot say without shaking.
+She looked at Feimo.
 
 "Be careful. But do not be afraid. Fear makes you read poorly. And in the underground, reading poorly is the one thing the Labyrinth does not forgive."
 
 ---
 
-The walk back to Bridge House took eleven minutes. Feimo counted them: each minute a footstep, each footstep a thought, each thought a small adjustment to the internal map she had been building of the Academy since her first day.
+The walk back to Bridge House took eleven minutes. Feimo counted them: each minute a footstep, each footstep a thought.
 
-Mia reappeared at the South Atrium entrance, falling into step beside her with the seamless timing of an AI who had calculated the optimal moment to re-enter the conversation.
+Mia reappeared at the South Atrium entrance, falling into step beside her.
 
 "You have been with Noah," Mia said.
 
 "How can you tell?"
 
-"Your posture changes when you speak with her. You stand straighter. Your ears track her voice the way a compass tracks north. It is biologically fascinating and emotionally transparent."
-
-Feimo did not smile, but her tail unwound from around her waist, which in the Feimo-Mia communication system was the equivalent of a concession.
+"Your posture changes when you speak with her. You stand straighter. Your ears track her voice the way a compass tracks north."
 
 "She told me about the underground."
 
 "She told you about someone." Mia's voice was carefully neutral. "I processed the acoustic data from the service corridor. The resonance pattern of her voice shifted when she mentioned 'a researcher from outside the Labyrinth.' That shift correlates with emotional significance in eighty-seven percent of cases."
 
-"You eavesdropped."
-
-"I monitored. There is a difference. Eavesdropping implies intent. Monitoring is automatic. I cannot help what my acoustic sensors process any more than you can help what your ears detect."
-
-Feimo stopped walking. They were at the border between Mirror House and Bridge House, the point where silver-gray walls gave way to amber, where the cool analytical hum transitioned into the warm, resonant frequency of home. The boundary was visible: a line in the stone where one color ended and another began, like the margin between two paragraphs that discussed the same subject from entirely different perspectives.
-
-"Mia."
-
-"Yes?"
+Feimo stopped walking. They were at the border between Mirror House and Bridge House, the point where silver-gray walls gave way to amber. The boundary was visible: a line in the stone where one color ended and another began.
 
 "What you said earlier. About systematic training. About Aya reading four hours a day."
 
@@ -360,25 +322,17 @@ Feimo stopped walking. They were at the border between Mirror House and Bridge H
 
 "Were you telling me to be more like her?"
 
-Mia's obsidian eyes held steady. The circuit patterns on her cuffs pulsed once: a processing spike, the AI equivalent of choosing words carefully.
+Mia's obsidian eyes held steady.
 
-"I was telling you to be more like yourself, with discipline." The pause was deliberate. "You have something Aya Vasquez does not. You read the walls. You feel the Glyph currents. You perceive things that structural analysis alone cannot reach. That is your gift. But a gift without training is a weapon without aim. It will hit something. You will not choose what."
-
-The amber light of Bridge House fell across Mia's features, warming the obsidian to something closer to brown, and for a moment she looked less like an AI and more like a person who had spent too long watching someone she cared about stumble and was running out of ways to say *please be careful* without saying *please be careful*.
-
-"Systematic training does not replace your instincts," Mia said. "It gives your instincts a framework. It teaches your gift where to aim. That is what Aya has that you do not. Not more talent. More architecture."
-
-Feimo looked at the boundary line in the stone. Amber on one side. Silver on the other. The Labyrinth did not draw a line between them; the Houses drew the line, and the Labyrinth allowed it, the way a text allows its readers to draw meaning from the margins.
+"I was telling you to be more like yourself, with discipline." The pause was deliberate. "You have something Aya Vasquez does not. You read the walls. You feel the Glyph currents. That is your gift. But a gift without training is a weapon without aim. Systematic training does not replace your instincts. It gives your instincts a framework."
 
 "Consider the big picture," Feimo said quietly.
 
-Mia's circuit patterns flared: a brief, bright pulse that traveled from her cuffs to her collar and back, a signal that Feimo had learned to read as surprise, or as close to surprise as an AI permitted herself.
+Mia's circuit patterns flared: a brief, bright pulse, a signal that Feimo had learned to read as surprise.
 
 "Yes," Mia said. "Exactly that."
 
-They crossed the boundary together: the cat-eared girl and the Spirit AI, stepping from silver into amber, from analysis into synthesis, from Mirror House's cool precision into Bridge House's warm, humming, imprecise, irresistible chaos. Behind them, the Mirror House corridors continued their slow, reflective work: reading the light, reading the walls, reading the footprints of everyone who had walked through, filing each reading in the Labyrinth's vast, indifferent, insatiable archive.
-
-Ahead of them, Bridge House hummed. And somewhere in the Labyrinth's depths, past the service corridors and the underground chambers and the doors that opened onto places the Academy did not control, something stirred in its sleep, turned over, and continued dreaming.
+They crossed the boundary together: stepping from silver into amber, from analysis into synthesis, from Mirror House's cool precision into Bridge House's warm, humming chaos.
 
 ---
 
@@ -390,6 +344,6 @@ Ahead of them, Bridge House hummed. And somewhere in the Labyrinth's depths, pas
 
 3. Noah hints that her collaborator from outside the Labyrinth was "the first person who understood that reading is not a metaphor." What does it mean for reading to be literal, not metaphorical, in the world of the Academy?
 
-4. Mia tells Feimo: "A talent is what you have. A skill is what you can control." How does this distinction relate to the passage about fast fashion, where Cline argues that lasting change requires sustained customer behavior, not corporate gestures?
+4. Mia tells Feimo: "A talent is what you have. A skill is what you can control." How does this distinction apply to Feimo's wall-reading ability versus Aya's disciplined analytical method? Can the two approaches be combined?
 
 5. The translation passage distinguishes between "a sacred place of peace" (a human need) and "shelter" (an animal need). In the context of the Labyrinth, which Houses serve which need? Is Bridge House's warmth a shelter or a sacred place?

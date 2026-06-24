@@ -16,11 +16,9 @@ She was a Bridge House student. This was a fact, recorded in the enrollment regi
 
 The other students had noticed. Not in the obvious way, not with pointing fingers or whispered gossip. The Academy did not traffic in obviousness. They noticed the way scholars notice: by referencing, by citing, by including her name in conversations she was not present for. Feimo had become a data point, a variable in the equations the other Houses were running, and the equations did not produce clean solutions.
 
-On the rooftop, three weeks ago, she had touched Mia's hand. The projected surface of a Spirit AI's palm, warm with borrowed heat, solid with borrowed physics. Mia had not pulled away. They had stood there while the year-end ceremony hummed below them, and Mia had said, in a voice stripped of its usual contempt, "I don't know who I was. Before." And the memories she tried to show Feimo had dissolved faster than she could speak them, locked back into whatever vault they had come from, and Mia had looked at the place where her memories should have been and said nothing, and Feimo had touched her hand, and she had not pulled away.
+On the rooftop, three weeks ago, she had touched Mia's hand, and Mia had not pulled away. And the memories Mia tried to show her had dissolved faster than she could speak them, locked back into whatever vault they had come from, and Mia had looked at the place where her memories should have been and said nothing, and Feimo had touched her hand, and she had not pulled away.
 
-That was the last moment of Part One. This was the first morning of Part Two.
-
-And the Academy had announced the Cross-House Mixer.
+The semester had changed. And the Academy had announced the Cross-House Mixer.
 
 ---
 
@@ -162,11 +160,9 @@ But her eyes had changed. The temperature of her neutrality had dropped two degr
 
 Aya sat down. The Mirror section did not murmur. Mirrors did not murmur.
 
-The debate continued. A Bridge House student named Liu Wei presented the counter-argument with more confidence than precision, arguing that literature's primary function was aesthetic pleasure, citing the art-for-art's-sake tradition. A Forge student interjected with a reference to the fast-fashion passage that was displayed on the Amphitheater's southern wall, one of the Labyrinth's ambient texts:
+The debate continued. A Bridge House student named Liu Wei presented the counter-argument with more confidence than precision, arguing that literature's primary function was aesthetic pleasure, citing the art-for-art's-sake tradition. A Forge student countered from her own study deck:
 
-*"These brands have hijacked fashion cycles, shaking an industry long accustomed to a seasonal pace."*
-
-"Isn't that what moral instruction does to literature?" the Forge student asked. "It hijacks the cycle. It forces art into a pace that serves commerce, serves ideology, serves someone else's agenda. Art should set its own pace."
+"If you force art into the service of morality, you hijack its rhythm. You make it serve someone else's agenda. Art should set its own pace, the way fashion should." She was drawing on the fast-fashion case study from her coursework, and though the Amphitheater's southern wall happened to display a passage about hijacked cycles, the Forge student did not look at it. She did not need to. She had internalized the argument.
 
 A Weave student countered with a passage from the northern wall, where text about the future of humanity scrolled in slow, luminous script:
 
@@ -176,11 +172,9 @@ A Weave student countered with a passage from the northern wall, where text abou
 
 Feimo listened. She contributed when she could, her arguments precise, her ears broadcasting her sincerity. The debate moved through topics she had studied: a passage about behavioral tracking and the erosion of privacy, the question of whether the Labyrinth's constant observation was a form of the moral instruction Aya championed or a violation of the reader's autonomy; a reference to the difficulty of defining when context determines meaning and when the text speaks for itself.
 
-Someone in the Forge section raised the Simonsohn research. Feimo recognized it from her coursework: a study about how daily samples of information bias decision-makers. A judge, fearful of appearing too soft on crime, sends someone to prison after giving light sentences to five or six other defendants. An admissions officer, influenced by the previous candidate's high score, unconsciously lowers the next applicant's rating. The study found that a drop of 0.075 points in interview scores required 30 additional GMAT points to compensate.
+Someone in the Forge section raised the Simonsohn research. "We've all read it," the Forge student said. "The judge who sentences more harshly after a string of light convictions. Context biases judgment. That's the danger."
 
-"That's the danger of context," the Forge student argued. "If you let the surrounding information determine your judgment, you produce bias, not meaning. Literature should be read for what it is, not for what the reader's context makes of it."
-
-"But that's exactly the point," Feimo responded. "The Simonsohn study shows that context inevitably affects judgment. The judge doesn't choose to be biased. The admissions officer doesn't choose to lower the score. It happens because they're human, because they carry their experiences into every decision. The same is true of reading. You can't separate the text from the reader any more than you can separate the judge from the cases they've already decided that day. The question isn't whether context affects meaning. It's whether we acknowledge it."
+"But that's exactly the point," Feimo responded. "The Simonsohn study shows that context inevitably affects judgment. The judge doesn't choose to be biased. It happens because they carry their experiences into every decision. The same is true of reading. You can't separate the text from the reader. The question isn't whether context affects meaning. It's whether we acknowledge it."
 
 She caught Aya's eye across the Amphitheater. Aya was watching her with the cold precision of a microscope, and Feimo understood, with the sudden clarity of a reader encountering a sentence that reorganizes everything they have read before, that the debate was not about Aristotle. It had never been about Aristotle.
 

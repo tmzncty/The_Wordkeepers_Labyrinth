@@ -28,7 +28,7 @@ Noah was absent again. She had been absent for three consecutive sessions, and F
 
 Aya sat at the far right, two rows back, her posture perfect, her expression unreadable. Since the tournament, she and Feimo had developed a rapport that was difficult to name. It was not friendship, exactly. It was the recognition that comes from having fought someone and discovered they are better than you expected, followed by the quiet recalibration of respect. Aya still competed with Feimo in every exercise, still measured herself against every score, but the competition had lost its edge of contempt and gained something that might, in time, become warmth.
 
-Kain was not here either. Kain was never here for the translation elective. He had his own curriculum, his own private tutorials with faculty whose names Feimo did not know, and his own reasons for avoiding the Professor's seminars. Feimo suspected those reasons had less to do with translation and more to do with the fact that the Professor asked questions Kain could not deflect with charm.
+Cain was not here either. Cain was never here for the translation elective. He had his own curriculum, his own private tutorials with faculty whose names Feimo did not know, and his own reasons for avoiding the Professor's seminars. Feimo suspected those reasons had less to do with translation and more to do with the fact that the Professor asked questions Cain could not deflect with charm.
 
 The door opened. The Professor entered.
 
