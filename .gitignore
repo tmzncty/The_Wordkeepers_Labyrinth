@@ -1,0 +1,4 @@
+.lux/
+data/exam_*.json
+*.pyc
+__pycache__/
