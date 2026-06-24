@@ -40,7 +40,7 @@ Nobody had a response to that.
 
 They had three days until the midterm examination.
 
-The exam covered the first half of the academic year: everything from basic passage analysis to cloze logic to the translation and writing sections that Professor Silence had introduced in the sixth week with the words, "You will not enjoy this. That is not the point." He had been correct on both counts.
+The exam covered the first half of the academic year: everything from basic passage analysis to cloze logic to the translation and writing sections that Professor Silence had introduced in the sixth week. He had written on the board: *You will not enjoy this. That is not the point.* He had been correct on both counts.
 
 Feimo flipped open her cloze practice sheet. The passage was from the 2015 examination, a text about genetics and friendship that Professor Silence had assigned as a "diagnostic exercise," which was his way of saying "this will tell me how much you don't know."
 
@@ -136,53 +136,33 @@ Mia had opinions about reading comprehension. These opinions were strong, numero
 
 She highlighted a sentence: *"It is this apparent transcendence of politics that explains monarchs' continuing popularity as heads of state."*
 
-"Transcendence," Mia said. "In the examination context, this means 'rising above.' The monarch is popular because the monarch is not political. The moment the monarch becomes political, the spell breaks. Juan Carlos broke it through scandal. Charles threatens to break it through personality." She turned to Feimo. "What's the exam question here?"
+"Transcendence," Mia said. "The monarch is popular because the monarch is not political. The moment the monarch becomes political, the spell breaks. Juan Carlos broke it through scandal." She turned to Feimo. "What's the exam question here?"
 
-Feimo read the first question: *"According to the first two paragraphs, King Juan Carlos of Spain..."*
+"He ended his reign in embarrassment," Feimo said. "D. The passage says 'embarrassing scandals' forced him to 'eat his words and stand down.'"
 
-"He ended his reign in embarrassment," Feimo said. "D. The passage says 'embarrassing scandals' forced him to 'eat his words and stand down.' He had previously said kings don't abdicate. Then he abdicated. The embarrassment is in the contradiction."
-
-"Correct. But notice something else. The phrase 'eat his words' is an idiom. Idioms in reading passages are traps for non-native speakers. If you don't know that 'eat your words' means 'to retract a previous statement under humiliating circumstances,' you might interpret it literally, and then the sentence makes no sense. Build your idiom library. Every idiom you don't know is a gap in the passage's meaning."
+"Correct. But notice 'eat his words' — an idiom. Idioms in reading passages are traps for non-native speakers. If you don't know it means 'retract a statement under humiliating circumstances,' the sentence makes no sense. Build your idiom library."
 
 Feimo wrote "eat one's words = retract under humiliation" in her notebook.
 
-"Text Two," Mia continued. "Digital privacy and the Fourth Amendment. The Supreme Court deciding whether police can search phones during arrest without a warrant." She paused. "This is relevant."
+"Text Two," Mia continued. "Digital privacy and the Fourth Amendment. The Supreme Court deciding whether police can search phones without a warrant." She paused. "The passage argues that searching a smartphone is like entering someone's home. 'A smartphone may contain an arrestee's reading history, financial history, medical history and comprehensive records of recent correspondence.' Your phone is not a device. It is a life, externalized."
 
-"Relevant to what?"
+"The exam question asks what exploring a phone is comparable to," Mia continued. "The answer is 'getting into one's residence.' D. The comparison is about the scale of intrusion, not the content."
 
-"To everything. To the Academy. To the Labyrinth. To the question of who owns your data, your Resonance signature, your reading history." Mia's voice shifted, dropping half a register, the change that happened when she moved from academic mode to something closer to personal. "The passage argues that searching a smartphone is like entering someone's home. 'A smartphone may contain an arrestee's reading history, financial history, medical history and comprehensive records of recent correspondence.' Your phone is not a device. It is a life, externalized."
+"Text Three. The journal *Science* adding statistical checks to peer review. About institutional quality control." She projected: *"Readers must have confidence in the conclusions published in our journal."*
 
-The common room was quiet for a moment. Even Aya had stopped writing.
-
-"The exam question asks what the author believes exploring one's phone is comparable to," Mia continued, her voice returning to its usual register. "The answer is 'getting into one's residence.' D. The passage explicitly states 'exploring one's smartphone is more like entering his or her home.' The other options, going through a wallet, handling records, scanning correspondence, are all things phones *contain*, but the comparison is about the *scale of intrusion*, not the content."
-
-Feimo nodded. She wrote the answer. Then she wrote beneath it: *A phone is a home. A home is a life. To search without permission is to enter without knocking.*
-
-"Text Three," Mia said. "The journal *Science* adding statistical checks to peer review. This is about institutional quality control."
-
-She projected the key passage: *"Readers must have confidence in the conclusions published in our journal."*
-
-"Confidence," Mia said. "In the exam context, this means trust. Readers trust that the journal has verified the data. When that trust breaks, the entire system of published knowledge becomes unreliable. The passage describes a response to 'widespread concern that basic mistakes in data analysis are contributing to the irreproducibility of many published research findings.'" She looked at Feimo. "Irreproducibility. Can you define it?"
+"The passage describes a response to 'widespread concern that basic mistakes in data analysis are contributing to the irreproducibility of many published research findings.'" She looked at Feimo. "Irreproducibility. Can you define it?"
 
 "The inability to get the same result when you repeat the experiment."
 
 "Correct. And why does it matter?"
 
-Feimo thought. "Because if you can't reproduce a finding, you can't verify it. An unverified finding might be true, might be false. It's a conclusion without proof. In the exam, it's like answering a question without showing your reasoning. The answer might be right, but you can't demonstrate *why* it's right."
+Feimo thought. "Because if you can't reproduce a finding, you can't verify it. It's a conclusion without proof."
 
-"Extend the metaphor," Mia said.
+"Text Four. Integrity. Elisabeth Murdoch arguing that profit should not be the only sorting mechanism." Mia read: *"'The absence of purpose, of a moral language within government, media or business could become one of the most dangerous goals for capitalism and freedom.'"*
 
-"In the Labyrinth... if a wall responds to your reading but no one else can reproduce the response, is the wall really responding? Or is it a glitch? Or is it you?"
+"The exam asks what Elisabeth was upset by," Mia said. "The answer is the consequences of the current sorting mechanism. A. She is not describing a problem. She is describing the result of a problem. The distinction matters."
 
-Mia said nothing for three seconds. Three seconds of silence from Mia was the equivalent of a standing ovation from anyone else.
-
-"Text Four," she said quietly. "Integrity. The dearth of moral purpose. Elisabeth Murdoch arguing that profit should not be the only sorting mechanism of society." She paused. "This passage is about values. About what happens when institutions lose their moral compass and optimize only for measurable outcomes."
-
-She read aloud: *"'It's increasingly apparent that the absence of purpose, of a moral language within government, media or business could become one of the most dangerous goals for capitalism and freedom.'"*
-
-"The exam asks what Elisabeth was upset by," Mia said. "The answer is the consequences of the current sorting mechanism. A. Not the misuse of integrity, not governmental ineffectiveness, not financial loss. The *consequences*. She is not describing a problem. She is describing the result of a problem. The distinction matters."
-
-Feimo wrote it down. She was filling pages. Her notebook, which had started the session as a neat grid of blanks and annotations, was becoming something denser: a map of connections, a web of logic and rhetoric and the particular kind of understanding that came from having someone who was simultaneously terrible and brilliant at explaining things.
+Feimo wrote it down. She was filling pages.
 
 ---
 
@@ -232,11 +212,9 @@ Mia opened her mouth. Closed it. Her projection flickered once, and the flicker 
 
 The translation section came after the cards.
 
-Mia had a particular fondness for translation exercises, which she described as "the only part of the examination that requires you to actually understand the structural machinery of two languages simultaneously rather than just pattern-matching in one."
+Mia had a particular fondness for translation exercises, which she described as "the only part of the examination that requires you to understand the structural machinery of two languages simultaneously."
 
-The 2015 translation passage was about American history: the forces that built the nation, the immigration that shaped it, the geography that transformed it.
-
-Mia projected the first sentence:
+The 2015 translation passage was about American history.
 
 *"This movement, driven by powerful and diverse motivations, built a nation out of a wilderness and, by its nature, shaped the character and destiny of an uncharted continent."*
 
@@ -246,37 +224,25 @@ Feimo drew a line under the main clause. "This movement built a nation and shape
 
 "Good. What modifies 'movement'?"
 
-"'Driven by powerful and diverse motivations.' Past participle phrase. It explains the cause behind the movement."
+"'Driven by powerful and diverse motivations.' Past participle phrase."
 
 "And 'out of a wilderness'?"
 
-"It's the source material. The nation was built from wilderness. Like... building a Glyph from raw resonance. You start with nothing structured and create something with form."
+"The source material. The nation was built from wilderness. Like building a Glyph from raw resonance."
 
-"'By its nature'?"
+"Good." Mia was quiet for a moment. "Translation is not word-for-word conversion. Translation is reconstruction. You take the meaning out of one structure and rebuild it in another. The words change. The architecture of the meaning must stay intact."
 
-"Adverbial. It means 'inherently' or 'as an essential quality.' The movement didn't just build a nation. By its very nature, it shaped the continent's character."
-
-"Good." Mia was quiet for a moment. "Translation is not word-for-word conversion. Translation is reconstruction. You take the meaning out of one structure and rebuild it in another. The words change. The architecture of the meaning must stay intact." She paused. "Like moving a Glyph from one Resonance field to another. The energy pattern is the same. The medium is different."
-
-Feimo translated the sentence in her notebook: *这场运动，由强大而多样的动机所推动，在荒野中建立了一个国家，并以其本质塑造了一个未知大陆的特征与命运。*
-
-She stared at it. It was accurate. It was also, she realized, a description of what the Academy itself was doing: building something from nothing, shaping unknown territory, driven by motivations that were powerful and diverse and not entirely understood.
-
-The second translation sentence was more complex:
+The second sentence was more complex:
 
 *"The United States is the product of two principal forces — the immigration of European peoples with their varied ideas, customs, and national characteristics and the impact of a new country which modified these traits."*
 
-"Three layers," Mia said. "First: the US is the product of two forces. Second: force one is immigration, with a trailing modifier listing what the immigrants brought. Third: force two is the new country's impact, with a relative clause explaining what that impact did. If you translate the layers separately and then assemble them, the sentence handles itself."
+"Three layers," Mia said. "Force one is immigration, with a trailing modifier. Force two is the new country's impact, with a relative clause. Translate the layers separately and then assemble them."
 
-Feimo nodded. She could see it: the sentence as a construction, each layer a structural beam, the meaning held up by the joints between them. She wrote the translation, layer by layer, and when she finished, the sentence sat in her notebook like a small, sturdy building.
+Feimo translated the sentence in her notebook: *这场运动，由强大而多样的动机所推动，在荒野中建立了一个国家，并以其本质塑造了一个未知大陆的特征与命运。*
 
-"The third sentence is the hardest," Mia said, projecting it:
+She stared at it. It was accurate. It was also a description of the Academy itself: building something from nothing, shaping unknown territory.
 
-*"But the force of geographic conditions peculiar to America, the interplay of the varied national groups upon one another, and the sheer difficulty of maintaining old-world ways in a raw, new continent caused significant changes."*
-
-"Three parallel subjects," Mia said. "The force, the interplay, the difficulty. All three share one verb: caused. The sentence is a tricolon, a three-part structure with a single conclusion. In English, parallel structure is the backbone of formal prose. In Chinese, you may need to adjust the rhythm, because Chinese formal prose prefers a different kind of balance. But the meaning stays the same: three forces, one result."
-
-Feimo translated it. The sentence was long but the architecture was clear, and she found that the structural analysis Mia had drilled into her over the past year made the process almost automatic: identify the main clause, map the modifiers, translate the joints, assemble.
+The second and third sentences were more complex, layering parallel subjects and relative clauses. Feimo translated them methodically, layer by layer, and found that the structural analysis Mia had drilled into her made the process almost automatic: identify the main clause, map the modifiers, translate the joints, assemble.
 
 "You're faster," Mia observed.
 
@@ -335,6 +301,14 @@ Feimo looked at the passage again. She had not reached that part of the analysis
 Yue looked at Aya for a long moment. Then she looked at her blank book. She turned to a fresh page. The page was white, immaculate, and for a fraction of a second, in the angle of the lamplight, Feimo thought she saw something written there: faint marks, the ghost of text, words that appeared when you were not looking directly at them and vanished when you were.
 
 Yue closed the book.
+
+Mia, who had been silent for longer than usual, spoke. Her voice was low. Almost inaudible.
+
+"It's spreading."
+
+Feimo looked at her. "What?"
+
+Mia said nothing. Her projection flickered once, and the flicker was not technical. She turned back to the cloze practice sheet as if she had not spoken.
 
 "The midterm," Yue said, "is not about knowing the answers. It is about knowing how to read the questions. The questions are a text. The text has a structure. The structure has gaps. Fill the gaps and the answers appear."
 
@@ -414,52 +388,38 @@ She had learned that belonging was not something you earned by passing an exam. 
 
 In the corridor, the walls hummed. The Labyrinth read. Somewhere in the deep architecture, something shifted, not in response to Feimo's reading but in response to something else, something that the Labyrinth had noticed and catalogued and was holding in reserve, like a question that had not yet found its exam.
 
-Not knocking. Not yet.
-
 ---
 
 ## Study Break: Midterm Exam Prep
 
 ### Card #032: Shen Congwen and the Jingpai
 
-The **Jingpai** (京派, Beijing School) was a literary movement centered in Republican-era Beijing, composed primarily of university-affiliated writers who championed **"pure literary taste"** (纯正的文学趣味). Key figures: **Shen Congwen**, **Fei Ming** (废名), **Ling Shuhua** (凌叔华). The school positioned itself against political instrumentalization of literature, favoring instead the exploration of human beauty, natural landscapes, and an ideal of aesthetic harmony. Shen Congwen's *Border Town* (*Bian Cheng*, 1934) is the school's masterwork: a pastoral novel set in the Xiangxi borderlands, built from clean, transparent prose that describes "a form of life that is beautiful, healthy, natural, and not contrary to human nature."
+The **Jingpai** (京派, Beijing School) was a literary movement centered in Republican-era Beijing. Key figures: **Shen Congwen**, **Fei Ming**, **Ling Shuhua**. The school championed "pure literary taste," separating literature from politics and focusing on human beauty and the natural world. Shen Congwen's *Border Town* (*Bian Cheng*, 1934) is the school's masterwork: clean, transparent prose describing a pastoral world where innocence is chosen, not naive.
 
-The Jingpai-Haipai (京派-海派) rivalry is one of the central tensions in modern Chinese literary history: Beijing purity versus Shanghai cosmopolitanism, aesthetic autonomy versus commercial engagement, the pastoral versus the urban.
-
-*Question for the exam-bound reader: When you encounter a passage that values simplicity over ornamentation, clarity over complexity, and nature over industry, you may be reading a Jingpai text. Can you identify the prose style's defining features in translation? What does "clean prose" look like in English examination writing?*
+*Question: When you encounter a passage that values simplicity over ornamentation and nature over industry, you may be reading a Jingpai text. What does "clean prose" look like in English examination writing?*
 
 ### Card #033: New Sensationalism
 
-The **Chinese New Sensationalism** (新感觉派) was a 1930s Shanghai-based modernist movement influenced by Japanese New Sensationalism and European avant-garde techniques. Key figures: **Liu Na'ou** (刘呐鸥), **Mu Shiying** (穆时英), **Shi Zhecun** (施蛰存). Three defining features: (1) **Urban writing** depicting Shanghai's modernity, speed, and material desire; (2) **Fragmented perception** through montage-style narrative and stream-of-consciousness; (3) **Psychological depth**, particularly Shi Zhecun's Freudian explorations of desire and repression (e.g., *Plum Rain*, *Mei Yu Zhi Xi*).
+The **Chinese New Sensationalism** (新感觉派) was a 1930s Shanghai-based modernist movement. Key figures: **Liu Na'ou**, **Mu Shiying**, **Shi Zhecun**. Three features: urban writing depicting Shanghai's modernity; fragmented perception through montage; psychological depth, particularly Shi Zhecun's Freudian explorations.
 
-Where the Jingpai wrote about rivers and fields, the New Sensationalists wrote about neon and taxi cabs. Where Jingpai prose flowed, New Sensationalist prose cut. The two movements are mirror images: one looks inward at human nature, the other outward at the modern world. Both are answers to the same question: how should literature respond to the chaos of its time?
-
-*Question: In your exam reading, how do you distinguish between a text that flows and a text that cuts? What rhetorical markers signal each style? And which style is more effective for the kind of analytical writing the examination demands?*
+Where the Jingpai wrote about rivers and fields, the New Sensationalists wrote about neon and taxi cabs. Where Jingpai prose flowed, New Sensationalist prose cut. Both are answers to the same question: how should literature respond to the chaos of its time?
 
 ---
 
 ### Vocabulary Glyphs
 
-**head** /hɛd/ — *n. & v.* The upper part of the body; to lead or direct. In the 2015 reading passages, "heads of state" appears in the monarchy text: monarchs serve as symbolic heads, figures whose authority is representational rather than operational. But "head" also means to move toward, to direct one's course. Feimo was heading somewhere. Not toward an exam score. Toward a table where three people sat waiting for her, which was a direction that no vocabulary list had taught her to navigate. In the cloze context, "head" can function as noun (the head of the study), verb (to head a research team), or adjective (head researcher). The word's flexibility mirrors the examination's demand: you must know not just what a word means, but what it can become.
+**head** /hɛd/ — *n. & v.* The upper part of the body; to lead or direct. In the 2015 reading passages, "heads of state" appears in the monarchy text: monarchs serve as symbolic heads, whose authority is representational. But "head" also means to move toward. Feimo was heading somewhere. Not toward an exam score. Toward a table where three people sat waiting for her.
 
-**lead** /liːd/ (verb); /lɛd/ (noun: the metal) — *v. & n.* To guide, to be first, to result in. The 2015 passage on peer review describes how institutional changes "lead" to improved standards: one action guiding another toward a consequence. But "lead" has a second life as a noun meaning the heavy grey metal, and in the Labyrinth, the alchemical tradition associates lead with transformation: base matter that, through sufficient effort, becomes gold. Mia led Feimo through the cloze exercise. Noah led the conversation toward warmth. Yue led no one, and that was itself a form of leadership: the quiet authority of presence.
+**lead** /liːd/ (verb); /lɛd/ (noun: the metal) — *v. & n.* To guide, to result in. Mia led Feimo through the cloze exercise. Noah led the conversation toward warmth. Yue led no one, and that was itself a form of leadership: the quiet authority of presence.
 
-**matter** /ˈmætə/ — *n. & v.* Physical substance; to be of importance. In the 2015 Text 4, the "dearth of moral purpose" frames not only the fact of phone hacking but "the terms on which the trial took place." What matters is not just what happened but how we discuss what happened. Matter is both the substance of the world and the significance we assign to it. Feimo had learned that matter in the Labyrinth was literal: walls that breathed were made of matter that responded to reading. But matter was also metaphorical: the things that mattered were not the things that were measurable but the things that were felt. A cold teacup mattered. A friend's laughter mattered. A Spirit AI's flicker mattered. The exam measured one kind of matter. Life measured another.
+**matter** /ˈmætə/ — *n. & v.* Physical substance; to be of importance. What matters is not just what happened but how we discuss what happened. A cold teacup mattered. A friend's laughter mattered. A Spirit AI's flicker mattered. The exam measured one kind of matter. Life measured another.
 
 ---
 
 ### Reflection Questions
 
-1. **On friendship and genetics**: The 2015 cloze passage states that friends share approximately 1% of their genes, similar to fourth cousins. The passage notes that smell genes, not immunity genes, are what friends share. If you were designing a study to investigate why people with similar olfactory genes become friends, what would you test? How does this relate to the concept of "functional kinship" in the passage?
+1. **On friendship and genetics**: Friends share ~1% of their genes, similar to fourth cousins. What does this suggest about the nature of literary communities — groups drawn together not by choice but by something deeper?
 
-2. **On monarchs and meaning**: The reading passage on European monarchy argues that monarchs survive because they provide "a non-controversial but respected public figure." The passage on phone hacking argues that institutions lose their moral compass when profit becomes the only "sorting mechanism." Are these two arguments related? Can an institution survive without a moral purpose? Can a person?
+2. **On belonging**: Noah tells Feimo, "You made friends." Feimo's response is deflection. Is deflection a form of honesty or self-protection?
 
-3. **On simplicity and style**: The Jingpai valued clean, transparent prose. New Sensationalism valued fragmentation and montage. In your own exam writing, which approach serves you better? Is there a way to combine clarity of structure with complexity of thought?
-
-4. **On belonging**: Noah tells Feimo, "You made friends." Feimo's response is deflection: "I just needed help with midterms." Is deflection a form of honesty or a form of self-protection? When someone points out that you have become part of a group, why is the first instinct to deny it?
-
-5. **On the blank page**: Yue's book has no visible text, yet she seems to read it with complete understanding. Is a blank page the absence of meaning or the presence of all possible meanings? How does this relate to the examination's demand that you fill in blanks with the "correct" answer?
-
----
-
-*Word count: ~5,600*
+3. **On the blank page**: Yue's book has no visible text, yet she reads it with complete understanding. Is a blank page the absence of meaning or the presence of all possible meanings?

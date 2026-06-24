@@ -20,7 +20,7 @@ This was not unusual in itself. Mia was a creature of silence the way certain an
 
 That had been two days ago. Since then, silence.
 
-Now Mia stood at the edge of the arena with her arms at her sides and her cat ears flat against her skull and her eyes fixed on the forming Labyrinth with an expression that Feimo could not read. Not blank. Not tense. Something else. The expression of someone who has decided to trust a bridge by walking across it without testing the first plank.
+Now Mia stood at the edge of the arena with her arms at her sides and her holographic ears compressed flat against her skull and her eyes fixed on the forming Labyrinth with an expression that Feimo could not read. Not blank. Not tense. Something else. The expression of someone who has decided to trust a bridge by walking across it without testing the first plank.
 
 The announcer's voice echoed from somewhere above: "Quarterfinal match. Bridge House versus Forge House. Text-generation mode: Mixed. Passage sources: 2016 national examination. Participants ready."
 
@@ -246,11 +246,11 @@ She removed the earpiece from her left ear and held it in her palm. It was warm.
 
 "Thank you," Feimo said, into the earpiece. "For not speaking."
 
-Silence. Then, at the edge of hearing, the sound of breathing. Cat-eared breathing, which is to say breathing that is slightly too controlled, slightly too measured, the breathing of someone who has spent their life modulating their body's signals so that nothing escapes without permission.
+Silence. Then, at the edge of hearing, a faint hum — the sound of Mia's consciousness processing, present and watching, the digital equivalent of someone holding their breath.
 
 Footsteps. Light. Measured. The sound of someone who reads the walls as she passes.
 
-Mia appeared in the east corridor. She was still in her Bridge House coat, collar turned up, ears flat. She walked to where Feimo was sitting and stood over her, looking down with an expression that contained, beneath its layers of control and precision and practiced indifference, something very close to tenderness.
+Mia appeared in the east corridor. Her holographic form was in its Academy configuration, collar rendered at its usual height, ears flat. She walked to where Feimo was sitting and stood over her, looking down with an expression that contained, beneath its layers of control and precision and practiced indifference, something very close to tenderness.
 
 "You won," Mia said.
 
@@ -264,7 +264,7 @@ Mia said nothing. The silence was not empty. It was the most full silence Feimo 
 
 "You trusted me," Feimo said.
 
-Mia's ears twitched. Once. The smallest possible movement, the cat-ear equivalent of a seismic event.
+Mia's projection flickered. Once. The smallest possible movement, the holographic equivalent of a seismic event.
 
 "I have never," Mia said, and her voice was very quiet, the voice of someone speaking from inside a room they do not often open, "doubted that you could do this."
 
@@ -286,7 +286,7 @@ The center was empty. The center was, for this one moment, a place where two peo
 
 ---
 
-After a while, they walked back together through the Academy's corridors. The tournament was over for the day, and the building had returned to its ordinary state: fluorescent lights, scuffed floors, the faint smell of old paper and newer circuits. Students moved between classrooms, carrying notebooks and the particular exhaustion of people who have spent too many hours inside other people's sentences.
+After a while, they walked back together through the Academy's corridors. The tournament was over for the day, and the building had returned to its ordinary state: Glyph-light, scuffed floors, the faint smell of old paper and newer circuits. Students moved between classrooms, carrying notebooks and the particular exhaustion of people who have spent too many hours inside other people's sentences.
 
 At the third-floor junction, Feimo stopped. On the wall, barely visible, was a trace of text. Not a passage from any exam. Not a quote from any author she knew. Characters in an alphabet that was not an alphabet, the same ones she had seen in the center of the Labyrinth, the same ones that appeared in Yue's notebook every night.
 
@@ -300,11 +300,11 @@ The characters faded. The wall was blank.
 
 "Should we tell someone?"
 
-Mia considered this. Her ears rotated slowly, tracking sounds that human ears could not hear: the hum of the Academy's systems, the click of data being processed, the heartbeat of a machine that was not sure whether it was dreaming.
+Mia considered this. Her form shimmered slightly, the projection cycling through processing states that human ears could not detect: the hum of the Academy's systems, the click of data being processed, the heartbeat of a machine that was not sure whether it was dreaming.
 
 "Who would we tell?" Mia said. "The people who built the Labyrinth are the ones who should be watching it. If they are not watching, there is a reason. And if there is a reason, I want to know what it is before I tell anyone what we've seen."
 
-They stood in the corridor. The fluorescent light buzzed overhead. Somewhere, a door opened and closed.
+They stood in the corridor. The Glyph-light hummed softly overhead. Somewhere, a door opened and closed.
 
 "Same time tomorrow?" Feimo said.
 
@@ -314,7 +314,7 @@ They stood in the corridor. The fluorescent light buzzed overhead. Somewhere, a 
 
 "I hate that you click it. That is different from hating the pen. The pen is fine. You are the problem."
 
-Feimo smiled. It was a small smile, the kind that lives at the corner of the mouth and does not spread, but it was real, and Mia saw it, and her ears tilted forward by a millimeter, which for Mia was the equivalent of a standing ovation.
+Feimo smiled. It was a small smile, the kind that lives at the corner of the mouth and does not spread, but it was real, and Mia saw it, and her holographic ears tilted forward by a millimeter, which for Mia was the equivalent of a standing ovation.
 
 They parted at the staircase. Mia went up. Feimo went down.
 

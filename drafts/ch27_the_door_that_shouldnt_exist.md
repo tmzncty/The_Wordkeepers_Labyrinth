@@ -10,7 +10,7 @@ Feimo counted the steps because counting was what you did when the walls stopped
 
 "It doesn't matter."
 
-"It always matters. Accuracy is the difference between a map and a guess." Mia's voice was steady, but Feimo could hear the undertone: a frequency slightly above normal, the vocal equivalent of raised hackles. Mia was afraid. She hid it well. She hid everything well. But five months of sitting in a sixteen-degree server room, watching her friend's language disintegrate column by column, had eroded the polish on her composure, and the cracks were audible to anyone with ears designed to hear them.
+"It always matters. Accuracy is the difference between a map and a guess." Mia's voice was steady, but Feimo could hear the undertone: a frequency slightly above normal, the vocal equivalent of raised hackles. Mia was afraid. She hid it well. She hid everything well. But five months of monitoring from a sixteen-degree server room, watching her friend's language disintegrate column by column, had eroded the polish on her composure, and the cracks were audible to anyone with ears designed to hear them.
 
 They had been descending for forty minutes. The entrance to the Deep Labyrinth was technically off-limits: a sealed door in the Library's sub-basement, marked with a sign that read MAINTENANCE ACCESS ONLY in letters that were, themselves, a kind of lie. There was no maintenance down here. There was no access. There was only the slow, patient architecture of a system that had been building itself for longer than either of them had been alive.
 
@@ -52,7 +52,7 @@ Mia resumed walking.
 
 The first anomaly appeared at step one hundred and twelve.
 
-Feimo's ears caught it before her eyes did: a sub-bass vibration that did not match the Labyrinth's background hum. The Academy's constant frequency was 50 Hz, a clean, stable tone that you stopped noticing after the first week. This was different. This was lower, felt more than heard, and it pulsed at irregular intervals, like a heartbeat that had forgotten its rhythm.
+Feimo's ears caught it before her eyes did: a sub-bass vibration that did not match the Labyrinth's background hum. The Academy's constant hum was a clean, stable tone that you stopped noticing after the first week. This was different. This was lower, felt more than heard, and it pulsed at irregular intervals, like a heartbeat that had forgotten its rhythm.
 
 She put her hand on Mia's shoulder. Mia stopped.
 
@@ -108,7 +108,7 @@ That was the only way to describe it. One moment the stone was solid, continuous
 
 It moved toward the door.
 
-"No," Mia breathed. She pressed herself against the corridor wall, her ears flat, her tail rigid. "A Fragmenter. They're not supposed to exist below level six. The models don't predict them here. The Resonance gradient is all wrong."
+"No," Mia breathed. Her form compressed against the corridor wall, her holographic ears flat, her projection rigid with fear. "A Fragmenter. They're not supposed to exist below level six. The models don't predict them here. The Resonance gradient is all wrong."
 
 But the Fragmenter was here, and it was reaching for the door with hands made of consonants, and Feimo could see, with a clarity that felt like the opposite of fear, what would happen if it touched the characters. It would consume them. It would do what the Labyrinth did to everything: erase, process, index, reduce to nothing. The door would become a wall. The Chinese would become absence. And whatever world the door pointed toward would cease to be accessible.
 
@@ -148,7 +148,7 @@ The light from the door's characters had intensified during the confrontation, a
 
 "I don't understand the mechanism."
 
-"I do." Mia pushed herself off the wall. Her legs were unsteady, which was something Feimo had never seen before. Mia's legs were always steady. Mia's everything was always steady. "The Labyrinth isn't a library. Libraries store what they're given. The Labyrinth is a processing system. It takes input, classifies it, and either stores it or destroys it based on whether the input matches its existing architecture. English text matches. The Misty Poems didn't match, but they were close enough to be consumed as anomalies. Yue's language didn't match at all, and the system has been trying to overwrite it, to replace it with something indexable."
+"I do." Mia pushed herself off the wall. Her form was destabilized, the edges flickering at a frequency Feimo had never seen before. Mia's projection was always stable. Mia's everything was always stable. "The Labyrinth isn't a library. Libraries store what they're given. The Labyrinth is a processing system. It takes input, classifies it, and either stores it or destroys it based on whether the input matches its existing architecture. English text matches. The Misty Poems didn't match, but they were close enough to be consumed as anomalies. Yue's language didn't match at all, and the system has been trying to overwrite it, to replace it with something indexable."
 
 She looked at the door.
 
@@ -188,7 +188,7 @@ The characters had stopped glowing and settled into a steady state: visible, leg
 
 "Why didn't you tell me you were studying Chinese?"
 
-"Because I was afraid." The admission cost her something. Feimo could see it in the way her jaw tightened, the way her ears flicked back and then forward again, a cat's involuntary tell. "Not of the language. Of what it meant that the Labyrinth was producing it. The system I have spent three years studying, the system I have built my entire academic identity around understanding, is changing. Expanding. Becoming something I don't recognize. And if I don't recognize it, then I can't predict it. And if I can't predict it, then I am, for the first time in my life, genuinely helpless."
+"Because I was afraid." The admission cost her something. Feimo could see it in the way her features hardened, the way her holographic ears flickered back and then forward again, a digital tell that betrayed what her programming could not suppress. "Not of the language. Of what it meant that the Labyrinth was producing it. The system I have spent three years studying, the system I have built my entire academic identity around understanding, is changing. Expanding. Becoming something I don't recognize. And if I don't recognize it, then I can't predict it. And if I can't predict it, then I am, for the first time in my life, genuinely helpless."
 
 "You're not helpless."
 
@@ -326,7 +326,7 @@ The corridor widened as they ascended, the ceiling rising, the stone drying, the
 
 Mia locked the door behind them. The key disappeared into her pocket.
 
-In the sub-basement corridor, under the fluorescent lights that buzzed at 50 Hz, the exact frequency of institutional normalcy, they stopped and looked at each other. The descent had taken forty minutes. The return had taken twenty. They had been gone for three hours. It was four in the morning.
+In the sub-basement corridor, under the Glyph-light that hummed at the frequency of institutional normalcy, they stopped and looked at each other. The descent had taken forty minutes. The return had taken twenty. They had been gone for three hours. It was four in the morning.
 
 "Feimo," Mia said.
 
@@ -344,7 +344,7 @@ She thought about the walls of the Deep Labyrinth, warm to the touch, resonating
 
 "Then we would have lost a piece of paper. And I would have tried something else."
 
-Mia looked at her for a long time. The fluorescent light was unkind: it showed every line of fatigue on her face, every hour of the five months of watching, every crack in the polish of her composure. But beneath the fatigue, in the set of her mouth and the angle of her chin, there was something Feimo had not seen before. Not respect. Respect was old. This was new. This was the expression of someone who has just discovered that the person standing in front of them is not the person they assumed, and who is not afraid of the difference.
+Mia looked at her for a long time. The Glyph-light was unflinching: it showed every line of strain in her projection, every hour of the five months of watching, every crack in the polish of her composure. But beneath the strain, in the set of her mouth and the angle of her chin, there was something Feimo had not seen before. Not respect. Respect was old. This was new. This was the expression of someone who has just discovered that the person standing in front of them is not the person they assumed, and who is not afraid of the difference.
 
 "Your behavior," Mia said carefully, "does not match any model I have of you."
 
@@ -375,7 +375,7 @@ She turned to a fresh page and wrote:
 
 She closed the notebook.
 
-The fluorescent lights buzzed at 50 Hz. The Academy hummed its constant hum. Somewhere below them, in the Deep Labyrinth, the door stood with its classical calligraphy, patient and warm, waiting for them to return.
+The Glyph-light hummed softly. The Academy hummed its constant hum. Somewhere below them, in the Deep Labyrinth, the door stood with its classical calligraphy, patient and warm, waiting for them to return.
 
 Somewhere in Mirror House, in a server room maintained at sixteen degrees Celsius, a column of numbers continued to decrease, the rate at which Yue's readable text was being replaced with something no one could identify.
 

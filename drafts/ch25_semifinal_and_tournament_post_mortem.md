@@ -4,7 +4,7 @@ The study break began with silence.
 
 Not the comfortable silence of a library or the charged silence of a classroom before an exam. This was the particular silence of a body that had been pushed past its operating parameters and was now rebooting in safe mode, every system running at minimum capacity while the damage was assessed.
 
-Feimo lay on her bed in Bridge House and stared at the ceiling. Her right shoulder throbbed where the Tower House student, Voss, had landed a Resonance strike that she had deflected too slowly. Her left hand trembled with the residual vibration of Glyph-casting at frequencies she had not known she could reach. The semifinal had lasted forty-seven exchanges. She remembered every one.
+Feimo lay on her bed in Bridge House and stared at the ceiling. Her right shoulder throbbed where the Weave House student, Voss, had landed a Resonance strike that she had deflected too slowly. Her left hand trembled with the residual vibration of Glyph-casting at frequencies she had not known she could reach. The semifinal had lasted forty-seven exchanges. She remembered every one.
 
 She had won.
 
@@ -18,7 +18,7 @@ A knock at the door. Then Noir's voice, muffled by the wood and the specific qua
 
 Feimo opened the door.
 
-Noir stood in the corridor with a tray: rice porridge, pickled vegetables, a hard-boiled egg, and jasmine tea in the same chipped cup that had appeared at every significant moment of Feimo's second year. Noir's ears were flat, which in her emotional vocabulary meant something between concern and controlled alarm.
+Noir stood in the corridor with a tray: rice porridge, pickled vegetables, a hard-boiled egg, and jasmine tea in the same chipped cup that had appeared at every significant moment of Feimo's second year. Noir's ears were flat against her head, which in her emotional vocabulary meant something between concern and controlled alarm.
 
 "You look terrible," Noir said. "Sit down before you fall down."
 
@@ -102,7 +102,7 @@ She paused. The pen lowered.
 
 "Like the PreCheck passage," Feimo said, surprising herself.
 
-Mia's ears rotated forward by three degrees, which was her version of intrigued.
+Mia's projection tilted forward by three degrees, which was her version of intrigued.
 
 "The TSA passage," Feimo continued. "The reading exercise. The government built a system to process travelers faster, but enrollment was too low because the price was too high. The system was logically sound, but the people it was designed for didn't use it. The problem wasn't the system. It was the gap between what the system assumed and what people actually did."
 
@@ -144,11 +144,11 @@ Feimo stared.
 
 "The semifinal. You performed above your expected parameters. You did well."
 
-Feimo leaned forward and pressed her palm against Mia's forehead.
+Feimo leaned forward and reached toward Mia's forehead. Her fingers met the faint cool resistance of a holographic boundary, not quite touching, not quite passing through.
 
-Mia flinched. "What are you doing?"
+Mia's form destabilized. "What are you doing?"
 
-"Checking for fever." Feimo pulled her hand back. "No temperature. No visible signs of delirium. Pupils are responsive." She leaned closer. "Mia. You just complimented me. Without a caveat. Without a 'don't let it go to your head.' Without implying that my intelligence is comparable to that of a particularly absorbent kitchen sponge. Are you ill? Should I call someone? Is this a Labyrinth anomaly?"
+"Checking for fever." Feimo pulled her hand back. "No temperature. Well — no temperature I can measure. Projection stability nominal. Processing cycles responsive." She leaned closer. "Mia. You just complimented me. Without a caveat. Without a 'don't let it go to your head.' Without implying that my intelligence is comparable to that of a particularly absorbent kitchen sponge. Are you malfunctioning? Should I call someone? Is this a Labyrinth anomaly?"
 
 Something crossed Mia's face. It was fast, faster than Feimo's pattern-recognition could fully parse, but she caught the edges of it: not anger, not irritation, the practiced disdain that Mia wore like body armor. This was something else. Smaller. More dangerous. The expression of a person who has accidentally opened a door she did not intend to open and is now calculating the distance back to safety.
 
@@ -170,7 +170,7 @@ She stopped with her hand on the frame.
 
 "I know."
 
-A pause. The study room's climate control hummed at its mandated sixteen degrees. Feimo's ears caught something beneath the hum: Mia's heartbeat, slightly elevated, slightly uneven, the rhythm of someone who was not accustomed to being thanked and did not have a protocol for receiving it.
+A pause. The study room's climate control hummed at its mandated sixteen degrees. Feimo's ears caught something beneath the hum: a subtle irregularity in Mia's projection stability, the luminous equivalent of someone who was not accustomed to being thanked and did not have a protocol for receiving it.
 
 "Thank you," Feimo said. "For the analysis. For all of it."
 
@@ -178,7 +178,7 @@ A pause. The study room's climate control hummed at its mandated sixteen degrees
 
 Mia left.
 
-Her ears, in the half-second before she turned the corner, were pink. Not from the cold. The room was the same temperature it always was.
+Her ears, in the half-second before she turned the corner, were rendered in a warmer hue than usual. Not from the cold. The room was the same temperature it always was.
 
 ---
 
@@ -194,7 +194,7 @@ Noir laid the card on the table. "Three types. Knightly lyric, centered in Prove
 
 "The original template for Western romantic love. A knight sees a lady. The lady is unattainable. The knight proves himself through deeds. He is transformed by the experience. The love is hierarchical, ritualized, spiritualized. It is never consummated, because consummation would end the story."
 
-Feimo thought about Mia's pink ears. About three words spoken without a safety net. About the distance between two people who were separated not by hierarchy or ritual but by the architecture of their own defenses.
+Feimo thought about Mia's warm-hued ears. About three words spoken without a safety net. About the distance between two people who were separated not by hierarchy or ritual but by the architecture of their own defenses.
 
 "The template persists," Noir continued, "because it solved a problem that every subsequent generation faces: how to make love into a narrative. Before *fin'amor*, love was a transaction. After it, love was a story. A story with structure, with obstacles, with transformation. The Romantic movement inherited this template wholesale. Every novel you've ever read about two people who can't be together but try anyway is a variation on a twelfth-century Provençal poem."
 
@@ -214,25 +214,7 @@ Noir's ears tilted forward. She enjoyed this one.
 
 ---
 
-The reading passages arrived that afternoon, assigned by Professor Silence as comparative analysis.
-
-The first was about Mauna Kea, the dormant volcano in Hawaii that was sacred to native Hawaiians and also home to the world's most powerful telescopes. The passage described the conflict: protesters opposed the construction of the Thirty Meter Telescope because it desecrated the mountain, while astronomers argued that Mauna Kea's peak, rising above the bulk of the planet's dense atmosphere, offered conditions for unsurpassed clarity that no other site could match.
-
-Feimo read it twice. The key sentence sat in her mind like a splinter: *In their eagerness to build bigger telescopes, they forgot that science is not the only way of understanding the world.*
-
-She thought about the Labyrinth. The Academy treated it as a system: measurable, analyzable, reducible to Glyph frequencies and Resonance data. But the Misty Poems that appeared in erased spaces were not data. The woman in her dream writing in an unreadable language was not data. The Labyrinth responded to poetry. It remembered what it consumed. It hummed at frequencies that Feimo could feel in her bones but no instrument could detect.
-
-Science was not the only way of understanding the world. The Labyrinth was not the only way of understanding the Labyrinth.
-
-The passage's author argued for compromise: old telescopes would be removed, sites returned to natural state, and everyone could be welcomed on Mauna Kea to embrace their cultural heritage and study the stars. The key was that both sides had to **address** the other's concerns rather than dismissing them. Science and sacred ground were not opposites. They were two ways of looking up, and the only honest path forward required both communities to agree that the mountain was bigger than any single claim on it.
-
-The second passage was about GDP. Robert F. Kennedy had once said that a country's GDP measures "everything except that which makes life worthwhile." The passage argued that despite the UK's record-low unemployment and high growth figures, over seventeen million people had voted for Brexit, suggesting that the numbers were not capturing what mattered. A study measuring over forty criteria from health, education, and civil society engagement showed that the UK was one of the poorest performers in converting economic growth into meaningful improvements for its citizens.
-
-Feimo circled the phrase *meaningful improvements*. She thought about the tournament rankings, about the W/L records and Glyph efficiency scores that the Academy tracked with the same obsessive precision that economists tracked GDP. The numbers told you who was winning. They did not tell you who was growing. They did not tell you who had learned to read an opponent's rhythm. They did not tell you who had been changed by the experience.
-
-Some relatively poor students in the Academy, she thought, had seen the most growth. Growth that no metric would capture. Growth that looked, from the outside, like failure.
-
-She wrote in the margin: *Kennedy was right. The numbers are not the thing.*
+The reading passages arrived that afternoon, assigned by Professor Silence as comparative analysis. The first was about Mauna Kea — sacred land versus scientific observation. The second was about GDP and the limits of measurement. Feimo read them, noted the themes, and filed them away. She would see them again. She was sure of it.
 
 ---
 

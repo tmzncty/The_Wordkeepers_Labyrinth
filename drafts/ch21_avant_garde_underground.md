@@ -356,10 +356,6 @@ Feimo put the card back. She had understood something tonight that no card could
 
 She walked to her dormitory. She did not look back. Behind her, in the deep architecture, in the space between the official corridors and the unofficial basements, the underground hummed at its wild frequency, and the Academy hummed at its measured one, and between them, in the gap that neither could close, something new was forming: a Glyph that had not been named, a word that had not been written, a meaning that was not yet ready to be read.
 
-Not knocking. Not yet.
-
-But closer.
-
 ---
 
 ## Study Break: The Avant-Garde Underground
@@ -387,14 +383,6 @@ Root-Seeking and the avant-garde were often seen as opposing movements. In pract
 ---
 
 ### Exam Integration: The Underground Mind
-
-**From the 2015 Cloze — Genetic Similarity and Friendship:**
-
-*"Though not biologically related, friends are as 'related' as fourth cousins, sharing about 1% of genes... Most people do not even know their fourth cousins but somehow manage to select as friends the people who resemble our kin."*
-
-In the underground arena, this was not metaphor. It was Resonance theory. The concept of "Key Resonance" — the unconscious attraction between fighters whose Glyph signatures share structural similarities — was the Labyrinth's equivalent of genetic similarity in friendship. You did not choose your Resonance partners. You discovered them. The connection existed before you were aware of it, operating at a frequency below conscious detection, driving you toward people who resembled your linguistic kin.
-
-When Feimo and Aya fought, their Glyphs merged not because they intended it but because their Resonance signatures were already compatible — two systems that shared enough structural DNA to recognize each other as family. The "never fall" barrier worked because it was built on a foundation of pre-existing connection, a bond that the conscious mind had not authorized but the deeper mind had always known about.
 
 **From the 2015 Reading — Monarchy and the Old Order:**
 

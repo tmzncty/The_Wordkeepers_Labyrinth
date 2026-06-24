@@ -2,7 +2,7 @@
 
 The training hall had no windows.
 
-This was a deliberate architectural choice. The Forge House gymnasium occupied the sub-basement level, two floors below ground, where the building's foundation met the Labyrinth's older infrastructure. The walls were reinforced concrete, the floor was rubberized composite, and the ceiling held banks of industrial LEDs that produced light at a color temperature of five thousand Kelvin, which was close enough to daylight to suppress melatonin production but different enough from sunlight to feel, after the first hour, like being inside a machine.
+This was a deliberate architectural choice. The Forge House gymnasium occupied the sub-basement level, two floors below ground, where the building's foundation met the Labyrinth's older infrastructure. The walls were reinforced concrete, the floor was rubberized composite, and the ceiling held clusters of Glyph-stones that produced light at a color temperature of five thousand Kelvin, which was close enough to daylight to suppress melatonin production but different enough from sunlight to feel, after the first hour, like being inside a machine.
 
 Feimo had been inside this machine for three hours.
 
@@ -22,7 +22,7 @@ Feimo adjusted.
 
 "Cold is also a luxury. The body can thermoregulate for forty-five minutes in this environment before cognitive function begins to decline. We have been here for three hours, which means your cognitive function has been declining for two hours and fifteen minutes. This explains why your guard is sloppy."
 
-Mia stepped into the light. She was wearing the same thing she always wore during training: black compression top, black training pants, no shoes. Her feet on the rubberized floor were silent. Everything about Mia was silent during training: her movements, her breathing, the way she materialized behind Feimo like a paragraph break in a text that had seemed continuous.
+Mia materialized in the light. Her holographic form wore the same configuration she always used during training: dark athletic projection, no shoes, the edges of her silhouette flickering faintly where the Labyrinth's substrate interfaced with her display matrix. Everything about Mia was silent during training: her movements, her form shimmering at the edges, the way she appeared behind Feimo like a paragraph break in a text that had seemed continuous.
 
 "Again," Mia said.
 
@@ -46,13 +46,13 @@ Feimo's heart rate was elevated. She could feel it in her throat, a pulse that w
 
 ---
 
-They took a break at hour four. Mia allowed breaks not because she believed in rest, but because the human body required glycogen replenishment at intervals that even her methodology could not override. They sat on the floor of the training hall, backs against the wall, and ate energy bars that tasted like compressed sawdust and protein isolate.
+They took a break at hour four. Mia allowed breaks not because she believed in rest, but because the human body required glycogen replenishment at intervals that even her methodology could not override. Feimo sat on the floor of the training hall, back against the wall, eating an energy bar that tasted like compressed sawdust and protein isolate. Mia's hologram stood nearby, her form steady and patient, watching with the particular attentiveness of a consciousness that did not need food or rest but understood that both were necessary for the body she was training.
 
 "You're improving," Mia said. This was her version of encouragement.
 
 "I'm four seconds over the threshold."
 
-"Three days ago you were eleven seconds over. In three more days you will be at threshold. By the time of the tournament, you will be below it." Mia bit into her energy bar with the efficiency of someone performing a necessary maintenance task. "The question is not whether you can reach the threshold. The question is whether you can stay there under pressure. The tournament will apply pressures that I cannot simulate. Other competitors. Audience. The knowledge that your performance is being evaluated by people who have opinions about your worth."
+"Three days ago you were eleven seconds over. In three more days you will be at threshold. By the time of the tournament, you will be below it." Mia's form flickered briefly, a processing stutter that Feimo had learned to read as emphasis. "The question is not whether you can reach the threshold. The question is whether you can stay there under pressure. The tournament will apply pressures that I cannot simulate. Other competitors. Audience. The knowledge that your performance is being evaluated by people who have opinions about your worth."
 
 "People always have opinions about my worth," Feimo said. "I'm Chinese at a European institution. The opinions started before I arrived."
 
@@ -218,7 +218,7 @@ Feimo thought about Yue. Yue was losing her language slowly, in her sleep, repla
 
 "Is that why you watch Yue?" Feimo asked. "Because you recognize the process?"
 
-Mia's ears flattened. Not in alarm. In something older than alarm.
+Mia's form compressed, the edges of her projection tightening. Not in alarm. In something older than alarm.
 
 "Again," she said. "From the beginning. This time, I will increase the frequency of interruptions."
 
@@ -236,7 +236,7 @@ She was walking toward the door when Mia spoke again.
 
 She turned.
 
-Mia was still standing in the corner. The industrial LEDs cast her face in a light that was too white, too flat, eliminating the shadows that normally gave her features dimension. She looked, in that moment, like a two-dimensional representation of herself: accurate but incomplete.
+Mia was still standing in the corner. The Glyph-light cast her holographic features in a glow that was too white, too flat, eliminating the subtle shading that her projection normally maintained. She looked, in that moment, like a two-dimensional representation of herself: accurate but incomplete.
 
 "You are not fast enough," Mia said.
 
@@ -248,7 +248,7 @@ Feimo waited.
 
 "You are not..."
 
-Mia stopped. The word she had been about to say hung in the air between them, unfinished, incomplete, a sentence that could not resolve into its conclusion. Feimo could see the muscles in Mia's jaw working, the slight tremor that appeared when Mia was suppressing something that her training had not prepared her to express.
+Mia stopped. The word she had been about to say hung in the air between them, unfinished, incomplete, a sentence that could not resolve into its conclusion. Feimo could see the destabilization at the edges of Mia's projection, the subtle flickering that appeared when she was suppressing something that her programming had not prepared her to express.
 
 "Not what?" Feimo said.
 
@@ -266,7 +266,7 @@ Mia had been the teacher. Feimo had been the student. The relationship had been 
 
 But now Mia was saying something that was not in the teacher's vocabulary. She was saying: *I am afraid for you.* She was saying: *Your self-destruction is not acceptable to me.* She was saying, in the compressed and inadequate language of someone who had spent five months watching a friend lose her words: *I cannot watch another person break.*
 
-Feimo walked back into the room. She stood in front of Mia, close enough to see the pulse in Mia's throat, the slight dilation of her pupils in the flat LED light, the way her ears, which had been flat against her skull all day, were now tilted forward at an angle that Feimo had never seen before.
+Feimo walked back into the room. She stood in front of Mia, close enough to see the holographic shimmer of her features, the way her ears — rendered in light, not flesh — were now tilted forward at an angle that Feimo had never seen before.
 
 "I'll be careful," Feimo said.
 
@@ -306,7 +306,7 @@ She looked at what she had written. The handwriting was hers, not the angular pr
 
 She seemed, to herself, like a person standing at the edge of a very deep place. Not the Labyrinth, which was deep in a physical sense, a depth of corridors and archives and server rooms. A different kind of deep: the depth that opened between two people when one of them said *I am afraid for you* and the other said *I'll be careful,* and both of them knew that the words were insufficient but said them anyway, because words were what they had, and using them was better than silence.
 
-She packed her notebook. She went back to the training hall. Mia was already there, setting up the simulation for the day's session. She did not look up when Feimo entered. She did not need to. She had heard Feimo's footsteps in the corridor, had identified them by rhythm and weight, had processed the information and filed it in the part of her mind that tracked the people she was responsible for.
+She packed her notebook. She went back to the training hall. Mia was already there, setting up the simulation for the day's session. She did not look up when Feimo entered. She did not need to. She had detected Feimo's approach through the corridor's acoustic sensors, had identified her by rhythm and gait, had processed the information and filed it in the part of her consciousness that tracked the people she was responsible for.
 
 "Today," Mia said, "we run the full sequence. No interruptions. No breaks. Complete extraction from start to finish. I want to see your baseline time before we add the second competitor variable."
 

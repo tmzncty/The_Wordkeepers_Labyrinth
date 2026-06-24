@@ -72,7 +72,7 @@ Feimo stood in the corridor and watched the characters fade. They took eleven se
 
 She went to Mia.
 
-Mia's room in Mirror House was a controlled environment in the way that a hospital operating theater was a controlled environment: everything at a precise temperature, a precise humidity, a precise level of light. The desk was organized with a rigor that bordered on violence. Every pen was parallel. Every paper was squared. The only irregularity was a single cat hair on the keyboard, which Mia had either not noticed or deliberately left as evidence of her own biological nature.
+Mia's room in Mirror House was a controlled environment in the way that a hospital operating theater was a controlled environment: everything at a precise temperature, a precise humidity, a precise level of light. The desk was organized with a rigor that bordered on violence. Every pen was parallel. Every paper was squared. The only irregularity was a slight flicker in the corner of Mia's projection, which she had either not noticed or deliberately left as evidence that she was, despite everything, still a process running on hardware that occasionally stuttered.
 
 "I need to talk to you about the Archive," Feimo said.
 
@@ -124,7 +124,7 @@ The woman turned the notebook around and looked at the page herself. Her express
 
 "Neither can I," the woman said.
 
-Feimo woke up with the taste of jasmine in her mouth and her cat ears ringing at a frequency that had no source.
+Feimo woke up with the taste of jasmine in her mouth and a frequency ringing in her ears that had no source.
 
 ---
 
@@ -152,13 +152,13 @@ She was lying, too. Feimo was surrounded by brilliant women who lied to her with
 
 The writing prompt appeared in the Monday lecture.
 
-Professor Silence stood at the front of the lecture hall, her white coat immaculate, her expression the particular shade of neutral that meant she was about to assign something difficult. The room was full: Bridge and Mirror students combined for a cross-House seminar on textual analysis methodology. Feimo sat in the third row. Noir was behind her, one row back, with the Bei Dao paperback hidden inside a textbook.
+Professor Silence stood at the front of the lecture hall, his white coat immaculate, his expression the particular shade of neutral that meant he was about to assign something difficult. The room was full: Bridge and Mirror students combined for a cross-House seminar on textual analysis methodology. Feimo sat in the third row. Noir was behind her, one row back, with the Bei Dao paperback hidden inside a textbook.
 
-"For today's exercise," Professor Silence said, "you will write a notice."
+Silence wrote on the board:
+
+> *For today's exercise: write a notice for newly enrolled international students, providing relevant information about the Library. One hundred words. Formal register. Sign with a pseudonym. You have fifteen minutes.*
 
 A murmur moved through the hall. A notice was elementary. Notices were first-week assignments.
-
-"A notice," Professor Silence continued, "for newly enrolled international students, providing relevant information about the Library. One hundred words. Formal register. You will sign it with a pseudonym." She paused. "You have fifteen minutes."
 
 The room settled into the scratch of pens and the tap of keyboards. Feimo stared at her blank page. A notice. For international students. About the Library.
 
@@ -179,23 +179,19 @@ She wrote:
 > Li Ming
 > Assistant Librarian
 
-She handed it in. Professor Silence read it, and something that was not quite a smile moved across her face like a cloud across a window.
+She handed it in. Professor Silence read it, and something that was not quite a smile moved across his face like a cloud across a window.
 
-"Good," she said. "But the sixth floor does exist. You just shouldn't have mentioned it."
+He wrote on the margin of the paper:
+
+> *Good. But the sixth floor does exist. You just shouldn't have mentioned it.*
 
 ---
 
 The cloze exercise that week was about Cambodian marriage customs.
 
-Feimo sat in the study room with the passage open in front of her, working through the blanks with the mechanical efficiency that Professor Silence's training had given her. The passage described a system of arranged marriages in which the young man's parents and friends, *as well as* those of the young woman and a matchmaker, were all involved in the selection. A young man could *decide on* a spouse and then ask his parents to *arrange* the marriage. *In theory*, a girl could veto the choice. *After* a spouse was selected, each family investigated the other to ensure the child was marrying *into* a good family.
+Feimo worked through the blanks with mechanical efficiency. The passage described arranged marriages: a young man could *decide on* a spouse and ask his parents to *arrange* the marriage. *In theory*, a girl could veto the choice. Divorce was legal and easy to *obtain*, but divorced persons were *regarded* with disapproval.
 
-Feimo paused on blank 4. *In theory.* The phrase meant that the possibility existed in principle but was rarely exercised in practice. The girl could say no. The girl was expected to say yes. The gap between theory and practice was the space where most of human life happened, and the exam question expected you to recognize that gap and select the phrase that described it.
-
-She moved on. The wedding ceremony: formerly it lasted three days, *but* by the 1980s it commonly lasted a day and a half. Buddhist priests offered a sermon and *recite*d prayers. Parts of the ceremony involved *tying* cotton threads around the wrists, *passing* a candle around a circle of respected couples to bless the *union*. The newlyweds traditionally moved in with the wife's parents and might *live* with them up to a year, *until* they could build a new house.
-
-Divorce was legal and easy to *obtain*, but not common. Divorced persons were *regarded* with disapproval. Each spouse retained *whatever* property he or she *brought* into the marriage, and jointly-acquired property was *divided* equally. A gender prejudice *crops* up: the divorced male could remarry immediately, *whereas* the woman had to wait ten months.
-
-Feimo closed the exercise booklet. She thought about the system the passage described: a world in which marriage was not a private act but a communal one, in which the individual's choice was nested inside layers of family and social obligation. She thought about the phrase *in theory* and how much weight those two words carried. In theory, you could say no. In theory, the Labyrinth was a library. In theory, poems did not appear on blank pages.
+Feimo paused on *in theory*. The phrase meant the possibility existed in principle but was rarely exercised. The girl could say no. The girl was expected to say yes. The gap between theory and practice was the space where most of human life happened.
 
 She thought about Noir, who had once loved a human.
 
@@ -229,45 +225,21 @@ Feimo did not say anything. There was nothing to say. Some silences were not gap
 
 ---
 
-The reading passage that week was about the French fashion industry.
+The reading passage that week was about the French fashion industry: France's decision to criminalize ultra-thin models, to ban websites promoting extreme dieting, to impose fines on designers who used models below a government-defined body mass index.
 
-Professor Silence assigned it as a comparative analysis: how does a culture define physical beauty, and what happens when that definition causes harm? The passage described France's decision to criminalize the use of ultra-thin models, to ban websites promoting extreme dieting, and to impose fines and prison sentences on designers who used models below a government-defined body mass index.
+Feimo underlined: *beauty should not be defined by looks that end up impinging on health.* She thought about the Academy's own definitions of beauty — analytical precision, Glyph speed, Resonance density. The body-mass indices of the academic world. Feimo's ears were not a metric. Noir's past was not a metric. The poems appearing in erased spaces were not a metric.
 
-Feimo read the passage in the Library's third-floor reading room, sitting beside a window that looked out onto the Academy's courtyard. The autumn light was thin and gray, the color of erased text. She underlined the key phrases: *beauty should not be defined by looks that end up impinging on health. The bans suggest to women that they should not let others be arbiters of their beauty. People should look to intangible qualities like character and intellect.*
-
-She thought about the Academy's own definitions of beauty. The Houses ranked students by analytical precision, by Glyph speed, by the density of their Resonance signatures. These were the body-mass indices of the academic world: numerical standards that defined worth and excluded anyone who did not conform. Feimo's ears were not a metric. Noir's past was not a metric. The poems appearing in erased spaces were not a metric. They existed outside the measurement system, and the measurement system did not know what to do with them.
-
-The passage described Denmark's alternative: voluntary standards, peer pressure, a name-and-shame compliance system. *Relying on ethical persuasion rather than law to address the misuse of body ideals may be the best step.* Even better would be to help elevate notions of beauty beyond the material standards of a particular industry.
-
-Feimo circled the sentence and wrote in the margin: *Same problem. Different building.*
+The passage on corporate social responsibility added another layer: even organizations that reject social responsibility may find that ethical behavior produces tangible returns. A "halo effect": the diffuse goodwill generated by visible virtue. Feimo thought about the Academy. Was the Labyrinth a corporation? Even a machine designed for extraction could, accidentally, create spaces where growth was possible.
 
 ---
 
-The text on corporate social responsibility was harder to parse, but the core idea was simple: even organizations that reject the concept of social responsibility, that exist solely to increase their own value, may find that ethical behavior produces tangible returns. Companies with comprehensive CSR programs received more lenient penalties when prosecuted for corruption. Not because of political influence, but because of something the passage called a "halo effect": the diffuse goodwill generated by visible virtue.
+The translation exercise was about mental health: *We don't have to learn how to be mentally healthy; it is built into us in the same way that our bodies know how to heal a cut or mend a broken bone.*
 
-Feimo thought about the Academy. Was the Labyrinth a corporation? It consumed resources (text, memory, Resonance), it produced outputs (analysis, Glyphs, structured knowledge), and it was governed by rules that prioritized its own continuity. If the Labyrinth was a corporation, then its CSR policy was the educational mission: the lectures, the exercises, the carefully structured curriculum that gave students the illusion of agency while the system processed them like any other input.
+Feimo translated it and sat with the result. The sentence assumed mental health was a default state, like the sun behind a cloud: temporarily hidden, fully capable of being restored.
 
-But the halo effect was real. The Academy's educational veneer did generate genuine results. Feimo was learning. Noir was teaching. The poems, wherever they came from, were producing something that looked like meaning. Even a machine designed for extraction could, accidentally, create spaces where growth was possible.
+She thought about Yue. Yue, whose handwriting grew less recognizable each week. Yue, whose pages in the Redaction Archive were being consumed faster than anyone could document. Yue, who had started the semester as the quietest genius Feimo had ever met and was now becoming something else: a system producing output that exceeded its own understanding.
 
-She wrote in her margin: *The best thing a selfish system can do is be accidentally kind.*
-
----
-
-The translation exercise was about mental health.
-
-*We don't have to learn how to be mentally healthy; it is built into us in the same way that our bodies know how to heal a cut or mend a broken bone.*
-
-Feimo translated it into Chinese and then sat with the result. The sentence assumed that mental health was a default state, a baseline, something that existed before damage and would, given the right conditions, restore itself. Like the sun behind a cloud: temporarily hidden, fully capable of being restored in an instant.
-
-She thought about Yue.
-
-Yue, who sat in the back of every lecture with her notebook open, writing in handwriting that grew less recognizable each week. Yue, whose pages in the Redaction Archive were being consumed faster than anyone could document. Yue, who had started this semester as the quietest genius Feimo had ever met and was now becoming something else: a system producing output that exceeded its own understanding.
-
-*Mental health allows us to view others with sympathy if they are having troubles, with kindness if they are in pain, and with unconditional love no matter who they are.*
-
-Feimo did not know if the woman in her dream was Shu Ting. She did not know if the poems were messages or symptoms. She did not know if Yue's deterioration was a failure of the system or a feature of it. She did not know what language Yue was writing in when she wrote in a language that was not a language.
-
-But she knew this: something was being lost. Not erased. Not consumed. Lost, in the way that a dream is lost upon waking: still present in the architecture of the mind, still influencing the shape of thought, but no longer accessible to consciousness. The Labyrinth could erase. Only forgetting could lose.
+Something was being lost. Not erased. Lost, in the way that a dream is lost upon waking: still present in the architecture of the mind, but no longer accessible to consciousness.
 
 ---
 
@@ -300,7 +272,7 @@ Mia did not turn around.
 
 "The numbers are her dream-state Resonance output," Feimo continued. "The red column is the rate at which her stored text is being replaced with unreadable content. It's been decreasing because there's less readable text left to replace. You've been watching it go to zero."
 
-Mia's hands were still on the keyboard. Her ears were flat against her skull, the posture of a cat that has been cornered and has decided not to run.
+Mia's hands were still on the keyboard. Her projection had dimmed, the edges of her form losing resolution, the posture of a consciousness that has been cornered and has decided not to run.
 
 "Yes," Mia said.
 
@@ -318,7 +290,7 @@ Five months. Mia had been sitting in this cold room, at these hours, for five mo
 
 "It's not *known*. That's different. There are seven thousand languages on Earth. I've checked the major ones. I've checked the dead ones. I've checked constructed languages: Esperanto, Klingon, Quenya. Nothing. Whatever Yue is writing in, it exists in the same space that the Misty Poems are appearing: the gap between what the Labyrinth can erase and what the mind can forget."
 
-Mia turned off the monitor. In the sudden darkness, her eyes caught the faint blue light of the server LEDs and reflected it back, the tapetum lucidum of a cat seeing in the dark.
+Mia turned off the monitor. In the sudden darkness, the faint blue light of the server LEDs caught the edges of her projection, giving her outline a glow that was not quite human and not quite machine.
 
 "I haven't told her," Mia said. "She doesn't know. During the day she's normal. She reads. She writes. She attends lectures. She eats lunch with Aya and smiles when Aya makes those terrible puns about verb conjugation. She doesn't know that every night a part of her is being replaced."
 
