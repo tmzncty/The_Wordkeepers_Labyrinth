@@ -2,9 +2,9 @@
 
 The arena smelled like iron and electricity.
 
-Feimo had been here once before, when Noah had shown her the underground cavern with its scorched central platform and blue-white Glyph-light. But that had been reconnaissance. Tourism. Tonight she was standing at the edge of the platform with her sleeves rolled up and her ears flat against her skull, and the girl across from her was not smiling.
+Feimo had been here once before, when Noir had shown her the underground cavern with its scorched central platform and blue-white Glyph-light. But that had been reconnaissance. Tourism. Tonight she was standing at the edge of the platform with her sleeves rolled up and her ears flat against her skull, and the girl across from her was not smiling.
 
-"Rules," Noah called from her perch atop the broken pillar. Her voice carried through the cavern with the easy authority of someone who had announced a thousand matches. "Standard Glyph duel. First to three clean marks wins. No targeting the face. No using borrowed Glyphs you haven't absorbed. No crying." She paused. "That last one is aspirational."
+"Rules," Noir called from her perch atop the broken pillar. Her voice carried through the cavern with the easy authority of someone who had announced a thousand matches. "Standard Glyph duel. First to three clean marks wins. No targeting the face. No using borrowed Glyphs you haven't absorbed. No crying." She paused. "That last one is aspirational."
 
 The crowd was larger than Feimo had expected. Forty students, maybe more, pressed into the rough stone amphitheater that surrounded the platform. They were not the polished Academy students who sat in Mia's lecture hall and pretended to do the reading. These were Forge regulars and Weave drifters, a few Bridge House outliers who had found their way down through the same instinct that had led Feimo here weeks ago. They watched with the hungry, calculating attention of people who bet on outcomes, their voices rising and falling in the half-lit bays carved into the arena's walls, each bay a pocket of whispered odds and wagered Glyph shards.
 
@@ -12,7 +12,7 @@ Her opponent's name was Sable. Third-year, Weave House, tall and angular, with a
 
 Feimo's own Glyphs pulsed in her awareness. "Affect." "Matter." "Continued." And the newer ones, harder and stranger, collected from the underground over the past weeks: "resist," "sustain," and the one she still did not fully understand, a Glyph that hummed at a frequency she could only describe as *contrary*. Seven Glyphs in total. Modest by the standards of the arena. Enough to fight with. Maybe enough to win.
 
-"Begin," Noah said.
+"Begin," Noir said.
 
 Sable moved first. Her attack was textbook Weave methodology: a lattice of semantic energy that spread across the platform like a net, each thread carrying a fragment of meaning designed to disorient. It was beautiful work, precise and layered, the kind of Glyph deployment that professors praised in controlled environments.
 
@@ -26,7 +26,7 @@ Sable's eyes widened. Not much. A third-year's composure did not break easily. B
 
 Feimo did not give her time to adjust.
 
-"Resist" flared in her palm. Not an attack Glyph by nature, but Feimo had learned something in the weeks since Noah had first shown her how Glyphs functioned in combat: every Glyph had a defensive reading and an offensive one, the way every sentence had a surface meaning and a subtext. "Resist" could block. It could also *push back*. She shaped it into a concentrated burst and sent it directly into the lattice's central node.
+"Resist" flared in her palm. Not an attack Glyph by nature, but Feimo had learned something in the weeks since Noir had first shown her how Glyphs functioned in combat: every Glyph had a defensive reading and an offensive one, the way every sentence had a surface meaning and a subtext. "Resist" could block. It could also *push back*. She shaped it into a concentrated burst and sent it directly into the lattice's central node.
 
 The lattice shattered.
 
@@ -42,7 +42,7 @@ The arena erupted. Not in cheers, exactly. The underground did not cheer. It *re
 
 Sable recovered fast. She was a third-year, and third-years did not stay third-years by being slow. She created distance, restructured, and launched a counter-pattern that was tighter and more aggressive than her opening. This one had no aesthetic pretension. It was designed to hit.
 
-Feimo took the first mark on her forearm. Pain, sharp and real, the kind that came from Glyph energy burning against skin. Her sleeve singed. The mark glowed angry red. She gritted her teeth and felt her Glyphs surge in response, the combat reflex that Noah had described as "your vocabulary fighting for its own survival."
+Feimo took the first mark on her forearm. Pain, sharp and real, the kind that came from Glyph energy burning against skin. Her sleeve singed. The mark glowed angry red. She gritted her teeth and felt her Glyphs surge in response, the combat reflex that Noir had described as "your vocabulary fighting for its own survival."
 
 The exchange that followed lasted forty-five seconds and felt like forty-five minutes. Feimo gave a second mark, took a second mark, dodged a third attack by dropping to one knee and letting it pass over her head close enough to singe her ear fur. Her nekomimi senses were screaming, every frequency amplified, the arena's noise reduced to a single focused channel: the sound of Sable's Glyph deployment, its rhythm, its pattern, its tells.
 
@@ -66,25 +66,25 @@ Sable stepped back. She looked at Feimo with an expression that was not anger an
 
 "Good," she said. One word. Then she turned and walked off the platform, disappearing into the crowd with the controlled grace of someone who had lost before and would lose again and knew that neither fact defined her.
 
-Feimo stood on the platform, breathing hard, three marks burning on her body and a victory she had not been sure she could earn settling into her bones like warm water. Her ears were ringing. Her Glyphs hummed. Her hands were shaking, the post-adrenaline tremor that Noah had warned her about.
+Feimo stood on the platform, breathing hard, three marks burning on her body and a victory she had not been sure she could earn settling into her bones like warm water. Her ears were ringing. Her Glyphs hummed. Her hands were shaking, the post-adrenaline tremor that Noir had warned her about.
 
 She climbed down from the platform on legs that felt like they belonged to someone else.
 
 ---
 
-Noah appeared at her elbow with a canteen and a look of grudging approval.
+Noir appeared at her elbow with a canteen and a look of grudging approval.
 
 "Don't celebrate," she said. "Sable was good but predictable. She uses the same lattice opening every time. You exploited it, which means you're observant, not necessarily skilled. There's a difference."
 
 "Thanks for the encouragement."
 
-"I don't encourage. I assess." Noah handed her the canteen. "Drink. Your Glyph reserves are depleted. You'll feel it in about ten minutes, when the adrenaline wears off and your body remembers that it just spent three weeks' worth of stored energy in four minutes."
+"I don't encourage. I assess." Noir handed her the canteen. "Drink. Your Glyph reserves are depleted. You'll feel it in about ten minutes, when the adrenaline wears off and your body remembers that it just spent three weeks' worth of stored energy in four minutes."
 
 She glanced toward the spot where Sable had vanished into the crowd. "Sable will want a rematch. She's not vindictive, but she believes in justice, and to her, justice means the better fighter wins on the second exchange, not the first."
 
 Feimo drank. The water tasted like minerals and electricity, the signature flavor of Labyrinth-filtered hydration that she had grown to associate with recovery and the slow return of rational thought.
 
-The crowd was dispersing. The next match was already being set up: two Forge students, heavyset and serious, testing their Glyphs against each other in the pre-fight calibration that Noah insisted was optional but everyone performed anyway. The arena's rhythm continued, as indifferent to Feimo's victory as a river is to the stone it passes over.
+The crowd was dispersing. The next match was already being set up: two Forge students, heavyset and serious, testing their Glyphs against each other in the pre-fight calibration that Noir insisted was optional but everyone performed anyway. The arena's rhythm continued, as indifferent to Feimo's victory as a river is to the stone it passes over.
 
 That was when she noticed the boy.
 
@@ -94,17 +94,17 @@ He was not tall. Not physically imposing. He wore a Forge badge, but it was pinn
 
 Feimo's ears flattened. An involuntary response, the body's alarm system activating before the mind could articulate what was wrong. This boy was not dangerous the way Sable was dangerous: competitive, aggressive, legible. This boy was dangerous the way a loaded sentence is dangerous: every word chosen, every pause deliberate, meaning lurking beneath the surface in quantities that exceeded the apparent content of the words themselves.
 
-"Who is that?" she asked Noah.
+"Who is that?" she asked Noir.
 
-Noah did not look up. She was adjusting her cuff, a habitual gesture she performed when she was pretending not to be tense. "That's Cain. Third year. Forge. He doesn't fight. He watches."
+Noir did not look up. She was adjusting her cuff, a habitual gesture she performed when she was pretending not to be tense. "That's Cain. Third year. Forge. He doesn't fight. He watches."
 
 "Why?"
 
-"Because watching is how you learn without paying the cost." Noah's voice had tightened. Subtle, the kind of shift that most people would not catch. Feimo caught it. "Cain is not someone you need to worry about right now. He's not a fighter. He's something else."
+"Because watching is how you learn without paying the cost." Noir's voice had tightened. Subtle, the kind of shift that most people would not catch. Feimo caught it. "Cain is not someone you need to worry about right now. He's not a fighter. He's something else."
 
 "What kind of something else?"
 
-Noah finally looked up. Her cat ears were angled backward, a posture Feimo had learned to read as warning. "The kind that makes you an offer you didn't ask for and leaves you wondering whether you should have said no."
+Noir finally looked up. Her cat ears were angled backward, a posture Feimo had learned to read as warning. "The kind that makes you an offer you didn't ask for and leaves you wondering whether you should have said no."
 
 ---
 
@@ -126,7 +126,7 @@ Cain's style was warmth. But warmth, as a style, was only authentic when it was 
 
 "About what?"
 
-"About what you just did on that platform." Cain pushed off the pillar and stood in front of her. Close enough to be personal, far enough to be polite. A practiced distance. "You broke Sable's lattice with a Resist Glyph. That's not standard technique. In fact, it's closer to something that was theorized in the Academy's early years and then abandoned because it required a type of Glyph integration that most students can't sustain." His silver eyes held hers. "You didn't learn that from Noah."
+"About what you just did on that platform." Cain pushed off the pillar and stood in front of her. Close enough to be personal, far enough to be polite. A practiced distance. "You broke Sable's lattice with a Resist Glyph. That's not standard technique. In fact, it's closer to something that was theorized in the Academy's early years and then abandoned because it required a type of Glyph integration that most students can't sustain." His silver eyes held hers. "You didn't learn that from Noir."
 
 "I didn't learn it from anyone. I figured it out."
 
@@ -228,7 +228,7 @@ Mia's form flickered. A single, involuntary glitch, the digital equivalent of a 
 
 The silence that followed was the kind that Feimo had come to think of as "their silence": not empty, not awkward, but full of things that neither of them was ready to say and both of them knew were there, sitting between them like a text they had both read but not yet discussed.
 
-Mia broke it first. "Come on. The post-match analysis is in ten minutes, and if you're late, Noah will assume you've been ambushed by one of Cain's associates and start a search party, which will attract faculty attention, which will get the entire underground shut down for a month."
+Mia broke it first. "Come on. The post-match analysis is in ten minutes, and if you're late, Noir will assume you've been ambushed by one of Cain's associates and start a search party, which will attract faculty attention, which will get the entire underground shut down for a month."
 
 Feimo stood. Her legs were steadier now. "You know about Cain?"
 
@@ -240,23 +240,23 @@ Feimo stood. Her legs were steadier now. "You know about Cain?"
 
 ---
 
-The post-match debrief took place in a side chamber off the main arena: a rough-hewn room with Glyph-light sconces and a table made from a repurposed lecture hall desk, scarred with the marks of a hundred fights that had been analyzed, argued over, and relived in the telling. Noah presided. Three other students attended: a Forge boy named Kael who had watched from the front row, a Weave girl named Lira who kept meticulous notes on every match, and Yue, who was sitting in the corner with her blank-paged book, saying nothing, seeing everything.
+The post-match debrief took place in a side chamber off the main arena: a rough-hewn room with Glyph-light sconces and a table made from a repurposed lecture hall desk, scarred with the marks of a hundred fights that had been analyzed, argued over, and relived in the telling. Noir presided. Three other students attended: a Forge boy named Kael who had watched from the front row, a Weave girl named Lira who kept meticulous notes on every match, and Yue, who was sitting in the corner with her blank-paged book, saying nothing, seeing everything.
 
-"You broke the lattice at the central node," Noah said, pacing. Her tail swished behind her in the slow rhythm of a mind processing data. "That's the right move, but you were lucky the node was exposed. Sable usually reinforces it. She didn't tonight because she underestimated you. She won't make that mistake in a rematch."
+"You broke the lattice at the central node," Noir said, pacing. Her tail swished behind her in the slow rhythm of a mind processing data. "That's the right move, but you were lucky the node was exposed. Sable usually reinforces it. She didn't tonight because she underestimated you. She won't make that mistake in a rematch."
 
 "She won't need to," Feimo said. "I don't plan on fighting her again."
 
-"You don't choose your opponents down here. They choose you." Noah stopped pacing and leaned against the wall. "But that's not what I want to talk about. I want to talk about the moment *before* you broke the lattice. You hesitated. Half a second. I could see it from the pillar."
+"You don't choose your opponents down here. They choose you." Noir stopped pacing and leaned against the wall. "But that's not what I want to talk about. I want to talk about the moment *before* you broke the lattice. You hesitated. Half a second. I could see it from the pillar."
 
 Feimo thought back. She remembered the lattice spreading toward her, the sound of it, the pattern her ears had decoded. She had seen the gaps. She had moved through the first one. But there had been a moment, brief as a breath, when she had not moved at all. When she had stood still and *listened*.
 
 "I was reading the lattice," she said.
 
-Noah's ears tilted forward. "Reading it how?"
+Noir's ears tilted forward. "Reading it how?"
 
 "Like a text." The comparison surprised Feimo even as she said it, but once the words were out, she recognized their truth. "Mia taught me the Three-Layer Reading Method. Surface, structure, subtext. Sable's lattice was a text. Layer One: what it was doing, which was spreading a net. Layer Two: how it was built, the architecture of the threads and their connections. Layer Three: what it meant, which was *control*. The lattice wasn't an attack. It was a framework for controlling the space. The offensive burst came later."
 
-Noah stared at her.
+Noir stared at her.
 
 "You analyzed a Glyph deployment using literary criticism," she said flatly.
 
@@ -270,21 +270,15 @@ Everyone turned. Yue had not moved. She was still sitting with her book in her l
 
 "Extreme but valid," she continued. "A literary school, in the traditional sense, is formed when a group of writers shares a method: similar tools, similar assumptions, similar ways of constructing meaning. The underground arena is its own school. The fighters share a method. They deploy Glyphs according to conventions they've absorbed from each other. Sable's lattice is her *style*."
 
-Noah crossed her arms. "Since when do you come to debriefs?"
+Noir crossed her arms. "Since when do you come to debriefs?"
 
 "Since tonight." Yue closed her book. "The arena fights are interesting to me. Not for the combat. For the *language* of it. Every Glyph deployed is a word chosen. Every duel is a conversation. And like all conversations, the most important things are the ones left unsaid." She looked at Feimo. "You said more with 'Continued' than Sable said with her entire lattice. That is worth thinking about."
 
 The room fell quiet. The hum of the Labyrinth's walls filled the space, warm and constant, the sound of a civilization of words breathing in unison.
 
-Feimo thought about what Yue had said. Every duel was a conversation. Every Glyph was a word chosen. She thought about the knowledge cards: Card 012, literary schools. The card described three ways a school could form. The first was conscious: writers with a manifesto, a platform, a declared intention. The second was semi-conscious: writers gathered around a journal or a community, their similarities emerging through proximity. The third was unconscious: writers who were later grouped by critics who saw patterns the writers themselves had not seen.
+Feimo thought about what Yue had said. Every duel was a conversation. Every Glyph was a word chosen. The underground arena was its own literary school — not by manifesto, but by proximity. The fighters shared a space, a code, a vocabulary of Glyph deployment that had evolved through nightly practice. She had just become part of it.
 
-The underground arena was the second type. Semi-conscious. The fighters did not have a manifesto, but they had a space, a code, a shared vocabulary of Glyph deployment that had evolved through nightly practice. They were a school in formation, and Feimo, whether she intended to or not, had just become part of it.
-
-She also thought about the cloze passage from her exam prep: the Aristotle text about laughter. She had studied it so many times that its structure was embedded in her memory like a second skeleton. The passage had argued that laughter produces short-term physiological changes, boosting heart rate and oxygen consumption, but that these effects are not *measurable* in the way that walking or jogging produce measurable benefits. Laughter relaxes muscles rather than strengthening them. The body-mind connection runs in both directions: physical responses generate emotional states, and emotional states produce physical responses, each feeding the other in a loop that neither science nor philosophy had fully decoded.
-
-She had always thought of this as abstract knowledge. Exam material. The kind of thing you memorized because the test required it, not because it had anything to do with your actual life.
-
-But standing in the underground arena, with three Glyph marks still burning on her skin and her hands still trembling from adrenaline, Feimo understood the passage in a way that no textbook could have taught. Her body had responded to the fight. Her heart had raced. Her muscles had tensed. And those physical responses had *changed* her emotional state: sharpened her focus, accelerated her thinking, produced a clarity that she had never felt in a classroom. The passage was right. The body and the mind were not separate systems. They were a single conversation, each sentence generating the next, the way a Glyph generated the conditions for its own deployment.
+Standing in the underground arena, with three Glyph marks still burning on her skin and her hands still trembling from adrenaline, Feimo understood something that no textbook had taught. Her body had responded to the fight. Her heart had raced. Her muscles had tensed. And those physical responses had *changed* her emotional state: sharpened her focus, accelerated her thinking, produced a clarity that she had never felt in a classroom. The body and the mind were not separate systems. They were a single conversation, each sentence generating the next.
 
 "You're doing it again," Mia said from the doorway.
 
@@ -300,11 +294,11 @@ Feimo almost laughed. Almost. "Are you giving me homework? Now?"
 
 "I am always giving you homework. That is the nature of our relationship. I provide structure. You provide chaos. The ratio is maintained." But Mia's voice had softened at the edges, the way it always did when she was saying something practical to cover something personal. She turned to the others. "The session is over. Everyone out."
 
-Noah raised an eyebrow but did not argue. Kael and Lira filed out. Yue lingered, running her finger along the blank page of her book one more time before tucking it under her arm and following.
+Noir raised an eyebrow but did not argue. Kael and Lira filed out. Yue lingered, running her finger along the blank page of her book one more time before tucking it under her arm and following.
 
 Feimo and Mia were alone.
 
-The hum of the walls wrapped around them. Feimo's Glyph reserves had climbed back to fifty-two percent: the slow, passive regeneration that Noah had described as "the Labyrinth giving back what you gave it." She could feel the new knowledge settling in, not just the tactical lessons of the fight but the deeper understanding that the fight had forced into focus: that reading and combat were the same skill applied in different contexts. That a Glyph and a word were the same thing in different forms. That the Labyrinth's entire system, its Glyphs and corridors and walls and stars, was a language, and language was a battlefield, and the people who understood this were the ones who survived.
+The hum of the walls wrapped around them. Feimo's Glyph reserves had climbed back to fifty-two percent: the slow, passive regeneration that Noir had described as "the Labyrinth giving back what you gave it." She could feel the new knowledge settling in, not just the tactical lessons of the fight but the deeper understanding that the fight had forced into focus: that reading and combat were the same skill applied in different contexts. That a Glyph and a word were the same thing in different forms. That the Labyrinth's entire system, its Glyphs and corridors and walls and stars, was a language, and language was a battlefield, and the people who understood this were the ones who survived.
 
 "Your Glyph count is stable," Mia said, running a scan. "Fifty-two percent. Adequate."
 

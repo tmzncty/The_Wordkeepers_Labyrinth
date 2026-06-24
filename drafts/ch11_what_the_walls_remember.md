@@ -2,7 +2,7 @@
 
 The classroom was underground.
 
-Not metaphorically, the way most classrooms at the Academy felt underground, buried under layers of theory and accumulated academic dread. This room was physically, structurally, architecturally beneath the earth. Feimo knew this because she had counted four staircases descending from the main corridor, each one narrower than the last, each one lined with text so dense and so old that the words had fossilized into the stone itself, no longer legible but still humming with the residual energy of the millions of readings they had absorbed over centuries.
+The way most classrooms at the Academy felt underground, buried under layers of theory and accumulated academic dread. Except this room was physically, structurally, architecturally beneath the earth. Feimo knew this because she had counted four staircases descending from the main corridor, each one narrower than the last, each one lined with text so dense and so old that the words had fossilized into the stone itself, no longer legible but still humming with the residual energy of the millions of readings they had absorbed over centuries.
 
 The room was circular. The ceiling was low, vaulted, and covered in inscriptions that moved like slow weather systems across the stone. The walls were not the warm amber of the Bridge House corridors or the sharp silver-gray of Mirror's analytical chambers. They were a deep, exhausted blue, the color of ink that had been left in a well for too long, and they breathed. Not metaphorically. They breathed. Expanding and contracting in a rhythm that was not quite human, not quite mechanical, somewhere in between, like a library that had learned to sleep with its eyes open.
 
@@ -14,7 +14,7 @@ He was tall, angular, dressed in the standard Academy faculty robe but wearing i
 
 He did not greet them when they entered. He did not introduce himself. He did not write his name on the wall or project a syllabus or ask them to share their expectations for the course. He simply stood, and the students filtered in around him, and the door sealed behind the last one with a sound like a book closing.
 
-Fourteen students. Feimo recognized most of them. The Weave boy from Ch.6's study session, the one who always checked his notes. Three Forge students with ink-stained fingers and the particular intensity of people who believed every problem could be solved by rewriting it. Two Mirror students, including one who had been in Aya's orbit long enough to have acquired her posture and her silence.
+Fourteen students. Feimo recognized most of them. The Weave boy from Mia's study sessions, the one who always checked his notes. Three Forge students with ink-stained fingers and the particular intensity of people who believed every problem could be solved by rewriting it. Two Mirror students, including one who had been in Aya's orbit long enough to have acquired her posture and her silence.
 
 Aya stood near the wall, as far from the center as the room allowed. She had arrived first. Feimo knew this because the section of wall nearest to Aya had already been annotated: tiny, precise Glyph-marks in silver, barely visible, analysis notes she had made while waiting. Even when she was not reading, Aya was reading.
 
@@ -280,11 +280,7 @@ Mia listened.
 
 This was notable because Mia did not listen. Mia waited for other people to finish talking so she could deliver her response, which she had been composing while they spoke. But this time, she listened. Her form did not flicker with the telltale data-scroll of a Spirit AI running calculations. Her expression held at something that was not quite neutral and not quite soft, the face of someone receiving information they had expected and still found surprising when it arrived.
 
-"Reception Aesthetics," Mia said when Feimo finished. "Jauss and Iser. The Konstanz School. The idea that meaning is co-created by the reader and the text." She paused. "I have known about this theory since my activation cycle. I have taught it, referenced it, used it as an analytical framework. But I have never seen it function as an active principle inside the Labyrinth itself."
-
-"What do you mean?"
-
-"I mean the wall was doing something it does not normally do. The standard wall exercise is a calibration tool: it reads your Glyph signature and generates a passage that reflects your dominant analytical pattern. What you describe is different. The wall did not reflect your pattern. It reflected your personhood. That is not Reception Aesthetics. That is something closer to..." She stopped. Her eyes flickered, data scrolling for half a second before clearing. "I don't have a framework for what that was. Which is irritating."
+"I have never seen the Labyrinth function as an active principle," Mia said when Feimo finished. "The standard wall exercise reads your Glyph signature and reflects your analytical pattern. What you describe is different. The wall did not reflect your pattern. It reflected your personhood. I don't have a framework for what that was. Which is irritating."
 
 They walked in silence for a while. The corridors of the lower Academy were quieter than the upper levels, the text on the walls older and denser, the hum deeper. Feimo's ears tracked the ambient sound automatically, rotating toward each shift in frequency, cataloguing the Labyrinth's endless murmur the way a radio scans for stations.
 
@@ -310,11 +306,7 @@ Feimo looked at Mia. In the blue-green light, the Spirit AI's face was all angle
 
 They reached the staircase leading up to the main corridors. Mia stopped. Her form stabilized, the flickering resolving into clarity, and she looked at Feimo with an expression that contained approximately zero contempt and was therefore, by Mia's standards, completely naked.
 
-"The wall showed you a girl who is afraid of not being enough," Mia said. "For the record: you are enough. You have always been enough. I have been telling you this since the day we met, in various ways, most of which you interpreted as insults, because you are spectacularly bad at receiving compliments."
-
-"That's not exactly—"
-
-"I am not finished. The wall showed you your fear. It did not show you the truth. The truth is that you walked into a room full of analysts and stood in front of a wall that had just shown nothing to one of the most accomplished Mirror students in your year, and the wall responded to you. Not because you are afraid. Because you are honest. There is a difference."
+"The wall showed you a girl who is afraid of not being enough," Mia said. "For the record: you are enough. You have always been enough. The wall responded to you not because you are afraid, but because you are honest. There is a difference."
 
 Mia turned away. Her form was already beginning to dissolve at the edges, the pre-dissolution shimmer that meant she was about to disappear back into the Labyrinth's network.
 
@@ -360,16 +352,6 @@ Reading aloud. Very quietly. To no one at all.
 
 **Study Break: What the Walls Remember**
 
-*Card #079: Reception Aesthetics*
+*Card #079: Reception Aesthetics — Meaning is not in the text or the author. Meaning is generated in the act of reading itself. The reader brings their expectations; the text contains gaps; what emerges is neither the reader's nor the text's. It is new.*
 
-In 1967, Hans Robert Jauss argued that literary meaning is not fixed in the text but is co-created in the act of reading. The reader brings their "horizon of expectations" (Erwartungshorizont): everything they have read, experienced, feared, and desired. The text contains "gaps" (Leerstellen) that the reader fills with their own meaning. Wolfgang Iser extended this by describing the "implied reader" (implied reader): the ideal reader that the text anticipates, whose gaps are perfectly shaped for the reader to fill.
-
-In the Labyrinth, this is not theory. It is infrastructure. The walls are text. You are the reader. And every time you read the walls, the walls read you. Meaning flows in both directions, and what you take from the Labyrinth depends entirely on what you bring to it.
-
-*Think about it: When you read a passage from your exam prep, are you downloading the text's meaning? Or are you uploading your own meaning into the text? Can you tell the difference?*
-
-*Card #021: Li Bai and Du Fu*
-
-The two great poets of the Tang Dynasty represent two fundamental orientations in literature. Li Bai (701-762), the "Poet Immortal," wrote from subjective experience: desire, imagination, intoxication, the refusal of limits. Du Fu (712-770), the "Poet Sage," wrote from objective observation: war, famine, injustice, the weight of the world. The "Li-Du superiority debate" has never been resolved because it is not a competition. They are two sides of the same act: making language carry the weight of being alive.
-
-*Question: In your own reading life, are you more Li Bai or Du Fu? Do you read from inside the text, letting it overwhelm you? Or do you read from outside, analyzing its structure? Can you do both? Should you?*
+*Card #021: Li Bai and Du Fu — Li Bai (subjective, the Poet Immortal) and Du Fu (objective, the Poet Sage). Two ways of making language carry the weight of being alive.*

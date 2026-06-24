@@ -4,7 +4,7 @@ Feimo should have been in bed.
 
 It was 2 a.m. by the clock on her Glyph interface, and the Bridge House dormitory hallway was empty in the particular way that institutional corridors are empty at 2 a.m.: not peaceful, but abandoned, as if the building itself had exhaled its last occupants and was now holding still, waiting for something it could not name. The overhead lights had dimmed to their nighttime setting, casting everything in a gray-blue wash that made the walls look like deep water.
 
-Her ears were the reason she was awake. They always were. Cat ears do not have a snooze button. Three hours ago, she had been lying in her narrow dormitory bed, her tail curled around her ankles, drifting toward a sleep that had been building all day. The underground arena session had left her body a catalog of minor bruises and one significant ache in her left shoulder where she had hit the wall after a Glyph blast gone sideways. Noah had laughed. Mia had said nothing, which was worse.
+Her ears were the reason she was awake. They always were. Cat ears do not have a snooze button. Three hours ago, she had been lying in her narrow dormitory bed, her tail curled around her ankles, drifting toward a sleep that had been building all day. The underground arena session had left her body a catalog of minor bruises and one significant ache in her left shoulder where she had hit the wall after a Glyph blast gone sideways. Noir had laughed. Mia had said nothing, which was worse.
 
 Then the sound had started.
 
@@ -66,7 +66,7 @@ The poem was in Chinese. She knew this not because she recognized the language b
 
 Feimo's hand was still on the wall. Her ears were trembling. Her tail had gone completely still, which in the grammar of her body was the equivalent of a scream.
 
-The Six Principles. She recognized them now, the way you recognize a song you have heard in a dream: not through memory but through resonance. *Feng*, *Ya*, *Song*: the three categories of content. Folk songs, court hymns, sacrificial odes. The paintings on the wall were not random. They were arranged in the order of the Shijing, the oldest collection of Chinese poetry, three thousand years of human feeling compressed into three hundred and five poems and organized not by chronology or theme but by the kind of truth each poem was trying to tell.
+The Six Principles — Card 016 in her study deck. She recognized them now, the way you recognize a song you have heard in a dream: not through memory but through resonance. *Feng*, *Ya*, *Song*: the three categories of content. Folk songs, court hymns, sacrificial odes. The paintings on the wall were not random. They were arranged in the order of the Shijing, the oldest collection of Chinese poetry, three thousand years of human feeling compressed into three hundred and five poems and organized not by chronology or theme but by the kind of truth each poem was trying to tell.
 
 The pastoral scenes were *Feng*: the songs of the common people, the sound of a civilization in its infancy, learning to speak by describing what it saw. The court ceremonies were *Ya*: the music of governance, of ritual, of a society that had grown complex enough to need structure and formal enough to express its complexity through ceremony. The sacrificial rite was *Song*: the hymns of the sacred, offered not to audiences but to the dead, to the gods, to the forces that a civilization acknowledges but cannot control.
 
@@ -116,29 +116,9 @@ Feimo almost smiled. Almost. The smile died somewhere between her mouth and her 
 
 Mia continued her circuit of the space. Her projection dimmed and brightened as she moved through areas of stronger and weaker luminescence, and Feimo noticed that the walls seemed to respond to Mia's proximity: the paintings nearest to her projection glowed more intensely, as if the amber light were not a fixed property of the material but a reaction, a living response to the presence of an observer.
 
-"Do you know what this reminds me of?" Mia said. "The New York Philharmonic."
-
-Feimo blinked. "A classical music orchestra."
-
-"The Philharmonic hired a conductor named Alan Gilbert in 2009. He was comparatively little known. Critics called him 'an unpretentious musician with no air of the formidable conductor about him,' which in the language of music criticism is roughly equivalent to saying 'we are not sure why he is here.'" Mia's voice carried the faint edge of someone who found analogies deeply satisfying. "The appointment came as a surprise because the Philharmonic had been led by musicians like Gustav Mahler and Pierre Boulez. Giants. Legends. And now they had hired someone nobody had heard of."
-
-"And this reminds you of the corridor because..."
-
-"Because the real crisis was not about Gilbert. It was about the institution. Recordings had made live performance optional. The audience could get the same music, often at higher artistic quality, from their CD shelves or their computers. The classical concert as an institution was being hollowed out from the inside: the building still stood, but the thing it had been built to contain had moved elsewhere." Mia gestured at the Shijing paintings. "The Labyrinth is the Philharmonic. An institution built to contain knowledge that has always existed elsewhere. These poems were sung in fields and courts and temples for three thousand years before anyone built a corridor to house them. The corridor did not create the tradition. The corridor found the tradition and tried to make it institutional."
-
-"And failed?"
-
-"Not failed. *Cannot succeed*. The article about Gilbert noted that 'merely expanding the orchestra's repertoire will not be enough.' The same is true here. The Labyrinth can add corridors and classrooms and exam questions, but it cannot make the Shijing into something it is not. These poems are not curriculum. They are not content to be consumed. They are a living tradition, and living traditions do not fit inside institutions no matter how many walls you build around them."
-
-The amber light pulsed. Feimo felt the vibration in her sternum.
-
-She turned back to the walls. The paintings had shifted subtly during their conversation: new scenes had appeared in the gaps between the original ones, as if the corridor were composing itself in real time, adding detail and complexity the way a river adds tributaries. The pastoral scenes now included figures Feimo had not noticed before: children chasing geese, a woman weaving at a loom, a man leaning on a hoe and looking at the sky with an expression that was either exhaustion or prayer. The court scenes had acquired audiences: rows of figures in formal dress, their hands clasped, their faces attentive, listening to music that the painting could not play but somehow suggested through the arrangement of bodies in space.
-
 "The literary movements represented here span the entire arc of Chinese poetic tradition," Mia said, her voice recovering some of its analytical cadence. "The pastoral scenes evoke the folk song tradition, the *Guofeng*, which is to Chinese literature what oral tradition is to Western literature: the foundation, the source, the place where a civilization learns to speak by describing what it sees. The court scenes reflect the *Ya* tradition, where poetry becomes a tool of governance and social order. And the sacrificial imagery belongs to the *Song*, where language confronts the sacred and tries to say what cannot be said."
 
 She paused, studying the newly appeared figures.
-
-"What strikes me is the variety. Literary movements are not monoliths. They are broad currents: Classicism, Romanticism, Realism, Naturalism, Modernism, each one a worldview, a set of assumptions about what literature is for. And within each movement, multiple schools coexist, compete, influence each other. Romanticism contains the Lake Poets, the Brontë sisters, Byron. Realism contains Tolstoy, Flaubert, George Elior. The Shijing is the same: three thousand years of Chinese literary civilization, not one tradition but dozens, layered on top of each other like sedimentary rock."
 
 Feimo looked at the woman in the field. She had not changed. She was still there, still silent, still waiting.
 
@@ -155,10 +135,6 @@ Mia's projection flickered. "Explain."
 "The marketing passage. From the supplementary reading. The one about how consumers create 'earned' media by willingly promoting products to friends, while paid media is controlled by marketers and sold media is owned media whose traffic is strong enough to attract advertisers." Feimo spoke carefully, feeling her way toward the analogy. "The Labyrinth is paid media. It is an institution that controls how knowledge is transmitted: what is taught, how it is tested, what counts as understanding. The Shijing corridor is earned media. It was not created by the institution. It was created by the tradition itself, by the accumulated weight of three thousand years of people singing and writing and feeling. The institution did not make it. The institution found it and tried to sell it."
 
 Mia was quiet for a moment. "That is a surprisingly good analogy."
-
-"The passage also said that passionate consumers can create 'hijacked media' that turns against the marketer. An asset becomes a hostage. The consumers use the institution's own tools to apply pressure on it." Feimo looked at the blank door at the far end of the corridor. "What if the corridor is hijacked media? What if the tradition that the Labyrinth tried to contain has turned against it? What if the poems are not just stored here but are actively pushing back against the walls that were built around them?"
-
-"That is a terrifying thought," Mia said. "Which means it is probably correct."
 
 She stopped in front of the woman in the field. Her projection flickered.
 
@@ -184,31 +160,15 @@ Feimo nodded. Her throat was tight.
 
 They looked at each other across the amber light. The corridor held its breath.
 
-"It is worth considering," Mia said carefully, "that what we call 'reading' is not the only way to encounter a text. The Strack experiment from your exam preparation demonstrated that physical expressions can *produce* emotional states, not merely reflect them. The volunteers who held pens in their teeth did not feel happy because they were happy. They felt happy because the physical act of smiling triggered the emotional response. The body moved first. The feeling followed."
-
-She gestured at the walls.
-
-"The Shijing was a sung tradition before it was a written one. The poems were composed to be performed, to be felt in the body through rhythm and pitch and the physical vibration of the human voice. The written characters came later, as a technology of preservation. But the *feeling* was always primary. The body knew the poem before the mind could read it." Her eyes met Feimo's. "You did not read those poems. You felt them. Your body responded to the frequency of the language the way the Strack volunteers' mouths responded to the pen. The physical came first. The meaning followed."
-
-Feimo thought about this. The corridor hummed around them, warm and alive, and she could feel the vibration still lingering in her bones, in the tips of her fingers, in the base of her tail where the nerve endings were most sensitive.
+"It is worth considering," Mia said carefully, "that what we call 'reading' is not the only way to encounter a text. The Shijing was a sung tradition before it was a written one. The poems were composed to be performed, to be felt in the body through rhythm and pitch and the physical vibration of the human voice. The written characters came later, as a technology of preservation. But the *feeling* was always primary. The body knew the poem before the mind could read it." Her eyes met Feimo's. "You did not read those poems. You felt them. The physical came first. The meaning followed."
 
 "So the poems were designed to be felt," she said. "Not read."
 
-"Designed to be *experienced*," Mia corrected. "There is a difference. Reading is a cognitive act. Feeling is a somatic act. What the Shijing created was a third thing: a somatic-cognitive bridge, a way of knowing that uses the body and the mind simultaneously, that refuses to separate the thought from the sensation, the word from the breath that carries it." She paused. "Allen would have called this the erroneous nature of our most basic assumption: that because we are not robots, we therefore control our thoughts. We do not. Our thoughts are rooted in our physical reactions, in the body's ancient knowledge of rhythm and sound and pattern. We do not think our way to meaning. We feel our way there, and then we think about what we felt."
-
-Feimo recognized the reference. It was from the translation passage: the one about the philosopher who had argued that humans do not control their thoughts the way they believe they do. She had memorized the sentence as an exercise, not understanding it. Now, standing in a corridor that existed outside of any map, touching walls that sang in a language she could not read, she understood it in her body before her mind could articulate why.
-
-"The original argument," she said slowly, "was that we cry not because we are sad, but that we become sad when the tears begin to flow."
-
-"Yes. And that is precisely what happened to you. The poem did not communicate meaning to you through the normal channels of linguistic comprehension. It produced a physical response in your body, and that physical response *became* the meaning. The vibration you felt. The tightening in your chest. The stillness of your tail. These were not reactions to understanding. These *were* the understanding."
+"Designed to be *experienced*," Mia corrected. "Reading is a cognitive act. Feeling is a somatic act. What the Shijing created was a third thing: a somatic-cognitive bridge, a way of knowing that uses the body and the mind simultaneously, that refuses to separate the thought from the sensation, the word from the breath that carries it."
 
 The amber light pulsed. Somewhere in the walls, the paintings hummed at frequencies below the threshold of conscious perception.
 
-"Laughter works the same way," Mia continued, and now her voice had the cadence of the classroom, the measured rhythm of a teacher who knows she is saying something important and wants to make sure it lands. "Aristotle called it a bodily exercise precious to health. The 2011 cloze passage demonstrated that laughter produces short-term physiological changes: boosting heart rate, increasing oxygen consumption. But the deeper finding was that laughter *relaxes* muscles, decreasing muscle tone for up to forty-five minutes after the laugh dies down. The body does not merely express joy. The body *produces* joy through its own physical mechanisms. And the research suggests that emotions flow *from* muscular responses, not the other way around."
-
-She looked at Feimo with an expression that was equal parts professional assessment and something warmer, something that lived in the gap between what Mia said and what she meant.
-
-"You are a walking confirmation of everything that passage argued. Your body felt the poem. Your body produced the emotion. And now your mind is trying to catch up, to process what your body already knows." Mia's projection dimmed slightly. "This is not a comfortable experience. I understand that."
+"You are a walking demonstration of the body-before-mind principle," Mia said quietly. "Your body felt the poem. Your body produced the emotion. And now your mind is trying to catch up." Her projection dimmed slightly. "This is not a comfortable experience. I understand that."
 
 "You understand that," Feimo repeated. "You're a hologram. You don't have a body."
 
@@ -252,27 +212,11 @@ The service corridor reasserted itself as they crossed the threshold back into t
 
 But the vibration was still there. Below the floor. In the bones of the building. That rhythmic pulse, like knocking, like footsteps, like a heartbeat. It had not stopped. It had never stopped. It had only been waiting for her to notice it.
 
-"Mia," Feimo said, as they reached the dormitory hallway. "The humanities."
-
-"What about them?"
-
-"The passage from your supplementary material. The one about professionalization in American universities. You mentioned it during the study session."
-
-"I mentioned many things during the study session. Most of them were wasted on people who were not listening."
-
-"The passage said that the regular time to get a doctoral degree in the humanities is nine years. That disciplines like literature and philosophy are going out of style. That fewer students want to study them, that fewer teachers are needed, that the people who spend a decade writing a thesis end up leaving the profession to do something they were never trained for." Feimo paused at her dormitory door. "It also said that the key idea behind professionalization is that 'the knowledge and skills needed for a particular specialization are transmissible but not transferable.' That disciplines acquire a monopoly over the production of knowledge, and also over the production of the producers of knowledge."
-
-Mia's projection flickered. "And?"
-
-"And that is what this Labyrinth is. Isn't it. A monopoly over knowledge. A place where knowing things is not enough: you have to know them in the right way, in the right order, through the right channels. The corridor we just found is not on any map because the knowledge it contains is not the kind of knowledge that the Labyrinth is designed to transmit. It is older. Deeper. It comes from a tradition that was sung before it was written, that was felt before it was understood, that was shared between bodies before it was stored in books."
-
-She put her hand on the dormitory door.
-
-"The Labyrinth was not built to hold that kind of knowledge. It was built to manage it. To categorize it, to make it transmissible, to turn it into a curriculum. But the corridor was already there. The poems were already there. And no amount of curriculum can make a thing that was felt stop being a thing that is felt."
+"Mia," Feimo said, as they reached the dormitory hallway. "The Labyrinth is a monopoly. It controls how knowledge is transmitted, what counts as understanding. The corridor we just found is not on any map because the knowledge it contains is not the kind the Labyrinth was designed to transmit. It is older. It was felt before it was understood, shared between bodies before it was stored in books."
 
 Mia said nothing for a long moment.
 
-"You are making an argument," she said finally, "that the Labyrinth is an institution built on top of a thing it cannot contain. That the building is a map of a territory that predates it. That the Academy did not create the knowledge it claims to teach; it found the knowledge, and it built walls around it, and it called the walls 'education.'"
+"You are making an argument," she said finally, "that the Labyrinth is an institution built on top of a thing it cannot contain."
 
 "Is that wrong?"
 
@@ -293,20 +237,6 @@ Feimo pulled the blanket over her ears.
 It did not stop. It had never stopped. And now that she had heard it, she would always hear it: in the floor beneath her bed, in the walls of every corridor, in the silence between words, in the vibration that lived in the body of the building like a pulse, like a heartbeat, like a door that has always been there, waiting to be opened.
 
 She did not sleep for a long time.
-
-She lay in the dark and thought about what Mia had said. The body knows before the mind. The feeling comes before the understanding. She thought about the Strack experiment, about volunteers holding pens in their teeth, their mouths forced into smiles that their minds had not chosen, and how those involuntary smiles had produced real enthusiasm, real delight, real joy that the volunteers' conscious minds had not authorized and could not take back. The body moved first. The feeling followed. And the feeling was not less real for being physical in origin. If anything, it was more real: rooted in muscle and bone and nerve, anchored in the body's ancient knowledge of what it means to be alive.
-
-She thought about the parenting passage from her exam preparation. Jennifer Senior had argued that happiness in child-rearing was not a present-tense experience but a *past-tense* condition. The day-to-day grind of raising children was soul-crushingly hard. But the very things that dampened your mood in the moment could later become sources of intense gratification and delight. Happiness was not something you felt while living. It was something you understood while remembering.
-
-Feimo wondered if the corridor worked the same way. She had not felt happy in it. She had felt afraid, overwhelmed, small. The vibration in her bones had been uncomfortable. The blank door had been terrifying. The silence of the woman in the field had been vast and unsettling. None of these were pleasant experiences. None of them were things she would have chosen.
-
-But she knew, lying in the dark with the knocking still pulsing below her floor, that she would remember this night for the rest of her life. That the memory of standing in front of those paintings, of feeling a language she could not read move through her body like a wave, of touching a wall that was warm with the body-heat of a tradition three thousand years old, would become something she would look back on with a feeling she could not yet name. The experience was not happy. The memory would be. That was what Senior meant. Happiness as a past-tense condition. Understanding that arrives after the fact, like a poem that makes sense only after the feeling has already passed through you.
-
-She thought about the devoted concertgoers who insisted that recordings could never replace live performance. They were missing the point, the article had argued. For the time, attention, and money of the art-loving public, classical instrumentalists had to compete not only with other art forms but with the recorded performances of the great musicians of the twentieth century. Recordings were cheap, available everywhere, and often much higher in artistic quality than today's live performances. The widespread availability of such recordings had brought about a crisis in the institution of the traditional classical concert.
-
-Was that what she had experienced tonight? A live performance? A direct encounter with the original, unmediated, unrecorded? The Shijing poems had been sung before they were written, felt before they were understood, performed before they were preserved. The paintings on the wall were not recordings. They were not transcriptions. They were the thing itself, the living vibration of a tradition that had never stopped performing, had never stopped singing, had never consented to being reduced to text on a page.
-
-The Labyrinth was the recording. The corridor was the concert. And the devoted concertgoers were right: some things cannot be substituted. Some things must be experienced with the body, in the body, through the body's oldest and most primitive channels of perception. No exam question could capture what she had felt tonight. No reading comprehension passage could reproduce the vibration in her bones. The knowledge was real. The knowledge was ancient. And the knowledge was not transferable through any mechanism that the Labyrinth had invented.
 
 When she did sleep, she dreamed of a woman standing in a field, her hand extended, her palm empty, and the silence around her so vast and so complete that it had weight, had color, had the shape of every poem that had ever been written in a language that the dreamer could not read but could feel, could always feel, in the deepest bones of her body, in the place where understanding begins before language arrives to name it.
 

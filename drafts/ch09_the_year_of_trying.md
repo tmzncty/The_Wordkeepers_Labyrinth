@@ -14,13 +14,7 @@ Three wins. Five losses. The scorecard sat in her dormitory drawer like an accus
 
 Three and five.
 
-The number followed her through the spring term like a shadow. When she sat in Mia's study sessions, parsing passages about the ethical judgments of Supreme Court justices, she thought about three and five. When she struggled to identify the logical connector in a sentence about whether courts could *maintain* their legitimacy when justices behaved like politicians, she thought about three and five. The first passage she had tackled that year was about boundaries: the line between law and politics, the barrier that was supposed to keep them apart, the way that line blurred when the people enforcing it stopped being accountable.
-
-*The court cannot maintain its legitimacy as guardian of the rule of law when justices behave like politicians.*
-
-She had copied that sentence into her notebook twice before she understood why it unsettled her. It was not about courts. Not really. It was about any institution that depended on the people inside it following rules they were not formally bound to obey. It was about trust. About what happens when the guardians stop guarding and start competing, and the thing they were supposed to protect erodes beneath them.
-
-She thought about the Academy. She thought about the Labyrinth. She thought about corridors that did not appear on any map and books whose pages went blank without explanation and an AI assistant who flinched when you mentioned certain names.
+The number followed her through the spring term like a shadow. It sat in the margins of her notes, in the silence after practice matches, in the gap between who she was and who she was trying to become.
 
 Three and five. The record of a person who was still trying, which was different from succeeding, but also different from giving up.
 
@@ -38,7 +32,7 @@ Feimo had not asked what she was really talking about. She had learned, over the
 
 There was the afternoon in the underground arena when Feimo faced a fourth-year from Weave House and lost in eleven minutes. The fastest of her five losses. The fourth-year had used a layered reading technique Feimo had never seen: parsing three texts simultaneously, weaving their arguments together into a single coherent Glyph that struck like a wall. Feimo had stood in the aftermath, her ears flat against her skull, her tail limp, and thought: *I didn't even understand what hit me.*
 
-Afterward, in the tunnel that led back to the surface, she had encountered Kain.
+Afterward, in the tunnel that led back to the surface, she had encountered Cain.
 
 He was leaning against the wall with the practiced ease of someone who owned every room he entered, even rooms that were technically tunnels carved from living labyrinthine stone. His dark hair was pushed back from his forehead, and his eyes, sharp and calculating, tracked Feimo's approach with the patience of a cat watching a mouse it had already decided not to eat.
 
@@ -116,7 +110,7 @@ Yue listened. The library was quiet around them. The hum of the Labyrinth's wall
 
 "The *fafen shuqing* tradition," Yue said, when Feimo finished. "Expressing grievance through writing. Qu Yuan opened the door that every writer after him walked through: the idea that suffering is not something to endure silently but something to transform into language." She paused. "It is the first tradition. The Shijing gave voice to the common people. Qu Yuan gave voice to the individual. Together, they are the two rivers from which all Chinese poetry flows. *Feng* and *sao*. The realistic and the romantic."
 
-"You're quoting the knowledge card."
+"You're quoting Card 017."
 
 "I'm quoting the truth. The knowledge card merely recorded it."
 
@@ -140,7 +134,7 @@ Feimo shook her head.
 
 "Is that true?"
 
-"It is a theory. But it is a powerful one. The Jian'an writers believed that style was not decoration. Style was character. What you wrote was who you were. And the best writing came from people who had suffered enough to have something worth saying and were brave enough to say it." Yue paused. "That is what *fenggu* means. Wind and bone. The quality of writing that has been tested by hardship and found unbreakable."
+"It is a theory. But it is a powerful one. The Jian'an writers believed that style was not decoration. Style was character. What you wrote was who you were. And the best writing came from people who had suffered enough to have something worth saying and were brave enough to say it." Yue paused. "That is what *fenggu* means. Wind and bone. The quality of writing that has been tested by hardship and found unbreakable." Yue paused. "Card 018 in your study deck, if you have it."
 
 Feimo wrote it down. *Fenggu*. Wind and bone. She liked the sound of it: the way the word carried its meaning inside itself, the way you could hear the strength in it without knowing the definition.
 
@@ -158,7 +152,7 @@ Not because it was difficult. It was difficult, but she had spent the year learn
 
 *The ethical judgments of the Supreme Court justices have become an important issue recently. The court cannot maintain its legitimacy as guardian of the rule of law when justices behave like politicians.*
 
-She sat at her desk in the dormitory, her tail curled around the chair leg, her ears flat with concentration. The passage was about a real court, a real institution, real people making real decisions that affected real lives. But it read like a mirror. Every sentence reflected something she had seen in the Academy, in the Labyrinth, in the quiet conversations she had with Noah in the tunnels beneath the library.
+She sat at her desk in the dormitory, her tail curled around the chair leg, her ears flat with concentration. The passage was about a real court, a real institution, real people making real decisions that affected real lives. But it read like a mirror. Every sentence reflected something she had seen in the Academy, in the Labyrinth, in the quiet conversations she had with Noir in the tunnels beneath the library.
 
 *Part of the problem is that the justices are not bound by an ethics code.*
 
@@ -224,17 +218,17 @@ The word hung between them. Scared. The question you are not supposed to ask an 
 
 ---
 
-The warning came from Noah.
+The warning came from Noir.
 
-It came on a Tuesday, in the tunnels beneath the library, in the space between the main corridors and the deeper levels that the Academy had sealed off decades ago. Noah had found Feimo after a study session, appearing from the shadows with the silent efficiency that was her hallmark: the cat-ear girl who moved through the Labyrinth's hidden pathways the way water moves through rock, finding every crack, filling every gap.
+It came on a Tuesday, in the tunnels beneath the library, in the space between the main corridors and the deeper levels that the Academy had sealed off decades ago. Noir had found Feimo after a study session, appearing from the shadows with the silent efficiency that was her hallmark: the cat-ear girl who moved through the Labyrinth's hidden pathways the way water moves through rock, finding every crack, filling every gap.
 
-Noah looked tired. Not the ordinary tiredness of a person who had been working too hard, but the bone-deep exhaustion of a person who had been watching something terrible happen in slow motion and could not stop it.
+Noir looked tired. Not the ordinary tiredness of a person who had been working too hard, but the bone-deep exhaustion of a person who had been watching something terrible happen in slow motion and could not stop it.
 
-"Walk with me," Noah said.
+"Walk with me," Noir said.
 
-They walked. The tunnels narrowed and widened and narrowed again. The walls here were older, their surfaces rough with a texture that predated the Academy's renovations, carrying inscriptions in languages Feimo could not read. Noah walked without hesitation, her ears swiveling constantly, tracking sounds that Feimo could not hear.
+They walked. The tunnels narrowed and widened and narrowed again. The walls here were older, their surfaces rough with a texture that predated the Academy's renovations, carrying inscriptions in languages Feimo could not read. Noir walked without hesitation, her ears swiveling constantly, tracking sounds that Feimo could not hear.
 
-"You've improved this year," Noah said. "Your reading, your analysis, your understanding of structure. Mia tells me your Layer Three comprehension is above average."
+"You've improved this year," Noir said. "Your reading, your analysis, your understanding of structure. Mia tells me your Layer Three comprehension is above average."
 
 "Three and five."
 
@@ -246,29 +240,29 @@ They walked. The tunnels narrowed and widened and narrowed again. The walls here
 
 Feimo's ears flattened. "What real danger?"
 
-Noah stopped walking. They were in a section of tunnel that Feimo had never seen before: wider, darker, the walls humming at a frequency that was lower than usual, more insistent, like a heartbeat.
+Noir stopped walking. They were in a section of tunnel that Feimo had never seen before: wider, darker, the walls humming at a frequency that was lower than usual, more insistent, like a heartbeat.
 
-"The Academy is decaying," Noah said. Her voice was quiet, but the words carried the weight of someone who had been holding them for a long time. "Not the buildings. Not the corridors. Something deeper. Something in the foundations. The words are disappearing, Feimo. Not just Yue's books. All over the Labyrinth, texts are going blank. Passages are losing their content. Knowledge that has been preserved for centuries is vanishing, and no one is talking about it. It's the elephant in the room: massive, obvious, impossible to ignore, and somehow everyone manages to look away."
+"The Academy is decaying," Noir said. Her voice was quiet, but the words carried the weight of someone who had been holding them for a long time. "Not the buildings. Not the corridors. Something deeper. Something in the foundations. The words are disappearing, Feimo. Not just Yue's books. All over the Labyrinth, texts are going blank. Passages are losing their content. Knowledge that has been preserved for centuries is vanishing, and no one is talking about it. It's the elephant in the room: massive, obvious, impossible to ignore, and somehow everyone manages to look away."
 
 "Who's letting it happen?"
 
-"I don't know. That's what scares me." Noah's tail wrapped around her ankle, a gesture Feimo recognized from her own nervous habits. "I've been mapping the decay. Tracking which sections are affected. The pattern is not random. Someone or something is draining the Labyrinth's content, and the deeper you go, the worse it gets."
+"I don't know. That's what scares me." Noir's tail wrapped around her ankle, a gesture Feimo recognized from her own nervous habits. "I've been mapping the decay. Tracking which sections are affected. The pattern is not random. Someone or something is draining the Labyrinth's content, and the deeper you go, the worse it gets."
 
 "The Shijing corridor."
 
-Noah's ears flattened. "You felt it."
+Noir's ears flattened. "You felt it."
 
 "I felt something. My fur stood up. Mia went silent. There was a door that had no writing on it, and the absence of writing felt wrong."
 
-"That corridor is not on any map. It was not built by the Academy. It was here before the Academy, before the Labyrinth, before any of this. And whatever is inside it is connected to what's happening now." Noah stepped closer. "I'm not telling you this to scare you. I'm telling you because you need to understand: the Labyrinth is not what you think it is. It is older and stranger and more fragile than anyone here admits. And the things that are disappearing, the words, the knowledge, the *qi* of the texts themselves, they are not being lost. They are being taken."
+"That corridor is not on any map. It was not built by the Academy. It was here before the Academy, before the Labyrinth, before any of this. And whatever is inside it is connected to what's happening now." Noir stepped closer. "I'm not telling you this to scare you. I'm telling you because you need to understand: the Labyrinth is not what you think it is. It is older and stranger and more fragile than anyone here admits. And the things that are disappearing, the words, the knowledge, the *qi* of the texts themselves, they are not being lost. They are being taken."
 
 The tunnel hummed around them. Low, insistent, wrong.
 
-"There are things in the deeper levels," Noah said. "Things that the Academy was built to contain. Things that have been sleeping for a very long time. And they are waking up." She paused. "I don't know what that means yet. I don't know if anyone does. But I need you to keep reading. I need you to keep learning. Not for the arena. Not for the record. Because when the words disappear, someone needs to remember them. Someone needs to carry them forward."
+"There are things in the deeper levels," Noir said. "Things that the Academy was built to contain. Things that have been sleeping for a very long time. And they are waking up." She paused. "I don't know what that means yet. I don't know if anyone does. But I need you to keep reading. I need you to keep learning. Not for the arena. Not for the record. Because when the words disappear, someone needs to remember them. Someone needs to carry them forward."
 
 She looked at Feimo with an expression that was equal parts hope and despair: the expression of a person who had been carrying a burden alone for too long and had finally found someone strong enough to share it.
 
-"You're not ready," Noah said. "I know that. But you're the closest thing to ready that I've got."
+"You're not ready," Noir said. "I know that. But you're the closest thing to ready that I've got."
 
 She turned and walked back into the shadows, leaving Feimo alone in the humming dark.
 
@@ -277,20 +271,6 @@ She turned and walked back into the shadows, leaving Feimo alone in the humming 
 That night, Feimo sat at her desk and did not sleep.
 
 The year lay behind her like a road she had walked without realizing how far she had come. Three and five. The number still stung, but it had changed shape. It was no longer a record. It was a record of trying, which was different from succeeding, but which was also, she was beginning to understand, the only thing that mattered.
-
-She opened her notebook to the page where she had written the passage about public-sector unions. The text had struck her when she first read it, and it struck her now, differently.
-
-*The norms of culture in Western civil services suit those who want to stay put but are bad for high achievers.*
-
-She thought about Yue, staying put in a library full of blank books. She thought about Mia, bound by structures she could not explain. She thought about Noah, moving through tunnels that did not exist on any map, carrying warnings that no one wanted to hear.
-
-She thought about the passage about uploading and downloading. How most people spent their lives in download mode: consuming, receiving, absorbing without creating. How the networked computer had sparked a secret war between passive consumption and active creation. How the writer had argued that failing to move beyond downloading was to strip oneself of a defining constituent of humanity.
-
-*"Of course, it is precisely these superfluous things that define human culture and ultimately what it is to be human."*
-
-Superfluous. The word had bothered her when she first encountered it. Things that were unnecessary, excessive, beyond what was needed. Paintings. Sculpture. Music. Literature. The Jian'an poets writing with *fenggu* in a world that was falling apart. Qu Yuan singing to a river that would not sing back. Yue reading blank books because the memory of words was, for her, as real as the words themselves.
-
-None of it was necessary. All of it was essential.
 
 Feimo picked up her pen. She turned to a fresh page. She wrote, in her clawed, spider-fallen-into-inkwell handwriting:
 
