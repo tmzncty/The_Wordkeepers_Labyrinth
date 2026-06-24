@@ -34,7 +34,7 @@ Feimo processed this for a moment. "So the mirrors aren't just decoration."
 
 "They are ideology made architectural. Every surface forces you to reflect on what you're reading, and on how you're reading it." Mia's voice carried a note that might have been admiration, if admiration had been filtered through several layers of professional detachment. "Mirror House students are selected for their ability to tolerate cognitive dissonance. They're trained to hold contradictory interpretations simultaneously without collapsing into certainty. They're the Academy's closest approximation to literary critics. They argue about symbolism at breakfast." Mia drifted closer to the entrance. "Come along. You're in the observation gallery today. Try not to touch anything."
 
-Other students moved through the corridors in small, quiet groups, their Mirror House badges catching the silver light. Their behavior, Feimo noticed, was a study in controlled precision: they walked differently from Bridge students, more upright, more deliberate, as if each step was a statement about the relationship between the individual and the institution. Feimo saw no cat ears, no animal features of any kind. Mirror House was exclusively human, and despite the Academy's official commitment to diversity, the absence of demi-kind students felt less like coincidence and more like policy. The attitude projected by the House was unmistakable: analysis is a serious business, and frivolity is a deficiency to be corrected.
+Other students moved through the corridors in small, quiet groups, their Mirror House badges catching the silver light. Their behavior, Feimo noticed, was a study in controlled precision: they walked differently from Bridge students, more upright, more deliberate, as if each step was a statement about the relationship between the individual and the institution. Feimo saw fewer demi-kind students here than in Bridge House. The ones she spotted had their features tucked away, minimized, ears hidden under carefully arranged hair, tails absent or concealed, as if the House culture encouraged blending in rather than standing out.
 
 She followed Mia through a series of interconnected halls until they reached the inner circle: a vast, circular reading room ringed by tiered galleries, each level lined with mirror-surface desks at which students sat in focused silence. The ceiling was a dome of reflective glass that doubled the room, creating the illusion that the space extended infinitely both above and below, students reading in endless recursion. At the center of the room, a single lectern held a large, open book, and the text from its pages was projected onto the dome in slow-scrolling silver letters that reflected and re-reflected until the words seemed to exist everywhere at once.
 
@@ -44,39 +44,19 @@ Feimo settled into a seat in the observation gallery, trying to take up as littl
 
 The session was already underway. A Mirror House senior student stood at the lectern, leading a close reading of the projected text. She was tall, sharp-featured, and spoke with the particular precision of someone who had rehearsed her analysis until it sounded spontaneous.
 
-"The passage presents a historical argument," the senior said. "Of all the changes that have taken place in English-language newspapers during the past quarter-century, perhaps the most far-reaching has been the inexorable decline in the scope and seriousness of their arts coverage. Notice the word *inexorable*. The author does not say 'significant' or 'notable.' Inexorable means unstoppable, impossible to prevent. The decline is framed not as a choice but as a force of nature."
+"The passage presents a historical argument about the decline of arts criticism in English-language newspapers," the senior said. "Notice the word *inexorable*. The author does not say 'significant' or 'notable.' Inexorable means unstoppable. The decline is framed not as a choice but as a force of nature."
 
-Feimo read the projected text as it scrolled. The passage described a time when high-quality arts criticism could be found in most big-city newspapers, a time that readers under forty could not imagine. It spoke of the most significant collections of criticism published in the twentieth century, many of which consisted largely of newspaper reviews. To read such books today, the passage argued, was to marvel at the fact that their learned contents were once deemed suitable for publication in general-circulation dailies.
+The passage described a time when high-quality arts criticism could be found in most big-city newspapers, a time that readers under forty could not imagine. It spoke of critics like Neville Cardus, knighted in 1967, whose vast body of writing on music was now unknown save to specialists. Feimo felt something tighten in her chest. She thought about the Labyrinth, about words that stopped being read and grew thin, corridors eroding in silence because nobody visited them anymore.
 
-The senior continued. "The passage then moves further back in time to the period between the turn of the twentieth century and the eve of World War II, when newsprint was dirt-cheap and stylish arts criticism was considered an ornament to publications. In those far-off days, critics of major papers would write in detail and at length about the events they covered. Theirs was a serious business."
+The senior moved to defamiliarization. "The passage takes something we assume we understand — the role of newspapers — and makes it strange. Shklovsky argued that this is the fundamental purpose of literary language: to break through the automatization of perception, to restore our ability to see what habit has made invisible. He wanted to make the stone stony again."
 
-Mia leaned toward Feimo. In a whisper that was technically unnecessary but felt appropriate to the atmosphere, she said: "This is the Mirror House method. They call it *close reading*. Every word is a choice, and every choice reveals intent. The senior is teaching the students to read not just what the text says, but what the text does."
-
-The senior was discussing the critics now. George Bernard Shaw and Ernest Newman, who wore their learning lightly but could be trusted to know what they were about. These men believed in journalism as a calling and were proud to be published in the daily press. Newman had written: *So few authors have brains enough or literary gift enough to keep their own end up in journalism that I am tempted to define 'journalism' as 'a term of contempt applied by writers who are not read to writers who are.'*
-
-"That's a beautiful insult," Mia murmured. "Newman is saying that the writers who call journalism contemptible are the ones who lack the talent to do it well. The contempt is sour grapes, dressed up as principle."
-
-The passage moved to Neville Cardus, who wrote for the Manchester Guardian from 1917 until shortly before his death in 1975. During his lifetime, he was one of England's foremost classical-music critics, a stylist so widely admired that his Autobiography became a best-seller. He was knighted in 1967, the first music critic to be so honored. Yet only one of his books was now in print, and his vast body of writings on music was unknown save to specialists. The passage did not need to state the implication directly; the numbers spoke for themselves, and the process of decline, once recognized, was impossible to unsee.
-
-Feimo felt something tighten in her chest. She thought about the Labyrinth, about words that stopped being read and grew thin, corridors eroding in silence because nobody visited them anymore. Cardus had been a giant in his field, knighted by the Crown, and now he was known solely as a writer of essays on cricket. His music criticism, the work that had defined his life, had vanished as thoroughly as if the Labyrinth's walls had crumbled around it.
-
-"The question the passage poses," the senior said, "is whether Cardus's criticism will enjoy a revival. The author concludes that the prospect seems remote. Journalistic tastes had changed long before his death, and postmodern readers have little use for the richly upholstered Vicwardian prose in which he specialized. The amateur tradition in music criticism has been in headlong retreat. In other words: the state of literary journalism has deteriorated beyond the point of easy recovery." She looked up from her notes. "What does this growth of indifference, this slow erasure of critical culture, tell us about the relationship between readers and texts?"
-
-A student raised her hand. "That texts don't survive without readers. A critic is only as relevant as their audience. If no one seeks out the work, it dies regardless of its quality."
-
-"Correct. The text demands active engagement to remain alive." The senior's voice gained intensity. "And this connects to the broader Mirror House principle." "We do not merely analyze texts. We ensure they are not forgotten. The decline of arts criticism described in this passage is not just a historical observation. It is a warning. When we stop reading seriously, when we refuse to engage with the full range of literary and critical production, when we limit our attention to what is popular and ignore what is difficult, the texts die. The corridors collapse. The words fade. We reduce the Labyrinth itself, one unread page at a time."
+Feimo's ears perked forward. Defamiliarization. She glanced around the mirror-lined room: the same face, viewed from different angles, was never the same face twice. The mirrors proved it.
 
 *Just like the Labyrinth,* Feimo thought. The passage was doing something the Labyrinth did every day: preserving the memory of what had been lost so that it could, someday, be found again.
 
 The senior moved to the next section of analysis, discussing how the passage functioned as an example of what the Russian formalist Viktor Shklovsky called *defamiliarization*. "The passage takes something we assume we understand, the role of newspapers, and makes it strange. We think we know what newspapers are for. But by showing us what they used to be, the passage reveals how much has been lost. It makes the familiar unfamiliar. Shklovsky argued that this is the fundamental purpose of literary language: to break through the automatization of perception, to restore our ability to see what habit has made invisible. The everyday becomes strange, and in that strangeness, we perceive it truly for the first time. He wanted to make the stone stony again."
 
 Feimo's ears perked forward. Defamiliarization. She had encountered the term in her survey courses, filed it away under *things that will be on the exam*, and never thought about it again. But here, in Mirror House, surrounded by reflective surfaces that seemed designed to return every gaze, the concept felt different. The walls around her reflected her own image back at her from a dozen angles, and each reflection showed something slightly different, as if the mirrors were producing not copies but perspectives. Defamiliarization was not just a literary technique. It was a way of seeing. A way of refusing to let habit dull perception. The mirrors proved it: the same face, viewed from different angles, was never the same face twice.
-
-"The formalists divided literary study into three branches," the senior continued. "Literary theory, literary history, and literary criticism. The three are interdependent: theory provides methodology, history provides temporal context, criticism provides close analysis. Aristotle further classified literature into three genres based on the mode of imitation: narrative, lyric, and drama. The Chinese tradition, however, uses four categories: poetry, fiction, prose, and drama. Both systems attempt to answer the same question: what kind of text is this, and how should we read it?"
-
-*Three or four,* Feimo thought. *The number changes depending on where you stand.* She glanced at Mia, who was watching the senior with an expression of professional interest and personal disdain in equal measure.
-
-"Adequate," Mia whispered. "She's leaving out the key insight: genre categories are not fixed. New literary practices produce new genres. The novel itself was once a genre violation. The power of genre theory lies not in its ability to classify but in its ability to provoke thought about why we classify at all. But for a Mirror House senior, this is competent work."
 
 The session wound down. Students filed out in small groups, discussing the passage in low, intense voices. Feimo stayed in her seat, watching the text scroll across the dome, thinking about critics who were forgotten and words that grew thin.
 
@@ -122,13 +102,9 @@ When she left the inner circle, Aya was still reading.
 
 ---
 
-Feimo explored Mirror House alone.
+Feimo explored Mirror House alone. Mia had been called away for what she described as "routine system maintenance" and Feimo suspected was actually a chance to recharge in a less Spirit-hostile environment.
 
-Mia had been called away for what she described as "routine system maintenance" and Feimo suspected was actually a chance to recharge in a less Spirit-hostile environment. The anti-AI field in Mirror House was giving Mia a headache, or whatever the holographic equivalent of a headache was. Feimo had told her to go. Mia had protested for exactly the duration required by her programming and then left.
-
-The corridors of Mirror House were quieter than Bridge House, the silence here not companionable but deliberate, enforced by a culture that considered unnecessary noise a form of intellectual weakness. Feimo walked with her footsteps barely audible on the polished stone, her cat instincts automatically adjusting her gait to minimize sound. She passed reading rooms, analysis chambers, and a vast hall where pairs of students sat across from each other in mirrored desks, deconstructing texts in a ritual that looked like chess played with words. Periodically, a student would look up from their work and track her with their eyes, a brief, assessing glance that registered her Bridge badge and dismissed her in the same instant.
-
-She moved deeper into the building, past the well-maintained central areas and into a section that felt older. The mirrors here were cloudier, their surfaces no longer perfectly reflective but instead showing a faintly distorted version of the corridor, as if the reflections themselves had aged. The text on the walls was denser, more compressed, written in scripts she did not recognize alongside passages in English that seemed to be from a much earlier era. Some of the text was annotated in silver Mirror House script, cross-references and analytical notes layered over the original words like a net of interpretation. But the annotations were old, their ink faded, and in some places the original text had begun to erode beneath them, the foundation crumbling while the analysis remained.
+The corridors of Mirror House were quieter than Bridge House, the silence here not companionable but deliberate, enforced by a culture that considered unnecessary noise a form of intellectual weakness. She moved deeper into the building, past reading rooms and analysis chambers, into a section that felt older. The mirrors here were cloudier, the text on the walls denser, annotated in faded silver Mirror House script. The annotations were old, and in some places the original text had begun to erode beneath them, the foundation crumbling while the analysis remained.
 
 Her ears caught something.
 
@@ -206,37 +182,21 @@ Aya turned to face Feimo directly. "Don't tell anyone about this."
 
 "Why not?"
 
-"Because I will handle it. I'll report the structural anomaly to the House prefect. It will be investigated. Properly. By people who are qualified to assess what lies behind these walls. That is the service Mirror House provides to the Academy."
+"Because I will handle it. Properly. By people who are qualified to assess what lies behind these walls."
 
 "People like you."
 
-"People like me." No irony. No acknowledgment of the arrogance. A statement of fact.
+"People like me." No irony. No acknowledgment of the arrogance. "You will not mention this to anyone."
 
-"I found it," Feimo said. "Shouldn't I be part of the investigation? I could mention this to the Bridge House prefect as well."
+Feimo felt her tail bristle. She controlled it. "An accident that found something your qualifications missed."
 
-"No." The word was immediate, flat, a wall thrown up without thought. "You will not mention this to anyone."
-
-"Why not?"
-
-Aya looked at Feimo the way you look at an equation that has produced the correct answer through the wrong method. "Because you are a first-year Bridge student with animal instincts and no analytical training. Your ears are not a qualification. They are a biological accident. To protect the integrity of the investigation, it must be conducted by those with the proper methodology."
-
-Feimo felt her tail bristle. She controlled it. "An accident that found something your qualifications missed. Due to nothing more than good hearing."
-
-The silence that followed was the kind of silence that has weight, that presses against the walls and makes the air feel thick. Aya's expression did not change, but something behind it shifted, a tectonic plate of pride grinding against an unwelcome truth she could not remove from her awareness.
+The silence that followed was the kind that has weight. Aya's expression did not change, but something behind it shifted, a tectonic plate of pride grinding against an unwelcome truth.
 
 "Influence," Aya said, "does not require competence."
 
 "What?"
 
-"A passage we analyzed last year. From a researcher named Gladwell. He argued that social epidemics are driven by a tiny minority of special individuals, people who are unusually informed, persuasive, or well-connected. He called them influentials. The theory suggests that if you can find and influence these select people, they do most of the work for you." Aya's tone was clinical, as if she were dissecting a specimen. "But subsequent research demonstrated that the theory was wrong. The data did not support the claim. Influentials have far less impact on social epidemics than is generally supposed. The real requirement for what the researchers called 'global cascades' is not a few powerful individuals but, rather, a critical mass of easily influenced people. The study of these dynamics is a statistical process, not a personality cult."
-
-She paused, and Feimo had the uncomfortable sensation of being analyzed in real time.
-
-"You are not an influential," Aya continued. "You are not even a properly trained Mirror student. And yet you found something we all missed. This is not because you are talented. It is because your perception has not been dulled by habit. You are different, and that difference produced a result that years of similarity could not. It does not relate to skill. It relates to perspective."
-
-"Are you calling me defamiliarization?"
-
-"I'm calling you an anomaly." Aya's voice was flat. "The formalist Shklovsky argued that the purpose of literary language is to break through what he called the automatization of perception. We stop seeing things that are habitual. We stop hearing things that are constant. Your ears hear what trained ears have stopped hearing because your ears have never been trained to ignore. They have not been subjected to the same assumptions that govern ours. The outcome is not a matter of ability. It is a matter of what state your perception is in."
+"Subsequent research on social influence showed that it is not the exceptional individual that matters, but the readiness of the system to respond. You are not exceptional. You are different. And your difference happened to produce a result that years of similarity could not."
 
 "That's not a compliment."
 
@@ -274,7 +234,7 @@ Feimo told her. About the passage. About the hollow wall. About the sound of unr
 
 About Aya.
 
-Mia processed the information in silence for four seconds, which was three seconds longer than her usual processing time. "Aya of Mirror House. First in her year. Continuous since enrollment. Her analytical scores are the highest the House has recorded in a decade. She completed her first Mirror challenge in two minutes fifty-one seconds, which is still the House record. She reads approximately four hundred pages per day. She has not received a single grade below ninety-seven in any subject since enrollment. Her item-level precision on textual analysis is, frankly, inhuman." A pause. "She spoke to you."
+Mia processed the information in silence for four seconds, which was three seconds longer than her usual processing time. "I know who Aya is." A pause. "She spoke to you."
 
 "She called me an insult to the Academy."
 
@@ -289,12 +249,6 @@ Mia processed the information in silence for four seconds, which was three secon
 Mia gave her a look that said, very clearly, *we will discuss this later.* But she let it go for now. "We should return to Bridge House. You have a Glyph practice session in two hours, and you still haven't reviewed the three Glyphs you collected from the Weave challenge."
 
 They walked back through Mirror House in something that was not silence, because Mia was incapable of true silence, filling the gaps with commentary on Mirror House architecture, Spirit AI interference fields, and the statistical probability of hidden passages existing in other Houses. Feimo listened with half her attention. The other half was still in the corridor with the cloudy mirrors, listening to the sound of air moving through a space that had been hidden for centuries.
-
-Near the exit, Feimo passed a notice board. A small poster, printed in silver Mirror House script, caught her eye:
-
-*VOLUNTEERS WANTED: International Conference on Inter-Labyrinth Exchange. Seeking students with cross-cultural communication skills for translation support during conference sessions. Applicants should demonstrate proficiency in at least two languages and a willingness to serve as cultural mediators between Houses. Admission to the program is competitive. Apply to the Office of Inter-House Affairs.*
-
-She read it and kept walking. The notice related to a part of Academy life she had not yet encountered: the larger, institutional machinery that ran beneath the daily routine of classes and challenges. For now, she had a hidden passage to think about, and a girl with mirror-eyes who refused to leave her mind.
 
 ---
 
@@ -326,11 +280,7 @@ Feimo did not know what to say to that, so she said nothing, and the silence was
 
 Feimo leaned back on the couch and closed her eyes.
 
-She thought about the passage behind the wall. About Aya, standing in the corridor with her book, not leaving. About the sound of text decaying in the dark, words losing their meaning because no one was listening. She thought about Neville Cardus, knighted by the Crown, forgotten by everyone except cricket fans. She thought about the Hawthorne workers whose productivity changed simply because someone was paying attention to them.
-
-She thought about what it meant to be the kind of person who hears what others have stopped hearing. She thought about the objects in the Labyrinth that existed at the margins: dead languages, forgotten dialects, critics whose work no one read. They were not less valuable for being ignored. They were less visible. There was a difference, and the difference mattered.
-
-*Defamiliarization,* she thought. *Making the stone stony. Making the familiar strange. And sometimes, making the invisible impossible to keep ignoring.*
+She thought about the passage behind the wall. About Aya, standing in the corridor with her book, not leaving. About the sound of text decaying in the dark. Defamiliarization: making the familiar strange. Sometimes that meant seeing what you had stopped seeing. Sometimes it meant hearing what everyone else had decided not to hear.
 
 Her ears twitched, catching a sound from far below. Not knocking, this time. Something else. A low, sustained vibration, like a word being spoken very slowly in a language she almost but did not quite understand.
 
@@ -341,23 +291,3 @@ Feimo opened her eyes. The common room was quiet. Yue had fallen asleep in her a
 On Feimo's lapel, the Bridge House badge pulsed softly, warm against her chest, keeping time with the hum of the walls.
 
 Somewhere in Mirror House, in a corridor lined with cloudy mirrors, a passage waited behind a wall of stone and centuries of text. And somewhere in that passage, words were decaying in the dark, patient and silent, waiting for someone to listen.
-
----
-
-**Study Notes**
-
-*From the Labyrinth Archives:*
-
-> **Concept: Defamiliarization (陌生化)**
-> The Russian formalist Viktor Shklovsky argued in "Art as Technique" (1917) that the purpose of literary language is to counteract the automatization of perception. Habitual actions become unconscious; we stop truly seeing the things we encounter daily. Literature's function is to make the familiar strange, to "make the stone stony," restoring the sensation of life as experienced rather than as recognized. This principle underlies all narrative innovation: every technique that disrupts reader expectation, from unreliable narrators to fragmented timelines, is an application of defamiliarization.
-
-> **Concept: Literary Genres (文学体裁)**
-> Aristotle's Poetics established the foundational three-part classification of literature by mode of imitation: narrative (epic), lyric, and dramatic. The Chinese literary tradition, recognizing that its prose tradition (散文) could not be contained within Aristotle's framework, developed a four-part system: poetry (诗歌), fiction (小说), prose (散文), and drama (戏剧). The three-part system is more theoretically rigorous; the four-part system is more practically useful. Genre categories are not fixed: new literary practices continuously generate new forms that challenge existing taxonomies.
-
-> **The Two-Step Flow of Communication**
-> Proposed by Lazarsfeld and refined by Katz (1955), this theory suggests that information flows from mass media to opinion leaders (influentials), and from them to the wider public. Gladwell's *The Tipping Point* (2000) popularized the idea that social epidemics are driven by a tiny minority of highly connected individuals. However, subsequent research by Watts and Dodds demonstrated that influentials have far less impact on cascading social change than is generally supposed. The critical factor is not the presence of extraordinary individuals but the readiness of ordinary people to be influenced and to pass that influence forward.
-
-> **Discussion Questions:**
-> 1. The passage about arts criticism describes a shift from serious, detailed literary journalism to something thinner and less ambitious. How does this mirror the Labyrinth's concern about words that stop being read? Is there a difference between a text that is forgotten and a text that is deliberately abandoned?
-> 2. Aya argues that Feimo's discovery of the hidden passage is not evidence of talent but of "difference." Is she right? What is the relationship between perspective and insight? Can training ever be a substitute for the fresh eyes of an outsider?
-> 3. Yue describes her inability to dream as a form of defamiliarization: the absence of dreams makes her aware of what dreaming was. What does this suggest about the relationship between loss and perception? Can we truly see something only after it is gone?
