@@ -43,6 +43,8 @@ Noir told her about the Misty Poets that night, in the low, even voice she used 
 
 "The term *ménglóng* was an insult," Noir said. "Critics meant it as a dismissal. These poems were obscure, they said. Deliberately obscure. They used imagery that didn't resolve into clear meaning. They refused the directness that the state demanded. Poetry was supposed to serve the people. Poetry was supposed to be useful. And here were these young writers producing work that meant different things to different readers, sometimes contradictory things within the same stanza."
 
+As Noir spoke, Feimo recalled Card 037—the three phases of New Period literature that the Misty Poets had sparked. Scar Literature (伤痕文学) came first: raw testimony of those who had survived, writing not to analyze but to bear witness. Then Reflection Literature (反思文学): the harder work of asking why, of tracing wounds back to their causes. And finally Reform Literature (改革文学): the forward turn, the insistence that critique must lead to reconstruction. The Misty Poets had been the spark for all three—the first to insist that individual consciousness had a right to speak, even when the systems around them demanded silence.
+
 She lifted her cup but did not drink.
 
 "Bei Dao. Shu Ting. Gu Cheng. Hai Zi. These were the names. They came out of the late 1970s, when the country was waking from a decade of nightmares and nobody had the vocabulary for what they had lost. The Wound Literature writers tried: they laid out the injuries, documented the damage, presented the facts. The Reflection writers went further, asking *why*. But the Misty Poets did something more dangerous. They asked *what now*."

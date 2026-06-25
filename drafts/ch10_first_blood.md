@@ -282,6 +282,8 @@ She walked Feimo through the connection: the echo technique as a "discovery clai
 
 "The question is not whether your technique worked. It did," Mia said. "The question is whether it can survive what comes next. That is the credibility process. I call it *the difference between a fluke and a skill*."
 
+Feimo thought about Card 020, the four periods of Tang poetry: Early, High, Middle, and Late. Every golden age had a beginning—a moment when the raw materials of a tradition crystallized into form, when Wang Bo and Chen Zi'ang first broke free of palace poetry and gave voice to something wilder. The Academy, too, had its Early Tang: the first generation of students who walked these corridors, the first Glyphs carved into stone. She was part of a later period now, standing on foundations that others had laid. But the question Mia was asking—fluke or skill?—was the same question every tradition faced at its turning point.
+
 Feimo wrote in her notebook: *discovery claim → credible discovery = fluke → skill. Credibility process: scrutiny, replication, challenge.*
 
 "Your technique also raises a question about the framework itself," Mia continued. "The Academy's combat system was not designed to account for what you did. When someone breaks the framework — uses a technique that exists outside the system's assumptions — the framework's legitimacy is questioned. Not just yours. The *framework's*."

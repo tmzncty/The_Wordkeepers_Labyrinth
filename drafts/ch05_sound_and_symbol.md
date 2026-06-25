@@ -174,6 +174,8 @@ The thought came from nowhere and everywhere, a fragment of something she had re
 
 Feimo stopped analyzing. She started reading.
 
+And reading, she realized, came with a question she had never asked in combat before: who was telling the story? Card 010, Narrative Perspective, had taught her that every text had a narrator—first-person, third-person limited, omniscient—and that who told the story shaped what could be seen and what remained hidden. The passage on the wall had a narrator. The Glyphs in the air had a narrator. Even the Labyrinth itself, breathing words through stone, was telling a story from a perspective she could not yet identify.
+
 The next blanks came faster:
 
 *"___ , instead of straining muscles to build them, as exercise does, laughter apparently accomplishes the ___ ."*
@@ -214,7 +216,7 @@ And "because." The Glyph of causation, the word that connects a fact to its reas
 
 Feimo held all three Glyphs, and she understood something.
 
-This was not a fight about power. It was a fight about understanding. Every blank she filled was a piece of knowledge she now carried, a word that meant more than it had before. The passage described the fusion of body and mind — how emotion and physical sensation were not separate events but one landscape, expressed through two languages at once.
+This was not a fight about power. It was a fight about understanding. Every blank she filled was a piece of knowledge she now carried, a word that meant more than it had before. The passage described the fusion of body and mind — how emotion and physical sensation were not separate events but one landscape, expressed through two languages at once. It was, she thought, like the Chinese aesthetic ideal of 意境 (Card 007)—the fusion of scene and feeling, where meaning lives not in the words alone but in the charged space between them. The passage was doing exactly that: blending physical reaction and emotional truth into a single landscape where the boundary between body and mind became illegible.
 
 She had five Glyphs left. Noir had nine.
 

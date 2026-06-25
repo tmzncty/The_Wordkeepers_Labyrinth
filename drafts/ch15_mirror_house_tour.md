@@ -6,7 +6,7 @@ The invitation arrived at 06:00, inscribed on a sliver of mirror-glass that mate
 
 No signature. Mirror House invitations never carried signatures. The text was the authority, the way a reflection was its own proof.
 
-Feimo held the sliver up to the light. Her face stared back at her from its surface, distorted slightly at the edges, her cat ears elongated into strange antler-like shapes by the curvature. She set it down and reached for her uniform jacket, her tail already curling with the particular anxiety that came from entering someone else's house.
+Feimo held the sliver up to the light. Her face stared back at her from its surface, distorted a fraction at the edges, her cat ears elongated into strange antler-like shapes by the curvature. She set it down and reached for her uniform jacket, her tail already curling with the particular anxiety that came from entering someone else's house.
 
 "You look like you swallowed a dictionary," said Mia from the doorway.
 

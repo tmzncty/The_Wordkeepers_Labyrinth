@@ -22,7 +22,7 @@ She moved to blank two.
 
 Options: fades, improves, collapses, recovers.
 
-She circled "fades." Then "collapses." Then "fades" again. The brain did not collapse in this context; collapse was too violent, too sudden. The passage was describing gradual decline, not catastrophic failure. But "recovers" was the opposite of what the sentence needed, and "improves" was absurd given the opening clause about memory not being what it used to be. So "fades." She was almost certain. She was almost certain in the way that a person standing on a frozen lake is almost certain the ice will hold.
+She circled "fades." Then "collapses." Then "fades" again. The brain did not collapse in this context; collapse was too violent, too sudden. It was describing gradual decline, not catastrophic failure. But "recovers" was the opposite of what the sentence needed, and "improves" was absurd given the opening clause about memory not being what it used to be. So "fades." She was almost certain. She was almost certain in the way that a person standing on a frozen lake is almost certain the ice will hold.
 
 "You look like someone trying to solve a jigsaw puzzle by staring at the box."
 
@@ -46,7 +46,7 @@ Mia glanced at it. She did not need to read it the way Feimo needed to read it. 
 
 "Fades. Correct. Now, why not collapses?"
 
-"Because collapse implies sudden failure. The passage is about gradual decline."
+"Because collapse implies sudden failure. This is about gradual decline."
 
 "Good. And why not recovers?"
 
@@ -76,7 +76,7 @@ Feimo wrote "turn out" in her notebook. Below it she added: "build on (Q19), kee
 
 "I beg your pardon?"
 
-"The passage. Listen." Feimo read from the text: *"Thinking is essentially a process of making connections in the brain. To a certain extent, our ability to excel in making the connections that drive intelligence is inherited. However, because these connections are made through effort and practice, scientists believe that intelligence can expand and fluctuate according to mental effort."*
+"Listen to this." Feimo read from the text: *"Thinking is essentially a process of making connections in the brain. To a certain extent, our ability to excel in making the connections that drive intelligence is inherited. However, because these connections are made through effort and practice, scientists believe that intelligence can expand and fluctuate according to mental effort."*
 
 She looked up at Mia. "You're telling me to build pattern connections in my brain so I can think better. The text is telling me the same thing. We're literally inside its argument."
 
@@ -94,7 +94,7 @@ But Feimo could see it: the faint brightening in Mia's projected eyes that meant
 
 "The logic narrows the blank."
 
-"Exactly. Think of it as a Labyrinth." Mia paused, seeming to taste the metaphor she had just chosen. "The passage is a corridor. Each logical connector is a door. If you know which door opens next, you know which direction the corridor turns. And if you know the direction, you can guess what's around the corner even before you see it."
+"Exactly. Think of it as a Labyrinth." Mia paused, seeming to taste the metaphor she had just chosen. "A cloze is a corridor. Each logical connector is a door. If you know which door opens next, you know which direction the corridor turns. And if you know the direction, you can guess what's around the corner even before you see it."
 
 Feimo wrote in her notebook: *Logic = the Labyrinth's architecture. Know the structure, predict the content.*
 
@@ -240,23 +240,23 @@ She held up her hand. The wall behind her shuddered, and a section of text detac
 
 "Combat?" Feimo's tail was bristling. She could not help it. The air in the chamber was charged with something that made the fur on her arms stand up.
 
-"Verbal combat," Noir said. "The Labyrinth sends a passage at you. You have to deconstruct it in real time: identify the argument, find the flaw, and counter it. The passage pushes back. The faster and more accurately you respond, the more the Labyrinth escalates. If you can't keep up, the text overwhelms you." She paused. "It's not dangerous. But it's not comfortable, either."
+"Verbal combat," Noir said. "The Labyrinth sends a passage at you. You have to deconstruct it in real time: identify the argument, find the flaw, and counter it. The text pushes back. The faster and more accurately you respond, the more the Labyrinth escalates. If you can't keep up, the text overwhelms you." She paused. "It's not dangerous. But it's not comfortable, either."
 
 "And this is your idea of a study break?" Feimo asked.
 
 "This is my idea of an education." Noir's eyes were steady. "The classroom teaches you to understand language. The circuit teaches you to survive it."
 
-The passage in the air pulsed. New text was forming beneath the first fragment:
+The text in the air pulsed. New text was forming beneath the first fragment:
 
 *"But in Osborneland, your first instinct is to fall into dependency, permanent dependency if you can get it, supported by a state only too ready to indulge your falsehood."*
 
-"That's a rhetorical attack," Mia said, her voice fast now. "The passage is building a straw man: characterizing the unemployed as lazy dependents. The technique is attribution of motive: assigning a negative motivation to a group of people without evidence. The counter is to identify the logical fallacy and reframe the premise."
+"That's a rhetorical attack," Mia said, her voice fast now. "It is building a straw man: characterizing the unemployed as lazy dependents. The technique is attribution of motive: assigning a negative motivation to a group of people without evidence. The counter is to identify the logical fallacy and reframe the premise."
 
 Feimo's ears were fully forward. Every nerve in her body was awake. The text in the air was moving faster now, the letters brightening, and she could feel the Labyrinth's attention on her: not hostile, not friendly, simply focused, the way a microscope is focused on a slide.
 
 She took a breath. She read it again. She felt for the skeleton.
 
-"Dependency is the wrong frame," she said. "The passage assumes that unemployment benefits create dependency, but the evidence shows that most unemployed people want jobs. The premise assumes a motivation that the data contradicts. The counterargument is that the real dependency is the system's dependency on the assumption of laziness to justify cutting support."
+"Dependency is the wrong frame," she said. "It assumes that unemployment benefits create dependency, but the evidence shows that most unemployed people want jobs. The premise assumes a motivation that the data contradicts. The counterargument is that the real dependency is the system's dependency on the assumption of laziness to justify cutting support."
 
 The text in the air shuddered. Then it broke apart, the letters scattering like startled birds, and new text reformed:
 
@@ -272,7 +272,7 @@ Feimo faced the text. The letters were brighter now, pressing closer, and she co
 
 "Language doesn't just describe reality," Feimo said. "It constructs it. When you rename a benefit as an allowance, you don't just change a word. You change the relationship between the person and the state. You turn a right into a gift. That's what the text is saying, and it's right. But the deeper point is that if language can construct reality, then the person who controls language controls what's real. And that means the real fight isn't about benefits or jobs or economics. It's about who gets to name things."
 
-The passage exploded.
+The text exploded.
 
 Not violently. Beautifully. The letters scattered outward in a slow cascade, each one drifting like a leaf, and as they fell, new text formed in their place: a single sentence, glowing gold, hovering at eye level.
 

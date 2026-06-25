@@ -70,11 +70,15 @@ Feimo recognized the pattern: he would use an exam passage as a doorway, and thr
 
 "The Labyrinth," Silent Professor said, "is a transmission medium. It takes text as input, processes it, and produces output. But the Labyrinth does not transmit meaning unchanged. Something is added. Something is lost. And the seven symbols suggest that there is a layer of meaning that passes through the system unaltered. Like a radio wave that passes through walls."
 
+Feimo wrote this down, but her mind was drifting. The professor's model of the translator as receiver reminded her of Card 052: the Romantic poets. Wordsworth had called poetry "emotion recollected in tranquility"—the poet not as creator but as a medium through which something older passed. Coleridge had dreamed "Kubla Khan" in an opium vision and woke to transcribe what had already been given. Byron and Shelley had gone further: the poet as lightning rod, channeling forces that could not be controlled, only conducted. Translation, in the professor's framing, was the same. The translator was not the source. The translator was the receiver—faithful not to the words but to the signal beneath them.
+
 Yue had not moved. She sat with the stillness of someone who has learned that movement attracts attention. Feimo watched her. Yue's eyes were fixed on the seven symbols with an intensity Feimo had not seen from her before. Not the glazed distance of the girl who sat in the back of every classroom. This was focused. This was the expression of someone seeing something they had seen before, in a different context, and the two images were aligning.
 
 The recognition hit Feimo like a change in air pressure.
 
 Yue had seen these symbols before. Not in a textbook. Not on the walls of the Academy. In a place that the Labyrinth could not access, because the Labyrinth's intake system was designed to handle text, and what Yue had seen was not text but the architecture beneath text, the substrate that all seven languages shared.
+
+Feimo's hand stopped moving. Card 053 came to her unbidden: Victor Hugo, who had built every novel on the principle of contrast—beauty beside ugliness, the sublime beside the grotesque, Jean Valjean's mercy beside Javert's law. Hugo had called it the marriage of opposites, the truth that meaning emerges not from harmony but from collision. The Labyrinth was the same: polished corridors above, raw stone below; seven languages that should not interact but did; a door that opened onto a room that had no business existing. The fracture was not a flaw. The fracture was the architecture.
 
 Feimo thought about the cloze passage from this year's examination materials. The one about navigation. *Few of us just walk straight into the woods without a phone.* The passage's real argument was about what happened when the devices failed. When the GPS went dark, you had to navigate by other means. By the land. By the marks that people left on the landscape. *Signs of human habitation.* Evidence that someone had been here before you and had left a trace of their passage.
 

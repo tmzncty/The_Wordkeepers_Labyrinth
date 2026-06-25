@@ -136,7 +136,7 @@ Plato had argued this. Plato, in *Republic* Book X, had argued that poetry corru
 
 The distinction was not academic. It was the difference between two theories of what literature is for. Between literature as a classroom and literature as an experience. Between reading as obedience and reading as participation. Between the poet who serves the state and the poet who serves the soul.
 
-And Aya knew the difference. She had been reading the *Poetics* extensively. She knew exactly what Aristotle had written. She had chosen to misrepresent him because the misquotation was so common, so deeply embedded in the received wisdom of literary studies, that almost no one in the room would catch it.
+And Aya knew the difference. She had been reading the *Poetics* extensively. She knew precisely what Aristotle had written. She had chosen to misrepresent him because the misquotation was so common, so deeply embedded in the received wisdom of literary studies, that almost no one in the room would catch it.
 
 It was a trap. A precise, Mirror-caliber trap. If Feimo let it pass, Aya's argument stood on a foundation of misattributed authority, and the philosophical ground beneath Feimo's own position eroded without anyone noticing. If Feimo challenged it, she would be publicly contradicting the most prepared student in Mirror House, and she had better be right.
 

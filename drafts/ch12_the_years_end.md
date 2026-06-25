@@ -286,7 +286,7 @@ Below them, the Labyrinth breathed. Above them, the text-light sky held its word
 
 *Card #080: Horizon of Expectations (期待视野)*
 
-Every reader enters a text carrying a "horizon of expectations" (*Erwartungshorizont*): the sum of everything they have read, experienced, feared, and desired, shaped by literary conventions, social norms, and personal history. This horizon determines what the reader notices, what they overlook, and what meaning they generate. A text that perfectly fulfills expectations is forgettable. A text that violates expectations completely is incomprehensible. The texts that change us are the ones that *partially* fulfill and *partially* break our expectations, forcing us to build a new horizon in real time.
+Every reader enters a text carrying a "horizon of expectations" (*Erwartungshorizont*): the sum of everything they have read, experienced, feared, and desired, shaped by literary conventions, social norms, and personal history. This horizon determines what the reader notices, what they overlook, and what meaning they generate. A text that perfectly fulfills expectations is forgettable. A text that violates expectations completely is incomprehensible. The texts that change us are the ones that *partially* fulfill and *partially* break our expectations, forcing us to build a new horizon as events unfolded.
 
 In the Labyrinth, your horizon is your instrument. The year-end ceremony fulfilled Feimo's expectations: awards, speeches, collective acknowledgment. But the rooftop broke those expectations entirely. What she found there was not institutional validation but personal revelation, and the gap between what she expected and what she received was where the real meaning lived.
 
