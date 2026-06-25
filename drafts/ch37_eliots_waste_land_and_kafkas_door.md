@@ -20,7 +20,7 @@ She set the piece down gently, the way you set down something that was once part
 
 Further along the corridor, the damage was worse. Entire sections of wall had collapsed, revealing the structural stone behind, and the text that survived was discontinuous, a word here, a phrase there, quotations without context, references without sources. She passed a fragment that read simply *"son of man"* and another that said *"a heap of broken images"* and a third, in Chinese, that she translated slowly: *"the dry stone no sound of water."*
 
-She understood what she was looking at. Not random destruction but structural fragmentation: the Labyrinth's knowledge system, shattered by the Fragmenters into pieces that still carried meaning but had lost their connections. It was exactly what Eliot had described in The Waste Land. Not the absence of knowledge but its disintegration into shards that could no longer form a coherent whole. These fragments she had shored against her ruins.
+She understood what she was looking at. Not random destruction but structural fragmentation: the Labyrinth's knowledge system, shattered by the Fragmenters into pieces that still carried meaning but had lost their connections. It was precisely what Eliot had described in The Waste Land. Not the absence of knowledge but its disintegration into shards that could no longer form a coherent whole. These fragments she had shored against her ruins.
 
 She thought of the knowledge card she had studied last week, Card #066. Eliot's Waste Land. The card had been thorough: five sections, dozens of quotations and allusions in multiple languages, the "objective correlative" as a method of conveying emotion through concrete imagery rather than abstract statement. The poem was not about despair. It was about the attempt to reconstruct meaning from the debris of a civilization that had lost its center. The card had emphasized this: Eliot was not a poet of nihilism but a poet of salvage. The fragments were not the problem. The fragments were the material.
 
@@ -40,98 +40,19 @@ She pulled out her notebook and began to transcribe the fragments. Not to recons
 
 ---
 
-The 2021 exam was administered on a Wednesday.
+Feimo worked for an hour, transcribing and mapping. Her cat eyes adjusted easily to the phosphorescent gloom, the vertical pupils widening to drink what light there was. Her ears swiveled periodically — catching the drip of water in a distant pipe, the faint hum of the Labyrinth's text field, the click of settling stone — cataloguing the acoustic signature of a level that few students had ever visited.
 
-The room was the same one they had used for the 2020 exam, but the atmosphere had changed. The social distancing measures were gone, the hand sanitizer dispensers had been removed, and the windows were closed against a spring wind that smelled of rain and construction dust. The desks had been returned to their original arrangement, facing forward, evenly spaced, the geometry of an institution reasserting its normalcy after a period of disruption. But the cameras were still there. Cain's black hemispheres, bolted to the ceiling, their red indicator lights blinking in a rhythm that Feimo had learned to ignore.
+As she worked, the fragments began to arrange themselves in her mind, not by language or source but by feeling. Eliot's "April is the cruellest month" beside the Chinese inscription about dry stone. Dante's refining fire beside the line about "those who have crossed / with direct eyes, to death's other Kingdom." The fragments did not connect sequentially — they resonated laterally, each piece vibrating against its neighbours, generating meaning through proximity rather than argument.
 
-She opened the booklet.
+She thought of the 2021 exam she had taken three days ago. The passages had shared a theme: the gap between what systems intend and what they produce. Intelligence that peaks and declines. Poverty programs that protect forests. Broadband providers captured by the entities they were meant to regulate. Higher education that innovates and destabilises simultaneously. Each passage had been, in its own way, about the waste land: the debris of intentions that went sideways, the fragments of purpose scattered by forces the designers did not anticipate.
 
-The cloze passage was about fluid intelligence.
-
-She read it carefully, the way she read everything now: not just for meaning but for structure, for the architecture of the argument beneath the surface of the prose. The passage described a type of intelligence that had to do with short-term memory and the ability to think quickly, logically, and abstractly. It **peaks** in young adulthood, the passage said, and then **generally** starts to slowly decline as we age.
-
-She filled in the blanks without hesitation. The answers came not from memorization but from a structural understanding of how academic English operates: the way "while" signals concession, the way "therefore" marks a causal turn, the way "attributable" appears whenever a study needs to distinguish correlation from causation. She recognized these patterns the way a musician recognizes chord progressions, not by thinking about them but by hearing where they need to go.
-
-*While* aging is inevitable, scientists are finding out that certain changes in brain function may not be.
-
-The word "while" did its work: concession, contrast, the grammaticized acknowledgment that two truths can coexist without canceling each other. Aging is inevitable. But decline is not. The passage was about the gap between what seems fixed and what might be changed, and Feimo thought of Mia, whose memories were returning in fragments, whose intelligence was not declining but had been locked away behind a door that the Labyrinth's system had sealed shut.
-
-Muscle loss and the **accumulation** of body fat around the abdomen are associated with a decline in fluid intelligence.
-
-The connection between body and mind. The passage was making a claim that would have surprised Descartes: that cognitive capacity is not a property of an immaterial soul but a function of physical health, of muscle mass and fat distribution and the immune system's relationship to the brain. This suggested the **possibility** that lifestyle factors might help prevent or **delay** this type of decline.
-
-Possibility and delay. Not cure. Not reversal. The passage was careful, the way good science is careful: it claimed what the data supported and no more. There was a **possibility**. You could **delay** the process. You could not stop it entirely.
-
-Feimo thought of the Labyrinth's walls. The Fragmenters had damaged them, but the damage was not total. The knowledge was still there, fragmented but present, waiting for someone to take the necessary steps to protect both the physical structure and the meaning it carried. The passage's conclusion was practical: aerobic exercise and Mediterranean-style **diet**. The academic translation of this advice, stripped of its medical specificity, was simpler: move, and consume what nourishes rather than what merely fills.
-
-She finished the cloze in eight minutes and turned to the reading section.
-
----
-
-Text 1 was about trains.
-
-More precisely, it was about the annual ritual of fare increases, the way British rail operators justified raising prices by arguing that the cost of the network should be borne by its users rather than the general taxpayer. The author was not persuaded. The increases were running above inflation. The service was deteriorating. The strikes had made things worse. And the Government's promise to introduce minimum service requirements was only one piece of a larger problem.
-
-Feimo read the passage and thought of Cain.
-
-The parallel was not exact, but it was instructive. Cain's security measures operated on the same logic as the rail operators' fare increases: the cost of safety should be borne by those who benefit from it, and those who benefit are the students who use the Labyrinth. The argument had a surface logic that collapsed under examination. The students had not chosen to be in danger. The Fragmenters had not been invited. The security measures were not a response to student demand but an imposition by an administrator who had discovered that crisis was the most efficient mechanism for consolidating **power**.
-
-The passage asked: who should bear the cost?
-
-The rail operators said: the users. The author said: the system that permitted the crisis to develop. Feimo thought: the authority that failed to prevent it and now profits from the response.
-
-Text 2 was about forests.
-
-An economist named Ferraro had studied Indonesia's conditional cash transfer program, a social assistance scheme that gave money to the poorest residents under conditions: keep your children in school, get regular medical care. The program was designed to reduce poverty. Its effect on deforestation was unexpected.
-
-Feimo read the passage with the attention she reserved for arguments that surprised her. The conventional wisdom, the passage explained, was that economic growth and environmental protection were conflicting goals. As people got richer, they consumed more, and consumption degraded the environment. The Mexico study had supported this view: more money, more cleared land, more cattle.
-
-But Indonesia told a different story. Ferraro's analysis of satellite data from over seven thousand forested villages showed that the program was associated with a thirty percent reduction in deforestation. The mechanism was insurance: rural poor were using the cash transfers as makeshift protection against bad weather. When rains were delayed, they no longer needed to clear forest land to supplement their harvests.
-
-The lesson was not that poverty alleviation automatically protects the environment. The lesson was that the relationship between human welfare and ecological health is not fixed. It depends on design, on context, on the specific **process** by which resources are distributed and used. What worked in Mexico did not work in Indonesia, not because the people were different but because the conditions were different.
-
-Feimo thought of the Labyrinth's knowledge system. The conventional wisdom was that security and learning were conflicting goals: more surveillance meant less freedom, less freedom meant less intellectual risk, less risk meant less growth. Cain operated on this assumption. But Ferraro's study suggested a different possibility: that the relationship between control and knowledge was not inverse but contingent. It depended on how the control was designed, on what incentives it created, on whether it treated students as threats to be managed or as agents capable of making their own decisions about risk.
-
-The passage's final sentence stayed with her. Even if the program had not reduced poverty, Ferraro said, "the value of the avoided deforestation just for carbon dioxide emissions alone is more than the program costs." The side effects were worth more than the primary purpose. She thought of the Labyrinth. What if the side effects of learning, the unexpected connections, the accidental discoveries, the knowledge that emerged not from the curriculum but from the collisions between students and walls and fragments, were worth more than the official objectives?
-
-Text 3 was about smiles.
-
-A historian had been collecting photographs of Victorian ancestors smiling, posting them on Twitter, watching the reactions. People were surprised. The dominant image of the Victorians was solemn, stiff, unsmiling: sitters posing miserably in front of painted backdrops, staring absently into the middle distance. The historian wanted to know why.
-
-The answer was layered. Early photography required long exposure times: holding a grin for several minutes was impractical. But by the 1890s, exposure was almost instantaneous. The technology had changed. The behavior had not. The deeper reason was dental hygiene, or rather the lack of it. Before modern dentistry, mouths were in a shocking state. A toothy grin revealed gaps and blackened teeth. Smiling was associated with drunks, tramps, and music hall performers. It lacked class. Even Mark Twain, who enjoyed a hearty laugh, said there could be "nothing more damning than a silly, foolish smile fixed forever."
-
-Feimo read this passage and thought of Mia.
-
-Mia, who did not smile. Mia, whose face operated in a narrow emotional register: skepticism, analytical focus, dry contempt, and beneath all of these, a careful, deliberate concealment of whatever she actually felt. Mia had not smiled, not genuinely, in the weeks since the invasion. Her expressions had tightened, become more controlled, as if the Fragmenter attack had triggered a defensive mechanism that operated at the muscular level, locking her face into the mask of competence that the Academy expected of her.
-
-The Victorians concealed their teeth because they were ashamed of what showing them would reveal. Mia concealed her emotions for the same reason. The thing behind the mask was not ugliness. It was vulnerability. And vulnerability, in the Academy's current climate, was not merely embarrassing. It was dangerous. Cain's cameras watched the corridors. Cain's security committee assessed risk. A student who showed weakness was a student who might be restricted, confined, managed.
-
-Text 4 was about broadband.
-
-From the early days of the internet, the passage explained, there had been a fear that the companies selling broadband connections had the **power** and the incentive to favor their own content over their rivals'. The demand for net neutrality rules was a demand for a level playing field: the principle that all traffic on a network should be treated equally, regardless of its source.
-
-The FCC had gone back and forth. In 2015, under a Democratic majority, it had adopted strict net neutrality rules. In 2017, under a Republican majority, it had eliminated them. The court upheld the deregulatory order, but Judge Patricia Millett argued that "the result is unhinged from the realities of modern broadband service."
-
-Feimo read the passage and felt a recognition so immediate it was almost physical.
-
-Cain was the broadband provider. The Labyrinth was the network. The knowledge on the walls was the traffic. And Cain, by restricting access, by imposing dual authorization and curfews and surveillance, was doing exactly what the broadband companies wanted to do: picking winners and losers, favoring the content he controlled over the content he could not. The passage said that the endless legal battles "cry out for Congress to act." Feimo thought: the Labyrinth cries out for something similar. Not a congress but a principle. The principle that knowledge, like data, should flow without interference.
-
-She finished the reading section and turned to translation.
-
-The passage was about higher education. About societies that came out of war with enrollment levels that had been roughly constant at three to five percent of the relevant age groups, and then watched those numbers double within five-year periods during the 1960s and double again in the next decade. The demand for entry extended to groups and social classes that had not thought of attending a university before the war. New staff, predominantly young men and women fresh from postgraduate study, defined the norms of academic life. High growth rates increased the chances for academic innovation. They also weakened the forms and processes by which teachers and students were admitted into a community of scholars during periods of stability.
-
-Feimo translated the sentences into Chinese with the fluency of someone who had been doing this work for years, but her mind was on the Labyrinth. The passage described exactly what was happening here. The Fragmenter invasion was the war. The Academy was the institution that had emerged from it. The demand for knowledge was expanding, reaching students who had not previously thought of the Labyrinth as their concern. And the rapid growth was both an opportunity and a threat: it increased the chances for innovation while weakening the structures that had maintained order.
-
-She set down her pen and looked at the window. Rain again. The courtyard was grey. The cameras blinked their red rhythm.
-
-The exam was over. She closed the booklet.
+She closed her notebook and continued down the corridor.
 
 ---
 
 Mia was waiting in the corridor.
 
-She was leaning against the wall, arms crossed, tail wrapped once around her left thigh in the posture she adopted when she was thinking about something she did not want to discuss. Her ears were flat, not in anger but in a focused, inward-directed attention that Feimo had learned to recognize as the precursor to a revelation.
-
+She was leaning against the wall, arms crossed, her projection dimmed to a focused, inward-directed opacity that Feimo had learned to recognize as the precursor to a revelation.
 "I found something," Mia said.
 
 "Where?"
@@ -192,7 +113,7 @@ Mia's sealed memories were a Kafkaesque situation. The system had not malfunctio
 
 "The point of the parable," Feimo said, "is not that the man failed to enter. The point is that the door was never meant to be opened."
 
-Mia looked at her. The ears twitched, once, a involuntary movement that Mia immediately suppressed.
+Mia looked at her. Her projection flickered, once, an involuntary signal fluctuation that Mia immediately suppressed.
 
 "Then what's the point of the door?" Mia asked.
 
@@ -254,14 +175,36 @@ Feimo closed her eyes and let the darkness hold her.
 
 ---
 
+**Vocabulary Spotlight**
+
+- **Fragment** /ˈfræɡmənt/ — A small part broken off or incomplete. Eliot's Waste Land is made of fragments: quotations, allusions, shifts in language and register that refuse to cohere into a single narrative. The Labyrinth's damaged walls are fragments in the same sense: pieces of a knowledge system that once formed a whole. But fragmentation is not the same as destruction. A fragment retains the memory of its origin; destruction erases it. The chapter's central insight is that fragments are material — the raw substance from which new meaning can be assembled.
+
+- **Parable** /ˈpærəbəl/ — A short story that illustrates a moral or spiritual lesson through analogy. Kafka's "Before the Law" is a parable about authority, waiting, and the acceptance of limitations that may not be real. The door was made for the man, but he never tests whether the doorkeeper's power is genuine. The parable's horror lies not in the door's closure but in the man's lifelong refusal to question the system that prevents him from entering.
+
+- **Palimpsest** /ˈpælɪmpsɛst/ — (Reintroduced from Ch.36.) In the Kafka scene, the door itself is a palimpsest: the Chinese inscription carved over the Kafkaesque parable, one layer of meaning written over another. The Labyrinth accumulates meaning this way — each new text layered over the old, each reading adding a new interpretation to the same surface.
+
+---
+
+**Knowledge Cards**
+
+**Card #066: Eliot's *The Waste Land***
+
+T. S. Eliot's *The Waste Land* (1922) is the defining poem of literary Modernism. In 434 lines, it fragments dozens of sources — Shakespeare, Dante, Wagner, the Upanishads, music-hall songs, pub conversations — into a collage that mirrors a civilisation that has lost its centre. Eliot's method is not quotation but transformation: each fragment is torn from its original context and placed beside others, generating meaning through proximity and collision. The poem's famous conclusion — "These fragments I have shored against my ruins" — is not despair but strategy. The fragments are not the problem. The fragments are the material. Eliot's "objective correlative" — the idea that emotion should be conveyed through concrete imagery rather than abstract statement — is enacted structurally: the poem's meaning emerges not from any single line but from the pattern the lines create when read together.
+
+**Card #067: Kafka's "Before the Law"**
+
+Franz Kafka (1883–1924) wrote about metamorphosis, trials, and castles with the detachment of a man describing the weather. "Before the Law," a parable embedded in *The Trial* (1925), is his most concentrated allegory. A man stands before a gate. A doorkeeper blocks his entrance. The man waits his entire life. As he dies, he asks why no one else has ever sought entry. The doorkeeper replies: "This gate was made only for you. I am now going to close it." The parable's power lies in its refusal to explain. Kafka does not tell us what the gate represents, what the man should have done, or whether the doorkeeper's authority was real. The Kafkaesque — a term now used to describe bureaucratic absurdity — names situations that are simultaneously completely logical and fundamentally horrifying, where the system functions exactly as designed, and the design is the horror.
+
+---
+
 *Questions for Reflection:*
 
-1. The cloze passage describes fluid intelligence as something that "peaks in young adulthood" and then "generally starts to slowly decline." How does this biological metaphor apply to the Labyrinth's knowledge system? Is the Labyrinth's "intelligence" peaking, declining, or transforming into something else?
+1. The chapter opens with Feimo walking through a corridor of Eliot fragments. How does the physical experience of reading damaged walls differ from reading an intact text? What does the damage add to the meaning of the fragments?
 
-2. The Indonesian CCT study found that a poverty alleviation program unexpectedly reduced deforestation. What does this suggest about the relationship between the Academy's security measures and its intellectual health? Could Cain's restrictions produce unexpected effects, positive or negative?
+2. Feimo reflects that the 2021 exam passages all share a theme: "the gap between what systems intend and what they produce." How does this theme connect Eliot's Waste Land to Kafka's door? Are both about unintended consequences?
 
-3. The passage about Victorian photographs argues that smiles were concealed not because happiness did not exist but because the social cost of revealing it was too high. How does this apply to Mia? What is the "social cost" of emotional vulnerability in the Academy's current climate?
+3. Kafka's parable ends with the doorkeeper closing the gate that was made only for the man. Feimo argues that the door's purpose is "to be there," not to be opened. Do you agree? What does it mean to understand a door rather than open it?
 
-4. Kafka's parable ends with the doorkeeper closing the gate that was made only for the man. Feimo argues that the door's purpose is "to be there," not to be opened. Do you agree? What does it mean to understand a door rather than open it?
+4. Mia smiles at the end of the Kafka scene — "a small, slightly crooked" smile. What triggers this smile? Why is it significant that the smile comes after Feimo's interpretation of the parable, rather than after a practical solution to Mia's sealed memories?
 
-5. Eliot's The Waste Land is a poem made of fragments from dozens of sources in multiple languages. Is the Labyrinth, in its current damaged state, a waste land or something else? What is the difference between fragmentation and destruction?
+5. Eliot's *The Waste Land* is a poem made of fragments from dozens of sources in multiple languages. Is the Labyrinth, in its current damaged state, a waste land or something else? What is the difference between fragmentation and destruction?

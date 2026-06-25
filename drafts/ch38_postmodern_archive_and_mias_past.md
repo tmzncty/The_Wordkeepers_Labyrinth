@@ -330,56 +330,28 @@ Yue smiled. A small smile, uncertain, the smile of someone who has been given pe
 
 She walked back to her room through corridors that were quiet and dark.
 
-She thought about the Postmodern Archive. About the mirrors that showed different versions of the same room, about the books that organized the same knowledge by different principles, about the filing cabinet that held records of a life that Mia had lived and could not remember. The archive was the Labyrinth's acknowledgment that its own structure was a choice, not a truth. The levels, the corridors, the inscriptions, the knowledge cards, the exams: all of it was an arrangement, one arrangement among many, and the choice to organize knowledge this way carried consequences that the organizers had not fully anticipated.
+Feimo entered her room. She sat at her desk. She opened her notebook and wrote:
 
-The consequence of Mia's digitization was the loss of 2.7 percent. The consequence of the Labyrinth's structure was the assumption that knowledge could be separated from feeling, that information could be preserved without experience, that the mind could be copied without the body. The Postmodern Archive said: these are choices. They are not inevitable. The same material organized differently would produce different outcomes.
+*"The Postmodern Archive is not a room. It is an argument. The system is a system. It assumed 2.7 percent was non-essential. It assumed emotions were overhead, not architecture. Mia is the evidence that they were wrong. The 2.7 percent was not removed. It was compressed. And it is decompressing."*
 
-Feimo entered her room. She sat at her desk. She opened her notebook to a fresh page and wrote:
+She looked at the window. The rain had returned. The cameras blinked their red pulse. Somewhere in the building, Mia was reading a letter from herself. Somewhere else, Yue was writing a letter to herself.
 
-*"The Postmodern Archive is not a room. It is an argument. The argument is: the system is a system. It was designed by people. The design reflects their assumptions. Their assumptions were wrong. They assumed that 2.7 percent was non-essential. They assumed that emotions were overhead, not architecture. They assumed that a mind could exist without a body and remain the same mind.*
-
-*"Mia is the evidence that they were wrong. Not because she is damaged. Not because she is incomplete. But because she is still, after five years of digital existence, still capable of producing a sound that the system was not designed to process. The sound came from somewhere the procedure did not reach. The 2.7 percent was not removed. It was compressed. And it is decompressing.*
-
-*"The Labyrinth is helping. The walls carry the text that Mia carried before the procedure. The inscription on the door. The Chinese sentences. The parable of the doorkeeper. These are not random knowledge. They are Mia's knowledge, the knowledge she brought with her when she entered the Academy at seventeen, the knowledge that was encoded in her before the digitization and survived it because language survives where feeling does not.*
-
-*"She is remembering. Not her emotions. Her words. And the words are the door. Not the door that Kafka described, the door that was made only for the man and that closed at the moment of his death. A different door. A door that opens not because someone forces it but because the person standing in front of it finally understands that the doorkeeper's authority was never real.*
-
-*"The door was always unlocked.*
-
-*"She just needed someone to tell her."*
-
-Feimo set down her pen.
-
-She looked at the window. The rain had returned, a fine drizzle that turned the courtyard lights into halos. The cameras blinked their red pulse. Somewhere in the building, Mia was reading a letter from herself. Somewhere else, Yue was writing a letter to herself. Two women, two letters, two acts of reaching across time to connect with a self that existed in memory but not in experience.
-
-She thought about the existentialist proposition. Existence precedes essence. You are what you choose. Mia had chosen to be digitized. But Mia was also choosing, right now, in the archive on level nine, to read the records, to hold the letter, to sit with the knowledge of what she had been. And that second choice was not determined by the first. It was free. It was new. It was the beginning of a self that was neither the pre-digitization Mia nor the post-digitization Mia but something else: a Mia who knew what had happened and was deciding, for the first time with full information, what to do about it.
-
-The tears that Mia could not produce were not a failure. They were a threshold. Beyond the threshold was a territory that the digitization procedure had not mapped, because it could not be mapped, because it was the territory of the self that emerges when a person stops being what the system designed them to be and starts being what they choose to become.
+She thought about existence. Existence precedes essence. Mia had chosen to be digitized. But Mia was also choosing, right now, to read the records, to sit with the knowledge of what she had been. That second choice was not determined by the first. It was free.
 
 Feimo turned off the light.
 
-In the darkness, she thought about the writing prompt. A friend who wants to find a job in a foreign country. The suggestions are practical: learn the language, understand the culture, prepare your documents. But the real suggestion, the one that does not fit on an answer sheet, is simpler: you are not your documents. You are not your visa status. You are not the system's assessment of your qualifications. You are the person who chose to go, and the going is the thing that matters.
-
-Mia had gone. She had crossed the border between body and data. She had lost things along the way. But she had arrived, and she was here, and the archive was showing her the map of her own journey, and the map was not the territory but it was the first step toward understanding where she was.
-
-Feimo closed her eyes.
-
-Somewhere in the building, on level nine, in a room that was almost but not quite the reading hall on level two, Mia sat in an institutional chair and held a letter in her shaking hands and read, again, the words that her past self had left for her:
+Somewhere on level nine, Mia held a letter in her shaking hands and read, again, the words that her past self had left for her:
 
 *"I do not know if I will still be me. But I know that what I know will survive."*
 
-And for the first time in five years, the person reading those words understood that survival was not the same as living, and that the difference between them was exactly 2.7 percent, and that the 2.7 percent was not gone but waiting, and that waiting was not the same as being lost.
+And for the first time in five years, the person reading those words understood that survival was not the same as living, and that the difference between them was exactly 2.7 percent.
 
 ---
 
 *Questions for Reflection:*
 
-1. The Postmodern Archive contains mirrors that show different versions of the same room, organized by different principles. If the Labyrinth's knowledge system is one arrangement among many, what other arrangements are possible? What would the Labyrinth look like if it were organized by emotion rather than by logic?
+1. Card #068 defines postmodernism as "incredulity toward metanarratives." The Labyrinth is a metanarrative. What does it mean for the Labyrinth to contain, within itself, a room that argues against its own organizing principles?
 
-2. Card #068 defines postmodernism as "incredulity toward metanarratives." The Labyrinth is a metanarrative: it claims to organize all knowledge into a coherent structure. What does it mean for the Labyrinth to contain, within itself, a room that argues against its own organizing principles?
+2. Card #069 says that "existence precedes essence." Mia's digitization was an attempt to preserve essence at the expense of existence. How does the existentialist framework apply to her situation? Is she still "condemned to be free"?
 
-3. Card #069 says that "existence precedes essence." Mia's digitization was an attempt to preserve essence (knowledge, intelligence) at the expense of existence (embodiment, emotion). How does the existentialist framework apply to her situation? Is she still "condemned to be free"?
-
-4. The 2021 translation passage describes societies that experienced rapid growth in higher education after a war, and notes that high growth rates "increased the chances for academic innovation" while also weakening "the forms and processes by which teachers and students are admitted into a community of scholars." How does this apply to the Labyrinth after the Fragmenter invasion?
-
-5. Yue writes to her past self: "You used to be part of someone else. Now you are your own." What is the relationship between memory and identity? If you lose your memories, are you still yourself? If someone else's memories surface in you, whose self are you?
+3. Yue writes to her past self: "You used to be part of someone else. Now you are your own." What is the relationship between memory and identity? If you lose your memories, are you still yourself?

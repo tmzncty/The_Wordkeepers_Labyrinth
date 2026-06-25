@@ -20,29 +20,29 @@ Feimo looked at her own version. Mia was right. She had compressed the middle in
 
 "When you started making mistakes worth criticizing." But there was no bite in it. Mia's voice had softened over the past weeks, almost imperceptibly, the way a coastline erodes: not in dramatic collapses but in the slow withdrawal of hard edges. She still sounded like Mia. She still said things that could cut glass. But the intent behind them had shifted from distance to something closer to attention.
 
-The seminar room was small, one of the Academy's third-floor spaces with tall windows that let in the grey afternoon light of late autumn. There were twelve desks arranged in a loose semicircle, though only seven were occupied. The Deep Labyrinth expedition had taken its toll on class attendance; half the cohort had either dropped the translation elective or stopped coming, worn down by the Professor's standards, which were exacting to the point of cruelty. Feimo and Mia sat in their usual positions: front row, slightly left of center, close enough to the board to read the Professor's handwriting, which was beautiful and indecipherable in equal measure.
+The seminar room was small, with tall windows that let in the grey afternoon light. There were twelve desks in a semicircle, though only seven were occupied. The Deep Labyrinth expedition had taken its toll on attendance.
 
-Yue sat behind them, as she always did, saying nothing, her notebook open to a page that was already full. She had filled three notebooks this semester, each one in a handwriting so small it required a magnifying lens to read. Feimo had never seen her erase anything. Whatever Yue wrote, she wrote once and kept, as if the act of putting words on paper was a form of sealing them.
+Yue sat behind them, saying nothing, her notebook open to a page that was already full. She had filled three notebooks this semester, each one in handwriting so small it required a magnifying lens to read.
 
-Noah was absent again. She had been absent for three consecutive sessions, and Feimo had learned not to ask why. Noah operated on a schedule that the Academy's administrators could not see and that Feimo had stopped trying to parse. She would appear when she appeared. In the meantime, her empty desk was its own kind of statement: a chair that said *I am somewhere more important*.
+Noah was absent again, for the third consecutive session. Her empty desk was its own kind of statement.
 
-Aya sat at the far right, two rows back, her posture perfect, her expression unreadable. Since the tournament, she and Feimo had developed a rapport that was difficult to name. It was not friendship, exactly. It was the recognition that comes from having fought someone and discovered they are better than you expected, followed by the quiet recalibration of respect. Aya still competed with Feimo in every exercise, still measured herself against every score, but the competition had lost its edge of contempt and gained something that might, in time, become warmth.
+Aya sat at the far right, two rows back, her posture perfect, her expression unreadable. Since the tournament, she and Feimo had developed a rapport that was difficult to name. It was not friendship, precisely. It was the recognition that comes from having fought someone and discovering they are better than you expected.
 
-Cain was not here either. Cain was never here for the translation elective. He had his own curriculum, his own private tutorials with faculty whose names Feimo did not know, and his own reasons for avoiding the Professor's seminars. Feimo suspected those reasons had less to do with translation and more to do with the fact that the Professor asked questions Cain could not deflect with charm.
+Cain was not here either. He had his own curriculum, his own private tutorials, and his own reasons for avoiding the Professor's seminars. Feimo suspected those reasons had less to do with translation and more to do with the fact that the Professor asked questions Cain could not deflect with charm.
 
 The door opened. The Professor entered.
 
 ---
 
-The Professor's name was Silence, which was not a name but a condition. She taught translation the way some people taught swimming: by throwing you into deep water and observing whether you floated. Her lectures were sparse. Her corrections were surgical. She never explained a principle before demonstrating its violation, and she never praised a translation without specifying exactly where it fell short of being good.
+The Professor's name was Silence, which was not a name but a condition. He taught translation the way some people taught swimming: by throwing you into deep water and observing whether you floated. His lectures were sparse. His corrections were surgical. He never explained a principle before demonstrating its violation, and he never praised a translation without specifying where it fell short of being good.
 
 "Today," she said, setting a single sheet of paper on the lectern, "we begin with a confession."
 
 She let the word hang. The room was quiet. Even Mia, who had a theory about everything, waited.
 
-"I have been teaching you translation as if it were a technical skill," the Professor continued. "As if the goal were accuracy. As if the measure of a good translation were how closely it resembled the original. This has been a lie." She paused. "Not a malicious one. A necessary one. You needed to learn to walk before I could teach you where to go."
+"I have been teaching you translation as if it were a technical skill," the Professor continued. "As if the goal were accuracy. As if the measure of a good translation were how closely it resembled the original. This has been a lie." He paused. "Not a malicious one. A necessary one. You needed to learn to walk before I could teach you where to go."
 
-She picked up the sheet and held it up. Feimo could see the text from where she sat: a passage printed in clean type, about half a page, with annotations in the Professor's hand covering the margins.
+He picked up the sheet and held it up. Feimo could see the text from where she sat: a passage printed in clean type, about half a page, with annotations in the Professor's hand covering the margins.
 
 "In 1898," the Professor said, "a Chinese scholar named Yan Fu translated Thomas Huxley's *Evolution and Ethics* into classical Chinese. In his preface, he articulated three principles that have governed translation theory in China for over a century. He called them 信, 达, 雅. Faithfulness. Expressiveness. Elegance."
 
@@ -80,7 +80,7 @@ She looked at what she had written and did not cross it out.
 
 ---
 
-"Good," the Professor said, reading over Feimo's shoulder. It was the first time all semester she had used the word without attaching a qualifier.
+"Good," the Professor said, reading over Feimo's shoulder. It was the first time all semester he had used the word without attaching a qualifier.
 
 "She wrote three versions," Mia said, leaning over to look. "The third one is different."
 
@@ -94,7 +94,7 @@ Mia read it again, slowly. Feimo watched her face and saw the exact moment when 
 
 "Then what does it sound like?" Feimo asked, and she heard her own voice come out smaller than she intended, stripped of its usual defensive irony, naked in a way she was not used to.
 
-Mia turned to look at her. The grey afternoon light from the tall windows fell across Mia's face in a way that made her expression difficult to read, but Feimo's ears, those traitorous, sensitive, unasked-for instruments, caught what her eyes could not: the slight change in Mia's breathing, the half-second pause before she spoke, the way her vocal cords engaged not from the throat but from somewhere deeper.
+Mia turned to look at her. The grey afternoon light from the tall windows fell across Mia's projection in a way that made her expression difficult to read, but Feimo's ears caught what her eyes could not: the subtle shift in Mia's rendering, the half-second pause before she spoke, the way her voice engaged not from the surface but from somewhere deeper.
 
 "It sounds like you," Mia said.
 
@@ -112,9 +112,9 @@ The room had gone quiet in the way that rooms go quiet when something important 
 
 The Professor returned to the lectern.
 
-"What Mia has identified," she said, addressing the room but looking at Feimo, "is the difference between a translator and a voice. A translator converts text from one language to another. A voice speaks. The passage you translated today is about the escalation of academic expectations: anyone applying for a research post now has to have published twice the number of papers required only a decade ago. The faithful translation preserves the facts. The expressive translation preserves the argument. The elegant translation, the one that sounds like a voice, preserves the *feeling* beneath the facts: the weariness, the quiet protest, the sense that a system designed to measure quality has become a machine for producing quantity."
+"What Mia has identified," he said, addressing the room but looking at Feimo, "is the difference between a translator and a voice. A translator converts text from one language to another. A voice speaks. The passage you translated today is about the escalation of academic expectations: anyone applying for a research post now has to have published twice the number of papers required only a decade ago. The faithful translation preserves the facts. The expressive translation preserves the argument. The elegant translation, the one that sounds like a voice, preserves the *feeling* beneath the facts: the weariness, the quiet protest, the sense that a system designed to measure quality has become a machine for producing quantity."
 
-She picked up the next sheet.
+He picked up the next sheet.
 
 "This is the follow-up sentence from the same passage: *Attempts have been made to curb this tendency, for example, by trying to incorporate some measure of quality as well as quantity into the assessment of an applicant's papers.* Notice the structure. Passive voice. The actor is hidden. 'Attempts have been made' by whom? The sentence does not say, and that omission is deliberate. It implies that the system itself is trying to correct its own excesses, and that those efforts are tentative, half-hearted, experimental. 'Trying to incorporate.' Not 'incorporating.' The gerund signals ongoing effort, not accomplished reform. A faithful translation preserves the passive voice. An expressive translation identifies the implied agent. An elegant translation captures the irony."
 
@@ -128,11 +128,11 @@ The second half of the seminar was devoted to the concept of the invisible trans
 
 "A common misconception," the Professor said, "is that the best translation is one where the translator disappears. Where the reader encounters only the original author's voice, unmediated, transparent, as if the language barrier had never existed. This is a fiction. A useful fiction, perhaps, but a fiction nonetheless."
 
-She projected a passage on the screen. Feimo recognized it immediately: the Reading Part B text from the 2019 exam about arguments, about the difference between winning an argument and having a reasoned exchange. The passage had been one of the most discussed in their cohort, not because of its content but because of the translation challenge it posed: it was written in a conversational, almost colloquial style that resisted formal Chinese rendering without losing its tone.
+She projected a passage on the screen. Feimo recognized it: the Reading Part B text about arguments, about the difference between winning and having a reasoned exchange.
 
 *If we readjust our view of arguments — from a verbal fight or tennis game to a reasoned exchange through which we all gain mutual respect and understanding — then we change the very nature of what it means to "win" an argument.*
 
-"The author of this passage is making an argument about arguments," the Professor said. "He is saying that the way we frame a disagreement determines its outcome. If we see arguments as fights, we fight. If we see them as exchanges, we exchange. The framing is the message. Now, translate this sentence. But understand that the framing of the translation is also a message. Your choices as a translator are not neutral. They are, themselves, an argument about what the text means."
+"The author is making an argument about arguments," the Professor said. "He is saying that the way we frame a disagreement determines its outcome. Now, translate this sentence. But understand that the framing of the translation is also a message. Your choices as a translator are not neutral."
 
 The room was silent. Feimo could hear the radiator ticking, the wind pressing against the tall windows, the sound of Yue's pencil moving at its usual microscopic scale. She could also hear Mia, still and breathing, waiting.
 
@@ -146,9 +146,7 @@ She let the questions sit.
 
 Feimo worked through the passage sentence by sentence, and for the first time, she was not afraid of what she was producing.
 
-The fear had been there all semester, a low hum beneath every exercise, every assignment, every late night in the server room with Mia. The fear of being wrong. The fear of being caught between languages, belonging to neither, competent in both, master of none. The fear that her bilingualism was not a gift but a defect: a split consciousness that could hear both languages clearly but speak neither with the uncomplicated authority of a native.
-
-She had grown up speaking Chinese at home and English at school, and for most of her life she had treated this as a practical arrangement, like having two keys to the same house. But translation was not about having two keys. It was about standing in the doorway, one foot in each room, and discovering that the doorway was its own space, not a passage between two rooms but a room in its own right, with its own light, its own air, its own way of being.
+The fear had been there all semester: the fear of being wrong, of being caught between languages, belonging to neither. She had grown up speaking Chinese at home and English at school, and for most of her life she had treated this as a practical arrangement, like having two keys to the same house. But translation was not about having two keys. It was about standing in the doorway, one foot in each room, and discovering that the doorway was its own space, with its own light, its own way of being.
 
 The passage about arguments continued:
 
@@ -186,7 +184,7 @@ They descended one flight. The stairwell amplified their footsteps, turned them 
 
 "I did. The first version of the first sentence."
 
-"No. You crossed out the versions that weren't yours. What you kept was the version that was." Mia stopped on the landing between the second and first floors. The light here was dim, a single overhead fixture casting a yellow pool that made the concrete walls look like the inside of an envelope. "That's what the Professor was showing us with 信达雅. Faithfulness to the source, expressiveness in your own language, elegance in the space between. But there's a fourth thing she didn't name, because it's not a principle. It's a condition. It's the moment when the translator stops being a translator and starts being a person who happens to be speaking in two languages at once."
+"No. You crossed out the versions that weren't yours. What you kept was the version that was." Mia stopped on the landing between the second and first floors. The light here was dim, a single overhead fixture casting a yellow pool that made the concrete walls look like the inside of an envelope. "That's what the Professor was showing us with 信达雅. Faithfulness to the source, expressiveness in your own language, elegance in the space between. But there's a fourth thing he didn't name, because it's not a principle. It's a condition."
 
 "And you think I reached that?"
 
@@ -222,7 +220,7 @@ The library was warm, which was unusual enough to be suspicious.
 
 Feimo settled into her usual carrel, the one by the window that overlooked the courtyard, and spread out her translation notes from the seminar. The three versions of each sentence stared up at her like three different faces of the same person, and she studied them not for correctness but for character. The faithful versions were careful, dutiful, the work of someone who respected the source too much to deviate from it. The expressive versions were clearer, more natural, the work of someone who understood that communication required adaptation. The elegant versions were hers. Not all of them, not yet. But enough of them that she could see the pattern: a preference for rhythm over precision, for implication over statement, for the sentence that meant more than it said.
 
-She thought about the passage on grade forgiveness from the Reading section, the one about how colleges allowed students to retake courses and have the lower grade erased. The exam question had asked about the *original purpose* of the policy, and the answer was simple: to help freshmen adapt to college learning. But the deeper reading revealed something more complex: a system that started with good intentions and expanded into institutional self-interest, where the same policy that helped students also served the college's need for tuition revenue and graduation statistics. The mechanism was the same in translation. A translation that begins as an act of service to the reader can become, if the translator is not careful, an act of service to the translator's own ego, or to the market, or to the institution that grades the work. The discipline of 信达雅 was not just about producing good translations. It was about remembering *why* you were translating in the first place.
+She thought about how translation began as service to the reader and could become, if the translator was not careful, service to the translator's own ego. The discipline of 信达雅 was not just about producing good translations. It was about remembering *why* you were translating in the first place.
 
 She wrote that down. It was not a translation. It was a thought. And it sounded like her.
 
@@ -234,7 +232,7 @@ She wrote that down. It was not a translation. It was a thought. And it sounded 
 
 "How did you know?"
 
-"Because you only make that face after translation class. After cloze exercises, you look annoyed. After reading comprehension, you look bored. After translation, you look like someone trying to decide whether to be happy or terrified." Noah opened the topmost book. It was, Feimo noticed, a first edition of something in a language she could not immediately identify. "I heard you found your voice today."
+"Because you only make that face after translation class. After cloze exercises, you look annoyed. After reading comprehension, you look bored. After translation, you look like someone trying to decide whether to be happy or terrified." Noah opened the topmost book. "I heard you found your voice today."
 
 "Who told you that?"
 
@@ -250,15 +248,15 @@ Feimo looked at the book. It was a collection of Yan Fu's original translations,
 
 "The Academy has a lot of things it doesn't know it has. The restricted section is basically a second Labyrinth, only instead of walls that consume text, it has shelves that accumulate it. I've been cataloguing the anomalies. There are more than the administration thinks." Noah's voice dropped. "But that's a conversation for another time. Right now, this is a gift. Because you earned it."
 
-Feimo opened the book. The first page was Yan Fu's preface, the famous passage where he articulated the three principles, written in classical Chinese so dense it required effort to parse. She read it slowly, her lips moving, her cat ears angled forward, and the words reached her not as a lesson but as a recognition: this man, over a century ago, had stood in the same doorway she stood in now, between languages, between worlds, and had tried to name what it felt like to be the person who held both sides together.
+Feimo opened the book. The first page was Yan Fu's preface, the famous passage where he articulated the three principles, written in classical Chinese so dense it required effort to parse.
 
 *译事三难：信、达、雅。求其信，已大难矣。*
 
 *Translation has three difficulties: faithfulness, expressiveness, elegance. To achieve faithfulness alone is already immensely difficult.*
 
-"大难," Feimo murmured. "Immense difficulty. He says it like an apology."
+"大难," Feimo murmured. "Immense difficulty."
 
-"He says it like a warning," Noah corrected. "He's telling every translator who comes after him: this is going to be harder than you think. Not the mechanics. The *ethics*. Because faithfulness isn't just accuracy. It's honesty. And honesty is the hardest thing to maintain when you're standing between two people who don't speak the same language and both of them are counting on you to tell the truth."
+"He says it like a warning," Noah corrected. "Faithfulness isn't just accuracy. It's honesty. And honesty is the hardest thing to maintain when you're standing between two people who don't speak the same language."
 
 Feimo closed the book gently, aware of its age, its fragility, the weight of the century that separated its publication from her hands.
 
@@ -268,23 +266,17 @@ Feimo closed the book gently, aware of its age, its fragility, the weight of the
 
 "What message?"
 
-"She said: 'The sentence about research posts — the one Feimo translated today — it was the translation exam's Q47. The next sentence, the one about incorporating quality as well as quantity into assessment, was Q48. And the sentence that follows it, about ensuring that science is meaningful and reproducible —'"
+"He said: 'The sentence about research posts — the one Feimo translated today — it was the translation exam's Q47. The next sentence, the one about incorporating quality as well as quantity into assessment, was Q48. And the sentence that follows it, about ensuring that science is meaningful and reproducible —'"
 
 "Q50," Feimo said. "I know it. 'If we are serious about ensuring that our science is both meaningful and reproducible, we must ensure that our institutions encourage that kind of science.'"
 
-"She said to tell you: the word 'ensure' appears twice in that sentence, and both times it means something different. The first 'ensure' is about aspiration. The second is about responsibility. Most translators treat them as the same word. She wants you to figure out why they're not."
+"He said to tell you: the word 'ensure' appears twice in that sentence, and both times it means something different. The first 'ensure' is about aspiration. The second is about responsibility. Most translators treat them as the same word. He wants you to figure out why they're not."
 
 Noah left. Feimo sat in the warm library with Yan Fu's book in her hands and the Professor's challenge in her mind, and she began to work.
 
 ---
 
-The passage about AI and Frankenstein was next. She had not planned to work through the entire 2019 exam in one evening, but the momentum of discovery carried her forward in the way that important work does: not as a task to be completed but as a conversation to be continued.
-
-The Reading section's Text 3 posed the question that had been haunting the Academy since the Deep Labyrinth expedition: *What is intelligence, identity, consciousness? What makes humans humans?* The passage argued that artificial general intelligence continued to evade scientists, that the complexity of human thought was too great to reproduce, and that the ethical questions raised by AI were urgent even if the technology itself remained primitive. The best title, the exam decided, was "The Conscience of AI: Complex But Inevitable."
-
-Feimo translated the title. Then translated it again. Then a third time.
-
-The word "conscience" was the problem. In English, it carried a double meaning: the moral sense that tells right from wrong, and the broader faculty of self-awareness. In Chinese, 良知 captured the moral dimension but missed the self-reflective one. 良心 was closer to "heart" than "conscience." 意识 was too clinical. She sat with the word, turning it over, and eventually found what she was looking for not in any dictionary but in the same place she had found her translation voice: in the space between languages, in the doorway.
+She moved through the exam's translation section, and then turned to a word that had been haunting her since the Deep Labyrinth expedition: *conscience*. In English, it carried a double meaning: the moral sense that tells right from wrong, and the broader faculty of self-awareness. In Chinese, 良知 captured the moral dimension but missed the self-reflective one. 良心 was closer to "heart." 意识 was too clinical. She sat with the word, turning it over, and eventually found what she was looking for not in any dictionary but in the same place she had found her translation voice: in the space between languages, in the doorway.
 
 觉识. Awareness-knowledge. A word that did not exist in standard Chinese but that said exactly what she meant: the capacity to know that you know, to be conscious of your own consciousness, to wake up inside your own mind and recognize the room.
 
@@ -296,9 +288,7 @@ The library was closing. The overhead lights flickered their fifteen-minute warn
 
 Not dramatically. Not in the way that doors appear in walls that should not have them, or that Chinese characters materialize in the depths of an English-only Labyrinth. The change was quieter. It was the shift that occurs when a person stops performing a skill and starts living inside it. She had been performing translation all semester: executing the Professor's exercises with competence and care, producing work that was accurate and dutiful and empty. Today she had lived inside it, and the difference was the difference between a photograph of a room and the room itself.
 
-She thought about the cloze exercise about navigation, the one she had worked through weeks ago. The passage about getting lost in the woods without a phone, without a compass, unable to literally find north. The advice was practical: head downhill, follow the water, look for signs of human habitation, spot the gaps in the tree line where people had carved paths through the woods. Eventually, if you followed the marks we leave on the landscape, you would find your way back to civilization.
-
-She had been lost in the woods of translation all semester. Faithfulness had been her compass, and it had pointed true, but a compass only tells you which direction is north. It does not tell you where you are. Expressiveness had been her downhill slope: the instinct to follow the path of least resistance, to make the translation sound natural, to let gravity do the work. But elegance, the third principle, was the equivalent of climbing high and looking for the signs of human habitation. It required elevation. It required the courage to stop walking and look up.
+She had been lost in the woods of translation all semester. Faithfulness had been her compass, pointing true. Expressiveness had been her downhill slope: the instinct to follow the path of least resistance. But elegance, the third principle, required elevation. It required the courage to stop walking and look up.
 
 She was not lost anymore. She was not found, either. She was standing somewhere new, on a hill she had not known existed, looking at a landscape she had walked through a hundred times without seeing.
 
@@ -308,9 +298,9 @@ She packed her things, placed Yan Fu's book carefully in her bag, and walked to 
 
 ---
 
-The dormitory was dark when she returned. Mia was already asleep, or pretending to be, her breathing the slow, even rhythm that Feimo had learned to distinguish from real sleep by its too-perfect regularity. Real sleep had irregularities: a deeper breath here, a slight catch there. Mia's breathing when she was pretending to sleep was metronomic, controlled, even in unconsciousness a performance of composure.
+The dormitory was dark when she returned. Mia's projection was dimmed, her standby mode the slow, even cycling that Feimo had learned to distinguish from true standby by its too-perfect regularity.
 
-Feimo set her bag down quietly, changed into sleep clothes, and sat on the edge of her bed. The room was cold, the radiator doing its best, and through the window she could see the courtyard below, lit by the amber glow of the security lights, empty except for the bench where she and Mia had sat in September, arguing about a cloze answer that turned out to be "Few" and not "Most."
+Feimo set her bag down quietly, changed into sleep clothes, and sat on the edge of her bed. The room was cold. Through the window she could see the courtyard below, lit by the amber glow of the security lights.
 
 She opened Yan Fu's book one last time. The page fell open to the preface, to the line she had read in the library, and she traced the characters with her fingertip, feeling the indentations where the type had pressed into the paper over a century ago.
 
@@ -348,7 +338,7 @@ The room returned to darkness, and the radiator ticked, and outside the window t
 
 Feimo closed the book. She closed her eyes.
 
-She slept without dreaming, which was, she would later realize, the first time in months that her sleep had not been filled with the half-formed visions of Labyrinth languages and consumed text and seven symbols that meant something she had not yet understood. Her mind, for one night, was quiet. Not empty. Not afraid. Just quiet, the way a room is quiet after the last note of a song has faded but the memory of it remains, vibrating in the walls, in the furniture, in the air itself, waiting to be heard again.
+She slept without dreaming, the first time in months that her mind had been quiet. Not empty. Not afraid. Just quiet, the way a room is quiet after the last note of a song has faded but the memory remains.
 
 ---
 
@@ -357,18 +347,13 @@ She slept without dreaming, which was, she would later realize, the first time i
 *Translation Masterclass — 信达雅 (The Three Virtues of Translation)*
 
 *Key Concepts:*
-- *信 (xìn): Faithfulness — fidelity to the source text's meaning*
-- *达 (dá): Expressiveness — clarity and naturalness in the target language*
-- *雅 (yǎ): Elegance — beauty of expression that serves rather than obscures meaning*
+- *信 (xìn): Faithfulness — fidelity to the source*
+- *达 (dá): Expressiveness — clarity in the target language*
+- *雅 (yǎ): Elegance — beauty that serves meaning*
 
 *Knowledge Cards Referenced:*
-- *#054: Critical Realism — "the greatest triumph of realism" (Engels on Balzac): fidelity to observed reality over fidelity to personal ideology. The translator's faithfulness, like the realist's, demands honesty about what is there, not what we wish were there.*
-- *#055: Balzac — "an encyclopedia of capitalist society," nine thousand characters, two thousand people. The translator who would render Balzac must first understand that translation is not substitution but reconstruction: every sentence is a system, and changing one element changes all the others.*
-
-*Vocabulary Glyphs Acquired:*
-- *develop: to grow, to evolve, to bring into existence through effort and time*
-- *effect: the result of a cause; also, to effect = to bring about (verb)*
-- *ensure: to make certain; first usage = aspiration (ensuring science is meaningful); second usage = responsibility (ensuring institutions encourage good science)*
+- *#054: Critical Realism — fidelity to observed reality over ideology*
+- *#055: Balzac — translation as reconstruction, not substitution*
 
 *Romance Status: Phase 5: Awareness — 100.*
 
@@ -376,12 +361,10 @@ She slept without dreaming, which was, she would later realize, the first time i
 
 **Author's Reflection Questions:**
 
-1. The Professor argues that a translator's choices are "an argument about what the text means." How does this apply to reading comprehension itself? When you read a passage for an exam, are you translating it from the author's language into your own understanding?
+1. The Professor argues that a translator's choices are "an argument about what the text means." When you read a passage for an exam, are you translating it from the author's language into your own understanding?
 
-2. The cloze passage about navigation advises: "head downhill, follow the water, look for signs of human habitation." How is this advice analogous to the process of learning a new language? What are the "signs of human habitation" in a foreign text?
+2. Feimo coins 觉识 (awareness-knowledge) to translate "conscience." Is it valid to invent words in translation? Where is the line between creativity and distortion?
 
-3. Feimo coins the word 觉识 (awareness-knowledge) to translate "conscience" in the AI passage. Is it valid to invent words in translation? Where is the line between creativity and distortion?
+3. Mia says, "You sounded like yourself today. Those aren't the same thing" as "you got it right." What is the difference between sounding like yourself and being correct?
 
-4. Mia says, "You sounded like yourself today. Those aren't the same thing" as "you got it right." What is the difference between sounding like yourself and being correct? Can they coexist?
-
-5. Yan Fu wrote: "To achieve faithfulness alone is already immensely difficult." Why might faithfulness, which sounds like the simplest of the three virtues, actually be the hardest?
+4. Yan Fu wrote: "To achieve faithfulness alone is already immensely difficult." Why might faithfulness, which sounds like the simplest virtue, actually be the hardest?

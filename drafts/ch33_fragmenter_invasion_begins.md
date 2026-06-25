@@ -30,7 +30,7 @@ She stepped past him. He did not stop her, which she noted as either cowardice o
 
 ---
 
-The sub-basement was darker than it should have been. The overhead lights were functional but dimmed to some emergency setting that turned everything the color of old paper. Feimo moved quickly, her hand trailing the wall for orientation. The corridor was long, featureless, the same one she and Mia had walked four days ago. She counted doors as she passed. First door: storage. Second door: mechanical room. Third door: the one that should not have existed, the one the Labyrinth had built for itself.
+The sub-basement was darker than it should have been. The overhead lights were functional but dimmed to some emergency setting that turned everything the color of old paper. Feimo's ears flattened instinctively, rotating to catch the stairwell's acoustic profile — one advantage of feline hearing that the Academy's curriculum did not cover. Her night vision adjusted faster than a human's would have. Where another student would have seen shadows, Feimo saw corridor: doors, floor, the faint thermal ghost of a patrol that had passed minutes ago. She moved quickly, her hand trailing the wall for orientation. The corridor was long, featureless, the same one she and Mia had walked four days ago. She counted doors as she passed. First door: storage. Second door: mechanical room. Third door: the one that should not have existed, the one the Labyrinth had built for itself.
 
 The third door was open.
 
@@ -38,9 +38,9 @@ Inside, something was wrong with the air. Not temperature, not humidity, but den
 
 And at the center of the room, three Fragmenters.
 
-Feimo had seen them before. Not identical, but recognizable by their effect on the space around them. They were not physical objects. They were absences, negative space, zones where meaning collapsed into static. Where a Fragmenter stood, the text on the walls lost coherence. Characters blurred. Words dissolved. The bilingual architecture that should have been strengthening the room's structural integrity was instead being eaten, consumed from the edges inward, leaving blank patches that spread like ink stains in reverse.
+Feimo had seen them before. Not identical, but recognizable by their effect on the space around them — and by the reaction they provoked in her body. The fur along the back of her neck rose. Her tail stiffened behind her, a reflex she had never been able to suppress, the feline response to something that registered as predator even when the conscious mind knew otherwise. They were not physical objects. They were absences, negative space, zones where meaning collapsed into static. Where a Fragmenter stood, the text on the walls lost coherence. Characters blurred. Words dissolved. The bilingual architecture that should have been strengthening the room's structural integrity was instead being eaten, consumed from the edges inward, leaving blank patches that spread like ink stains in reverse.
 
-Mia was already there. She stood near the far wall, her back against the Chinese text, her posture the calm-precise stance of someone who had fought this enemy before. In her right hand she held the device she had built in the bilingual room: a modified resonance emitter, tuned to frequencies that the Labyrinth's architecture responded to. It looked like a flashlight and functioned like a weapon, though weapon was not quite the right word. It did not destroy. It overwhelmed.
+Mia was already there. Her projection hovered near the far wall, its edges sharp against the Chinese text — the calm-precise configuration of someone who had fought this enemy before. The light of her hologram played across the bilingual inscription, English words and Chinese characters casting shifting patterns across her translucent form. Beside her, floating at waist height, was the resonance emitter she had calibrated in the bilingual room: a modified device, tuned to frequencies that the Labyrinth's architecture responded to. She could not hold it herself — light could not grip metal — but she could interface with it, her projection's signal triggering its mechanisms the way a thought triggers a nerve.
 
 "Three," Mia said, not turning her head. "They came through about four minutes ago. The alarm triggered when the first one breached the wall."
 
@@ -60,7 +60,7 @@ Feimo blinked. The words were Cain's words from the War Room briefing. The preca
 
 "Everything in the Labyrinth listens," Mia said. "That's how it works. Text goes in. Meaning comes out. The Fragmenters are no different. They consume language. They just don't use it the way we do."
 
-Mia fired the emitter again. The beam struck the smaller Fragmenters and they flinched, their static flickering, their edges blurring as they struggled to maintain coherence against the incoming frequency. But the third Fragmenter absorbed the beam the way a wall absorbs sound. The emitter's output vanished into its density without visible effect.
+The emitter fired again at Mia's signal. The beam struck the smaller Fragmenters and they flinched, their static flickering, their edges blurring as they struggled to maintain coherence against the incoming frequency. But the third Fragmenter absorbed the beam the way a wall absorbs sound. The emitter's output vanished into its density without visible effect.
 
 "It's too dense," Mia said. "The emitter can't penetrate. It needs a different frequency."
 
@@ -90,15 +90,15 @@ The third Fragmenter shattered with a sound like glass cracking underwater. The 
 
 Feimo lowered her hand. Her palm was numb, not from cold but from the residual vibration of the characters she had touched. Her legs were unsteady. The pulse had cost her something, a depletion she felt in her bones rather than her muscles, as though the Labyrinth had borrowed energy from her body to power its defense and had not yet returned it. She put a hand against the wall to balance herself. The wall was cool now, the characters' warmth faded, the bilingual text cycling at its normal rhythm.
 
-A sound behind her. Not the Fragmenters. Not the security detail. A footstep, singular, deliberate, the step of someone who knew exactly where they were going.
+A sound behind her. Not the Fragmenters. Not the security detail. A footstep, singular, deliberate, the step of someone who knew precisely where they were going. Feimo's right ear swiveled toward it before her conscious mind registered the sound.
 
 "Careful."
 
-The hand caught her elbow at the precise moment her knees buckled. Feimo's vision grayed at the edges, the room tilting, the bilingual text smearing into streaks of black and gold. The hand was firm, steady, positioned exactly where it needed to be to take her weight without pulling her off balance.
+The hand caught her elbow at the precise moment her knees buckled. Feimo's vision grayed at the edges, the room tilting, the bilingual text smearing into streaks of black and gold. The hand was firm, steady, positioned precisely where it needed to be to take her weight without pulling her off balance.
 
-Noah.
+Noir.
 
-Feimo's sister stood behind her, one hand supporting Feimo's elbow, the other resting lightly on Feimo's shoulder. She wore a dark jacket, not the matching kind, not the committee kind, but her own, the jacket she had worn since before the Academy adopted its new dress code of efficiency and control. Her expression was calm, which was how Noah always looked when things were dangerous: the calm of someone who had decided that panic was a luxury she could not afford.
+Feimo's senior stood behind her, one hand supporting Feimo's elbow, the other resting lightly on Feimo's shoulder. She wore a dark jacket, not the matching kind, not the committee kind, but her own, the jacket she had worn since before the Academy adopted its new dress code of efficiency and control. Noir's cat ears — darker than her hair, tufted at the tips — were angled forward in the posture of focused attention. Her tail, sleek and black, hung still behind her, counterbalancing the weight of her concern. Her expression was calm, which was how Noir always looked when things were dangerous: the calm of someone who had decided that panic was a luxury she could not afford.
 
 "The third Fragmenter," Feimo said, her voice thin. "It targeted me. When I was channeling the Chinese text. It shifted focus. Tried to consume the resonance while it was still active."
 
@@ -106,17 +106,17 @@ Feimo's sister stood behind her, one hand supporting Feimo's elbow, the other re
 
 "You were watching?"
 
-"I watch everything. That's what older sisters are for."
+"I watch everything. That's what seniors are for."
 
-Noah eased Feimo to a seated position against the wall. The cold of the concrete seeped through Feimo's shirt, grounding her, pulling the gray back from the edges of her vision. Mia crossed the room in three steps, her face tight with a concern she was not bothering to disguise.
+Noir eased Feimo to a seated position against the wall. The cold of the concrete seeped through Feimo's shirt, grounding her, pulling the gray back from the edges of her vision. Mia crossed the room in three steps, her face tight with a concern she was not bothering to disguise.
 
 "Is she hurt?" Mia asked.
 
-"Depleted," Noah said. "The Labyrinth took what it needed. She'll recover. Give her a minute."
+"Depleted," Noir said. "The Labyrinth took what it needed. She'll recover. Give her a minute."
 
-Noah crouched beside Feimo, their eyes level. The corridor light caught the line of Noah's jaw, the precise angle of her attention. She studied Feimo the way she studied everything: with the patience of someone who understood that looking and seeing were different skills, and that the difference mattered.
+Noir crouched beside Feimo, their eyes level. The corridor light caught the line of Noir's jaw, the precise angle of her attention. She studied Feimo the way she studied everything: with the patience of someone who understood that looking and seeing were different skills, and that the difference mattered.
 
-"You pushed too hard," Noah said.
+"You pushed too hard," Noir said.
 
 "I pushed exactly hard enough. The Fragmenters broke."
 
@@ -124,25 +124,25 @@ Noah crouched beside Feimo, their eyes level. The corridor light caught the line
 
 "Almost doesn't count."
 
-Noah's mouth twitched. Not quite a smile. Something adjacent: the acknowledgment that her sister was stubborn, had always been stubborn, and that the stubbornness was both the thing that kept Feimo going and the thing that would eventually cost her more than she could pay.
+Noir's mouth twitched. Not quite a smile. Something adjacent: the acknowledgment that her junior was stubborn, had always been stubborn, and that the stubbornness was both the thing that kept Feimo going and the thing that would eventually cost her more than she could pay.
 
-"I'm not your predecessor," Noah said quietly.
+"I'm not your predecessor," Noir said quietly.
 
-Feimo looked at her. The word 'predecessor' hung in the air between them, carrying the weight of a conversation they had been circling for weeks. Before Feimo, before Mia, before the bilingual room and the Labyrinth's expansion, there had been Noah's own history: a relationship that had ended badly, a person who had relied on Noah too completely, a dynamic that had collapsed under the weight of one person carrying another. Feimo knew the outlines. She did not know the details. Noah did not share details. She shared conclusions, delivered in the same measured voice she used for everything: facts, observations, the occasional piece of advice that arrived without warning and landed without cushioning.
+Feimo looked at her. The word 'predecessor' hung in the air between them, carrying the weight of a conversation they had been circling for weeks. Before Feimo, before Mia, before the bilingual room and the Labyrinth's expansion, there had been Noir's own history: a relationship that had ended badly, a person who had relied on Noir too completely, a dynamic that had collapsed under the weight of one person carrying another. Feimo knew the outlines. She did not know the details. Noir did not share details. She shared conclusions, delivered in the same measured voice she used for everything: facts, observations, the occasional piece of advice that arrived without warning and landed without cushioning.
 
 "I know you're not," Feimo said.
 
-"I need you to hear it. Not just know it. You're not her. You're yourself. And I'm not here because I'm reliving something. I'm here because you're my sister and you just fought three Fragmenters and you need someone to tell you to sit down."
+"I need you to hear it. Not just know it. You're not her. You're yourself. And I'm not here because I'm reliving something. I'm here because you're my responsibility and you just fought three Fragmenters and you need someone to tell you to sit down."
 
 "I am sitting down."
 
 "Good. Stay there."
 
-Mia watched this exchange with the expression of someone who was learning a language she had not studied: understanding more than she could articulate, catching the tones if not the words, recognizing that the space between Noah and Feimo was shaped by a history she had not witnessed but could infer.
+Mia watched this exchange with the expression of someone who was learning a language she had not studied: understanding more than she could articulate, catching the tones if not the words, recognizing that the space between Noir and Feimo was shaped by a history she had not witnessed but could infer.
 
-Noah stood. She looked at the bilingual text on the walls, at the Fragmenters' absence, at the room that had just been a battlefield and was now a library again.
+Noir stood. She looked at the bilingual text on the walls, at the Fragmenters' absence, at the room that had just been a battlefield and was now a library again.
 
-"It used Chinese," Noah said. "The Labyrinth."
+"It used Chinese," Noir said. "The Labyrinth."
 
 "Yes."
 
@@ -160,11 +160,11 @@ She turned and walked toward the corridor. At the door she paused.
 
 Then she was gone, her footsteps receding, measured and deliberate, the footsteps of a woman who walked at the same pace regardless of whether the world behind her was safe or on fire.
 
-Feimo leaned her head against the wall. Her palm was still numb. Her legs were still unsteady. But Noah's words remained, placed in the air like a landmark: You're not my predecessor. You're yourself. The sentence was not romantic. It was not tender. It was structural. It was the kind of sentence that did not describe a feeling but established a fact, the way a cornerstone establishes a building. Feimo was herself. Noah was herself. And the space between them was not a repetition of the past but something new, something that had not existed before and did not need to resemble anything that had.
+Feimo leaned her head against the wall. Her palm was still numb. Her legs were still unsteady. But Noir's words remained, placed in the air like a landmark: You're not my predecessor. You're yourself. The sentence was not romantic. It was not tender. It was structural. It was the kind of sentence that did not describe a feeling but established a fact, the way a cornerstone establishes a building. Feimo was herself. Noir was herself. And the space between them was not a repetition of the past but something new, something that had not existed before and did not need to resemble anything that had.
 
 Mia sat beside her. Close. Shoulder to shoulder.
 
-"Your sister is intense," Mia said.
+"Your senior is intense," Mia said.
 
 "Yes."
 
@@ -250,11 +250,9 @@ The radio crackled. A voice Feimo recognized as Cain's said: "Escort them to the
 
 "Then we'll follow Cain's orders," Feimo said, "because following orders is what we do now."
 
-The security student looked at her. His expression was not hostile. It was the expression of someone who had been given a role and was performing it competently, without enthusiasm, without doubt, without the particular kind of independent thought that might have caused him to question whether the role was worth performing. Feimo thought of the literary theory she had studied that afternoon: the Superfluous Man. The 19th-century Russian archetype. Onegin, Pechorin, Rudin, Oblomov. Educated, talented, full of ideals, and utterly incapable of meaningful action. Men who saw the world clearly and did nothing about it. The security student was not a Superfluous Man. He was the opposite: a man who acted without seeing, who performed his role with precision and never asked whether the role made sense.
+The security student looked at her. His expression was not hostile. It was the expression of someone who had been given a role and was performing it competently, without enthusiasm, without doubt, without the particular kind of independent thought that might have caused him to question whether the role was worth performing. Feimo thought of the Superfluous Man — Onegin, Pechorin, Oblomov — the 19th-century Russian archetype of educated people who saw the world clearly and did nothing about it. The security student was the opposite: a man who acted without seeing, who performed his role with precision and never asked whether the role made sense.
 
-The literary tradition had started with Onegin, who was bored. Then Pechorin, who was cruel. Then Rudin, who talked too much. Then Oblomov, who could not get out of bed. The trajectory was clear: from active futility to passive futility to no futility at all, because futility required the energy to try and fail, and Oblomov had no energy left. Each iteration was less than the last. Each individual was more surplus to requirements. The Superfluous Man was not a character. It was a diagnosis. A condition that worsened over time.
-
-Feimo followed the escort. Mia walked beside her, close enough that their shoulders touched. The contact was deliberate. Mia communicated through proximity the way other people communicated through words: with precision, with intention, with the understanding that some meanings could not be spoken.
+Feimo followed the escort. Mia's projection drifted beside her, close enough that Feimo could feel the faint electromagnetic warmth of the hologram's edge against her skin. Mia communicated through presence the way other people communicated through words: with precision, with intention, with the understanding that some meanings could not be spoken.
 
 ---
 
@@ -410,7 +408,7 @@ Mia smiled. It was a small smile, the kind that acknowledged the absurdity of di
 
 "The most dangerous kind."
 
-They continued up the stairs. At the second-floor landing, Mia took Feimo's hand again. This time it was not the careful grip of uncertainty. It was the firm, specific grip of someone who had made a decision.
+They continued up the stairs. At the second-floor landing, Mia's projection moved closer. This time her light was not the tentative glow of uncertainty but the steady, specific luminance of someone who had made a decision.
 
 "We'll find out what I said," Mia said. "We'll find out what the Labyrinth is. We'll find out why Chinese works when English doesn't. And we'll do it together."
 
@@ -430,22 +428,9 @@ They parted at the corridor junction. Mia turned left toward her room. Feimo tur
 
 Feimo did not sleep.
 
-She sat at her desk and opened the 2020 exam booklet to the section she had not yet read: the writing prompt. Part A was a notice about a singing contest for international students. Part B was an essay based on a picture she could not see. She read the directions and thought about what it meant to write a notice, to compose a text whose purpose was not beauty or argument but information. The notice needed to include the date, the time, the venue, and the rules. It needed to be clear, concise, and complete. It needed to be the kind of text that a person could read once and remember everything they needed to know.
+She sat at her desk and opened the 2020 exam booklet to the writing prompt: a notice about a singing contest for international students. She drafted it in her head — date, time, venue, rules, the language of pure function stripped of resonance — and set it aside. In the context of the Labyrinth, the notice was the opposite of everything the bilingual architecture represented. Not all language needed to be architecture. Sometimes language needed to be a door: a flat, plain surface that you pushed open to get to the room on the other side.
 
-She drafted it in her head:
-
-> NOTICE
->
-> A singing contest for international students will be held on Saturday, December 12, in the university auditorium. Registration begins at 2:00 p.m. The contest starts at 3:00 p.m. Each participant may sing one song in any language. Prizes will be awarded to the top three performers. To register, please visit the Students' Union office before December 10.
->
-> Students' Union
-> December 1, 2020
-
-She wrote it on a sheet of paper and studied it. The notice was functional. It communicated. It did not persuade or analyze or interpret. It stated facts and invited action. In the context of the Labyrinth, it was the opposite of everything the bilingual architecture represented. It was language reduced to pure function, stripped of resonance, emptied of the structural weight that Chinese characters carried.
-
-And yet it was necessary. Not all language needed to be architecture. Sometimes language needed to be a door: a flat, plain surface that you pushed open to get to the room on the other side.
-
-Feimo set the notice aside and returned to Flaubert. She read his letter again, the one where he described spending the morning searching for a single word. *Human speech is like a cracked kettle on which we tap crude rhythms for bears to dance to, while we long to make music that will melt the stars.* The sentence was beautiful and despairing in equal measure: the acknowledgment that language was always inadequate, always a compromise between what was meant and what could be said, and that the writer's duty was to keep searching for the word that came closest, knowing that the closest was never close enough.
+Feimo returned to Flaubert. She read his letter again, the one where he described spending the morning searching for a single word. *Human speech is like a cracked kettle on which we tap crude rhythms for bears to dance to, while we long to make music that will melt the stars.* The sentence was beautiful and despairing in equal measure: the acknowledgment that language was always inadequate, always a compromise between what was meant and what could be said, and that the writer's duty was to keep searching for the word that came closest, knowing that the closest was never close enough.
 
 The Labyrinth, she thought, was not a cracked kettle. It was something else. Something that did not tap crude rhythms but heard the music underneath them. Something that could melt the stars, if only it found the right language.
 

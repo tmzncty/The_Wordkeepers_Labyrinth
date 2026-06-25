@@ -8,11 +8,11 @@ Then the alarm.
 
 Feimo sat up. The sound was not the Academy's standard fire drill tone, which was a flat two-note oscillation designed to be heard and ignored in equal measure. This was different: a sustained high-frequency pulse, the kind of noise that bypassed the conscious mind and went straight to the adrenal cortex. She had heard it once before, three weeks ago, when a Fragmenter had breached the sub-basement's eastern corridor. The alarm meant something was inside.
 
-She dressed in the dark: trousers, boots, the jacket with the reinforced collar that Noah had given her last month, saying nothing about where she had gotten it or why it smelled of copper and ozone. The jacket fit like a second skin. Feimo had learned not to question gifts from her sister. Noah's generosity operated on a logic that made sense only in retrospect.
+She dressed in the dark: trousers, boots, the jacket with the reinforced collar that Noir had given her last month, saying nothing about where she had gotten it or why it smelled of copper and ozone. The jacket fit like a second skin. Feimo had learned not to question gifts from her senior. Noir's generosity operated on a logic that made sense only in retrospect.
 
 The corridor outside her room was empty. The emergency lighting had activated, casting everything in a flat amber that stripped surfaces of depth and shadow. She moved toward the stairwell, counting doors: three, five, seven. Mia's room was the seventh. The door was open.
 
-Mia was already in the corridor, leaning against the wall with her arms crossed and her tail wrapped once around her left thigh, the posture she adopted when she was processing information faster than her body could express it. She was wearing what she had clearly slept in: a dark shirt, loose trousers, no shoes. Her hair was down. Feimo had never seen her hair down outside of a combat situation.
+Mia was already in the corridor, her projection leaning against the wall with arms crossed, the configuration she adopted when she was processing information faster than her rendering could express it. Her hair was down — a detail she usually suppressed in combat configurations, as if the loosening of the strands corresponded to a loosening of the protocols that governed her projection's composure.
 
 "Sub-basement," Mia said, without preamble. "Level four. The alarm is keyed to the motion sensors Cain installed last week. Something triggered three of them simultaneously."
 
@@ -24,7 +24,7 @@ Feimo processed this. A single Fragmenter was dangerous. A cluster meant coordin
 
 "Where is everyone?" Feimo asked.
 
-"Noah went down eight minutes ago. I heard her window open. Aya is in the east stairwell, moving toward the same target. Yue is..." Mia paused. "I don't know where Yue is."
+"Noir went down eight minutes ago. I heard her window open. Aya is in the east stairwell, moving toward the same target. Yue is..." Mia paused. "I don't know where Yue is."
 
 That was unusual. Mia always knew where Yue was. Not because she tracked her, but because Yue left traces in the Academy's ambient text field, faint resonances that Mia's sensitivity could detect the way a seismograph detects tremors too small for human perception. If Yue was invisible to Mia's sense, she was either very far away or deliberately suppressing her presence.
 
@@ -48,9 +48,9 @@ They descended.
 
 The stairwell was a narrow concrete shaft that spiraled downward through the Academy's bones, each landing marked by a door and a number painted in stencil: 3, 2, 1, B1, B2. Below B2, the numbers stopped. The Deep Labyrinth began where the Academy's architecture gave up its pretense of order and yielded to something older: stone walls that predated the building by centuries, corridors that followed geometries no architect had drawn, and silence so complete it registered as pressure against the eardrums.
 
-Feimo counted her steps. One hundred and twelve from B2 to the threshold of level three, where the emergency lighting ended and the Labyrinth's own illumination began: a faint phosphorescence that clung to the walls like the memory of light rather than light itself. The luminescence came from the text embedded in the stone, characters in half a dozen scripts that glowed with the residual energy of centuries of reading. The Labyrinth's walls remembered what they had been read, and the remembering was visible.
+Feimo counted her steps. One hundred and twelve from B2 to the threshold of level three, where the emergency lighting ended and the Labyrinth's own illumination began: a faint phosphorescence that clung to the walls like the memory of light rather than light itself. Most students would have needed a torch past this point. Feimo's eyes adjusted — the vertical pupils widening, the rod cells that gave her species its nocturnal advantage taking over from the cone cells that managed daylight. The world resolved into shades of blue-grey and amber, grainier than daylight but navigable. The luminescence came from the text embedded in the stone, characters in half a dozen scripts that glowed with the residual energy of centuries of reading. The Labyrinth's walls remembered what they had been read, and the remembering was visible.
 
-"Level four," Mia said. She had moved ahead, her bare feet silent on the stone, her tail unwound now and hanging straight, the posture of alertness. "The sensors are clustered around the Deep Archive entrance."
+"Level four," Mia said. She had moved ahead, her projection gliding without contact with the stone, her form straightening into the configuration of alertness. "The sensors are clustered around the Deep Archive entrance."
 
 The Deep Archive. Feimo had been there once, with Mia, during the unauthorized breach that Cain had cited in his War Room presentation. The Archive was a sealed section of the Labyrinth's lower levels, accessible through a door that should not have existed: a door with Chinese characters carved into its frame, characters that Feimo had read and that had opened at her reading. She had not told Cain about the characters. She had not told anyone except Mia, and Mia had not told anyone because Mia's loyalty, once granted, was not a social contract but a physical law.
 
@@ -64,7 +64,7 @@ Feimo felt the damage as a physical sensation, a wrongness in the texture of the
 
 "No." Mia was examining the fracture, her fingers hovering over the cracked stone without touching it. "Fragmenters feed on text. They don't destroy it. They absorb it, metabolize it, leave behind residue. This is different. This was done by something that wanted the text gone, not consumed."
 
-A sound from inside the Archive. Not the skittering of Fragmenters, which sounded like dry leaves in a wind tunnel, but something heavier. A rhythm. Footsteps, but wrong: too many, too synchronized, too deliberate.
+A sound from inside the Archive. Not the skittering of Fragmenters, which sounded like dry leaves in a wind tunnel, but something heavier. A rhythm. Footsteps, but wrong: too many, too synchronized, too deliberate. Feimo's ears flattened against her skull. The sound registered in her feline hearing as deeply wrong — not just unusual but structurally incorrect, a pattern that violated the acoustic expectations her brain had been calibrating to since kittenhood.
 
 Feimo and Mia looked at each other.
 
@@ -244,7 +244,7 @@ Silence.
 
 She turned to the inscription page again. "And this. This is the master key. 'Open one door, open all.' Whoever reads this and understands it gains access to every sealed section of the Labyrinth. Every door, every archive, every hidden passage."
 
-Mia's tail went rigid. It was the physiological response Feimo had learned to associate with Mia's highest level of alarm: not fear but the recognition that a variable had entered the equation that changed everything.
+Mia's projection froze. It was the response Feimo had learned to associate with Mia's highest level of alarm: not fear but the recognition that a variable had entered the equation that changed everything.
 
 "Close the book," Mia said.
 
@@ -284,9 +284,9 @@ Aya fought differently. She did not read. She moved. Her body became the weapon:
 
 They cleared the corridor in four minutes. Feimo was breathing hard. Mia's voice was hoarse. Aya's cut had stopped bleeding, replaced by a thin line of luminous scarring that pulsed faintly in the corridor's half-light.
 
-They reached the stairwell. Noah was there, descending from above, her expression the calm mask she wore when the situation was bad enough to require her presence but not bad enough to require her to talk about it. She took one look at the three of them: Feimo clutching her ribs where the book sat, Mia barefoot and shaking, Aya bleeding and glowing.
+They reached the stairwell. Noir was there, descending from above, her expression the calm mask she wore when the situation was bad enough to require her presence but not bad enough to require her to talk about it. She took one look at the three of them: Feimo clutching her ribs where the book sat, Mia's projection flickering unstably, Aya bleeding and glowing.
 
-"Report," Noah said.
+"Report," Noir said.
 
 "Text Eaters in the Deep Archive," Mia said. "Seven. Coordinated. They were trying to reach a book on the central pedestal."
 
@@ -294,9 +294,9 @@ They reached the stairwell. Noah was there, descending from above, her expressio
 
 "A map of the Labyrinth. All seven sections. Written in Chinese."
 
-Noah's eyes moved to Feimo. The look lasted exactly two seconds. Feimo could not read it. Noah's expressions were encrypted in a cipher that her sister had never shared.
+Noir's eyes moved to Feimo. The look lasted exactly two seconds. Feimo could not read it. Noir's expressions were encrypted in a cipher that her sister had never shared.
 
-"The book is secure?" Noah asked.
+"The book is secure?" Noir asked.
 
 "Secure," Feimo said.
 
@@ -304,9 +304,9 @@ Noah's eyes moved to Feimo. The look lasted exactly two seconds. Feimo could not
 
 "She already knows," Mia said. "She's been watching since the alarm started."
 
-Noah paused. Something shifted in her expression, a microadjustment that Feimo would have missed if she had not spent a lifetime reading her sister's face for the signs that preceded decisions.
+Noir paused. Something shifted in her expression, a microadjustment that Feimo would have missed if she had not spent a lifetime reading her senior's face for the signs that preceded decisions.
 
-"Then she's waiting for you," Noah said. "Go."
+"Then she's waiting for you," Noir said. "Go."
 
 ---
 
@@ -348,81 +348,31 @@ She looked at Feimo.
 
 Feimo felt the book against her ribs. She said nothing.
 
-"The exam we administered three days ago," the Professor said, "was the 2021 paper. The cloze passage was about fluid intelligence: the type of cognition that peaks in young adulthood and then generally declines. *While aging is inevitable, scientists are finding out that certain changes in brain function may not be.* The passage describes the accumulation of abdominal fat and its association with cognitive decline. It prescribes aerobic exercise and a Mediterranean diet."
+"The exam we administered three days ago," the Professor said, "was the 2021 paper. The passages share a single theme: the unintended consequences of systems designed with one purpose that produce effects in another. The cloze on fluid intelligence links physical maintenance to cognitive preservation. The CCT program in Indonesia shows poverty alleviation accidentally protecting forests. Net neutrality reveals how a regulatory body can be captured by the entities it regulates. The pattern is consistent: interventions have effects their designers did not anticipate."
 
 She paused.
 
-"The passage is about maintenance. About the body's tendency toward entropy and the interventions that can delay it. It is, in the context of the Academy's current situation, a text about the Labyrinth itself. The system is aging. The Text Eaters are symptoms of that aging: the emergence of processes that consume rather than preserve. The question the passage poses is whether the decline can be delayed, and if so, by what means."
+"That is also the story of tonight. The Text Eaters are an emergent property of the Labyrinth's evolution — unintended consequences of a system under stress. And the passage that stopped them was about Victorian photography. About smiling. About the refusal to perform for the camera."
 
-Mia leaned forward. "The reading section. Text 2. The CCT program."
+The Professor sat down. It was the first time Feimo had seen her sit during a briefing. The gesture was not casual. It was a decision, a deliberate lowering of authority, a signal that what followed was not instruction but conversation.
 
-The Professor nodded. "Conditional cash transfers. A poverty-alleviation program in Indonesia that, as a side effect, reduced deforestation by thirty percent. The program was not designed to protect forests. It was designed to protect people. But by giving the rural poor a financial buffer against bad harvests, it removed the incentive to clear land for emergency planting. The environmental benefit was an emergent property of a social intervention."
-
-"You think the Labyrinth works the same way," Feimo said.
-
-"I think the Labyrinth is a system, and systems behave according to principles that are transferable across domains. The CCT program shows that a targeted intervention in one area can produce beneficial effects in another. It also shows that the relationship between cause and effect is not always direct. Sometimes the most effective action is the one that appears, to a superficial observer, to be unrelated to the problem."
-
-Feimo thought about this. She thought about the Text Eaters and the passage that had stopped them. Not a passage about combat or defense or the Labyrinth itself. A passage about Victorian photography. About smiling. About the refusal to perform for the camera. An intervention that appeared unrelated to the problem but had, through a mechanism she did not fully understand, disrupted the Text Eaters' coordination and bought them time.
-
-"Text 3," Feimo said. "The Victorians. Why did it work?"
-
-The Professor sat down. It was the first time Feimo had seen her sit during a briefing. The gesture was not casual. It was a decision, a deliberate lowering of authority, a signal that what followed was not instruction but conversation. She did not mention the monitors. She did not mention the cameras, or the feed from the sub-basement, or the fact that she had been watching the entire engagement and had chosen not to intervene. The omissions were their own kind of statement.
-
-"The passage is about the tension between being seen and refusing to be seen," the Professor said. "The Victorians had the technology to smile. By the 1890s, exposure times were fast enough. But they still didn't smile. Not because they couldn't, but because smiling meant vulnerability. It meant revealing something real behind the performance. And the passage's author, who collects smiling Victorian photographs, is engaged in an act of resistance: showing that the stern, posed, unsmiling image is the performance, and the smile is the truth."
-
-She looked at the monitors. The center screen still showed the empty corridor.
-
-"The Text Eaters erase text. They negate meaning. They are, in a sense, the ultimate form of control: the elimination of content, not through censorship but through annihilation. The text does not become forbidden. It becomes nonexistent. And what the Victorian passage does, what all acts of genuine expression do, is assert that content exists. That there is something behind the mask. The smile behind the sternness. The truth behind the performance. The Text Eaters cannot negate that assertion because it is not a text to be erased. It is a contradiction to be inhabited."
-
-Mia was writing. She had produced a notebook from somewhere and was recording the Professor's words with the speed of someone who recognized that what she was hearing was not a lecture but a thesis.
-
-"Text 4," Mia said without looking up. "Net neutrality."
-
-The Professor's mouth moved. It was not quite a smile. It was the nearest thing to a smile that Feimo had ever seen on her face: a slight reconfiguration of the muscles around her eyes, a softening that lasted less than a second.
-
-"The FCC," the Professor said. "An agency created to regulate a system, gradually captured by the entities it was supposed to regulate, until its primary function became the deregulation of those entities. The 2017 order eliminated net neutrality rules and rejected the commission's authority to require broadband providers to do much of anything. Judge Millett's concurring opinion noted that the result was 'unhinged from the realities of modern broadband service.'"
-
-She paused.
-
-"Does this remind you of anything?"
-
-"Cain," Feimo said.
-
-"Not only Cain. The Academy itself. An institution created to manage the Labyrinth, gradually captured by the logic of control, until its primary function becomes the restriction of access rather than the facilitation of exploration. Cain's War Room, his cameras, his security detail, his curfews and authorization requirements: these are the Academy's version of the FCC's deregulatory order. They are not protecting the system. They are preventing the system from being used."
-
-Feimo thought of the translation passage, the one from the exam's translation section. She had read it during the test session, her pencil moving through the nested clauses with the halting precision of someone navigating a sentence that resisted rendering. The passage was about higher education: about the post-war expansion that doubled enrollment in five-year periods, about the new staff who defined the norms of academic life, about the growth rates that increased the chances for academic innovation while weakening the forms and processes of admission.
-
-*High growth rates increased the chances for academic innovation; they also weakened the forms and processes by which teachers and students are admitted into a community of scholars during periods of stability or slow growth.*
-
-That was the Labyrinth now. A period of high growth. The emergence of new phenomena, new entities, new textual structures. And the forms and processes of the old system, the admission requirements and authorization protocols and security frameworks, were being weakened by the very growth they were supposed to manage.
-
-"The writing prompt," Feimo said suddenly. "The Part B essay."
-
-The Professor raised an eyebrow.
-
-"The picture prompt. A foreign friend graduating from college and wanting to find a job in China. The task was to write suggestions."
-
-"Go on."
-
-"The passage was about advice. About the kind of advice that is useful and the kind that is not. In the context of everything else in the exam, the prompt is asking: what does a newcomer need to know to navigate a system they don't understand?"
-
-She looked at the book pressing against her ribs.
-
-"That's what this is. The Chinese book. It's not just a map. It's a set of suggestions for navigating the Labyrinth. Left by someone who understood the system and wanted to help others who would come after."
-
-"Or," Mia said, looking up from her notebook, "it's a trap. Left by someone who understood that the most effective way to control a system is to give its users the illusion of a guide."
-
-The Professor stood. She walked to the monitors and pressed a sequence on the control panel. The center screen changed: the empty corridor was replaced by a view of the Deep Archive's interior. The damage was visible: the cracked door frame, the blank sections of wall where the Text Eaters had erased centuries of text. The pedestal stood empty at the center, dark and still.
-
-"The exam's Part B section," the Professor said, "was about artificial intelligence. About how AI is changing companies and the economy in ways that don't involve mass unemployment. The matching exercise asked you to identify where specific statements about AI's capabilities fit within the text. The answers were about hiring practices, marketing optimization, cost reduction, and infrastructure maintenance."
-
-She turned to face them.
-
-"AI is a tool. Like the Labyrinth. Like language itself. The question the exam poses is not whether AI is good or bad but whether it is used well or poorly. The same technology that removes unconscious bias from hiring can also be used to surveil employees. The same algorithm that optimizes marketing can also be used to manipulate consumers. The tool is neutral. The intent is not."
+"The Text Eaters erase text. They negate meaning. They are the ultimate form of control: the elimination of content, not through censorship but through annihilation. And what the Victorian passage does — what all acts of genuine expression do — is assert that content exists. That there is something behind the mask. The Text Eaters cannot negate that assertion because it is not a text to be erased. It is a contradiction to be inhabited."
 
 She looked at each of them.
 
-"Cain's intent is control. My intent is understanding. These are not the same, and the Labyrinth knows the difference. The Text Eaters appeared because the system is under stress. They are a symptom, not a cause. The cause is the restriction of the Labyrinth's natural function: the flow of text, the accumulation of meaning, the generation of new knowledge from the interaction of old knowledge."
+"Consider the deeper structure. The 19th century was defined by a debate between two ways of seeing: the Romantic and the Realist. Romanticism held that the world was charged with meaning beyond the material — that nature spoke in symbols, that emotion was a form of knowledge, that the individual's inner life was the truest subject for art. Realism held that the world was exactly what it appeared to be — that social structures, economic forces, and physical environments determined human behaviour, and that the novelist's duty was to document, not to idealise."
+
+She gestured at the monitors.
+
+"Cain is a Realist. He sees the Labyrinth as a system of measurable variables. The cameras, the sensors, the War Room — all instruments of Realist observation. The Labyrinth's response to the Chinese text is, to his framework, an anomaly: a data point that does not fit the model. But to a Romantic, the Chinese text is not an anomaly. It is a correspondence. It means something that cannot be captured by thermal imaging and timestamp analysis."
+
+Mia was writing. She had produced a notebook from somewhere and was recording the Professor's words with the speed of someone who recognized that what she was hearing was not a lecture but a thesis.
+
+"The American writer Mark Twain — who appears in the Victorian photography passage — understood this tension better than most. Twain was a Realist who mistrusted Romanticism, yet his best work is charged with Romantic energy: the river, the raft, the friendship between Huck and Jim. He documented social reality and simultaneously transcended it. The 19th-century American tradition — Whitman, Dickinson, Melville, Twain — produced literature that refused to choose between observation and vision. That is the tradition the Labyrinth seems to be learning."
+
+She stood.
+
+"Cain's intent is control. My intent is understanding. These are not the same, and the Labyrinth knows the difference. The Text Eaters appeared because the system is under stress. They are a symptom, not a cause."
 
 She paused at the door.
 
@@ -480,14 +430,38 @@ She walked on.
 
 ---
 
+**Vocabulary Spotlight**
+
+- **Alliance** /əˈlaɪəns/ — A union formed for mutual benefit, especially between groups or individuals with different interests. In the Academy's crisis, the alliance between Feimo, Mia, and Aya is tactical rather than ideological: each fights the Text Eaters for different reasons, but the coordination multiplies their effectiveness. An alliance does not require agreement — only a shared enemy.
+
+- **Emergent** /ɪˈmɜːdʒənt/ — Arising from a system in ways that were not predicted by or contained in its individual components. The Text Eaters are emergent: no one designed them, no one invited them, and no one's framework fully accounts for them. The Professor's key insight is that emergent properties — in the Labyrinth, in the CCT program, in institutional behaviour — are often more significant than the system's intended functions.
+
+- **Nullify** /ˈnʌlɪfaɪ/ — To make legally void or of no effect; to neutralise. The Text Eaters do not consume text the way Fragmenters do. They nullify it: the text ceases to have existed. The distinction between consumption (which leaves residue) and nullification (which leaves nothing) is the chapter's central tactical problem.
+
+---
+
+**Knowledge Cards**
+
+**Card #062: Romanticism vs Realism**
+
+The 19th century's defining literary debate. Romanticism (Blake, Wordsworth, Shelley, Hugo) held that imagination, emotion, and the individual's inner life were the truest sources of knowledge; the material world was a veil over deeper spiritual realities. Realism (Balzac, Flaubert, Tolstoy) insisted that the novelist's duty was to document social structures, economic forces, and physical environments without idealisation. The debate was never resolved; it was transcended. The greatest 19th-century works — *Madame Bovary*, *Anna Karenina*, *Moby-Dick* — are simultaneously Romantic and Realist, charged with visionary energy and grounded in material detail. In the Academy, Cain represents Realism (control through observation) while the Labyrinth's bilingual architecture represents Romanticism (meaning beyond measurement). The chapter suggests that survival requires both.
+
+**Card #063: 19th-Century American Literature**
+
+The American Renaissance (c. 1850–1875) produced a literature that was simultaneously Romantic and Realist, idealistic and grounded. Whitman's *Leaves of Grass* celebrated the individual with Romantic expansiveness; Melville's *Moby-Dick* pursued metaphysical truth through the Realist detail of whaling; Twain's *Adventures of Huckleberry Finn* documented social reality (slavery, poverty, violence) with a voice so colloquial it seemed anti-literary, yet the river journey is one of American literature's great Romantic symbols. Dickinson compressed both traditions into hymn-stanza poems that observed the material world with microscopic precision and found in it the infinite. The American tradition is relevant to the Labyrinth because it demonstrates that the Romantic-Realist debate is a false binary: the most powerful writing occupies both positions simultaneously.
+
+---
+
 *Questions for Reflection:*
 
-1. The cloze passage describes fluid intelligence as peaking in young adulthood and generally declining with age, and links this decline to lifestyle factors like abdominal fat accumulation. How does this biological metaphor apply to the Academy and the Labyrinth? In what ways is the institution's "intelligence" peaking, and what "lifestyle factors" might accelerate or delay its decline?
+1. The Professor argues that the Text Eaters are "an emergent property" of the Labyrinth's evolution. What does this concept mean, and how does it apply to real-world systems? Can you think of an example where a system produced threats or benefits that its designers did not anticipate?
 
-2. Text 2 describes a CCT program whose environmental benefit was an "emergent property" of a social intervention. The Professor applies this concept to the Labyrinth: a targeted intervention in one area can produce beneficial effects in another. What is the "emergent property" of Feimo's decision to read the Chinese book aloud? What unintended consequences might follow from Mia's decision to conceal Feimo's ability?
+2. The chapter's central tactical problem is that counter-resonance (a Realist tool — measured, engineered) fails against the Text Eaters, while the Victorian passage (a Romantic text — about refusal, vulnerability, the smile behind the mask) succeeds. What does this suggest about the relationship between technical precision and emotional truth in problem-solving?
 
-3. Text 4 discusses net neutrality and the FCC's deregulatory stance. Judge Millett argued that the result was "unhinged from the realities of modern broadband service." How does this criticism apply to Cain's security measures? Are there circumstances in which restrictions on access to the Labyrinth could be justified, or is any restriction inherently a form of control?
+3. Aya's statement, "I don't want you to fall," is analyzed by the Professor as a statement about the self rather than the other. What does this distinction reveal about the nature of protection? Is it possible to protect someone without first acknowledging your own desire to protect them?
 
-4. Aya's statement, "I don't want you to fall," is analyzed by the Professor as a statement about the self rather than the other. What does this distinction reveal about the nature of protection? Is it possible to protect someone without first acknowledging your own desire to protect them? What does this suggest about the relationship between vulnerability and strength?
+4. The Professor draws a parallel between net neutrality and the Academy's institutional capture. "An institution created to manage the Labyrinth, gradually captured by the logic of control." Is this an inevitable outcome for all institutions, or are there structural safeguards that prevent it?
 
-5. The writing prompt asks for suggestions for a foreigner entering an unfamiliar system. If you were writing that email, what three pieces of advice would you give? Consider the exam passages collectively: rail fare protests, poverty-alleviation programs, Victorian resistance to photography, and net neutrality. What common thread connects them, and how does that thread inform your advice?
+5. The Chinese book's inscription reads: "Open one door, open all." Feimo interprets this as a master key. Mia warns that it could be "a trap." Which reading do you find more persuasive, and why? What does the ambiguity suggest about the nature of knowledge itself?
+
+

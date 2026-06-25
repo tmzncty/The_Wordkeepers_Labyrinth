@@ -2,13 +2,13 @@
 
 Silent Professor's translation workshop met in a room with no clock.
 
-This was deliberate. Translation, he explained at the start of each semester, existed outside of time. A sentence rendered from one language into another did not obey the rules of punctuality. It arrived when it arrived, and rushing it produced not translation but approximation, which was worse than silence because it pretended to be complete.
+This was deliberate. Translation, he explained, existed outside of time. A sentence rendered from one language into another did not obey the rules of punctuality. It arrived when it arrived.
 
-The room occupied the third floor of a building the Academy called the Annex, though it was not annexed to anything. It stood alone at the edge of campus, connected to the main buildings by a covered walkway that leaked in rain and housed, in its second alcove from the east, a vending machine that had been out of order since Feimo's first year. The workshop itself was small: twelve chairs arranged in a circle around a central table made of oak, its surface scarred by decades of students who had carved, in various scripts and states of anxiety, words they could not translate. The walls held shelves of reference materials in languages Feimo could not identify, and above the shelves, mounted in a line that followed the room's perimeter, were wooden tablets inscribed with passages from texts that Silent Professor never explained and no one dared ask about.
+The room occupied the third floor of the Annex. It was small: twelve chairs in a circle around a central table made of oak, its surface scarred by decades of students who had carved, in various scripts and states of anxiety, words they could not translate. The walls held shelves of reference materials in languages Feimo could not identify.
 
 It was the last week of October. Rain hit the windows with the persistence of something that had been doing it for centuries and intended to continue.
 
-Twelve students sat in the circle. Feimo counted them the way she counted everything: automatically, without deciding to, the habit so deeply embedded that it had become involuntary. Twelve, including herself. Including Yue, who sat in the chair farthest from the door, her posture its usual composition of stillness and absence, as if she were present in the room only by technicality. Including Lin, who sat directly across from Feimo and spent the first ten minutes of every class arranging her pens in order of ink density. Including two students from Feimo's cloze practice group who had enrolled in the workshop because they heard it was easy, a misapprehension that Silent Professor had done nothing to correct because he believed that people who came for the wrong reasons sometimes stayed for the right ones.
+Twelve students sat in the circle. Feimo counted them automatically. Twelve, including herself. Including Yue, who sat farthest from the door, her posture its usual composition of stillness and absence. Including Lin, who spent the first ten minutes of every class arranging her pens in order of ink density.
 
 Silent Professor stood at the central table. He was writing on a piece of paper with a pen that looked like it had been manufactured before any of them were born. His handwriting was small, precise, and legible from every angle, which Feimo had always found slightly unsettling, because legibility in a professor felt like an invitation to read something you were not supposed to understand.
 
@@ -18,7 +18,7 @@ He placed the paper on the table and, with a gesture that was less a wave and mo
 
 On the paper, drawn in ink that was darker than it should have been, were seven symbols.
 
-They were not letters. They were not numbers. They were not characters from any writing system Feimo recognized, and she recognized more than most, because her cat ears had spent three years cataloguing the Labyrinth's output, and the Labyrinth's output included fragments of every language it had ever consumed. These were something else. Each symbol occupied its own space on the paper, separated from its neighbors by a distance that felt deliberate, as if proximity between them would cause some kind of reaction that the room was not equipped to handle.
+They were not letters. They were not numbers. They were not characters from any writing system Feimo recognized. These were something else. Each symbol occupied its own space on the paper, separated from its neighbors by a distance that felt deliberate, as if proximity would cause some kind of reaction.
 
 The first symbol looked like a spiral made of teeth. The second resembled a lattice viewed from above, its lines crossing at angles that did not quite add up to the geometry Feimo had learned as a child. The third was a curve, simple at first glance, but the longer she looked at it, the more it resisted being parsed: it was simultaneously a leaf and a hand and the cross-section of a wave, and the eye slid off it the way water slides off something that does not want to be wet.
 
@@ -56,33 +56,33 @@ If the architecture could expand, could it also converge? Could seven independen
 
 He picked up another sheet of paper. Feimo recognized the format: the standard examination layout, the font the Academy used for all its official assessments, the margins that had been set decades ago and never adjusted because the Academy, like all institutions, believed that consistency was a form of integrity.
 
-"There is a great deal of this kind of nonsense in the medical journals," Silent Professor read, his voice carrying the particular cadence he used for recitation, "which, when taken up by broadcasters and the lay press, generates both health scares and short-lived dietary enthusiasms."
+"There is a great deal of this kind of nonsense in the medical journals," Silent Professor read, "which, when taken up by broadcasters and the lay press, generates both health scares and short-lived dietary enthusiasms."
 
 He set the paper down.
 
-"The question the examination asks about this sentence is mechanical. Where does the relative clause begin? What does it modify? How does the participial phrase function? These are important questions. They teach you to see the skeleton of a sentence, the architecture beneath the skin. But I want to draw your attention to a different aspect of the sentence."
+"The examination asks mechanical questions about this sentence. Where does the relative clause begin? What does it modify? But I want to draw your attention to a different aspect."
 
 He pointed to the word *nonsense*.
 
-"The author of this sentence is making a claim about the relationship between knowledge and transmission. The nonsense exists in the journals. It is then taken up by broadcasters. It then generates health scares. The chain of causation is: source, transmission, effect. The source is specialized. The transmission is popularized. The effect is emotional. This is a model of how information degrades as it moves from one context to another. The medical journal speaks to experts. The broadcaster speaks to everyone. The meaning changes in transit, the way a signal changes when it passes through a medium that was not designed to carry it."
+"The author is making a claim about the relationship between knowledge and transmission. The nonsense exists in the journals. It is then taken up by broadcasters. It then generates health scares. Source, transmission, effect. The meaning changes in transit, the way a signal changes when it passes through a medium that was not designed to carry it."
 
-Feimo felt her ears flatten slightly. She knew where this was going. She had been in enough of Silent Professor's classes to recognize the pattern: he would use an exam passage as a doorway, and through the doorway would be something the examination had never intended, a question that the passage raised but could not answer because the answer existed in a different room.
+Feimo recognized the pattern: he would use an exam passage as a doorway, and through the doorway would be something the examination had never intended.
 
-"The Labyrinth," Silent Professor said, "is a transmission medium. It takes text as input, processes it, and produces output. The output is what you encounter in your cloze exercises, your reading comprehension sections, your translation tasks. But the Labyrinth does not transmit meaning unchanged. It transforms meaning, the way a broadcaster transforms the medical journal's findings. Something is added in the process. Something is lost. And the seven symbols suggest that there is a layer of meaning that the Labyrinth transmits without transforming. A frequency so deep that it passes through the system unaltered. Like a radio wave that passes through walls."
+"The Labyrinth," Silent Professor said, "is a transmission medium. It takes text as input, processes it, and produces output. But the Labyrinth does not transmit meaning unchanged. Something is added. Something is lost. And the seven symbols suggest that there is a layer of meaning that passes through the system unaltered. Like a radio wave that passes through walls."
 
-Yue had not moved. She sat in her chair with the stillness of someone who has learned that movement attracts attention and attention is something she cannot afford, because attention would require explanation, and explanation would require revealing things that, once spoken, could not be taken back. Feimo watched her. Yue's eyes were fixed on the seven symbols with an intensity that Feimo had not seen from her before. Not the glazed distance of the girl who sat in the back of every classroom and appeared to be looking through the walls at something only she could see. This was different. This was focused. This was the expression of someone who is seeing something they have seen before, in a different context, and the two images are aligning, and the alignment is producing a recognition that is, in its way, terrifying.
+Yue had not moved. She sat with the stillness of someone who has learned that movement attracts attention. Feimo watched her. Yue's eyes were fixed on the seven symbols with an intensity Feimo had not seen from her before. Not the glazed distance of the girl who sat in the back of every classroom. This was focused. This was the expression of someone seeing something they had seen before, in a different context, and the two images were aligning.
 
 The recognition hit Feimo like a change in air pressure.
 
 Yue had seen these symbols before. Not in a textbook. Not on the walls of the Academy. In a place that the Labyrinth could not access, because the Labyrinth's intake system was designed to handle text, and what Yue had seen was not text but the architecture beneath text, the substrate that all seven languages shared.
 
-Feimo thought about the cloze passage from this year's examination materials. The one about navigation. *Today we live in a world where GPS systems, digital maps, and other navigation apps are available on our smartphones. Few of us just walk straight into the woods without a phone.* The passage described a world saturated with guidance systems, devices that told you where you were and how to get where you were going. But the passage's real argument was about what happened when the devices failed. *But phones run on batteries, and batteries can die faster than we realize.* When the GPS went dark and the map disappeared, you had to navigate by other means. By the land. By the direction water flowed. By the marks that people left on the landscape: trail blazes, tire tracks, the breaks in a tree line where someone had carved a road through the woods. The passage called these *signs of human habitation*. Evidence that someone had been here before you and had left, deliberately or accidentally, a trace of their passage.
+Feimo thought about the cloze passage from this year's examination materials. The one about navigation. *Few of us just walk straight into the woods without a phone.* The passage's real argument was about what happened when the devices failed. When the GPS went dark, you had to navigate by other means. By the land. By the marks that people left on the landscape. *Signs of human habitation.* Evidence that someone had been here before you and had left a trace of their passage.
 
-Yue's seven symbols were signs of habitation. Not human habitation, necessarily. But habitation of some kind. Evidence that someone, or something, had moved through the space that the seven Labyrinth languages occupied and had left, in the margins of a consumed text, a trace of their passage.
+Yue's seven symbols were signs of habitation. Evidence that someone, or something, had moved through the space that the seven Labyrinth languages occupied and had left a trace of their passage.
 
-The passage's final advice was the simplest: *If you get lost without a phone or a compass, and you literally can't find north, we have a few tricks to help you navigate back to civilization, one of which is to follow the land.* Follow the land. Let the terrain itself guide you. Trust the physical world to have a shape that points toward somewhere, because the physical world was made by forces larger than you, and those forces left patterns, and patterns were a kind of map.
+The passage's final advice: *follow the land.* Let the terrain itself guide you. Trust the physical world to have a shape that points toward somewhere.
 
-Yue was following the land. She had been following it since the day she arrived at the Academy. She had been following it in her dreams, and now the land was speaking back.
+Yue was following the land. She had been following it since the day she arrived at the Academy.
 
 "Yue," Silent Professor said.
 
@@ -126,13 +126,13 @@ Feimo watched Yue's hands. They had stopped trembling. They were flat on the tab
 
 "Yes."
 
-Silent Professor was quiet for a long time. The rain filled the silence. Feimo counted the seconds: ten, twenty, thirty. At thirty-one, he spoke.
+Silent Professor was quiet for a long time. At thirty-one seconds, he spoke.
 
 "The passage from the examination materials," he said, "is about nonsense. About how information degrades in transit. But there is another passage, from the same year, that concerns a different kind of degradation. The passage about Frankenstein."
 
-Feimo knew it. Text 3, from the Reading Comprehension section. She had read it during her cloze preparation, underlining sentences she thought were important, then crossing out the underlining because Mia had told her that underlining was a form of self-deception, a way of pretending to engage with a text while actually just decorating it. The passage began with Mary Shelley's novel and ended with a question about the conscience of machines. *How can we make sure that the thinking of intelligent machines reflects humanity's highest values? Only then will they be useful servants and not Frankenstein's out-of-control monster.*
+Feimo knew it. Text 3, from the Reading Comprehension section. The passage about Frankenstein, about artificial intelligence, about the question of what makes humans human. Silent Professor had discussed it in a previous lecture: Eagleman's admission that no good theories explain consciousness, the warning about machines becoming "Frankenstein's out-of-control monster."
 
-"The passage asks about intelligence, identity, and consciousness," Silent Professor said. "It asks what makes humans humans. It notes that artificial general intelligence, machines that would imitate the way humans think, continues to evade scientists. And it quotes David Eagleman, a Stanford neuroscientist, who says: 'We are just in a situation where there are no good theories explaining what consciousness actually is and how you could ever build a machine to get there.'"
+"The text asks about intelligence, identity, and consciousness," Silent Professor said. "It notes that artificial general intelligence continues to evade scientists. And it quotes David Eagleman's admission that there are no good theories explaining consciousness. But I want to draw your attention to a different aspect."
 
 He looked at the seven symbols.
 
@@ -150,7 +150,7 @@ Yue did not move. She sat with her palms on the table and her eyes on the seven 
 
 Feimo thought about the cloze passage's advice: *Climb high and look for signs of human habitation. For example, even in dense forest, you should be able to spot gaps in the tree line due to roads, train tracks, and other paths people carve through the woods.* The symbols were gaps in the tree line. They were breaks in the canopy of language, places where the leaves parted and you could see the sky beyond. They were not the road. They were the evidence that the road existed.
 
-She thought about the Frankenstein passage's question: *What is intelligence, identity, or consciousness?* She thought about Eagleman's answer: *We are just in a situation where there are no good theories explaining what consciousness actually is.* She thought about the passage's conclusion: *How can we make sure that the thinking of intelligent machines reflects humanity's highest values?* And she thought about the seven symbols, and about Yue, and about the dreams that came every night, and about the question of whether the symbols were a form of consciousness or a form of language or a form of something that preceded both, the way a river precedes the bridge that is built across it.
+She thought about the Frankenstein text's question: *What is intelligence, identity, or consciousness?* She thought about Eagleman's answer: no good theories. And she thought about the seven symbols, and about Yue, and about whether the symbols were a form of consciousness or a form of language or a form of something that preceded both.
 
 "Yue," Silent Professor said. "Have you attempted to reproduce the symbols? To draw them from memory?"
 
@@ -179,7 +179,7 @@ The professor's hand, resting on the edge of the table, tightened. Feimo saw the
 
 Yue was quiet for a moment. Then: "I tried. In my first month. I told someone in my dormitory. She said I was just stressed about the exams."
 
-The sentence landed in the room the way the cloze passage's scenario landed: *If you get lost without a phone or a compass, and you literally can't find north.* Yue had been lost. She had been lost for three years, in a landscape of dreams that she could not map, and she had tried to tell someone, and the someone had responded the way the world responds to information it cannot classify: by reducing it to something indexable. *Stressed about the exams.* A category. A filing system. A way of making the unknown legible by forcing it into the shape of the known.
+The sentence landed in the room. Yue had been lost. She had been lost for three years, in a landscape of dreams that she could not map, and she had tried to tell someone, and the someone had reduced it to something indexable. *Stressed about the exams.* A category. A filing system. A way of making the unknown legible.
 
 The cloze passage's advice was: *follow the land.* Let the terrain guide you. Trust that the physical world has patterns, and patterns are maps, and maps lead somewhere. Yue had been following the land. She had been following it in her dreams, recording the patterns, trusting that the terrain of her unconscious had a shape that pointed toward somewhere. And now, in this room, in this class, the somewhere had arrived.
 
@@ -187,7 +187,7 @@ The cloze passage's advice was: *follow the land.* Let the terrain guide you. Tr
 
 Yue pushed it across the table.
 
-He turned the pages slowly. Feimo watched his face. It was the face of a man reading a text he had been searching for and had given up finding, the expression of someone who has opened a door that he expected to be locked and discovered that it was not only unlocked but warm, as if someone had been standing on the other side, waiting.
+He turned the pages slowly. Feimo watched his face. It was the face of a man reading a text he had been searching for and had given up finding.
 
 "These dates," he said. "September fourteenth. That was the day you arrived?"
 
@@ -215,7 +215,7 @@ The room changed. Feimo felt it the way she felt changes in air pressure: a shif
 
 "Describe it."
 
-"It is a city made of language. The walls are words. The floors are sentences. The ceilings are paragraphs. I walk through it, and the architecture speaks to me, but I cannot understand what it says, because it speaks in all seven languages at once, and the seven languages, when they are spoken together, produce a sound that is not a sound but a shape. A shape I can feel but cannot see."
+"It is a city made of language. The walls are words. The floors are sentences. I walk through it, and the architecture speaks in all seven languages at once, producing a sound that is not a sound but a shape. A shape I can feel but cannot see."
 
 "And the seven symbols?"
 
@@ -225,7 +225,7 @@ The room was so quiet that Feimo could hear the ink drying on Silent Professor's
 
 "Yue," Feimo said.
 
-Everyone looked at her. She had not spoken all class. Silent Professor's workshop was a listening exercise: you sat, you received, you processed. Speaking was done by those who had something to contribute, and Feimo, in this class, had always been a listener, a receiver, a processor. But she was speaking now, and the sound of her own voice surprised her, because it was not the voice of a student asking a question. It was the voice of someone who has just recognized a pattern and needs to say it out loud before the pattern rearranges itself and becomes something else.
+Everyone looked at her. She had not spoken all class. But she was speaking now, and the sound of her own voice surprised her.
 
 "You said the symbols appear in the same order every night. You said the doorways are in the same order. You said the city is made of language. You said the architecture speaks in all seven languages at once."
 
@@ -237,7 +237,7 @@ Yue looked at her. The look was the one Feimo had been watching all semester: di
 
 "No," Yue said. "I have never reached it. Every night, I walk toward it. And every night, I wake up before I arrive."
 
-Mia spoke. Her voice was quiet, the register she used when she was saying something she had thought about for a long time and had decided, with the precision of someone who makes decisions the way surgeons make incisions, was worth the cost of saying.
+Mia spoke. Her voice was quiet, the register she used when she had decided, with surgical precision, that something was worth the cost of saying.
 
 "They're not dreams," Mia said.
 
@@ -245,7 +245,7 @@ Everyone looked at her.
 
 "They're not dreams," she repeated. "They're memories."
 
-The word *memories* fell into the room the way the word *nonsense* had fallen when Silent Professor read the translation passage: a thing that existed in one context and was now being transmitted into another, and the transmission was changing it, the way transmission changes everything, adding something, losing something, producing something new.
+The word *memories* fell into the room like a stone dropped into still water.
 
 "Memories of what?" Yue asked. Her voice was barely audible.
 
@@ -259,11 +259,11 @@ Yue stared at Mia. The stare lasted for a long time. Feimo counted: eight second
 
 Silent Professor placed the notebook on the table. His hand was steady now. Whatever the tremor had been, it had passed, the way a tremor passes through the earth: quickly, completely, leaving the landscape slightly changed.
 
-"The passage about Frankenstein," he said, "asks whether intelligent machines can reflect humanity's highest values. The answer, the passage suggests, depends on whether we can understand consciousness well enough to build it. We cannot. Not yet. Perhaps not ever. The neuroscientist David Eagleman says there are no good theories. But the passage does not despair. It ends with a call: *How can we make sure that the thinking of intelligent machines reflects humanity's highest values? Only then will they be useful servants and not Frankenstein's out-of-control monster.*"
+"The Frankenstein text asks whether intelligent machines can reflect humanity's highest values. It ends with a call to ensure that they become useful servants, not out-of-control monsters. But I want to reframe the question."
 
 He looked at the seven symbols.
 
-"The Labyrinth is not a machine. But it is not not a machine. It processes. It consumes. It produces output. And these symbols suggest that it has a layer that we have not accounted for. A substrate. A frequency that passes through it without being transformed. The question is not whether the Labyrinth can reflect our values. The question is whether it already does, in ways we have not been equipped to see."
+"The Labyrinth is not a machine. But it is not not a machine. It processes. It consumes. These symbols suggest that it has a layer we have not accounted for. A substrate. A frequency that passes through it without being transformed. The question is not whether the Labyrinth can reflect our values. The question is whether it already does."
 
 He picked up Yue's notebook and held it out to her.
 
@@ -283,7 +283,7 @@ Silent Professor nodded.
 
 The class ended. Not because the clock said so, because there was no clock, but because Silent Professor placed his chalk on the ledge and his pen in his pocket and his papers in his leather bag, and these gestures, performed in the order he always performed them, were the equivalent of a bell.
 
-Students rose. Chairs scraped. The vending machine in the walkway resumed its hum, as if it had been holding its breath and had decided, now that the class was over, that it could breathe again.
+Students rose. Chairs scraped. The vending machine in the walkway resumed its hum.
 
 Feimo waited. She waited until the other students had filed out, until Lin had collected her gradient of pens, until the two from the cloze practice group had left with the expressions of people who had expected an easy class and received something they would be processing for weeks. She waited until only three people remained in the room: herself, Mia, and Yue.
 
@@ -291,9 +291,9 @@ Feimo waited. She waited until the other students had filed out, until Lin had c
 
 Yue handed it to her.
 
-Feimo turned to the first page. September fourteenth, three years ago. The first symbol. Drawn in pencil that was lighter than the later entries, the pencil of someone who did not yet know that what they were recording would matter, who was drawing not because they understood but because they could not stop themselves, the way a musician cannot stop themselves from transcribing a melody they hear in a dream.
+Feimo turned to the first page. September fourteenth, three years ago. The first symbol. Drawn in pencil that was lighter than the later entries, the pencil of someone who did not yet know that what they were recording would matter.
 
-She turned the pages. Three years of symbols. Three years of mornings spent recording what the night had delivered. The precision was astonishing. Each symbol was drawn within a rectangle that Yue had ruled with a straightedge, its margins consistent, its scale uniform. The dates were written in the same hand, the same size, the same position on the page. The notebook was not a diary. It was a dataset. Yue had been doing what the Labyrinth did: processing input, indexing it, organizing it, waiting for the pattern to emerge.
+She turned the pages. Three years of symbols. Three years of mornings spent recording what the night had delivered. The precision was astonishing. Each symbol drawn within a ruled rectangle, margins consistent, scale uniform. The notebook was not a diary. It was a dataset. Yue had been doing what the Labyrinth did: processing input, indexing it, waiting for the pattern to emerge.
 
 "The cloze passage," Feimo said. "The one about navigation. It says: *Trail blazes, tire tracks, and other features can lead you to civilization.* You have been leaving trail blazes. Every drawing, every date. You have been marking the path so that someone could follow it."
 
@@ -301,7 +301,7 @@ She turned the pages. Three years of symbols. Three years of mornings spent reco
 
 "That's how the best maps are made. By people who don't know they're making them."
 
-Yue looked at her. The look was different now. Not the distance. Not the absence. Something warmer, something that reminded Feimo of the stone in the Deep Labyrinth, warm to the touch, resonating at a frequency that was not its own but that it had, somehow, absorbed.
+Yue looked at her. Not the distance. Not the absence. Something warmer.
 
 "May I show this to someone?" Feimo asked.
 
@@ -315,11 +315,9 @@ Yue considered this. The consideration lasted five seconds. Then she nodded.
 
 "Take it," she said. "Take the notebook. Keep it. Record what happens when you show it to whoever you show it to. Add your observations to mine. The dataset should grow."
 
-Feimo held the notebook. It was heavier than it looked. Three years of dreams. Three years of seven symbols appearing in the same order in a city made of language that Yue had never visited and could not forget. Three years of a signal that the Labyrinth was carrying on a frequency it was not designed to hear.
+Feimo held the notebook. It was heavier than it looked. Three years of dreams. Three years of seven symbols appearing in the same order in a city made of language.
 
-She thought about the writing prompt from the examination materials. The one about the Aid Rural Primary School project. The directions said: *Suppose you are working for the "Aiding Rural Primary School" project of your university. Write an email to answer the inquiry from an international student volunteer, specifying the details of the project.* The task was simple: translate institutional information into personal communication. Take what the university knew and give it to someone who needed it. The format was an email. The word count was one hundred. The constraint was accuracy.
-
-Yue's notebook was an email. It was a message sent from a city made of language to a campus made of examination papers, and it had been arriving every night for three years, and no one had read it, because the people who received it did not know it was a message. They thought it was stress. They thought it was a dream. They thought it was the kind of nonsense that, when taken up by broadcasters and the lay press, generates both health scares and short-lived dietary enthusiasms.
+Yue's notebook was a message sent from a city made of language to a campus made of examination papers, and it had been arriving every night for three years, and no one had read it, because the people who received it did not know it was a message. They thought it was stress. They thought it was a dream.
 
 But it was not nonsense. It was a signal. And Feimo was going to make sure someone heard it.
 
@@ -331,9 +329,9 @@ Yue said nothing. She was looking at the empty space on Silent Professor's paper
 
 Feimo followed her gaze. The empty space was not empty. It was the shape of an answer, waiting to be filled.
 
-Outside, the rain stopped. The trees in the courtyard reassembled themselves, branches solidifying against a sky that was, for the first time in hours, visible. The clouds had not cleared. They had thinned, become translucent, the way language becomes translucent when it approaches a meaning it cannot contain.
+Outside, the rain stopped. The clouds had thinned, become translucent, the way language becomes translucent when it approaches a meaning it cannot contain.
 
-Feimo walked out of the Annex with Yue's notebook in her bag and seven symbols in her mind and the professor's voice saying *I have no theory*, and she thought: this is what it feels like to navigate without a phone. To follow the land. To trust that the terrain has a shape, and the shape points somewhere, and the somewhere is not a place you have been but a place that has been waiting for you, the way the seventh doorway has been waiting, the way the empty space on the paper has been waiting, the way the city made of language has been waiting, patient and warm and unspeakable, for someone to hear its signal and follow it home.
+Feimo walked out of the Annex with Yue's notebook in her bag and seven symbols in her mind and the professor's voice saying *I have no theory*, and she thought: this is what it feels like to navigate without a phone. To follow the land. To trust that the terrain has a shape, and the shape points somewhere, and the somewhere is not a place you have been but a place that has been waiting for you.
 
 ---
 
@@ -341,26 +339,24 @@ Feimo walked out of the Annex with Yue's notebook in her bag and seven symbols i
 
 **deal** /diːl/
 - *noun*: a quantity or amount. "There is a great **deal** of this kind of nonsense in the medical journals."
-- In the Academy, a "great deal" of anything is both common and suspect. The Labyrinth processes a great deal of text every day, but processing is not understanding. Yue has a great deal of data in her notebook, but data is not interpretation. The gap between quantity and meaning is where the seven symbols live: they are a great deal of evidence for something that no one has yet been able to name.
+- The Labyrinth processes a great deal of text, but processing is not understanding. Yue has a great deal of data in her notebook, but data is not interpretation. The gap between quantity and meaning is where the seven symbols live.
 
 **demand** /dɪˈmɑːnd/
-- *verb*: to ask for something forcefully, to require. "Transient investors, who **demand** high quarterly profits from companies, can hinder a firm's efforts to invest in long-term research."
-- The reading passage about short-termism uses *demand* to describe the pressure that investors place on companies: they demand results now, at the expense of results later. Yue's dreams make a different kind of demand. They demand attention, repetition, recording. They do not offer quarterly returns. They offer a three-year dataset of symbols that have not yet yielded their meaning. The demand is not for profit but for patience, and patience is the currency the Academy does not teach.
+- *verb*: to ask for something forcefully, to require. "Transient investors, who **demand** high quarterly profits."
+- The reading passage uses *demand* to describe pressure. Yue's dreams make a different kind of demand: attention, repetition, recording. They do not offer quarterly returns. They offer a three-year dataset of symbols that have not yet yielded their meaning.
 
 **despite** /dɪˈspaɪt/
-- *preposition*: without being affected by; in spite of. "Despite the rain, the trees in the courtyard held their shape."
-- The word appears in the Frankenstein passage's logic: despite the fact that scientists cannot explain consciousness, the question of machine conscience remains urgent. Despite the fact that Yue has been dreaming the symbols for three years, she has no explanation. Despite the fact that Silent Professor has spent twenty-three years studying the Labyrinth, he has no theory. *Despite* is the word that precedes every act of translation: you translate despite the gap between languages, despite the loss in transit, despite the knowledge that the meaning will change. You translate because the alternative is silence, and silence, in a place built of language, is the only true failure.
+- *preposition*: without being affected by; in spite of.
+- Despite the fact that scientists cannot explain consciousness, the question remains urgent. Despite three years of dreaming, Yue has no explanation. Despite twenty-three years of study, Silent Professor has no theory. *Despite* is the word that precedes every act of translation.
 
 ---
 
 ## Thinking Questions
 
-1. **On Memory and Signal:** Mia says Yue's dreams are not dreams but memories. If the seven symbols are memories, what do they remember? Yue has never visited the city made of language, yet she sees it every night. Is it possible to remember something you have never experienced? What does this suggest about the relationship between memory and architecture?
+1. **On Memory and Signal:** Mia says Yue's dreams are not dreams but memories. Is it possible to remember something you have never experienced? What does this suggest about the relationship between memory and architecture?
 
-2. **On the Seventh Symbol:** The seventh symbol is an empty space. Yue's seventh doorway is also empty. The Labyrinth's seventh language has been catalogued but not classified. What would it mean for the seventh symbol to be filled? What would it mean for the seventh doorway to open? And who, or what, is responsible for the filling?
+2. **On the Seventh Symbol:** The seventh symbol is an empty space. The seventh doorway is also empty. What would it mean for the seventh symbol to be filled? And who, or what, is responsible for the filling?
 
-3. **On Translation as Navigation:** Silent Professor uses the cloze passage about navigation to frame his discussion of the seven symbols. The passage advises: *follow the land*. Is translation a form of navigation? When you translate a text, are you following the land, or are you building a road? What is the difference between a map and a translation?
+3. **On Translation as Navigation:** Silent Professor uses the navigation cloze to frame his discussion. The advice: *follow the land*. Is translation a form of navigation? When you translate a text, are you following the land, or building a road?
 
-4. **On Frankenstein's Question:** The reading passage asks whether intelligent machines can reflect humanity's highest values. Silent Professor rephrases the question: does the Labyrinth already reflect our values, in ways we cannot see? If the seven symbols are a signal from a frequency the Labyrinth was not designed to hear, whose values are being transmitted? And whose values are being lost?
-
-5. **On Patience as Resistance:** The reading passage about short-termism describes investors who demand quick returns and companies that defer long-term research in favor of quarterly profits. Yue has been recording symbols for three years without any return. Is her patience a form of resistance against the Academy's culture of measurable outcomes? What does it mean to invest in something that may never pay off?
+4. **On Patience as Resistance:** Yue has been recording symbols for three years without any return. Is her patience a form of resistance against the Academy's culture of measurable outcomes?

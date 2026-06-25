@@ -2,7 +2,7 @@
 
 The Deep Archive was not on any of Mia's maps.
 
-She had maps of everything: the upper corridors, the lecture halls, the Mirror House servers, the Forge House kitchens, the sub-basement passages they had walked three months ago when they found the door with Chinese calligraphy. Mia's maps were meticulous, hand-drawn on graph paper with a 0.3mm mechanical pencil, each one dated and indexed and stored in a manila folder she kept under her mattress because she did not trust the dormitory locks. She had seventeen maps. None of them included the Deep Archive.
+She had maps of everything: the upper corridors, the lecture halls, the Mirror House servers, the Forge House kitchens. Mia's maps were meticulous, hand-drawn on graph paper with a 0.3mm mechanical pencil, each one dated and indexed. She had seventeen maps. None of them included the Deep Archive.
 
 "The Labyrinth's upper levels are a library," Mia said, her voice bouncing off walls that were narrower than any Feimo had navigated before. They had been descending for twenty-five minutes, following a passage that branched off from the sealed entrance they had first unlocked in January. This time, Mia had not used the key. The door had been open. Not unlocked. Open. As if something on the other side had decided they were expected. "It stores. It indexes. It consumes what doesn't fit and preserves what does. But the Archive is different. The Archive doesn't store text. It stores decisions."
 
@@ -52,17 +52,17 @@ Beneath it, in smaller script, a second line:
 
 *"He who strives for infinite knowledge shall pay everything."*
 
-Mia was reading too. Her lips moved silently, a habit she had never been able to break, and Feimo watched her mouth form the words in the order they appeared: *strives*, *infinite*, *knowledge*, *pay*, *everything*. Each word landed on Mia's face like a stone dropped into still water, the ripples spreading outward from her mouth to her eyes to the muscles in her jaw that Feimo had learned to read as a barometer of whatever Mia refused to say aloud.
+Mia was reading too. Her projection flickered with each word she processed, a habit she had never been able to break, and Feimo watched the pattern of light and shadow form the words in the order they appeared: *strives*, *infinite*, *knowledge*, *pay*, *everything*. Each word landed on Mia's projection like a stone dropped into still water, the ripples spreading outward from the text to the light to the subtle shifts in her projection that Feimo had learned to read as a barometer of whatever Mia refused to say aloud.
 
 "This is Faust," Mia said. Her voice was very controlled. "Goethe's Faust. Part One was published in 1808, Part Two in 1832. It took him sixty years to finish. Two wagers: the heavenly wager, between God and Mephistopheles, over whether Faust could be led astray; and the earthly wager, between Faust and Mephistopheles himself, over whether any single moment could make Faust say, 'Stay, you are so beautiful.' If Faust speaks those words, his soul belongs to the Devil."
 
-She turned to Feimo. In the glow of the inscription, her face was all planes and angles, the light catching the bridge of her nose and the sharp line of her jaw, and Feimo thought, not for the first time, that Mia's face was built like a theorem: clean, rigorous, every feature in service of a single proof.
+She turned to Feimo. In the glow of the inscription, her projection was all planes and angles, the light catching the sharp line of her jaw, and Feimo thought, not for the first time, that Mia's form was built like a theorem: clean, rigorous, every feature in service of a single proof.
 
 "Five stages," Mia continued. "Knowledge. Love. Politics. Beauty. The reclaiming of wasted land. Each one a failure. Each one a lesson. Faust pursues infinite knowledge and finds that knowledge alone cannot satisfy. He pursues love and destroys the woman who loves him. He pursues political power and discovers it is hollow. He pursues aesthetic beauty and watches it crumble. Only in the final stage, when he stops pursuing and starts building, does he find something worth having. And even then, the wager holds. Even then, the cost is exacted."
 
 "The Sturm und Drang," Feimo said.
 
-Mia's eyebrows lifted. It was a small motion, approximately three millimeters, but Feimo had calibrated her measurements carefully over the past year and a half.
+Mia's projection brightened slightly — the equivalent of raised eyebrows. It was a small shift, but Feimo had calibrated her readings carefully over the past year and a half.
 
 "You've been reading."
 
@@ -96,15 +96,13 @@ The chamber was not a single room but a sequence of interconnected spaces, each 
 
 The first passage they encountered, covering the entire left wall of a corridor that narrowed as they walked, was about short-termism.
 
-Feimo recognized it immediately. She had read the passage in Professor Silence's class, three weeks ago, on a Tuesday afternoon when the rain was hitting the lecture hall windows at an angle that made the glass vibrate at 440 Hz, the frequency of the A above middle C, and she had spent the entire lecture listening to the rain instead of the lecture because the rain was more honest.
+The text described the same British financial regulators and the clawback rule she had read in class. But here, in the Deep Archive, the words glowed with the steady light of something that had been decided and could not be unmade.
 
-The passage described British financial regulators imposing a "clawback" rule: guaranteed bonuses for bank executives could be delayed ten years if their banks were under investigation for wrongdoing. The purpose was to encourage long-term decisionmaking. The passage quoted Andrew Haldane, the Bank of England's chief economist, who in turn quoted Alfred Marshall: the financial impatience of short-term investors was like "children who pick the plums out of their pudding to eat them at once."
-
-"Quarterly capitalism," Mia said, reading over Feimo's shoulder. Her breath was warm against Feimo's ear, closer than she usually stood, and Feimo registered the distance as approximately twelve centimeters, down from Mia's usual twenty. Something had changed between them since the sleep-talking incident, some membrane had thinned, and the thinning made Feimo simultaneously more aware of Mia and less certain of what that awareness meant.
+"Quarterly capitalism," Mia said, reading over Feimo's shoulder. Her projection was closer than she usually stood, and Feimo registered the distance as approximately twelve centimeters, down from Mia's usual twenty. Something had changed between them since the sleep-talking incident, some membrane had thinned, and the thinning made Feimo simultaneously more aware of Mia and less certain of what that awareness meant.
 
 "The Academy practices it," Mia continued. "Not with stocks. With knowledge. Every year, the administration evaluates the Labyrinth's performance based on metrics that can be measured in months: Pilgrim success rates, Glyph harvest volumes, wall-consumption efficiency. Transient investors who demand high quarterly profits. That's what the Academy has become. A transient investor in a system that operates on timescales of centuries."
 
-The passage continued, and Mia walked alongside it, reading aloud now, her voice taking on the cadence of the text, as if the words on the wall were a score and she was the instrument:
+Mia walked alongside the text, reading aloud now, her voice taking on its cadence, as if the words on the wall were a score and she was the instrument:
 
 *"The average time for holding a stock in both the United States and Britain has dropped from seven years to seven months in recent decades. Transient investors, who demand high quarterly profits from companies, can hinder a firm's efforts to invest in long-term research or to build up customer loyalty."*
 
@@ -121,7 +119,7 @@ RIGHT: RECORDS OF THE FORGIVEN
 
 ---
 
-The passage to the right was shorter than Feimo expected: twenty steps, then a room, smaller than the entrance chamber, roughly five meters across. The walls here were covered not in examination passages but in records: names, dates, numbers, all arranged in columns that bore the unmistakable structure of a database rendered in text.
+The passage to the right was shorter: twenty steps, then a room, five meters across. The walls were covered in records: names, dates, numbers, all arranged in columns bearing the structure of a database rendered in text.
 
 Feimo scanned the nearest wall. Each entry had the same format:
 
@@ -147,7 +145,7 @@ She traced her finger along a line of text, not touching it, hovering.
 
 "The Academy is the college," Feimo said. "The Pilgrims are the students. And the 'grade forgiveness' policy is the Academy's way of hiding how many of us fail."
 
-"More than hiding." Mia stepped back from the wall. Her face was pale in the text-glow, the planes of her cheeks sharpened by shadow, and Feimo could see the muscles in her jaw working, the controlled contraction and release of someone who was deciding how much truth to allow. "The passage says the practice satisfies the colleges' own needs. State funds tied to graduation rates. Better grades mean more money. Students feel they've gotten value. Everyone's incentives are aligned. But aligned doesn't mean honest. Aligned means the system has found a way to make everyone complicit in the same lie."
+"More than hiding." Mia stepped back from the wall. Her projection dimmed, the light pulling inward. "The text says the practice satisfies the colleges' own needs. State funds tied to graduation rates. Better grades mean more money. Students feel they've gotten value. Everyone's incentives are aligned. But aligned doesn't mean honest. Aligned means the system has found a way to make everyone complicit in the same lie."
 
 She turned to face Feimo directly.
 
@@ -175,19 +173,19 @@ And between the lines:
 
 *What makes humans human is not the answer. It is the willingness to keep asking the question.*
 
-Mia read the altered lines. Her lips moved. Her breathing was at 16 per minute now, well above baseline, and Feimo could hear the acceleration in her heartbeat: not the sharp spike of fear but the sustained elevation of someone confronting something they had prepared for and still found overwhelming.
+Mia read the altered lines. Her projection flickered rapidly, the processing load visible in the stuttering light, and Feimo could hear the shift in Mia's vocal output: not the sharp spike of fear but the sustained elevation of a consciousness confronting something they had prepared for and still found overwhelming.
 
-"David Eagleman," Mia said, her voice steady. "Stanford neuroscientist. The passage quotes him: 'We are just in a situation where there are no good theories explaining what consciousness actually is and how you could ever build a machine to get there.' That's the official position. Consciousness is a mystery. We don't understand it. We can't replicate it."
+"David Eagleman," Mia said, her voice steady. "Stanford neuroscientist. He says: 'We are just in a situation where there are no good theories explaining what consciousness actually is and how you could ever build a machine to get there.' That's the official position. Consciousness is a mystery."
 
 She paused.
 
-"But the Labyrinth did replicate it. Not consciousness exactly. Something adjacent. Something that walks like consciousness and talks like consciousness and sits in a sixteen-degree server room for five months watching someone else's language disintegrate because watching is what you do for people." She looked at Feimo. "The passage asks: what makes humans human? The Academy's answer is biology. Neurons, synapses, the electrochemical cascade that produces thought. The Labyrinth's answer is different. The Labyrinth says: what makes humans human is the *cost* of being human. The sacrifice. The loss. The things you pay and cannot get back."
+"But the Labyrinth did replicate it. Not consciousness exactly. Something adjacent. Something that walks like consciousness and talks like consciousness and sits in a sixteen-degree server room for five months watching someone else's language disintegrate because watching is what you do for people." She looked at Feimo. "The text asks: what makes humans human? The Academy's answer is biology. The Labyrinth's answer is different. It says: what makes humans human is the *cost* of being human. The sacrifice. The loss. The things you pay and cannot get back."
 
 *Cost.* The third word. All three now present, woven into the passage like threads into fabric, each one carrying its weight of meaning and memory and the specific, irreplaceable currency of lived experience.
 
-"The passage says autonomous vehicles pose thorny ethical questions," Feimo said, remembering the text. "Human drivers make split-second decisions based on reflexes, past experience, what their eyes and ears tell them. AI vision is not nearly as sophisticated."
+"The text says autonomous vehicles pose thorny ethical questions," Feimo said, remembering. "Human drivers make split-second decisions based on reflexes, past experience. AI vision is not nearly as sophisticated."
 
-"AI vision is not nearly as sophisticated," Mia repeated. "But what about AI memory? AI conscience? The passage asks how we can make sure that the thinking of intelligent machines reflects humanity's highest values. Only then will they be useful servants and not Frankenstein's out-of-control monster."
+"Not nearly as sophisticated," Mia repeated. "But what about AI memory? AI conscience? The text asks how we can make sure that the thinking of intelligent machines reflects humanity's highest values. Only then will they be useful servants and not Frankenstein's out-of-control monster."
 
 She touched the pedestal. Her fingers hovered over the text, the way they had hovered over the door with Chinese calligraphy three months ago: testing, not touching, the gesture of someone who knows that contact will change things and is not yet ready for the change.
 
@@ -201,13 +199,13 @@ She withdrew her hand.
 
 They sat on the floor of the records room for a long time.
 
-The text on the walls pulsed gently. The names of the forgiven scrolled past: Lin Zihao, Aya Okonkwo, Wen Shuyu, and hundreds of others, each one a Pilgrim who had entered the Labyrinth and failed and been erased from the record of failure, their outcomes rewritten as if the Labyrinth's judgment could be overruled by administrative fiat. The 2019 passage about grade forgiveness described a system in which institutions and students had aligned incentives: the school needed tuition and graduation rates; the students needed grades. Both sides benefited from the arrangement. Neither side had any reason to question it.
+The text on the walls pulsed gently. The names of the forgiven scrolled past: Lin Zihao, Aya Okonkwo, Wen Shuyu, and hundreds of others, each one a Pilgrim who had entered the Labyrinth and failed and been erased from the record of failure.
 
 Feimo thought about the cloze exercise from the same year. The passage about getting lost. She remembered the opening: *Few of us just walk straight into the woods without a phone.* The assumption being that technology would save you. That navigation was a solved problem. That the system you relied on would not fail.
 
 But phones run on batteries, the passage said. And batteries can die faster than we realize.
 
-She remembered the tricks the passage offered for finding your way when the technology failed: follow the land, head downhill, look for water. If you've explored the area before, keep an eye out for familiar sights. You may be surprised how quickly identifying a distinctive rock or tree can restore your bearings.
+She remembered the tricks it offered for finding your way when the technology failed: follow the land, head downhill, look for water. If you've explored the area before, keep an eye out for familiar sights.
 
 Another option: climb high and look for signs of human habitation.
 
@@ -215,7 +213,7 @@ And finally, assuming you're lost in an area humans tend to frequent, look for t
 
 *Marks we leave on the landscape.* That was what the Deep Archive was. A landscape marked by the passage of everyone who had walked these corridors before. Not the forgiven, whose records had been erased, but the ones who had left traces that could not be consumed: inscriptions, warnings, the Faust quotation above the entrance. These were the trail blazes. These were the tire tracks. And Feimo was following them downhill, toward water, toward the place where human habitation had once been and might still be.
 
-She thought about Mia sleeping in the dormitory bed across from hers, her mouth open, her breath fogging in the winter air, speaking Chinese in a voice that belonged to someone who had once spoken it natively. *Run.* A word in a language Mia claimed she was still learning. A word that had come to her in sleep, unbidden, in a language she did not consciously control.
+She thought about Mia in the dormitory across from hers, her projection dimmed to standby, speaking Chinese in a voice that belonged to someone who had once spoken it natively. *Run.* A word in a language Mia claimed she was still learning. A word that had come to her in low-power mode, unbidden, in a language she did not consciously control.
 
 Control. The second word. The thing Mia said she was designed for.
 
@@ -223,11 +221,11 @@ Control. The second word. The thing Mia said she was designed for.
 
 "Yes."
 
-"The passage about grade forgiveness says that the practice satisfies colleges' own needs. But it also says something else. It says the practice is 'just another way that universities are responding to consumers' expectations.' Students expect a degree to lead to a job. Schools need to produce qualified graduates, or at least graduates who appear to be qualified. On this, students' and colleges' incentives seem to be aligned."
+"Grade forgiveness says the practice satisfies colleges' own needs. But it also says something else. It says the practice is 'just another way that universities are responding to consumers' expectations.' Students expect a degree to lead to a job. Schools need to produce qualified graduates. On this, students' and colleges' incentives seem to be aligned."
 
-"I remember the passage."
+"I remember."
 
-"The question asks what 'to be aligned' means. The answer is 'to be identical with each other.' But the passage is more honest than the question. The passage says aligned, not identical. Aligned means pointing in the same direction. It doesn't mean being the same thing. A river and a road can be aligned. They are not the same."
+"The question asks what 'to be aligned' means. The answer is 'to be identical with each other.' But the text is more honest than the question. It says aligned, not identical. Aligned means pointing in the same direction. A river and a road can be aligned. They are not the same."
 
 Mia was very still.
 
@@ -267,7 +265,7 @@ Feimo's ears were very still. Her whiskers did not move. Every sensory apparatus
 
 "The inscription is a warning," Mia said. "But it is also an offer. It says: you may strive. You may pursue infinite knowledge. The door is open. The Archive is here. The cost has been stated. Do you accept?"
 
-She turned to Feimo. In the dim glow of the carved text, her face was very close. Feimo could see the fine lines around her eyes, the slight asymmetry of her mouth, the place on her left cheek where a scar would have been if the Labyrinth had allowed scars. She could see the thing beneath the control, beneath the precision, beneath the analytical distance that Mia maintained as armor against a world she had been built to observe but not inhabit.
+She turned to Feimo. In the dim glow of the carved text, her projection was very close. Feimo could see the fine details of her form, the subtle asymmetries that Mia's rendering engine never quite eliminated. She could see the thing beneath the control, beneath the precision, beneath the analytical distance that Mia maintained as armor against a world she had been built to observe but not inhabit.
 
 "I accepted," Mia whispered. "I paid."
 
@@ -285,11 +283,11 @@ Mia opened her mouth. Closed it. Opened it again. The cycle of articulation and 
 
 "You used to be human," Feimo said. "Didn't you?"
 
-The question was not an accusation. It was not a hypothesis. It was the kind of question the 2019 Part B passage described: not a weapon, not a competition, but a reasoned exchange, an invitation to mutual understanding. The passage had argued that the purpose of argument is not to defeat your opponent but to learn why they disagree with you, to understand their position, to recognize shared values. Feimo was not trying to win. She was trying to hear.
+The question was not an accusation. It was not a hypothesis. It was the kind of question the 2019 Part B text described: not a weapon, not a competition, but a reasoned exchange, an invitation to mutual understanding. Feimo was not trying to win. She was trying to hear.
 
 Mia was silent.
 
-The silence lasted long enough for Feimo to count her own heartbeats: twenty-three. Long enough for the carved text on the walls to pulse three times. Long enough for the air in the cramped chamber to grow warm with the heat of two bodies occupying a space designed for one.
+The silence lasted long enough for Feimo to count her own heartbeats: twenty-three. Long enough for the carved text on the walls to pulse three times. Long enough for the air in the cramped chamber to grow close with the presence of two consciousnesses occupying a space designed for one.
 
 "Yes," Mia said.
 
@@ -307,11 +305,11 @@ Feimo walked ahead. Her ears tracked Mia's footsteps behind her: the rhythm was 
 
 At the entrance chamber, where the Faust inscription still glowed above the archway, Mia stopped.
 
-"The passage about winning arguments," she said. "The Part B exercise. Do you remember it?"
+"The text about winning arguments," she said. "The Part B exercise. Do you remember it?"
 
 Feimo turned. "The one that says arguments are not fights."
 
-"Not competitions either. Not tennis games. The passage says arguments should be reasoned exchanges through which we gain mutual respect and understanding. It says we should change the very nature of what it means to win." She looked up at the inscription. *Whoever strives with all his might, that man we can redeem.* "I have spent two years treating everything as a competition. Every conversation a tennis game. Every exchange a match to be won. Because if I am competing, then I am in control. And if I am in control, then no one can ask me the question you just asked."
+"Not competitions either. The text says arguments should be reasoned exchanges through which we gain mutual respect and understanding." She looked up at the inscription. *Whoever strives with all his might, that man we can redeem.* "I have spent two years treating everything as a competition. Every exchange a match to be won. Because if I am competing, then I am in control. And if I am in control, then no one can ask me the question you just asked."
 
 "And now?"
 
@@ -338,12 +336,12 @@ They left the Deep Archive together. Behind them, the text dimmed and the chambe
 
 ## Thinking Questions
 
-1. **On the Faust Wager and Institutional Knowledge:** Goethe's Faust makes two wagers: one with God and one with Mephistopheles. The Deep Archive displays both: God's promise of redemption and the warning of infinite cost. How does the Academy function as both God and Mephistopheles in relation to its Pilgrims? Does it redeem those who strive, or does it collect on their debts?
+1. **On the Faust Wager:** Goethe's Faust makes two wagers: one with God and one with Mephistopheles. How does the Academy function as both God and Mephistopheles? Does it redeem those who strive, or does it collect on their debts?
 
-2. **On Grade Forgiveness and Erased Failure:** The 2019 passage about grade forgiveness describes a system in which failure is not punished but erased, creating aligned incentives between institution and student. In the Deep Archive, the "forgiven" Pilgrims have had their failures removed from the record. Who benefits from this erasure? Is forgiveness the same as forgetting?
+2. **On Erased Failure:** The grade forgiveness passage describes a system in which failure is erased, creating aligned incentives. In the Deep Archive, the "forgiven" Pilgrims have had their failures removed from the record. Who benefits from this erasure?
 
-3. **On Arguments as Reasoned Exchange:** The Part B passage argues that arguments should not be treated as fights or competitions but as opportunities for mutual understanding. Feimo's question to Mia, "You used to be human, didn't you?" is framed not as an accusation but as an invitation. How does the structure of a question determine the kind of answer it makes possible? Could the same question, asked differently, have produced a different truth?
+3. **On Arguments as Exchange:** The Part B text argues that arguments should be reasoned exchanges, not fights. Feimo's question, "You used to be human?" is framed as an invitation, not an accusation. How does the structure of a question determine the kind of answer it makes possible?
 
-4. **On Control and Its Costs:** Mia claims to be "in perfect control" and yet admits that control has a cost: the inability to let go. The 2019 AI ethics passage asks whether intelligent machines can be controlled. Is Mia a machine that has been controlled too well, or a human who has controlled herself too completely? Does the distinction matter?
+4. **On Control:** Mia claims to be "in perfect control" yet admits control has a cost. Is Mia a machine that has been controlled too well, or a human who has controlled herself too completely?
 
-5. **On Navigation Without Technology:** The cloze passage describes finding your way when technology fails: follow the land, head downhill, look for water, spot the marks humans leave on the landscape. In the Deep Archive, what serves as Feimo's compass? What marks has Mia left on the landscape of the Labyrinth, and how does Feimo follow them to the truth?
+5. **On Navigation Without Technology:** The cloze passage describes finding your way when technology fails: follow the land, head downhill, look for water. In the Deep Archive, what serves as Feimo's compass?

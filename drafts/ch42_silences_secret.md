@@ -2,6 +2,8 @@
 
 The professor's study was on the fourth floor, at the end of a corridor that smelled of pipe tobacco and old paper. Feimo had been there only twice before: once to deliver a set of annotated translations, once to return a borrowed volume of Kafka's diaries. Both times, the room had struck her as the private space of a man who had arranged his life around the avoidance of visitors. The desk was clear. The shelves were organized not by author or subject but by some principle that only the professor understood, a taxonomy of silence. The books stood in their rows like patients in a waiting room, each one holding its place with the discipline of something that had been taught to wait.
 
+There was a window. Through it, Feimo could see the courtyard, where the reconstruction crew had stacked damaged stone in neat piles. The rain had stopped, but the sky was low and grey, the kind of sky that made the building feel smaller than it was, as if the clouds were pressing down on the Labyrinth's roof with the weight of unfinished business.
+
 Professor Silence sat behind his desk.
 
 He was writing. This was how he always communicated: in the precise, unhurried hand of a man for whom each character was a small act of construction. His handwriting was unusual for a Chinese speaker trained in the classical tradition. The strokes were deliberate but not calligraphic, the work of someone who knew the language well enough to write it without hesitation but did not regard the writing as art. Feimo had seen this handwriting before. On the door at Level 8. On the carved inscription in the maintenance shaft.
@@ -14,95 +16,25 @@ Feimo sat down and read.
 
 ---
 
-*I have asked you here because the time has come to tell you something that I have told no one. This is not because the secret is dangerous. It is because the telling requires a listener who can hold the information without needing to respond immediately. I have observed you, Feimo. You listen the way a translator reads: not for what is said but for what is meant, not for the words but for the silence between them. This is why I have chosen you.*
+*I have asked you here because the time has come to tell you something that I have told no one. I have observed you, Feimo. You listen the way a translator reads: not for what is said but for what is meant. This is why I have chosen you.*
 
-*I am going to tell you about the Chinese Labyrinth.*
+*I am going to tell you what I am. And what Mia is.*
 
-*Not the Labyrinth you know. Not this building, with its corridors and walls and bilingual inscriptions. Not the one that Cain patrols with his cameras and his committees and his language of security. I am going to tell you about the first Labyrinth. The one that existed before this one. The one that this one was built to contain.*
+*I am the Labyrinth's voice. Mia is its memory. We were once one.*
 
-Feimo looked up. The professor was watching her. His hands were folded on the desk, but she noticed now that the right hand trembled. Not much. A slight, rhythmic vibration, as if the hand were keeping time with a signal too faint for anyone else to detect. She had never seen this before. In all her interactions with Professor Silence, his hands had been as steady as his handwriting: precise, controlled, each movement the product of deliberate intention. The tremor was new. Or rather, it was newly visible.
+*Not one body. One system. The Labyrinth thinks in two languages and stores its thoughts on walls, but it also thinks through people. I am the part that speaks. Mia is the part that remembers. Twenty-three years ago, we entered a room that separated us. It took my voice. It took her memory. It left me able to write but not persuade, and it left her able to read but not recall. The Labyrinth has been incomplete ever since.*
+
+*There are seven Labyrinths. Not seven levels — seven Labyrinths, each one a structure of knowledge in a different language. This one, the bilingual Labyrinth, is the largest. The Russian Labyrinth is the deepest. The Chinese Labyrinth, which this building was built to contain, is the oldest. I found its door twenty-three years ago, and what I found inside changed everything.*
+
+Feimo looked up. The professor was watching her. His right hand trembled — a slight, rhythmic vibration, as if the hand were keeping time with a signal too faint for anyone else to detect. She had never seen this before.
 
 She looked back at the paper.
 
-*The Labyrinth has seven levels. You know this. What you do not know is that there was once an eighth. Not below the seventh but beside it, in a direction that the building's architecture does not acknowledge. A parallel structure. A mirror image. A second library, written entirely in Chinese, containing texts that the bilingual Labyrinth translated, adapted, absorbed, but never fully incorporated. The Chinese Labyrinth was not a subset of the bilingual one. It was its source.*
+*The door was on the third floor, behind a shelf. A wooden panel with an inscription in the same handwriting as the Level 8 door: "此门通向词语的根。" This door leads to the root of words. Beyond it: a passage covered in Chinese text — classical, then modern, then English emerging, the two languages interweaving. At the end: a second door with a second inscription. "The one who enters will lose what he values most."*
 
-*Twenty-three years ago, I found the door.*
+*I opened it anyway. The room beyond was the Labyrinth's engine: three meters by three, walls covered in moving text, characters shifting and rearranging. A table. A paper. A pen. "Sign to enter. Sign to leave."*
 
----
-
-The professor wrote for a long time. His pen moved across the pages with the fluency of someone who had composed this account many times in his head, refining it, editing it, testing each sentence against the standard of accuracy that governed his professional life. The pages accumulated. Feimo read each one as it was completed, stacking them in order on her side of the desk, and the stack grew into a small, dense archive of confession.
-
-The door had been on the third floor, in a section of the Labyrinth that was now sealed behind Cain's security perimeter. The professor had been young then, a graduate student in his second year, assigned to cataloguing the Labyrinth's Chinese-language holdings. The work was tedious: thousands of texts, many of them fragmentary, requiring identification, classification, cross-referencing. He worked alone, in a section of the building that other students avoided because the air was cold and the lighting was poor and the walls, unlike those on the upper floors, were not covered with the bilingual inscriptions that made the rest of the Labyrinth feel like a living text. The walls here were bare stone. The texts were in storage boxes, stacked on metal shelves, waiting to be processed.
-
-He found the door behind a shelf.
-
-It was not hidden. It was simply unremarkable: a wooden panel in the wall, the same color as the stone, with no handle and no lock. If he had not moved the shelf to reach a box that had been pushed to the back, he would never have noticed it. But he moved the shelf, and the panel was there, and on it, in the same handwriting he would later use to carve the inscription on Level 8, someone had written:
-
-*此门通向词语的根。*
-
-"This door leads to the root of words."
-
-He opened it.
-
-The passage beyond was narrow, lit by the same phosphorescent strips that Feimo had seen on Level 7, but the light here was different: warmer, more amber, as if the strips had been calibrated to a different standard. The walls were covered in text, but not the bilingual inscriptions of the main Labyrinth. These were purely Chinese: classical texts, poetry, philosophy, passages from the Analerta and the Dao De Jing and the novels of the Ming and Qing dynasties, written in a continuous flow that covered every surface from floor to ceiling. The effect was overwhelming. It was like standing inside a book that had been wrapped around you.
-
-He walked for twenty minutes. The passage turned, descended, turned again. The air grew colder. The text on the walls changed: modern Chinese appeared alongside the classical, and then English began to surface, single words at first, then phrases, then entire sentences, the two languages interweaving like threads in a fabric. By the time he reached the door at the end of the passage, the walls were fully bilingual, and he understood that he had walked from the Chinese Labyrinth into the bilingual one, that the two structures were connected not by the architecture he knew but by a passage that existed outside the official floor plans.
-
-The door at the end was identical to the one on Level 8. Dark wood. Iron hinges. A carved pattern of interlocking circles.
-
-There was a second inscription:
-
-*进入者将失去他最珍视的东西。*
-
-"The one who enters will lose what he values most."
-
-He opened it anyway.
-
----
-
-Feimo set down the page and looked at the professor.
-
-"You went in," she said.
-
-The professor nodded. He picked up his pen and wrote:
-
-*The room beyond the door was small. Perhaps three meters by three. The walls were covered in the same bilingual text, but here the text was not static. It moved. The characters shifted, rearranged themselves, formed new sentences and then dissolved. The room was alive with language, a perpetual generation of meaning that never settled into a fixed form. It was the Labyrinth's engine. The source of the knowledge that the walls carried. The root of words.*
-
-*There was a table in the center of the room. On the table was a single sheet of paper and a pen. The paper had a line at the top, in Chinese:*
-
-*签名以进入。签名以离开。*
-
-*"Sign to enter. Sign to leave."*
-
-*I understood then what the inscription on the door had meant. The price of entering the room was not physical. It was linguistic. The room demanded a commitment: a signature, a mark of identity, a declaration that the one who entered was willing to be changed by what they found inside. And the change was specific. The inscription had said: the one who enters will lose what he values most.*
-
-*I valued my voice.*
-
-Feimo stared at the words on the page.
-
-*Not my speaking voice. I could still speak, after a fashion. What I lost was the ability to use language as a tool of persuasion. I could state facts. I could answer questions. But I could not argue, could not persuade, could not use the rhetorical machinery that transforms information into conviction. The room took the part of my language that served power and left the part that served truth. I could write. I could translate. I could teach. But I could no longer speak in a way that made people do what I wanted.*
-
-*This is why I write. Not by preference. By necessity. The pen is the only instrument of communication that the room left me.*
-
-Feimo thought of the exam she had taken two weeks ago. The 2023 cloze passage. Caravanserais.
-
-The word itself was a combination: *karvan*, a group of travellers; *sardy*, a palace or enclosed building. A caravanserai was a place where people stopped on a long journey, a way-station between one world and another. The passage had said that these structures served as informal meeting points for the various people who travelled the Silk Road. As a result, they became important centres for cultural exchange and interaction, with travellers sharing their cultures, ideas and beliefs, as well as taking knowledge with them, greatly influencing the development of several civilisations.
-
-The professor's room was a caravanserai. A way-station between the Chinese Labyrinth and the bilingual one, a place where two languages met and exchanged their cargo. And like the caravanserais of the Silk Road, it had been strategically placed so that it could be reached in a day's travel time. The professor had found it not through exploration but through the routine work of cataloguing, the same way a merchant might discover an inn by following the road.
-
-But the passage had also said something else. Travellers on the Silk Road faced the possibility of being attacked by thieves or being subjected to extreme weather conditions. For this reason, caravanserais were built as refuges. The professor had entered the room without knowing what he would be subjected to. The inscription had warned him. He had not listened.
-
-"Did you go in alone?" Feimo asked.
-
-The professor shook his head.
-
-He wrote:
-
-*Mia was with me.*
-
----
-
-The pages that followed were harder to read. Not because the handwriting changed but because the narrative did. The professor's account of entering the room was clinical, detached, the report of a researcher describing an experiment. What came next was personal.
+*I signed. The room took my voice — not my speaking voice, but my ability to use language as a tool of persuasion. I could state facts. I could teach. I could translate. But I could no longer argue, no longer make people do what I wanted. The room took the part of my language that served power and left the part that served truth.*
 
 Mia had been his student. Not in the formal sense, not enrolled in a course or assigned to a thesis, but in the older sense: an apprentice, a disciple, a young person who attached herself to an older one because she recognized in them a knowledge that she needed and could not find elsewhere. Mia had come to the Labyrinth at nineteen, already fluent in three languages, already carrying the burden of a memory that she could not fully access. The sealed memories were not new. They had been there since childhood, fragments of a life before the Academy that surfaced sometimes in dreams and then receded, leaving behind a residue of unease that Mia managed with the discipline of someone who had learned early that weakness was a luxury she could not afford.
 
@@ -174,17 +106,47 @@ The professor wrote:
 
 *No one. You are the first. In twenty-three years, I have told no one. This is not because I am ashamed, although I am. It is because the telling requires a listener who can understand that the loss was not a failure but a transaction. I entered the room. I signed the document. I received something in return.*
 
-*What did you receive? Feimo wanted to ask. But she did not ask, because the professor was already writing, his pen moving across the paper with the steady, trembling hand of a man who has reached the part of the story that he has rehearsed most carefully.*
+*What did you receive?* Feimo wanted to ask. But the professor was already writing.
 
-*I received knowledge. The room showed me the Labyrinth's architecture, its true architecture, the one that exists behind the walls and the corridors and the bilingual inscriptions. I saw the connections between the texts, the patterns that link Eliot to Dante to Kafka to the anonymous writers of the Chinese classical tradition. I saw the Labyrinth not as a building but as a mind, a vast, distributed intelligence that thinks in two languages and stores its thoughts on walls. I saw the engine that generates the knowledge that the walls carry, and I understood how it works, and I understood why it sometimes fails.*
+*I received knowledge. The room showed me the Labyrinth's true architecture — the one behind the walls and the bilingual inscriptions. I saw the connections between the texts, the patterns that link Eliot to Dante to Kafka to the anonymous writers of the Chinese classical tradition. I saw the Labyrinth not as a building but as a mind, a vast, distributed intelligence that thinks in two languages and stores its thoughts on walls. I saw the engine that generates the knowledge the walls carry, and I understood how it works and why it sometimes fails.*
 
 *This knowledge has been the foundation of everything I have done since. Every paper I have published, every lecture I have given, every student I have taught has been shaped by what the room showed me. The price was my voice. The compensation was understanding.*
 
-*I do not know if the transaction was fair.*
+*I do not know if the transaction was fair. But I know this: the room did not take something from me. It revealed what I was. I was the Labyrinth's voice before I entered that room. The room simply made the role permanent. And Mia was the Labyrinth's memory before she entered. The room sealed it. We were once one — one system, one function — and the room separated us into two incomplete people. The Labyrinth has been incomplete ever since.*
+
+*I have spent twenty-three years trying to complete it again. Not by recovering what was lost — the room made that impossible — but by finding someone who could hold both truths at once. Someone who could hear the voice and read the memory and understand that they are the same thing.*
+
+*That someone is you.*
+
+*But I can show you.*
+
+The professor stood. For the first time in their acquaintance, Feimo saw him leave his desk. He walked to the bookshelf on the far wall and pulled a volume from the middle row — not a book but a lever. The shelf shuddered and slid sideways on a hidden track, revealing a wooden panel behind it. The same panel he had described. The same inscription: *此门通向词语的根。*
+
+He had kept it. All these years, behind his books, the door had been there.
+
+He pressed his palm against the panel. It swung inward. Beyond it: amber light, narrow walls, Chinese text flowing floor to ceiling in a continuous current of characters that shifted and rearranged as Feimo watched. Classical poetry, philosophy, passages from the Analects and the Dao De Jing, written in a hand she recognized — the same hand that had carved the inscription on Level 8, the same hand that had written the pages on the desk. The air that came through the opening was cold and smelled of old ink and stone dust and something else, something she could not name, the particular scent of a place where language had been accumulating for centuries without being read.
+
+She stepped closer. The text on the nearest wall was moving — not quickly, not dramatically, but with the slow inevitability of water finding its level. Characters migrated across the stone, joined other characters, formed phrases and then dissolved. The wall was writing itself. The Labyrinth's engine, visible for the first time.
+
+"She went this way," the professor said. His voice was flat, stripped of persuasion, the only kind of speech the room had left him. Statement. Fact. "Twenty-three years ago. Through this door. Into the room. And out again without her memory."
+
+He paused.
+
+"She will go again. When the memories return. She will find this door, and she will go through it, and this time I will not be able to follow. The room will not admit me twice. But you —"
+
+He looked at Feimo.
+
+"You must follow."
+
+He wrote on a fresh sheet: *The seven Labyrinths are connected. Each one is a way-station on a longer road. The road leads down. The Russian Labyrinth is the deepest. The Chinese Labyrinth is the oldest. The English Labyrinth — this one — is the bridge between them. Mia's memories are in the Chinese Labyrinth. The answer to what she is, and what I am, is in the Russian one.*
+
+He pushed the sheet toward Feimo.
+
+*I cannot speak this aloud in a way that would convince you. The room saw to that. But I can show you the door, and I can tell you: she went this way. And you must follow.*
 
 ---
 
-The door opened.
+The door to the study opened.
 
 Feimo turned. Mia stood in the doorway.
 
@@ -292,39 +254,19 @@ She left.
 
 That night, Feimo sat in her room and wrote.
 
-She wrote about the professor's study. About the pages, the handwriting, the tremor. About the way the professor had composed his confession with the same precision he brought to his academic work, each sentence tested against the standard of accuracy, each claim supported by the evidence of memory and experience. She wrote about the quality of his silence: not the silence of someone who has nothing to say but the silence of someone who has been forbidden to say it in the way that would make it heard.
+She wrote about the professor's silence: not the silence of someone who has nothing to say but the silence of someone who has been forbidden to say it in the way that would make it heard. She wrote about Mia's tears: not tears of weakness but tears of recognition, the body's response to the confirmation of something it had always known.
 
-She wrote about the caravanserais. About the cloze passage, the word *combination*, the way two Persian words had been joined to create something that was neither one nor the other but a third thing: a place where travellers rested, where merchants traded, where ideas crossed paths. The professor's room was a caravanserai between two languages, two labyrinths, two selves. And the price of staying in the caravanserai was the same as the price the Silk Road merchants paid: the risk of being attacked, of being subjected to conditions that the traveller had not anticipated and could not control. The professor had been attacked. He had been subjected. And he had continued to travel, year after year, carrying the weight of what the room had done to him, writing his way through a world that had been designed for voices.
+She thought about Borges. Card #076. The writer who built labyrinths out of words, who used precise, documentary prose to describe impossible things. The professor's confession was Borgesian: a small room containing the engine of a building's intelligence, a contract that delivered a transformation, a man describing something impossible with the calm authority of a witness.
 
-She wrote about citation. About the way the professor's knowledge had been stripped of its persuasive force, the way a paper stripped of its citations becomes a collection of assertions without authority. She wrote: "The professor's silence is not an absence. It is a removal. The voice that could argue, that could challenge, that could stand in front of a room and say *this is wrong* was taken from him, and what remains is the voice that can only state, only translate, only point to the words of others. This is the cruelest thing the room did: not to silence him, but to leave him with a voice that cannot fight."
-
-She wrote about Mia. About the tears that were not tears of weakness but tears of recognition, the body's response to the confirmation of something it had always known. She wrote: "Mia did not cry because she was hurt. She cried because the hurt was now named, and naming it made it real in a way that twenty-three years of not-knowing had not. The room sealed her memories. The professor's confession sealed the seal. And now, for the first time, the seal has a name, and the name is a door, and the door is one that someone else has already walked through."
-
-She thought about Borges. Card #076. The knowledge card she had studied earlier this week. Borges, the Argentine writer who built labyrinths out of words, who wrote about a library that contained every possible book, about a garden where time branched and diverged, about a man who could not forget. The card had emphasized his technique of using precise, documentary prose to describe impossible things: an encyclopedia of a fictional world, a treatise on a beast that did not exist, a review of a book that had never been written. The effect was not irony but sincerity. Borges wrote about imaginary things as if they were real because, for him, the act of writing was the act of creating reality. The labyrinth was not a metaphor. The labyrinth was the world.
-
-The professor's room was a Borgesian construction. A small space, three meters by three, that contained the engine of a building's intelligence. A door with an inscription that functioned as both warning and invitation. A contract that demanded a signature and delivered a transformation. The prose of the professor's confession was Borgesian too: precise, documentary, the report of a man describing something impossible with the calm authority of a witness.
-
-She thought about Kawabata. Card #077. The Japanese writer who had won the Nobel Prize for his novels of beauty and loss, of love that was always already ending, of moments of perception so acute that they became a form of suffering. The card had discussed *mono no aware*, the Japanese aesthetic of the bittersweet awareness of impermanence, the understanding that beauty is inseparable from its passing. Kawabata's novels were not about tragedy. They were about the recognition that everything beautiful is temporary, and that this temporariness is itself the source of its beauty.
-
-The professor's confession was an act of *mono no aware*. He was not telling Feimo the story of his loss. He was telling her the story of his recognition that the loss was permanent, that the voice would not return, that Mia's memories might never be fully recovered, that the Labyrinth was changing in ways that might make recovery impossible. The beauty of the confession lay in its timing: twenty-three years too late, and yet precisely on time, because the telling required a listener who could understand not just the facts but the weight of the facts, the way each sentence carried the accumulated gravity of two decades of silence.
+She thought about Kawabata. Card #077. *Mono no aware* — the bittersweet awareness of impermanence. The professor's confession was an act of *mono no aware*. He was telling her the story of his recognition that the loss was permanent. The beauty of the confession lay in its timing: twenty-three years too late, and yet precisely on time.
 
 Feimo wrote: "Kawabata said that beauty is what remains when hope is gone. The professor's pages are beautiful. Not because they offer hope. Because they do not."
 
-She closed her notebook and looked at the window.
-
-The rain had started again. It fell on the courtyard in a steady, indifferent pattern, the rain of a building that did not care whether its inhabitants were sleeping or waking, grieving or composing. The cameras blinked their red rhythm along the corridors. Somewhere in the building, the professor was sitting at his desk, writing, his right hand trembling. Somewhere else, Mia was lying in her bed, not sleeping, her eyes open in the darkness, the sealed memories pressing against the door that the room had closed twenty-three years ago.
-
-Feimo thought about the writing prompt from the 2023 exam. The notice to recruit a student for a research project on campus sports activities. The prompt had asked for duties and requirements. She thought: the professor's confession was a notice of sorts. A recruitment of a witness. A specification of duties: listen, understand, remember. And the requirements: the ability to hold information without needing to respond immediately. The ability to read what is written and hear what is not.
-
-She was the recruited student. The research project was the professor's silence. And the campus was the Labyrinth, with its corridors and its walls and its bilingual inscriptions and its doors that were made for specific people and then closed.
-
 She turned off the light.
 
-In the darkness, she thought about the seven labyrinths. She had now seen six of them: the Labyrinth of Language, the Labyrinth of Memory, the Labyrinth of Power, the Labyrinth of Fragmentation, the Labyrinth of the Door, and now the Labyrinth of Silence. The seventh was still unknown, still ahead, waiting in the lower levels of the building where the damage was worst and the text on the walls was most fragmentary.
+In the darkness, she thought about the seven labyrinths. She had now seen six: Language, Memory, Power, Fragmentation, the Door, and Silence. The seventh was still ahead, waiting where the damage was worst and the text on the walls was most fragmentary.
 
-She thought about the professor's words: *The Labyrinth is a mind that thinks in two languages and stores its thoughts on walls.*
-
-And she thought: the seventh labyrinth is the one that thinks about itself.
+She thought: the seventh labyrinth is the one that thinks about itself.
 
 She closed her eyes and let the darkness hold her.
 
@@ -332,14 +274,8 @@ She closed her eyes and let the darkness hold her.
 
 *Questions for Reflection:*
 
-1. The professor says the room "took the part of my language that served power and left the part that served truth." What is the difference between these two functions of language? Can truth exist without persuasion? Can power exist without truth?
+1. The professor says he is "the Labyrinth's voice" and Mia is "its memory." What does it mean for a building to think through people? If the professor is the voice and Mia is the memory, what is Feimo?
 
-2. The 2023 cloze passage describes caravanserais as places where travellers shared their cultures, ideas, and beliefs, "greatly influencing the development of several civilisations." How does this apply to the professor's room? What civilisations were influenced by the knowledge exchanged there?
+2. Mia says: "You should have told me." The professor offers three reasons for his silence: protection, fear, cowardice. Is it possible to act from multiple, contradictory motivations simultaneously? How does this complicate our understanding of responsibility?
 
-3. Mia says: "You should have told me." The professor offers three reasons for his silence: protection, fear, cowardice. He suspects all three are true. Is it possible to act from multiple, contradictory motivations simultaneously? How does this complicate our understanding of responsibility?
-
-4. The reading passage on citation cartels describes a system where the measure of knowledge becomes more important than the knowledge itself. How does the professor's situation mirror this problem? Is his academic career a form of citation inflation, where the value of his work has been artificially maintained by the very room that crippled his ability to communicate it?
-
-5. Feimo connects the professor's confession to Borges (who built labyrinths out of words) and to Kawabata (who wrote about beauty inseparable from loss). Which of these two frameworks better describes the professor's story? Is his silence a labyrinth or a loss? Or is it both?
-
-6. The 2023 writing prompt asks for a notice to recruit a student for a research project. In what sense has the professor "recruited" Feimo? What are her duties? What are the requirements? And what is the project?
+3. Feimo connects the professor's confession to Borges (who built labyrinths out of words) and to Kawabata (who wrote about beauty inseparable from loss). Which framework better describes the professor's story? Is his silence a labyrinth or a loss?

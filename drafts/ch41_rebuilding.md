@@ -6,9 +6,9 @@ Not silence. Silence implies a listener. This was the absence itself: the hum of
 
 She stood in the courtyard at six in the morning on the first day of 2023. The air was cold, the kind of cold that felt less like temperature and more like a verdict, a final assessment of what had survived the war and what had not. The east wing was a ruin. Three floors of structural damage, the walls caved inward, the inscriptions that had once covered them now rubble on the ground. The library's lower level had flooded during the final assault, and the water had been pumped out but the stains remained, dark tide marks along the shelves that held the periodicals nobody read anymore. The cafeteria was intact. That was something.
 
-Noah was already there, standing near the fountain that no longer worked, her arms crossed, her breath forming small clouds in the January air. She wore a coat that was too large for her, military surplus, and her hair was pulled back in the severe knot she adopted when she was thinking about infrastructure rather than aesthetics.
+Noir was already there, standing near the fountain that no longer worked, her arms crossed, her breath forming small clouds in the January air. She wore a coat that was too large for her, military surplus, and her hair was pulled back in the severe knot she adopted when she was thinking about infrastructure rather than aesthetics.
 
-"You're early," Noah said.
+"You're early," Noir said.
 
 "I didn't sleep."
 
@@ -16,7 +16,7 @@ Noah was already there, standing near the fountain that no longer worked, her ar
 
 They stood together in the courtyard and looked at the damage. The cameras were still operational; Cain had seen to that. Two of them had been destroyed in the fighting, but replacements had arrived within days, installed by a maintenance crew that worked under armed escort. The new cameras were a different model, sleeker, with wider lenses. Feimo had the uncomfortable sense that the war had given Cain an excuse to upgrade.
 
-"The reconstruction committee meets at nine," Noah said. "Cain's chairing it."
+"The reconstruction committee meets at nine," Noir said. "Cain's chairing it."
 
 "Of course he is."
 
@@ -24,9 +24,9 @@ They stood together in the courtyard and looked at the damage. The cameras were 
 
 Feimo looked at her. "What kind of plan?"
 
-Noah's expression did not change, but something in the set of her jaw shifted, a micro-adjustment that Feimo had learned to read over three years of shared meals, shared exams, and shared silences. Noah was angry. Not the hot, performative anger of a confrontation but the cold, architectural anger of someone who had seen a structure being built and knew it was the wrong one.
+Noir's expression did not change, but something in the set of her jaw shifted, a micro-adjustment that Feimo had learned to read over three years of shared meals, shared exams, and shared silences. Noir was angry. Not the hot, performative anger of a confrontation but the cold, architectural anger of someone who had seen a structure being built and knew it was the wrong one.
 
-"He wants to convert it," Noah said. "The underground arena. Turn it into a legitimate facility. A competitive academic venue, sanctioned by the administration, with rules and schedules and oversight."
+"He wants to convert it," Noir said. "The underground arena. Turn it into a legitimate facility. A competitive academic venue, sanctioned by the administration, with rules and schedules and oversight."
 
 "And you?"
 
@@ -36,7 +36,7 @@ Noah's expression did not change, but something in the set of her jaw shifted, a
 
 The committee met in the lecture hall on the second floor, the one with the cracked ceiling and the projector that took forty-five seconds to warm up. Twelve people sat around a long table that had been assembled from cafeteria trays and library desks. Cain stood at the head, dressed in the pressed shirt and dark trousers that constituted his uniform, his posture the posture of a man who had spent the war winning and intended to spend the peace consolidating.
 
-Feimo sat between Noah and Yue. Mia was absent. She had been absent from most formal gatherings since the fighting ended, appearing only for meals and for the quiet evening walks she took along the perimeter, her tail low, her ears flat, her expression the expression of someone counting things that could not be counted.
+Feimo sat between Noir and Yue. Mia was absent. She had been absent from most formal gatherings since the fighting ended, appearing only for meals and for the quiet evening walks she took along the perimeter, her tail low, her ears flat, her expression the expression of someone counting things that could not be counted.
 
 Cain spoke for thirty minutes. He outlined the damage: four floors uninhabitable, the text preservation system compromised on levels three through seven, the water damage to the periodical collection estimated at forty percent loss. He described the funding: a combination of institutional grants, alumni donations, and what he called "alternative revenue streams," a phrase that made Feimo's hand tighten around her pen.
 
@@ -46,7 +46,7 @@ He clicked the projector. A blueprint appeared on the wall, rendered in clean di
 
 "This facility," Cain said, "will host inter-academic competitions. Debate tournaments. Examination simulations. Competitive knowledge events. It will generate revenue, attract external participants, and position our Academy as a leader in academic competition."
 
-Feimo watched the room. Noah's face was unreadable. Yue was looking at the ceiling. Aya, sitting at the far end, was sketching something in her notebook that was probably not related to the proposal.
+Feimo watched the room. Noir's face was unreadable. Yue was looking at the ceiling. Aya, sitting at the far end, was sketching something in her notebook that was probably not related to the proposal.
 
 "The underground was never sanctioned," Feimo said. "You spent two years trying to shut it down."
 
@@ -56,11 +56,11 @@ Feimo watched the room. Noah's face was unreadable. Yue was looking at the ceili
 
 "Then they are free to not participate."
 
-The vote was eight to four in favor. Noah voted yes. Feimo voted no. The reconstruction would begin in February.
+The vote was eight to four in favor. Noir voted yes. Feimo voted no. The reconstruction would begin in February.
 
 ---
 
-After the meeting, Feimo found Noah in the corridor outside the lecture hall. Noah was leaning against the wall, her arms still crossed, her eyes fixed on a point somewhere in the middle distance.
+After the meeting, Feimo found Noir in the corridor outside the lecture hall. Noir was leaning against the wall, her arms still crossed, her eyes fixed on a point somewhere in the middle distance.
 
 "You voted yes," Feimo said.
 
@@ -68,9 +68,9 @@ After the meeting, Feimo found Noah in the corridor outside the lecture hall. No
 
 "Why?"
 
-Noah pushed herself off the wall and faced Feimo. In the corridor's half-light, her features were sharp, angular, the face of someone who had been carved by circumstances into something harder than she had been designed to be.
+Noir pushed herself off the wall and faced Feimo. In the corridor's half-light, her features were sharp, angular, the face of someone who had been carved by circumstances into something harder than she had been designed to be.
 
-"Because the underground was dying," Noah said. "The war killed it. The participants are scattered. The equipment is destroyed. The rules were never written down, and the people who enforced them are gone. Cain's plan is not what I would have designed, but it is a plan, and a plan is better than a ruin."
+"Because the underground was dying," Noir said. "The war killed it. The participants are scattered. The equipment is destroyed. The rules were never written down, and the people who enforced them are gone. Cain's plan is not what I would have designed, but it is a plan, and a plan is better than a ruin."
 
 "He'll control it."
 
@@ -78,21 +78,21 @@ Noah pushed herself off the wall and faced Feimo. In the corridor's half-light, 
 
 "Since when has that distinction held?"
 
-Noah was quiet for a moment. Then she said: "My grandfather built things. Houses, bridges, small dams. He never saw the point of preserving something that couldn't be used. He used to say, 'A wall that doesn't hold anything up is just a place for weeds to grow.'"
+Noir was quiet for a moment. Then she said: "My grandfather built things. Houses, bridges, small dams. He never saw the point of preserving something that couldn't be used. He used to say, 'A wall that doesn't hold anything up is just a place for weeds to grow.'"
 
 She paused.
 
 "The underground was a wall that held up nothing. It was beautiful and it was ours and it held up nothing. Cain is offering to make it hold something. I don't like him. I don't trust him. But I **rely** on the principle that a structure should serve a function, and if the function changes, the structure should change with it."
 
-Feimo heard the word. **Rely.** It came from the 2023 reading passage about Waterstones and Penguin Random House. The mid-list authors who normally **rely** on Waterstones staff's passion for promoting books by lesser-known writers. Feimo had read the passage three days ago, in the preliminary materials Professor Silence had distributed, and the word had lodged in her mind with the persistence of a splinter. **Rely**: to depend on with full trust and confidence. The mid-list authors relied on the staff's passion. Noah relied on the principle of function. Feimo relied on neither. She relied on the text. On the walls. On the knowledge that persisted when structures failed.
+Feimo heard the word. **Rely.** It came from the 2023 reading passage about Waterstones and Penguin Random House. The mid-list authors who normally **rely** on Waterstones staff's passion for promoting books by lesser-known writers. Feimo had read the passage three days ago, in the preliminary materials Professor Silence had distributed, and the word had lodged in her mind with the persistence of a splinter. **Rely**: to depend on with full trust and confidence. The mid-list authors relied on the staff's passion. Noir relied on the principle of function. Feimo relied on neither. She relied on the text. On the walls. On the knowledge that persisted when structures failed.
 
 "If he saw what you're building," Feimo said, and stopped.
 
-Noah waited.
+Noir waited.
 
 "If your grandfather saw what you're building. An arena with rules written by someone else. A competition sanctioned by the same authority that tried to destroy the competition that existed before."
 
-Noah's jaw tightened. Then she said: "He would say it doesn't matter. What matters is now. Whether the structure holds. Whether the people inside it are served. My grandfather didn't build for the past. He built for the next storm."
+Noir's jaw tightened. Then she said: "He would say it doesn't matter. What matters is now. Whether the structure holds. Whether the people inside it are served. My grandfather didn't build for the past. He built for the next storm."
 
 She walked away. Feimo watched her go and thought about reliance, about the difference between depending on a person and depending on a principle, about the mid-list authors who would be praying for an end to a dispute they had not created and could not resolve.
 
@@ -140,7 +140,7 @@ The passage described the crisis in New England, where record-high home prices a
 
 Feimo read the passage and thought about the underground.
 
-Noah's argument was Castle's argument: the system served its users, and the users needed it. Cain's argument was the regulatory argument: the system needed structure, and structure required oversight. Hom's argument was the most nuanced: the problem was not the individual act but the institutional exploitation, the developer who built a hotel disguised as something else, the administrator who built a prison disguised as a school.
+Noir's argument was Castle's argument: the system served its users, and the users needed it. Cain's argument was the regulatory argument: the system needed structure, and structure required oversight. Hom's argument was the most nuanced: the problem was not the individual act but the institutional exploitation, the developer who built a hotel disguised as something else, the administrator who built a prison disguised as a school.
 
 The Massachusetts governor had signed a bill requiring registration, insurance, and taxes. Boston had gone further, requiring renters to register with the city's Inspectional Services Department. The regulatory response was comprehensive, layered, and, according to Hom, insufficient. "If we want to make a change," she said, "the main one is we have to build a lot more."
 
@@ -178,7 +178,7 @@ She turned the page and wrote about the reading passages. About climate educatio
 
 Then she wrote about knowledge card #074, the one she had studied last week. Camus versus Sartre. The 1952 rupture, the "quarrel of the century." The core disagreement: Sartre believed revolutionary violence was justified under certain historical conditions; Camus opposed all violence. Sartre believed in the progress of history; Camus questioned historical teleology. Sartre's freedom was absolute, a freedom to choose everything; Camus's rebellion had limits, a freedom to resist the absurd without消灭 it.
 
-Feimo thought about the card and about Cain and about Noah. Cain was Sartre. He believed in historical progress, in the necessity of institutional violence, in the freedom of the system to restructure itself according to its own logic. Noah was something else, something the card did not quite capture: she believed in function, in the pragmatic accommodation of structures to needs, in the principle that a wall should hold something up. And Feimo was Camus. She opposed the violence of restructuring. She questioned the teleology of progress. She believed in rebellion with limits, in resistance that did not seek to destroy the system but to expose its absurdity.
+Feimo thought about the card and about Cain and about Noir. Cain was Sartre. He believed in historical progress, in the necessity of institutional violence, in the freedom of the system to restructure itself according to its own logic. Noir was something else, something the card did not quite capture: she believed in function, in the pragmatic accommodation of structures to needs, in the principle that a wall should hold something up. And Feimo was Camus. She opposed the violence of restructuring. She questioned the teleology of progress. She believed in rebellion with limits, in resistance that did not seek to destroy the system but to expose its absurdity.
 
 But Camus had lost. That was the thing the card did not say but that Feimo could read between the lines. Camus died in a car crash in 1960. Sartre lived until 1980, received the Nobel Prize, refused it, and continued to write and argue and shape the intellectual landscape of the century. The rebellion with limits was a beautiful position. It was also, historically, the position of those who were **removed** from the conversation by the sheer momentum of those who believed in progress at any cost.
 
@@ -202,7 +202,7 @@ They were soft, barely audible, the footsteps of someone who did not want to be 
 
 She got out of bed, pulled on her shoes, and opened the door.
 
-The corridor was empty. The cameras blinked their red pulse. The footsteps were receding, moving down the stairwell, and Feimo followed, keeping her distance, keeping her脚步 soft, matching her pace to Mia's. The stairwell was dark; the emergency lighting had not been restored on this floor, and Feimo descended by touch, her hand on the wall, her fingers tracing the plaster that covered the inscriptions that had once guided students through the building's vertical logic.
+The corridor was empty. The cameras blinked their red pulse. The footsteps were receding, moving down the stairwell, and Feimo followed, keeping her distance, keeping her footsteps soft, matching her pace to Mia's. The stairwell was dark; the emergency lighting had not been restored on this floor, and Feimo descended by touch, her hand on the wall, her fingers tracing the plaster that covered the inscriptions that had once guided students through the building's vertical logic.
 
 Mia was on the ground floor.
 

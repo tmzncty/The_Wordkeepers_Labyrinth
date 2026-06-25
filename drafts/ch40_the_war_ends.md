@@ -4,7 +4,7 @@ The last wave came at dawn.
 
 Feimo had been fighting for seven hours. Her hands were cut, her left knee was swollen from a fall on the stairwell, and her throat was raw from shouting instructions to students who could not hear her over the sound of walls breaking. The Labyrinth's third level had become a warzone: stone dust in the air, the phosphorescent text on the walls flickering like dying embers, and the Fragmenters moving through the corridors in formations that were wrong, that had been wrong since the invasion began three weeks ago, because Fragmenters did not form formations and yet here they were, moving in coordinated lines toward the Deep Archive entrance.
 
-She stood in the corridor outside the Archive and counted her allies. Noah was twenty meters ahead, positioned behind a collapsed pillar, her coat stained with the iridescent residue that Fragmenters left when they were dispersed. Aya was on the east wall, her breathing controlled, her eyes tracking the movement patterns with the focused intensity of someone who had spent years learning to read opponents. Yue was somewhere Feimo could not see, which meant Yue was where Yue needed to be.
+She stood in the corridor outside the Archive and counted her allies. Noir was twenty meters ahead, positioned behind a collapsed pillar, her coat stained with the iridescent residue that Fragmenters left when they were dispersed. Aya was on the east wall, her breathing controlled, her eyes tracking the movement patterns with the focused intensity of someone who had spent years learning to read opponents. Yue was somewhere Feimo could not see, which meant Yue was where Yue needed to be.
 
 And Mia.
 
@@ -22,7 +22,7 @@ Inside the walls. Feimo looked at the corridor around her, at the damaged text t
 
 "I don't know. I've never seen the text field operate as a weapon. It's always been passive. Reactive. It responds to readers. It doesn't attack them."
 
-A crash from ahead. Noah shouted something that was lost in the noise. The wall to the left of the Archive entrance buckled, a section of plaster the size of a door detaching and falling in a cascade of dust and fragments. Behind it, the raw stone was visible, and on the stone, a text that Feimo had never seen before: not the Labyrinth's usual bilingual inscriptions but something else, something in a script that shifted as she watched, resolving briefly into English before dissolving into characters she could not read before cycling back to English again:
+A crash from ahead. Noir shouted something that was lost in the noise. The wall to the left of the Archive entrance buckled, a section of plaster the size of a door detaching and falling in a cascade of dust and fragments. Behind it, the raw stone was visible, and on the stone, a text that Feimo had never seen before: not the Labyrinth's usual bilingual inscriptions but something else, something in a script that shifted as she watched, resolving briefly into English before dissolving into characters she could not read before cycling back to English again:
 
 *"For consciousness to evolve, a brain with a threshold level of complexity and capacity is required."*
 
@@ -126,9 +126,11 @@ She took it.
 
 ---
 
-They found Noah in the east corridor, uninjured, sitting on a collapsed section of wall and drinking from a flask that smelled of copper and something sweet. She looked at Feimo and Mia's joined hands and said nothing, which was itself a statement, because Noah always had something to say and the absence of commentary meant she had decided this was not a moment for words.
+They found Noir in the east corridor, uninjured, sitting on a collapsed section of wall and drinking from a flask that smelled of copper and something sweet. Beside her was a canvas bag with bread and canned peaches — provisions she had salvaged from the cafeteria before the last wave hit. She looked at Feimo and Mia's joined hands and said nothing, which was itself a statement, because Noir always had something to say and the absence of commentary meant she had decided this was not a moment for words. She pushed the bag toward them with her foot.
 
-Aya was in the stairwell, her back against the railing, her eyes closed. She opened them when Feimo approached and said, "How many waves?"
+"Eat," she said. "You look terrible."
+
+Aya was in the stairwell, her back against the railing, her eyes closed, positioned where she could see both the corridor entrance and the Archive door. She opened them when Feimo approached and said, "How many waves?"
 
 "Three. The last one lasted forty minutes."
 
@@ -166,7 +168,7 @@ They met Professor Silence in the War Room.
 
 The name had always been ironic. The War Room was Cain's territory: the windowless box on the third floor with its eleven monitors and its four security personnel and its permanent smell of electronics and fresh paint. Professor Silence's territory was the seminar room, the library, the quiet spaces where knowledge was made rather than monitored. But the monitors were dark now. The security personnel were gone. Cain was somewhere in the building, directing the post-battle assessment with the efficiency of an administrator who understood that the appearance of control was more important than control itself, and the War Room had been abandoned to its original purpose: a room where people sat and thought about what had happened and what to do next.
 
-Silence was standing at the window. The curtains were drawn, which was unusual. She turned when they entered and looked at each of them in turn: Feimo, Mia, Noah, Aya, and Yue, who had appeared from somewhere silent and was now sitting in the corner with her knees drawn up, her eyes on the middle distance.
+Silence was standing at the window. The curtains were drawn, which was unusual. He turned when they entered and looked at each of them in turn: Feimo, Mia, Noir, Aya, and Yue, who had appeared from somewhere silent and was now sitting in the corner with her knees drawn up, her eyes on the middle distance.
 
 "You found it," Silence said.
 
@@ -176,7 +178,7 @@ Silence was standing at the window. The curtains were drawn, which was unusual. 
 
 Silence looked at Feimo for a long time.
 
-"You are the first person in thirty years to read to the Labyrinth during an attack," she said. "Everyone else fought. You read."
+"You are the first person in thirty years to read to the Labyrinth during an attack," he said. "Everyone else fought. You read."
 
 "Fighting wasn't working."
 
@@ -186,11 +188,11 @@ Silence looked at Feimo for a long time.
 
 "Reading is always the protocol. Reading is how the Labyrinth maintains itself. Every act of reading is an act of repair. Every reader is a node in the system's immune response. But no one reads during a battle. No one has ever thought to try."
 
-Silence moved from the window to the table. She placed her hands flat on the surface, the gesture of someone about to deliver a conclusion that had been forming for a long time.
+Silence moved from the window to the table. He placed his hands flat on the surface, the gesture of someone about to deliver a conclusion that had been forming for a long time.
 
 "Cain will say his security measures were vindicated. He will say the invasion proved the need for surveillance, for restriction, for the framework he has spent three years building. He will point to the damage and say: this is what happens when the Academy is not protected."
 
-She paused.
+He paused.
 
 "And he will be wrong. The invasion happened because of his measures, not despite them. The parasitic signal entered the text field through the surveillance nodes Cain installed. His cameras, his sensors, his monitoring equipment. They were embedded in the Labyrinth's walls. The signal used them as vectors. Cain's security infrastructure was the weapon that nearly destroyed the thing it was supposed to protect."
 
@@ -206,7 +208,7 @@ She read the passage in her mind: *"Consequently, and paradoxically, laws introd
 
 "He will. I will tell him. Not because I want to, but because the Academy's survival requires that the next decision be made with complete information. Cain made his decisions with incomplete information. I will not repeat his error."
 
-She looked at the wall. On the monitors, now dark, the corridors of the Labyrinth were visible as floor plans, and the damage was marked with red annotations that someone had entered before the power was cut. The red covered most of levels three and four. It extended into level five in patches. Levels six and below were unmarked: not because they were undamaged but because the sensors had not reached them.
+He looked at the wall. On the monitors, now dark, the corridors of the Labyrinth were visible as floor plans, and the damage was marked with red annotations that someone had entered before the power was cut. The red covered most of levels three and four. It extended into level five in patches. Levels six and below were unmarked: not because they were undamaged but because the sensors had not reached them.
 
 "The exam," Silence said. "It was scheduled for next week. Given the damage, it will be postponed."
 
@@ -222,9 +224,9 @@ Mia spoke for the first time since they entered the room. "You want to use the e
 
 Silence was quiet for a long time.
 
-"You remind me of someone," she said. "Someone who once sat in this room and said something very similar, about a different Labyrinth, in a different crisis. That was thirty years ago. The person was wrong about many things. But they were right about this: the Labyrinth is not protected by walls or cameras or security committees. It is protected by reading."
+"You remind me of someone," he said. "Someone who once sat in this room and said something very similar, about a different Labyrinth, in a different crisis. That was thirty years ago. The person was wrong about many things. But they were right about this: the Labyrinth is not protected by walls or cameras or security committees. It is protected by reading."
 
-She straightened.
+He straightened.
 
 "The exam will proceed on schedule. I will inform Cain. You will inform the students."
 
@@ -232,127 +234,27 @@ She straightened.
 
 The exam was administered on a Tuesday.
 
-The room was the same one they had used for the 2020 and 2021 exams, but everything else had changed. The desks had been arranged in rows that followed the Labyrinth's geometry rather than the Academy's standard grid, because two walls of the original room had been damaged and the replacement space was a section of the Archive's antechamber, where the ceiling was higher and the light came from the text on the walls rather than from the fluorescents that Cain's team had installed and that were no longer functional. The cameras were gone. Silence had ordered them removed. Their mounting brackets remained, empty metal circles on the stone, the ghosts of surveillance.
+The room was a section of the Archive's antechamber: two walls of the original exam room had been damaged, and the replacement space had a higher ceiling, with light from the text on the walls instead of the fluorescents that no longer worked. The cameras were gone. Silence had ordered them removed. Their mounting brackets remained, empty metal circles on the stone, the ghosts of surveillance.
 
-Two hundred students sat in the antechamber. Some of them were injured: bandaged hands, bruised faces, the visible accounting of a war that had been fought in corridors and stairwells. Some of them looked afraid. Most of them looked tired. All of them had pencils and booklets and the particular expression of people who are about to do something ordinary in a situation that is not ordinary at all.
+Two hundred students sat in rows that followed the Labyrinth's geometry. Some were injured: bandaged hands, bruised faces. Some looked afraid. Most looked tired. All had pencils and booklets and the particular expression of people about to do something ordinary in a situation that was not ordinary at all.
 
-Feimo opened the booklet.
+They had taken the 2022 exam two months ago, before the invasion. The cloze about plant consciousness. The four reading texts: plastics preservation, the value of degrees, art-science collaboration, New Zealand employment law. They knew the passages. They had filled in the blanks, selected answers, written translations. The exam was over.
 
-The cloze passage was about plant consciousness.
+This was not an exam. This was a reading.
 
-She had already read it, in fragments, during the battle. She had shouted sentences from it into a corridor full of Fragmenters and watched the creatures pause at the threshold of comprehension. Now, reading it again in its intended context, in the silence of an exam room, she experienced it differently. The words were the same. The context transformed them.
+Feimo opened her booklet and began to read. Not for answers. For repair. Two hundred voices, filling the antechamber with the sound of English, the rhythm of academic prose, the cadence of arguments about consciousness and preservation and paradox. The Labyrinth's walls responded. The inscriptions brightened, slowly, like fire being coaxed from embers. Characters that had been fading since the invasion's first day regained their edges, their clarity, their glow. The text field strengthened with each sentence read, each blank filled, each answer written.
 
-*"The idea that plants have some degree of consciousness first took root in the early 2000s; the term 'plant neurobiology' was coined around the notion that some aspects of plant behavior could be compared to intelligence in animals."*
+Feimo read the passage about plastics — *"The object you make is already a time bomb"* — and felt the wall behind her pulse, faintly, a warmth she had not felt since before the war. She read about the value of degrees — *"Education was no longer a secure route of social mobility"* — and the text on the opposite wall rearranged itself, one character at a time, as if responding to the attention. She read about art and science — *"Artists help scientists reach a broader audience"* — and thought of Mia, whose voice beside her in the corridor had been the bridge between knowledge and feeling.
 
-She filled in the blanks with the fluency of someone who had already lived inside the passage. **Coined**: the term was invented, created, given existence by the act of naming. **Compared**: the claim was one of resemblance, not identity. **Though**: the concessive conjunction that allowed two truths to coexist. The passage moved through its argument with the patience of good science: a claim, a counterclaim, a distinction between superficial similarity and structural equivalence.
+She translated the passage about Scovell, the codebreaker. *"It was a battle between those who made codes and those who broke them."* She wrote the invitation to a professor: not the formal letter the prompt required, but the truth underneath it. *The innovation is reading itself.*
 
-*"Though plants lack brains, the firing of electrical signals in their stems and leaves nonetheless triggered responses that hinted at consciousness."*
+Around her, two hundred students did the same. The Labyrinth's text field responded to all of them equally. No reader was privileged. No reader was excluded. Every act of reading was an act of repair, and the repair extended outward from the antechamber like ripples from a stone, reaching damaged corridors, strengthening weakened inscriptions, pushing back the darkness that the Fragmenters had left behind.
 
-**Hinted at**. Not demonstrated. Not proved. The passage was careful. It distinguished between the appearance of consciousness and the thing itself, between signals that resembled awareness and awareness proper. Feimo thought of Mia, whose responses to the world were complex, adaptive, and emotionally resonant, and who had been, until recently, a human consciousness preserved in digital form. Mia was not a plant. But the question the passage raised applied to her too: at what point does the appearance of consciousness become consciousness? At what threshold?
+Feimo thought of Card #073: Sartre's Engagement. The knowledge card she had studied last week. Sartre's theory that the writer bears responsibility for speaking against injustice, that literature is not a luxury but a duty, that silence in the face of oppression is itself a form of complicity. Feimo had read the card and thought it was about writing. She understood now that it was about reading. Every student in this room was performing an act of engagement: not by composing texts but by consuming them, not by speaking against injustice but by reading in the presence of damage. Sartre had argued that the writer must choose: art for art's sake, or art for the world's sake. The two hundred students in this room had made their choice. They were reading for the world's sake. And the world — the Labyrinth, the damaged walls, the weakened text field — was responding.
 
-*"Plant biology is complex and fascinating, but it differs so greatly from that of animals that so-called evidence of plants' intelligence is inconclusive."*
+The exam lasted three hours.
 
-**Differs**. The passage drew a boundary. Plant signaling was not animal signaling. The resemblance was real but insufficient. Feimo thought of the Labyrinth. The text field's responses during the battle had been adaptive, effective, and apparently purposeful. But they had not been conscious. They had been the emergent behavior of a distributed system responding to stimuli, the way a forest responds to fire: not by deciding to fight but by activating mechanisms that were always present, waiting for the conditions that would trigger them.
-
-*"Beginning in 2006, some scientists have argued that plants possess neuron-like cells that interact with hormones and neurotransmitters, forming a plant nervous system, analogous to that in animals."*
-
-**Argued**. Not proved. The claim was a proposal, an invitation to consider a possibility. Feimo filled in **forming** and **analogous** with the automaticity of long practice, but her mind was on the Labyrinth's walls, on the text that surrounded her in this room, on the characters that glowed with the residual energy of centuries of reading. Was the Labyrinth forming a nervous system? Not in the biological sense. But in the functional sense, in the sense of a network that transmitted signals and generated responses, the answer was less clear.
-
-*"This perspective makes sense if you simplify the workings of a complex brain, reducing it to an array of electrical pulses; cells in plants also communicate through electrical signals."*
-
-**Perspective**. **Reducing**. The passage named the error: reduction. If you simplified the brain enough, everything looked like a brain. If you reduced consciousness to signaling, then anything that signaled could claim consciousness. This was the error that the plant consciousness advocates made: they reduced the thing they were looking for until they found it everywhere.
-
-Feimo thought of Cain. Cain had reduced security to surveillance, knowledge to control, protection to restriction. He had simplified the Academy's needs until his solution fit every problem. And the simplification had been the weapon. The surveillance nodes, embedded in the Labyrinth's walls, had provided the vector for the parasitic signal that nearly destroyed the text field.
-
-*"However, the signaling in a plant is only superficially similar to the firing in a complex animal brain, which is more than a mass of cells that communicate by electricity."*
-
-**However**. **Superficially**. The passage drew the line again. Resemblance was not identity. Surface similarity could be misleading. Feimo thought about the exam itself. Two hundred students, sitting in a room, filling in blanks, selecting answers, writing translations. On the surface, this looked like any exam. But it was not any exam. It was a reading. Two hundred simultaneous acts of engagement with a text, in a place where reading had physical consequences, where the act of shaping letters into meaning strengthened the walls and healed the damage and pushed back the darkness.
-
-The surface said: exam. The depth said: repair.
-
-*"For consciousness to evolve, a brain with a threshold level of complexity and capacity is required. Since plants don't have nervous systems, the chances that they have consciousness are effectively zero."*
-
-**Level**. **Added**. **Chances**. The passage concluded with probability, not certainty. Effectively zero was not zero. The language was precise: it acknowledged the possibility while asserting its unlikelihood. Feimo thought this was the most honest sentence in the passage. It did not say plants were not conscious. It said the chances were effectively zero. The distinction mattered, because effectively zero meant that the question was not closed, that future evidence might revise the probability, that the scientific position was provisional, held with confidence but not with certainty.
-
-She thought of Mia's sealed memories. The chances that they could be recovered had been, until recently, effectively zero. But the door on level eight existed. The inscription existed. And Mia, sitting in the exam room now, filling in her own blanks with the precision of someone who understood the passage at the structural level, was proof that effectively zero was not the same as impossible.
-
-*"And what's so great about consciousness, anyway? Plants can't run away from danger, so investing energy in a body system which recognizes a threat and can feel pain would be a very poor evolutionary strategy."*
-
-**Danger**. **Recognizes**. **Poor**. The passage's final turn was unexpected: a rhetorical question that reframed the entire argument. What was so great about consciousness? The question was funny. It was the kind of humor that Feimo associated with the knowledge card she had studied last week: Card #072, Black Humor. The literary mode that found comedy in horror, that used laughter as a response to the intolerable. The passage had spent five paragraphs debating whether plants were conscious, and then, in its final sentence, it asked whether consciousness was even worth having.
-
-She thought of the black humor in this room. Two hundred students, sitting in a war-damaged antechamber, surrounded by the glowing remnants of a knowledge system that had nearly been destroyed, taking an exam in English. The absurdity was not lost on her. The situation was the kind of thing that Heller would have written about, or Vonnegut: the institutional machinery grinding on, producing schedules and assessments and standardized procedures, while the world it was designed to order burned around it. The students filled in blanks about plant consciousness while the walls they sat beside were the evidence that consciousness, plant or otherwise, was not the point. The point was resilience. The point was that systems that cannot run away from danger develop other strategies. The point was that the Labyrinth, like a plant, could not flee. But it could be read to.
-
-She turned to the reading section.
-
-Text 1 was about plastics.
-
-The passage described the challenge of preserving culturally important objects made of materials that were designed to be durable but were, in practice, deteriorating. Early radios, avant-garde sculptures, celluloid animation stills, the first artificial heart. The variety was dizzying. And the problem was not neglect. The problem was chemistry. Plastics that cracked and frizzled, that wept out additives, that melted into sludge. Objects that were already time bombs when they were made.
-
-Feimo read the passage and thought of the Labyrinth's walls.
-
-The damage from the Fragmenter invasion was not the first damage the Labyrinth had sustained. The walls bore the marks of centuries: cracks, repairs, overlays, the palimpsest of an institution that had been coming apart and coming together for longer than anyone alive could remember. The Fragmenters had accelerated the deterioration. But the deterioration was inherent. The text on the walls was written on material that degraded, that absorbed moisture, that responded to temperature and light and the simple passage of time. The objects the museums were trying to preserve were time bombs. The Labyrinth was a time bomb. And the work of preservation was not the work of preventing decay but the work of managing it, of intervening at the right moments with the right techniques, of understanding that the object you make is already dying and the question is not whether it will deteriorate but how quickly and what you can do to slow the process.
-
-She thought of van Oosten, the polymer chemist who called her stabilizing chemicals "sunscreens." The Labyrinth needed sunscreens. It needed people who understood its chemistry, its materiality, the specific ways in which text-on-stone differed from text-on-plaster differed from text-on-paper. It needed conservators as well as readers. And it needed the acknowledgment that preservation was not a permanent state but a temporary intervention, a delay rather than a cure.
-
-*"Despite success stories like van Oosten's, preservation of plastics will likely get harder."*
-
-The passage was honest. Preservation would get harder. The objects would continue to deteriorate. New materials, designed to disintegrate, would add to the challenge. And more was at stake than individual objects: the archaeologist's argument that what we choose to preserve today determines how we will be seen tomorrow. Feimo thought of the Labyrinth. What the Academy chose to repair, what it chose to leave damaged, what it chose to protect and what it chose to release, would determine how the Labyrinth was understood by the students who came after.
-
-**Release**. She noted the word. The passage did not use it, but it was there, implicit, in the argument about biodegradable plastics designed to disintegrate. Some things were made to be released. Some things were made to fall apart. And the wisdom was in knowing which was which.
-
-Text 2 was about Generation Z and the value of a degree.
-
-Feimo read the passage with the attention she reserved for arguments that made her uncomfortable. The passage began with a promise: *"If you did well in school, got a decent degree, you would be set up for life."* The promise had been found wanting. Degrees became universal. They became devalued. Education was no longer a secure route of social mobility. Twenty-eight percent of UK graduates were in non-graduate roles.
-
-She thought of the Academy.
-
-The Academy promised knowledge. It promised that if you studied the Labyrinth's texts, if you engaged with the inscriptions on the walls, if you passed through the curriculum that the institution had designed, you would emerge transformed: a person who understood, who could read, who could navigate the complexities of a world made of language and meaning. The promise was real. But it was incomplete. The degree was not the knowledge. The degree was the institution's certification that knowledge had been acquired, and the certification was valuable only as long as the institution was trusted.
-
-Cain had damaged that trust. His security framework had diverted the Academy's resources from knowledge to control. The students who passed through his system emerged with a degree that certified compliance, not understanding. And the market, if the Labyrinth could be said to have a market, had begun to respond. The students who came to the Academy now were different from the students who had come before. They were less willing to engage with the walls, less willing to take the intellectual risks that reading demanded, more inclined to do what was required and no more.
-
-*"It is unlikely that Generation Z will be done with education at 18 or 21; they will need to be constantly upskilling throughout their career to stay employable."*
-
-Feimo thought: the Labyrinth is not a degree. It is a career. Not a destination but a practice. The students who treated it as a place to visit, to extract knowledge from, to graduate from, were missing the point. The Labyrinth was not a credential. It was a relationship. And like all relationships, it required maintenance, attention, the willingness to return after you had left.
-
-Text 3 was about art-science collaborations.
-
-The passage described partnerships between artists and researchers: the Sydney Symphony Orchestra performing Vivaldi with climate data, MIT's Center for Advanced Visual Studies exploring the role of technology in culture. The key insight was that the most valuable collaborations were those in which both parties had a shared stake, could jointly design the work, and could critique each other's results.
-
-Feimo thought of the relationship between reading and fighting. During the battle, she and Mia had read to the Labyrinth. The reading had not been a substitute for fighting. It had been a different kind of engagement, one that addressed the threat at a level that fighting could not reach. Noah and Aya had fought. Feimo and Mia had read. And the combination had been more effective than either approach alone.
-
-*"Artists help scientists reach a broader audience and make emotional connections that enhance learning."*
-
-She thought of Mia, whose analytical precision was a form of art. Mia did not create objects or performances. She created understanding. She took the raw material of the Labyrinth's texts and shaped it into patterns that other minds could recognize and use. This was not science and it was not art. It was something that the passage's categories could not contain, and Feimo thought that the passage's most important lesson was not about art or science but about the inadequacy of categories, about the need for frameworks that were capacious enough to hold the things that happened when disciplines collided.
-
-Text 4 was about New Zealand's Employment Relations Act.
-
-The passage described laws designed to protect ordinary workers from unjustified dismissal. The laws succeeded in their primary purpose but created unintended consequences: constraining firms from firing poorly performing managers, reducing productivity, and ultimately placing the jobs of ordinary workers at risk. The paradox was structural. Protection, applied without discrimination, produced the opposite of its intended effect.
-
-Feimo read the passage and felt the recognition that she had felt during every exam since she arrived at the Academy: the sense that the passages were not about the subjects they appeared to be about but about the Labyrinth itself, about the Academy, about the situation she was living through. The Employment Relations Act was Cain's security framework. The ordinary workers were the students. The poorly performing managers were the Fragmenters, or rather, the system's failure to address the Fragmenters effectively. And the paradox was the same: protection that produced vulnerability, security that created risk, the institutional logic that said "we must restrict access to protect the resource" and that, in restricting access, damaged the resource more than the threat it was designed to prevent.
-
-*"Consequently, and paradoxically, laws introduced to protect the jobs of ordinary workers may be placing those jobs at risk."*
-
-She wrote the sentence in the margin of her booklet. Not as an answer. As a note. As a reminder that paradoxes were not errors but features, that systems which produced the opposite of their intended effects were not malfunctioning but operating exactly as designed, and that the design was the problem.
-
-The translation section was about code-breaking.
-
-The passage described George Scovell, a British officer during the Napoleonic Wars who had captured and decoded French military communications. The sentences were complex, layered with subordinate clauses and qualifications, and Feimo translated them with the automatic fluency of long practice while thinking about the Fragmenters' coordinating signal.
-
-*"It was also, and this is unknown even to many people well read about the period, a battle between those who made codes and those who broke them."*
-
-She thought: the invasion was a battle between those who made codes and those who broke them. The parasitic signal was a code: a pattern embedded in the text field that directed the Fragmenters' behavior. And Feimo had broken it, not through analysis but through reading, through the simple act of engaging with the Labyrinth's text in the way the Labyrinth was designed to be engaged with. The code was broken not by a codebreaker but by a reader. And the reading had been the weapon.
-
-*"There may have been many spies and intelligence officers during the Napoleonic Wars, but it is usually extremely difficult to find the material they actually provided or worked on."*
-
-She thought: there may have been many readers in the Labyrinth's history, people who had stood in these corridors and read the inscriptions and strengthened the text field through the act of engagement. But their contributions were invisible. The material they provided was not documents or intelligence but the cumulative effect of attention, the residue of reading that had accumulated in the walls over centuries and that had, during the battle, provided the immune response that saved the system.
-
-The writing section asked her to invite a professor to organize a team for an innovation contest.
-
-She wrote the letter quickly, in the formal register that the exam required, and thought about what she would actually write if she could say what she meant. She would write to Professor Silence: *"The Academy has survived an attack. The Labyrinth is damaged but intact. The students are tired but present. We need to rebuild, and the rebuilding should not be a return to what was but a construction of what should be. I am inviting you not to a contest but to a project: the reconstruction of a knowledge system that was nearly destroyed by the very measures designed to protect it. The team is two hundred students who sat in a war-damaged room today and read. The innovation is reading itself."*
-
-She set down her pen.
-
-The exam was over.
+When it ended, the antechamber was brighter than it had been at the start. The inscriptions on the walls glowed with a warmth that Feimo associated with the pre-invasion Labyrinth, before Cain's cameras, before the Fragmenters, before the war. The damage was not repaired — three floors were still rubble, the text preservation system was still compromised — but the damage had been contained. The text field had stabilized. The Labyrinth was not healed. But it was no longer dying.
 
 ---
 
@@ -418,15 +320,11 @@ They walked down the corridor together, into the Labyrinth, into the work that w
 
 *Questions for Reflection:*
 
-1. The cloze passage argues that plant signaling is "only superficially similar" to animal consciousness. Feimo uses this distinction to understand the Labyrinth's defense mechanism. What is the difference between a system that responds to stimuli and a system that is conscious? Does the distinction matter if the responses are effective?
+1. The reading-as-repair concept suggests that every act of reading strengthens the Labyrinth. If reading is an immune response, what does it mean that the students' exam — an institutional ritual — became a weapon against the Fragmenters? Can institutional structures serve purposes their designers never intended?
 
-2. The reading passage about plastics preservation argues that "the object you make is already a time bomb." How does this apply to the Academy's security infrastructure? Are institutions, like plastics, inherently subject to deterioration?
+2. Card #072 describes Black Humor as using comedy to process horror. Where does black humor appear in this chapter? What is the relationship between laughter and survival?
 
-3. The passage about Generation Z suggests that lifelong learning, not a single degree, will define their generation. How does this apply to the students of the Academy? Is the Labyrinth a place you graduate from or a practice you sustain?
-
-4. Card #072 describes Black Humor as using comedy to process horror. Where does black humor appear in this chapter? What is the relationship between laughter and survival?
-
-5. Card #073 describes Sartre's theory of engaged literature: the writer's responsibility to speak against injustice. Feimo reads to the Labyrinth during a battle. Is reading a form of engagement? Can reading be a political act?
+3. Card #073 describes Sartre's theory of engaged literature: the writer's responsibility to speak against injustice. Feimo reads to the Labyrinth during a battle. Is reading a form of engagement? Can reading be a political act?
 
 ---
 

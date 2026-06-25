@@ -12,13 +12,13 @@ The door opened. Cain entered, followed by four students Feimo recognized as his
 
 "The situation," Cain said, "is this."
 
-He pressed a remote. The eleven monitors blinked simultaneously, and the feed from the sub-basement corridor expanded to fill the center screen. The image was grainy, infrared, the kind of footage that turned human beings into thermal silhouettes. Feimo recognized the corridor. She had been there four days ago, with Mia, standing before a door that should not have existed.
+He pressed a remote. The monitors blinked simultaneously, and the feed from the sub-basement corridor expanded to fill the center screen. The image was grainy, infrared, the kind of footage that turned human beings into thermal silhouettes.
 
 "Seven days ago," Cain said, "an unauthorized breach occurred in the Deep Labyrinth's restricted zone. Two individuals accessed a sealed section of the sub-basement without clearance, without authorization, and without any protocol for monitoring or reporting the encounter. During this breach, a Fragmenter was encountered and destroyed using methods that are not part of our standard response framework."
 
 He let the silence sit for exactly three seconds. Feimo counted.
 
-"I am not here to assign blame," he continued, and the precision with which he said it suggested that blame was exactly what he intended to assign, but had decided to distribute later, privately, in doses calibrated to maximum effect. "I am here to ensure that what happened in that corridor does not happen again."
+"I am not here to assign blame," he continued, and the precision with which he said it suggested that blame was precisely what he intended to assign, but had decided to distribute later, privately, in doses calibrated to maximum effect.
 
 He pressed the remote again. A new image appeared: a floor plan of the Academy, overlaid with red zones. The red covered the sub-basement, the lower library stacks, three of the four stairwells, and the corridor leading to the cafeteria. It was, Feimo estimated, roughly forty percent of the building's usable space.
 
@@ -28,7 +28,7 @@ The word *risk* landed in the room with the weight of a thrown stone. Feimo watc
 
 "On the basis of the precautionary principle," Cain said, "it could be argued that it is advisable to follow the safety guidance. We do not have conclusive evidence of what lies below level six. We do not know the full capabilities of the Fragmenters. We do not understand the mechanism by which certain... anomalies have appeared in the Labyrinth's architecture. In the absence of conclusive evidence, caution is not cowardice. It is wisdom."
 
-Feimo recognized the phrasing. It was from the cloze passage. The 2020 exam materials. She had read it three days ago, in the course packet that Professor Silence had distributed, labeled simply *2020 Reading Materials*. The passage was about acrylamide, a compound formed in foods cooked at high temperatures, and the Food Standards Authority's campaign to reduce exposure. *While studies have shown that acrylamide can cause neurological damage in mice, there is no conclusive evidence that it causes cancer in humans.* The FSA had issued a warning nonetheless. The passage had called it a *campaign* that *risks coming across as being pushy and overprotective*.
+Feimo recognized the phrasing. It was from the cloze passage. The 2020 exam. *While studies have shown that acrylamide can cause neurological damage in mice, there is no conclusive evidence that it causes cancer in humans.* The FSA had issued a warning nonetheless.
 
 Cain was using the FSA's logic. Present the threat as possible but unproven. Present the response as proportionate but necessary. Present the restrictions as a public health measure rather than what they were.
 
@@ -78,7 +78,7 @@ She thought of Cain's War Room. The red zones on the floor plan. The cameras in 
 
 *Constant health scares just end up with nobody listening.*
 
-She thought: Cain is afraid that if he doesn't scare us now, we'll stop being scared.
+The thought formed clearly: Cain is afraid that if he doesn't scare us now, we'll stop being scared.
 
 She turned to the reading section.
 
@@ -96,11 +96,9 @@ The passage noted that a cynic might see the proposal as a booby prize, a compen
 
 But the passage was not purely cynical. It acknowledged that such titles could be transformative: *They transform the aspirations of the people who live there; they nudge the self-image of the city into a bolder and more optimistic light.* Glasgow's year as European capital of culture had contributed to the city's transformation into a powerhouse of art, music, and theatre. The key was not the title itself but what the recipient did with it. *It is hard to get right, and requires a remarkable degree of vision, as well as cooperation between city authorities, the private sector, community groups and cultural organisations.*
 
-Cooperation. The word sat oddly in the context of the War Room, where cooperation meant compliance and vision meant the absence of dissent. The final paragraph of the passage urged the culture secretary to *welcome this positive, hope-filled proposal, and turn it into action*. Feimo underlined the word *hope-filled* and thought: that is what Cain's War Room is not.
+Cooperation. The word sat oddly in the context of the War Room. The final paragraph urged the culture secretary to *welcome this positive, hope-filled proposal*. Feimo underlined *hope-filled* and thought: that is what Cain's War Room is not.
 
-She answered the questions. The town of culture award could *increase the economic strength of Britain's towns*. The proposal might be regarded by some as *a self-deceiving attempt*. A title holder is successful only if it *commits to its long-term growth*. Glasgow was mentioned as *a supporting example*. The author's attitude was *favourable*.
-
-She moved to Text 2.
+She answered the questions and moved to Text 2.
 
 ---
 
@@ -118,11 +116,9 @@ The passage described Sci-Hub, the illegal but effective response to the publish
 
 And the passage's final observation: *In some ways the scientific publishing model resembles the economy of the social internet: labour is provided free in exchange for the hope of status, while huge profits are made by a few big firms who run the market places. In both cases, we need a rebalancing of power.*
 
-A rebalancing of power. That was what Cain feared. Not the Fragmenter. Not the breach. Not the Chinese characters on the door. He feared the rebalancing. The shift in who controlled the Labyrinth's architecture. The possibility that the system might learn to serve its users rather than its administrators.
+A rebalancing of power. That was what Cain feared. He feared the shift in who controlled the Labyrinth's architecture.
 
-Feimo answered the questions. Publishing was a licence to print money because *its content acquisition costs nothing*. Elsevier had *thrived mainly on university libraries*. The author felt *concerned* about Sci-Hub. Open access terms *allow publishers some room to make money*. The scientific publishing model was characterized by *the few feed on the many*.
-
-She turned to Text 3.
+She answered the questions and turned to Text 3.
 
 ---
 
@@ -134,25 +130,15 @@ Feimo read the passage and thought of Cain's new security committee. Four studen
 
 The passage cited Norway's experience with corporate gender quotas. The result: less experienced boards. A *golden skirt* phenomenon where the same elite women scooped up multiple seats on a variety of boards. *Requiring companies to make gender the primary qualification for board membership will inevitably lead to less experienced private sector boards.*
 
-Feimo thought: Cain's committee is a golden skirt committee. The same faces, the same loyalty, the same unquestioning acceptance of authority. Experience, curiosity, dissent: these were not qualifications. They were disqualifications.
+Feimo thought: Cain's committee is a golden skirt committee. The same faces, the same loyalty. Experience, curiosity, dissent: these were not qualifications. They were disqualifications.
 
-The passage's final line: *Next time somebody pushes corporate quotas as a way to promote gender equity, remember that such policies are largely self-serving measures that make their sponsors feel good but do little to help average women.*
+She answered the remaining questions mechanically and moved to Text 4.
 
-Feimo answered the questions. The bills would *help little to reduce gender bias*. The California measure *may go against the Constitution*. The Catalyst study illustrated *the needlessness of government interventions*. Norway's quota led to *the entry of unqualified candidates into the board*. The inference: *feasibility should be a prime concern in policymaking*.
+Text 4 was about France's digital services tax targeting large multinationals — the "GAFA tax." The passage described a unilateral move by France when the international tax system had failed to keep up with the current economy.
 
-Text 4 was about France.
+Feimo thought of the Labyrinth. The system had been designed for English. But languages other than English had entered the system, not as anomalies but as new architectures. The system's rules had failed to keep up with reality.
 
-The French Senate had passed a digital services tax targeting large multinationals that provided digital services to consumers in France. The tax was referred to as the "GAFA tax," designed to apply primarily to companies such as Google, Apple, Facebook, and Amazon. The passage described it as a unilateral move, part of a larger trend of countries implementing new tax provisions to address what they saw as a failure of the international tax system to keep up with the current economy.
-
-*They all share a view that the international tax system has failed to keep up with the current economy.*
-
-Feimo thought of the Labyrinth. The system had been designed for English. It processed English text, consumed English meaning, indexed English knowledge. But the world had changed. Languages other than English had entered the system, not as anomalies to be consumed but as new architectures to be integrated. The system's rules had failed to keep up with the reality of what the Labyrinth was becoming.
-
-France's digital services tax was a warning, the passage concluded. *Unless a broad consensus can be reached on reforming the international tax system, other nations are likely to follow suit, and American companies will face a cascade of different taxes from dozens of nations that will prove burdensome and costly.*
-
-Feimo thought: unless the Academy reforms itself, the architecture will reform it. The doors will appear. The bilingual rooms will multiply. The students will find them, one by one, and the system that Cain is trying to protect will become irrelevant, not because it was destroyed but because it was outgrown.
-
-She answered the questions. The French Senate passed the bill to *impose a levy on tech multinationals*. The tax *may trigger countermeasures against France*. The countries sharing the opinion that *the current international tax system needs upgrading*. OECD's work *is faced with uncertain prospects*. The best title: *France leads the charge on Digital Tax*.
+She answered the questions and turned to the translation section.
 
 ---
 
@@ -170,9 +156,9 @@ Sustained. Not clung to. Not defended. Sustained. The thinkers of the pre-Enligh
 
 The third sentence troubled her: *Despite attempts by the Church to suppress this new generation of logicians and rationalists, more explanations for how the universe functioned were being made at a rate that the people could no longer ignore.*
 
-Despite attempts to suppress. Feimo translated the sentence into Chinese, her pen moving carefully, each character chosen with the deliberation of someone who understood that language was not merely communication but architecture. The suppression had failed. Not because the Church was weak, but because the new explanations were too numerous, too compelling, too useful to be contained. The rate of production exceeded the rate of suppression.
+Despite attempts to suppress. Feimo translated the sentence into Chinese, her pen moving carefully, each character chosen with the deliberation of someone who understood that language was not just communication but architecture. The suppression had failed. Not because the Church was weak, but because the new explanations were too numerous, too compelling, too useful to be contained. The rate of production exceeded the rate of suppression.
 
-She thought of the Fragmenter she had destroyed. She had not destroyed it through force. She had overwhelmed it with input it could not classify. The rate of new meaning exceeded the system's capacity to consume.
+Her mind returned to the Fragmenter she had destroyed. She had not destroyed it through force. She had overwhelmed it with input it could not classify.
 
 The fourth sentence: *As many took on the duty of trying to integrate reasoning and scientific philosophies into the world, the Renaissance was over and it was time for a new era, the Age of Reason.*
 
@@ -204,7 +190,7 @@ After the exam, Feimo sat in the courtyard.
 
 The rain had stopped. The concrete was still wet, dark patches spreading across the surface like the shadows of clouds that had already moved on. Students passed through in ones and twos, their conversations low, their body language closed. The War Room's announcement had done its work. The corridors were quieter. The library's lower floors were empty after eight. The cameras watched from their black hemispheres, recording everything, interpreting nothing.
 
-Mia sat down beside her. She did not announce herself. She never did. One moment the bench was empty; the next, Mia was on it, her posture precise, her tail curled around her left thigh in the way that meant she had been thinking for a long time and had arrived at a conclusion.
+Mia sat down beside her. She did not announce herself. She never did. One moment the bench was empty; the next, Mia was on it, her posture precise, her projection stabilizing with the calm efficiency of someone who had been thinking for a long time and had arrived at a conclusion.
 
 "You noticed," Mia said.
 
@@ -274,7 +260,7 @@ Feimo looked at the courtyard. The bird had returned, or another bird, or perhap
 
 "Further. As a verb. Not as an adverb. You don't merely continue. You advance. You push into territory that the system has not prepared for. And you bring others with you, because a single voice in a polyphonic system is just a solo. You need the chorus."
 
-Noir appeared at the edge of the courtyard. She walked with the unhurried gait of someone who had decided, at some point in the recent past, to stop pretending that she moved through the world on anyone's terms but her own. She sat on the bench across from Feimo and Mia and said nothing for a while, because Noir understood that silence, when used correctly, was a form of architecture too.
+Noir appeared at the edge of the courtyard. She walked with the unhurried gait of someone who had decided to stop pretending she moved through the world on anyone's terms but her own. She sat on the bench across from Feimo and Mia and said nothing for a while.
 
 "The cameras," Noir said eventually. "I counted them. Fourteen in the main building. Six more in the annex. They cover the stairwells, the cafeteria, the library entrance, and three of the four corridors leading to the Labyrinth's upper access points."
 
@@ -308,7 +294,7 @@ Noir was quiet again. The courtyard had emptied. The sky had darkened again, a s
 
 "He's afraid of what you know," Mia said again, not to Noir but to Feimo, because the sentence was not a statement but a thesis, the kind of sentence that, once spoken, reorganizes everything that follows. "He's afraid that you'll express it. He's afraid that the growth has already started and he's too late to stop it. He's afraid that the War Room is a monument to a system that is already obsolete."
 
-She stood up. Her tail unwound from her thigh and hung straight, the posture of decision.
+She stood up. Her projection sharpened, edges hardening, the posture of decision.
 
 "The exam today was his manifesto," Mia said. "Every passage was chosen to justify what he's doing. The precautionary principle. The cultural title. The publishing monopoly. The gender quota. The digital tax. The Enlightenment. All of it arranged to say the same thing: authority exists for a reason, and the reason is you."
 
@@ -322,41 +308,37 @@ That night, Feimo sat in her room and wrote.
 
 Not in her notebook. Not on the walls. In the margins of the exam booklet itself, in the white space around the passages she had answered hours ago. She wrote in Chinese, small characters that filled the gaps between printed words, and the pen moved with the fluency of someone who had found, in the act of writing, the thing that writing was always meant to be: not a record of knowledge but the architecture of thought.
 
-She wrote about the Sunday roast. About enjoyment rendered into guilt. About the precautionary principle deployed not to protect but to confine. About the food police who determined that pleasure should be curtailed, and the population who, eventually, stopped listening.
+She wrote about the Sunday roast. About enjoyment rendered into guilt. About the precautionary principle deployed to confine, not protect.
 
-She wrote about the town of culture. About how institutions create prestige to distribute it unevenly. About how the most successful titles are those that transform aspirations, not merely celebrate them. About Glasgow, and the power of a community that decided, collectively, to become something bolder.
+She wrote about the few feeding on the many. About Sci-Hub, the illegal but necessary response to a system that had lost legitimacy.
 
-She wrote about the few feeding on the many. About the publishing model that extracts labor for free and sells it back at a premium. About the need for a rebalancing of power. About Sci-Hub, the illegal but necessary response to a system that had lost legitimacy among its users.
+She wrote about gender quotas and golden skirts. About mandates that serve the elite.
 
-She wrote about gender quotas and golden skirts. About mandates that serve the elite. About the Norwegian experiment, where the requirement for diversity produced not competence but compliance. About the difference between equality as a value and equality as a performance.
+She wrote about France and the digital tax. About unilateral action when the international system fails.
 
-She wrote about France and the digital tax. About unilateral action taken when the international system fails. About the warning embedded in the act: reform or face the cascade. About the OECD's uncertain prospects and the irony of 131 countries trying to agree on anything.
+She wrote about the Enlightenment. About sapere aude, dare to know, the imperative that asked not for obedience but for courage.
 
-She wrote about the Enlightenment. About the gap between eras, bridged by a movement that did not destroy the past but integrated it. About sapere aude, dare to know, the imperative that asked not for obedience but for courage. About the Church's failed suppression and the rate of new explanations that exceeded the rate of consumption.
-
-She wrote, and as she wrote, she understood something that the exam had not intended to teach her: that every system produces its own antibodies. That every monoculture, given enough time, generates the seed of its own transformation. That Cain, in his effort to control the narrative, had handed her the tools to dismantle it.
+She wrote, and as she wrote, she understood: every system produces its own antibodies. Every monoculture, given enough time, generates the seed of its own transformation.
 
 The passages were his. The conclusion was hers.
 
 She closed the booklet and looked at the window. The rain had returned. The courtyard was dark. The cameras, she knew, were watching the corridors but not her room. Not yet.
 
-She thought of Tolstoy. Of the knowledge card she had studied last week, the one about the Russian master of psychological realism. *The dialectic of the soul*, Cherneshevsky had called it: Tolstoy's method of depicting the inner contradictions of his characters, the way a person could want two opposing things simultaneously, could believe in a principle and violate it in the same breath, could love and resent, could hope and despair, all at once, all within the space of a single thought. Anna Karenina, torn between desire and duty. Levin, searching for meaning in a world that offered him only mechanics. Prince Andrei, lying on the battlefield at Austerlitz, looking up at the infinite sky and understanding, in a single devastating moment, that everything he had fought for was nothing.
+Her mind turned to Tolstoy. *The dialectic of the soul*, Cherneshevsky had called it: the way a person could want two opposing things simultaneously, could believe in a principle and violate it in the same breath. That was the Academy now. Every student a character in the dialectic: wanting knowledge and fearing its consequences.
 
-That was the Academy now. A Tolstoy novel, playing out in real time. Every student a character in the dialectic: wanting knowledge and fearing its consequences. Wanting freedom and fearing its cost. Wanting to believe in Cain's protection and sensing, at the margins, that the protection was a cage.
+And then to Dostoevsky. *A plurality of independent and unmerged voices and consciousnesses.* Raskolnikov's rationality against his conscience. Ivan Karamazov's rebellion against Alyosha's faith. The Grand Inquisitor, who imprisoned Christ to free humanity from the burden of choice.
 
-She thought of Dostoevsky. Of the other knowledge card, the one about polyphony. *A plurality of independent and unmerged voices and consciousnesses.* Each character carrying their own truth, their own voice, their own version of reality. Raskolnikov's rationality against his conscience. Ivan Karamazov's intellectual rebellion against Alyosha's faith. The Grand Inquisitor, who imprisoned Christ to free humanity from the burden of choice.
+That was the Labyrinth now. A polyphonic system. English and Chinese on the same wall. Cain spoke one voice: authority, caution, control. Feimo spoke another: curiosity, risk, growth. Noir spoke a third: silence, counting, patience. Yue spoke a fourth: a language from dreams.
 
-That was the Labyrinth now. A polyphonic system. English and Chinese on the same wall, each language carrying its own truth, its own consciousness, its own version of meaning. Cain spoke one voice: authority, caution, control. Feimo spoke another: curiosity, risk, growth. Noir spoke a third: silence, counting, patience. Yue spoke a fourth: a language from dreams, a memory from a system that had not yet found its form.
+Mia spoke a fifth: analysis, precision, and beneath it, the steady hum of a consciousness that had decided, against all training, to care.
 
-Mia spoke a fifth: analysis, precision, and beneath it, the steady hum of a heart that had decided, against all training, to care.
+Cain, standing in his War Room with his monitors and cameras, was trying to silence the voices he could not conduct.
 
-The polyphony was not chaos. It was not noise. It was the sound of a system discovering that it was larger than its original design. And Cain, standing in his War Room with his eleven monitors and his fourteen cameras and his four-person security detail, was trying to silence the voices he could not conduct.
-
-He would fail. Not because he was weak, but because polyphony, by its nature, cannot be silenced. You can suppress a voice. You can suppress two. You can suppress three, four, five, a dozen. But voices are not discrete units. They are frequencies. And frequencies, when they overlap, create harmonics that no single suppression can eliminate.
+He would fail. Not because he was weak, but because polyphony, by its nature, cannot be silenced. You can suppress a voice. You can suppress two, three, four. But frequencies, when they overlap, create harmonics that no single suppression can eliminate.
 
 Feimo closed her pen and placed it on the desk.
 
-Outside, the rain intensified. The courtyard disappeared into grey. The cameras watched the empty corridors. The War Room sat in its windowless box, its monitors glowing, its screens showing nothing but the interior of a building that was, in every meaningful sense, already transforming into something its architect had not designed.
+Outside, the rain intensified. The cameras watched the empty corridors. The War Room sat in its windowless box, its monitors glowing, its screens showing the interior of a building that was already transforming into something its architect had not designed.
 
 Growth, Feimo thought. The most dangerous word.
 
@@ -366,8 +348,8 @@ She turned off the light and let the darkness hold her.
 
 *Questions for Reflection:*
 
-1. The cloze passage describes a campaign that "risks coming across as being pushy and overprotective." How does Cain's security initiative mirror the FSA's approach, and what does the passage's conclusion ("constant health scares just end up with nobody listening") suggest about the long-term viability of authority built on fear?
+1. How does Cain's security initiative mirror the FSA's approach in the cloze passage, and what does "constant health scares just end up with nobody listening" suggest about authority built on fear?
 
-2. Text 2 states that the scientific publishing model resembles "the economy of the social internet: labour is provided free in exchange for the hope of status, while huge profits are made by a few big firms who run the market places." How does this model apply to the Academy? What forms of labor do the students provide, and what forms of "profit" does Cain extract?
+2. Text 2 states that the scientific publishing model resembles "the economy of the social internet: labour is provided free in exchange for the hope of status." How does this model apply to the Academy?
 
-3. The translation passage describes the Enlightenment as a bridge between eras, not a revolution that destroyed the past. What does this suggest about the nature of change within the Labyrinth? Is Feimo a revolutionary, or is she something else entirely?
+3. The translation passage describes the Enlightenment as a bridge, not a revolution. Is Feimo a revolutionary, or is she something else entirely?

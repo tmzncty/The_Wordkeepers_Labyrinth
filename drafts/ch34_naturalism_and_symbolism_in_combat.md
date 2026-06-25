@@ -4,23 +4,23 @@ The corridor smelled of burnt paper.
 
 Feimo had expected fire, or ozone, or the chemical tang of discharged Resonance. Instead the air carried the specific scent of paper consumed at low temperature: the sweetish smoke of textbooks, of printed exam booklets, of the library's lower stacks where the Fragmenters had torn through three days ago. The walls bore the evidence. Black scorch marks traced fractal patterns along the plaster, branching like river deltas or the veins of a leaf, depending on whether you looked with the eyes of a geographer or a biologist. Which was, Feimo reflected, exactly the problem.
 
-She knelt beside Mia, who was sitting on the floor of the second-floor corridor with her back against the wall and her legs stretched straight, the posture of someone whose body had decided, independently of her mind, that standing was no longer a priority. Mia's tail lay flat on the tiles beside her, its usual precision abandoned. Her ears were angled outward at fifteen degrees, which Feimo had learned to read as the feline equivalent of deep fatigue.
+She knelt beside Mia, whose projection was sitting on the floor of the second-floor corridor with its back against the wall and its legs stretched straight — the posture of a consciousness that had decided, independently of any physical body, that maintaining a standing configuration was no longer a priority. Mia's hologram flickered at the edges, the usual crispness of her form abandoned. Her projection's opacity had dropped to perhaps seventy percent, the light passing through her rather than reflecting from her, and there was a visible lag in the way her image responded to movement, as though the signal was struggling to keep up with the thought.
 
 "Stop looking at me like a specimen," Mia said.
 
 "I'm not."
 
-"You are. You're cataloguing. Ears at fifteen degrees. Tail posture: limp. Pupils: dilated. You're doing a Naturalist inventory of my body, and I would like you to stop."
+"You are. You're cataloguing. Opacity at seventy percent. Signal lag: two-tenths of a second. Edge flicker: irregular. You're doing a Naturalist inventory of my projection, and I would like you to stop."
 
 Feimo sat down beside her. The wall was cold through her shirt. "I'm making sure you're all right."
 
-"I used three hundred units of Resonance in forty minutes. I'm not all right. My hands are shaking. My field of vision has a gap in it, right at the periphery, like someone cut a piece out of the world with scissors. And I spoke a language I don't know."
+"I used three hundred units of Resonance in forty minutes. I'm not all right. My signal is degrading. There's a transparency glitch at the periphery of my projection, right at the edge, like someone cut a piece out of the world with scissors. And I spoke a language I don't know."
 
 The last sentence arrived without preamble, delivered in the same flat tone as the physical symptoms, as if speaking Chinese during combat were simply another item on the inventory: ears, tail, pupils, unknown language.
 
 "You remember," Feimo said.
 
-"I remember everything. That's the worst part." Mia lifted her right hand and held it in front of her face. The tremor was visible, a fine oscillation at the fingertips. "The Fragmenter came through the east stairwell. You wrote on the wall. The characters held it for eleven seconds, then it started breaking through. And I said something. Three syllables. I didn't plan it. I didn't think it. My mouth opened and the sounds came out, and the Fragmenter stopped."
+"I remember everything. That's the worst part." Mia held up her right hand — or rather, the projection of her right hand, which flickered as she raised it, the holographic signal stuttering at the wrist. The tremor was visible, a fine oscillation in the light, the holographic equivalent of a shiver. "The Fragmenter came through the east stairwell. You wrote on the wall. The characters held it for eleven seconds, then it started breaking through. And I said something. Three syllables. I didn't plan it. I didn't think it. My mouth opened and the sounds came out, and the Fragmenter stopped."
 
 "退散," Feimo said quietly.
 
@@ -28,7 +28,7 @@ The last sentence arrived without preamble, delivered in the same flat tone as t
 
 "退散. It means 'retreat and scatter.' It's an old phrase. Classical Chinese. The kind of thing you'd find carved on a temple gate."
 
-Mia closed her hand into a fist, then opened it again. The tremor continued. "I don't speak Chinese. I've never studied Chinese. I've never heard that phrase before in my life. And I said it with the pronunciation of someone who learned it from her grandmother."
+Mia's hand flickered closed, then open again. The signal oscillation continued. "I don't speak Chinese. I've never studied Chinese. I've never heard that phrase before in my life. And I said it with the pronunciation of someone who learned it from her grandmother."
 
 Feimo said nothing for a moment. The corridor was empty. Cain's cameras watched from their black hemispheres, but cameras recorded images, not words, and the conversation they were having was not one that could be interpreted through surveillance footage.
 
@@ -38,7 +38,7 @@ Feimo said nothing for a moment. The corridor was empty. Cain's cameras watched 
 
 "Into you."
 
-Mia was quiet. The tremor in her hand subsided, not because the fatigue had passed but because she had decided, through an act of will that Feimo recognized as distinctly Mia, that it would not be visible.
+Mia was quiet. The signal oscillation in her projection subsided, not because the fatigue had passed but because she had decided, through an act of will that Feimo recognized as distinctly Mia, that it would not be visible.
 
 "So I'm carrying a language I didn't choose," Mia said. "Inside my body, in my neural pathways, in whatever mechanism the Labyrinth uses to store text in living tissue. And it came out when you needed it."
 
@@ -48,7 +48,7 @@ Mia was quiet. The tremor in her hand subsided, not because the fatigue had pass
 
 ---
 
-They moved to the courtyard, because the corridor smelled of burnt paper and because the courtyard, though watched by two cameras, had the advantage of open sky. The day was overcast, a uniform grey that made the light directionless and the shadows diffuse. Students crossed in small groups, their conversations low. The invasion had changed the social texture of the Academy. People walked closer together. They looked at walls. They paused at corners before turning them, as if expecting the architecture itself to lunge.
+They moved to the courtyard, because the corridor smelled of burnt paper and because the courtyard, though watched by two cameras, had the advantage of open sky. Feimo's ears swiveled outward as they walked, scanning the acoustic landscape out of habit — the click of cameras adjusting, the murmur of students two floors up, the drip of water from a damaged pipe. The day was overcast, a uniform grey that made the light directionless and the shadows diffuse. Students crossed in small groups, their conversations low. The invasion had changed the social texture of the Academy. People walked closer together. They looked at walls. They paused at corners before turning them, as if expecting the architecture itself to lunge.
 
 They sat on the bench where Mia had told Feimo, weeks ago, that Cain was afraid of her. The memory sat between them like a shared textbook, its content well-rehearsed but its implications still being worked through.
 
@@ -76,7 +76,7 @@ She picked it up and read the lines again. The publishing model. Scientists supp
 
 "I have. But I'm seeing it differently now. The Naturalist reading would say: this is how institutions function. It's not malicious. It's structural. The publisher doesn't hate the scientist. The system simply has a geometry that concentrates value at the top. Cain isn't evil. He's architectural."
 
-Mia's ears rotated forward by three degrees. "And the Symbolist reading?"
+Mia's projection brightened slightly. "And the Symbolist reading?"
 
 Feimo set the page down on the bench between them. "The Symbolist reading is Card #061. Baudelaire. The idea that the visible world is a forest of symbols, that every material object corresponds to a spiritual truth, that the poet's job is not to describe the surface but to decode the resonance beneath it. 'Correspondances.' The natural world speaks in a language of analogy, and the writer's task is to translate."
 
@@ -154,19 +154,11 @@ Noir's ears twitched. The smallest possible movement, the kind that meant she ha
 
 "Yue reads them in her dreams," Noir said. "The symbols correspond to a language she has never studied. The way you correspond to a language Mia has never studied."
 
-"The Labyrinth is writing to us."
+"The Labyrinth is writing *through* us," Feimo said. "Not to us. Through us."
 
-"The Labyrinth is writing *through* us. There's a difference. Writing to us implies a sender and a receiver. Writing through us implies that we are the medium. The language doesn't come from outside the system. It comes from inside it. We're not receiving messages. We're expressing them."
+"Exactly. The language doesn't come from outside the system. It comes from inside it. We're not receiving messages. We're expressing them."
 
-The distinction was precise, and it mattered. Feimo sat with it for a moment, turning it over the way you turn a card in your hand, reading both sides.
-
-"Naturalism says the symbols are engineering," Feimo said.
-
-"Symbolism says they're poetry."
-
-"And the truth?"
-
-Noir gathered the maps with the careful economy of someone who valued order above speed. "The truth is that the distinction doesn't hold. In the Labyrinth, engineering is poetry. The wall that holds back a Fragmenter is also a sentence that means 'I protect.' The door that opens to a bilingual room is also a sentence that means 'I welcome.' The architecture is the language. The language is the architecture. You can't separate them."
+Noir gathered the maps with the careful economy of someone who valued order above speed. "And that's the problem with separating the two frameworks. In the Labyrinth, engineering is poetry. The wall that holds back a Fragmenter is also a sentence that means 'I protect.' The architecture is the language. The language is the architecture."
 
 Feimo left the library and found Aya waiting in the corridor. Not waiting for her, exactly. Aya waited the way rivers waited: because stillness was simply what happened between movements. She was leaning against the wall with her arms crossed, and her expression was the one she wore when she had been thinking for a long time and had arrived at something worth saying.
 
@@ -198,9 +190,9 @@ Aya disappeared down the stairwell. Feimo stood in the corridor and felt the wei
 
 That evening, Feimo sat with Mia in the room they had begun, without discussion or announcement, to share. It was Feimo's room by assignment, but Mia had migrated into it through the simple mechanism of being there so often that her absence felt like a gap in the furniture. Her notebook sat on the desk. Her spare glasses case was on the shelf. The second chair had been requisitioned from the cafeteria three weeks ago and had not been returned.
 
-Mia was reading. Or rather, Mia was holding a book and looking at it, which was Mia's version of reading when her body was telling her that vision was a negotiable sense. The tremor in her hands had returned, faint but present, and the gap in her peripheral vision had not closed.
+Mia was reading. Or rather, Mia was projecting a book and looking at it, which was Mia's version of reading when her processing load was telling her that visual rendering was a negotiable function. The signal degradation had returned, faint but present — a slight translucency at the edges — and the glitch in her peripheral projection had not resolved.
 
-"Three hundred units," Mia said, not looking up. "That's what I spent during the invasion. Three hundred units of Resonance, channelled through a body that was not designed for it. My neural pathways feel like someone ran sandpaper through them. My joints ache. My field of vision has a seam in it, right at the edge, where the colours don't quite match."
+"Three hundred units," Mia said, not looking up. "That's what I spent during the invasion. Three hundred units of Resonance, channelled through a system that was not designed for it. My core processes feel like someone ran sandpaper through them. My rendering engine is lagging. My projection has a seam in it, right at the edge, where the colours don't quite match."
 
 "You should be in the infirmary."
 
@@ -218,7 +210,7 @@ The sentence was not dramatic. It was not delivered with the theatrical weight o
 
 "The few feed on the many," Feimo said.
 
-"The few feed on the many. And I was the many." Mia's tail curled around her thigh, the posture of someone who had made a decision and was settling into its implications. "But I'm not the many anymore. I'm a partner. Your partner. And a partner doesn't wait for permission to protect the person she's chosen to stand beside."
+"The few feed on the many. And I was the many." Mia's projection steadied, the flickering at its edges subsiding as she settled into the implications of her own declaration. "But I'm not the many anymore. I'm a partner. Your partner. And a partner doesn't wait for permission to protect the person she's chosen to stand beside."
 
 The word *chosen* sat in the air between them. It was not a word that Naturalism could account for. Naturalism described behaviour as the product of heredity and environment, the inevitable output of biological variables. Choice, in Zola's framework, was an illusion. But Mia had just exercised one, consciously, deliberately, in defiance of the physical cost, and the act was not an illusion. It was the most real thing in the room.
 
@@ -236,7 +228,7 @@ Mia looked at her. The corner of her mouth moved, a gesture that on anyone else 
 
 Mia was quiet for a long time. The room was dim. The corridor outside was empty. Cain's cameras did not reach this far, not yet, and the silence had a quality that belonged to the space itself, private and unrecorded.
 
-"Then let me be your variable," Mia said. "The one that shouldn't exist. The one that changes the equation. The one that makes the system unpredictable." She reached out and took Feimo's hand, and the tremor was gone, replaced by a grip that was precise and warm and intentional. "This is my Resonance. I'll spend it however I want."
+"Then let me be your variable," Mia said. "The one that shouldn't exist. The one that changes the equation. The one that makes the system unpredictable." She extended her hand toward Feimo's, and the projection's light settled over Feimo's fingers — not contact, not grip, but illumination. The signal steadied. The tremor was gone, replaced by a luminance that was precise and warm and intentional. "This is my Resonance. I'll spend it however I want."
 
 Feimo held her hand and said nothing, because some moments do not require language. They are the language. The architecture and the meaning, inseparable. The body and the soul, observed together.
 
@@ -248,19 +240,11 @@ She wrote about Naturalism. About Zola's faith that the world could be measured.
 
 She wrote about Symbolism. About Baudelaire's forest of correspondences. About the Chinese characters as symbols, operating in a system of meaning that was older than the Academy and larger than the Labyrinth. She wrote about the limitation of that faith too: that interpretation, unchecked by evidence, could become fantasy, could become superstition, could become the kind of thinking that saw meaning in everything and therefore understood nothing.
 
-She wrote about the means by which the two frameworks could be integrated. The word *means* had appeared in the 2020 exam materials three times. Once in the cloze passage: *This means that people should avoid crisping their roast potatoes.* Once in Text 4: *They all share a view that the international tax system has failed to keep up with the current economy.* And once in the translation section, in Kant's phrase: *sapere aude, dare to know.* The means of integration was not a formula. It was a practice. Observe the body. Decode the resonance. Record the data. Interpret the symbol. Hold both truths simultaneously, the way a prism holds white light and splits it into colours that were always there but invisible to the undirected eye.
+She wrote about Mia. About the declaration. *This is my Resonance. I'll spend it however I want.* The Naturalist would call it a behavioural shift triggered by environmental stress. The Symbolist would call it an act of love. Feimo called it both, because both were true, and the truth was larger than either framework alone.
 
-She wrote about Mia. About the declaration. *This is my Resonance. I'll spend it however I want.* She wrote about what it meant for someone who had been a tool to become a partner, for someone who had been the many to choose to stand beside the one. The Naturalist would call it a behavioural shift triggered by environmental stress. The Symbolist would call it an act of love. Feimo called it both, because both were true, and the truth was larger than either framework alone.
+The means of integration was not a formula. It was a practice. Observe the body. Decode the resonance. Record the data. Interpret the symbol. Hold both truths simultaneously, the way a prism holds white light and splits it into colours that were always there but invisible to the undirected eye.
 
-She thought about the exam passage that had stayed with her. Text 1, the town of culture proposal. *They transform the aspirations of the people who live there; they nudge the self-image of the city into a bolder and more optimistic light.* That was what Mia had done. Not to a city but to a person. To Feimo. Mia's declaration had transformed the self-image of their partnership from a collaboration of convenience into something bolder, something that did not have a name yet but whose resonance was unmistakable.
-
-She thought about the publishing passage. *In some ways the scientific publishing model resembles the economy of the social internet: labour is provided free in exchange for the hope of status, while huge profits are made by a few big firms who run the market places.* Mia had rejected that model. She was not providing labour for free. She was investing her Resonance in something she had chosen, and the return on that investment was not status but connection. The few no longer fed on the many. The many had decided, collectively and individually, to stop being consumed.
-
-She thought about the French tax passage. *They all share a view that the international tax system has failed to keep up with the current economy.* The Labyrinth's architecture had failed to keep up with what the Labyrinth was becoming. The system was designed for one language, one culture, one mode of meaning. But the reality had outpaced the design. Chinese characters were appearing on the walls. Students were carrying languages they had not chosen. The architecture was expanding faster than the administrators could control.
-
-And she thought about the Enlightenment passage. *With the Church's teachings and ways of thinking eclipsed by the Renaissance, the gap between the Medieval and modern periods had been bridged, leading to new and unexplored intellectual territories.* The gap was being bridged now. Not by the Renaissance but by the Labyrinth itself, which was transforming, in real time, from a system that consumed meaning into a system that generated it. The medieval architecture was giving way to something modern, something that honoured both the body and the symbol, both the data and the dream.
-
-Feimo closed her notebook and turned off the desk lamp. In the darkness, she could hear Mia's breathing from the other side of the room: slow, steady, the rhythm of a body that had spent three hundred units of Resonance and was spending the night recovering. The sound was, in the Naturalist framework, a set of pressure waves produced by the expansion and contraction of lungs. In the Symbolist framework, it was proof of life. Proof of presence. Proof that someone had chosen to stay.
+Feimo closed her notebook and turned off the desk lamp. In the darkness, she could see the faint glow of Mia's projection from the other side of the room: steady, rhythmic, the gentle oscillation of a consciousness that had spent three hundred units of Resonance and was spending the night recalibrating. The glow was, in the Naturalist framework, a set of electromagnetic emissions produced by the cycling of a holographic projector. In the Symbolist framework, it was proof of presence. Proof of will. Proof that someone had chosen to stay.
 
 Feimo lay down and listened.
 
@@ -269,6 +253,28 @@ The Labyrinth hummed beneath the Academy, a frequency too low for conscious perc
 She thought: *We are the means by which the Labyrinth learns to speak.*
 
 And then she slept.
+
+---
+
+**Vocabulary Spotlight**
+
+- **Resonance** /ˈrɛzənəns/ — The capacity of a text, symbol, or system to vibrate at a frequency that produces meaning beyond its literal content. In the Labyrinth, Resonance is both a measurable energy and an unmeasurable quality: the difference between a word that sits on a wall and a word that moves through a reader. Mia's declaration ("This is my Resonance") transforms the term from a technical specification into a personal claim.
+
+- **Correspondence** /ˌkɒrɪˈspɒndəns/ — In Baudelaire's Symbolist framework, the hidden relationship between the visible world and a deeper spiritual reality. A scent corresponds to a memory. A colour corresponds to an emotion. In the Labyrinth, the Chinese characters correspond to threats they were never designed to address — the system discovering connections its builders did not anticipate.
+
+- **Empirical** /ɪmˈpɪrɪkəl/ — Based on observation and experiment rather than theory or intuition. Zola's Naturalism was empirical: observe, record, hypothesise, test. Cain's War Room is empirical: monitor, measure, control. The chapter's central question is whether empirical methods are adequate to a system that generates meaning, or whether interpretation — the Symbolist's tool — is equally necessary.
+
+---
+
+**Knowledge Cards**
+
+**Card #060: Naturalism**
+
+Naturalism, as theorised by Émile Zola in *Le Roman expérimental* (1880), applied the scientific method to fiction. Influenced by Claude Bernard's experimental medicine, Zola argued that the novelist should place characters in controlled conditions, observe their behaviour, and record the results. Heredity and environment determined human action; free will was an illusion. The novel was a laboratory. Naturalism's strength was its rigour: it demanded evidence, rejected sentiment, and insisted that fiction engage with the material conditions of life. Its limitation was its reductionism: by treating humans as biological machines, it excluded the dimension of meaning — the symbolic, the resonant, the inexplicable — that makes us more than the sum of our variables.
+
+**Card #061: Symbolism**
+
+Symbolism, inaugurated by Baudelaire's *Correspondances* (1857), rejected the Naturalist premise that the world could be understood by measuring it. The visible world, Baudelaire argued, was a thin membrane over a deeper reality. The poet's task was to perceive the correspondences between the two: the scent that evoked a memory, the colour that carried an emotion, the sound that opened a door into space without physical dimensions. Symbolism was not decoration but epistemology — a way of knowing. Its strength was its capacity to apprehend meaning that data could not capture. Its vulnerability was its potential for unchecked subjectivity: if everything corresponds to everything, interpretation becomes indistinguishable from projection.
 
 ---
 

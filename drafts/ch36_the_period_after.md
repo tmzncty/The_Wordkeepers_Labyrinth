@@ -26,7 +26,7 @@ The third floor of the library had been reconfigured.
 
 Where once there had been individual carrels, there was now a single long table, assembled from six desks pushed together, surrounded by mismatched chairs that bore the institutional scuff marks of decades. Coffee sat at the center, in a steel carafe that looked borrowed from the cafeteria, accompanied by a stack of ceramic mugs that bore the Academy's old emblem, the one that had been replaced by Cain's key-and-book design. Someone had chosen these mugs on purpose. Feimo was fairly certain it was Mia.
 
-Seven people sat around the table. Feimo counted them the way she counted everything: silently, precisely, assigning each a position in the spatial grammar of the room. Mia at the far end, her back to the window, her tail curled around the leg of her chair. Aya beside her, legs crossed, a pen twirling between her fingers. Ryna across from Aya, her posture straight, her expression unreadable. Noah at the center, the exam booklet open in front of her, a highlighter uncapped and waiting. Yue beside Noah, not looking at anyone, her gaze fixed on the middle distance in a way that could indicate meditation or dissociation. And at the near end, facing Feimo as she entered, Cain's proxy, a fourth-year student named Wren, who had been assigned to observe and who made no secret of the assignment, his notebook open, his pen poised.
+Seven people sat around the table. Feimo counted them the way she counted everything: silently, precisely, assigning each a position in the spatial grammar of the room. Mia at the far end, her back to the window, her projection's edge curling around the leg of her chair like light bending around an obstacle. Aya beside her, legs crossed, a pen twirling between her fingers. Ryna across from Aya, her posture straight, her expression unreadable. Noir at the center, the exam booklet open in front of her, a highlighter uncapped and waiting. Yue beside Noir, not looking at anyone, her gaze fixed on the middle distance in a way that could indicate meditation or dissociation. And at the near end, facing Feimo as she entered, Cain's proxy, a fourth-year student named Wren, who had been assigned to observe and who made no secret of the assignment, his notebook open, his pen poised.
 
 "You came," Mia said, and the flatness of her voice made it impossible to determine whether the statement was an observation, a welcome, or a criticism.
 
@@ -62,11 +62,11 @@ Mia read from the booklet: "*One study found that muscle loss and the accumulati
 
 "Good," Professor Silence said. "Now. Why does this matter beyond the exam?"
 
-Noah looked up from her highlighter. "Because the passage is about the relationship between the body and the mind. Physical maintenance and cognitive maintenance. The exam tests vocabulary, but the underlying claim is that you can't separate the two."
+Noir looked up from her highlighter. "Because the passage is about the relationship between the body and the mind. Physical maintenance and cognitive maintenance. The exam tests vocabulary, but the underlying claim is that you can't separate the two."
 
 "Expand."
 
-Noah shifted in her chair, the highlighter still uncapped in her hand. "The passage says researchers compared data from over 4,000 middle-to-older-aged men and women. They linked lean muscle and abdominal fat measurements to fluid intelligence changes over a six-year period. The finding was that people with higher abdominal fat scored worse on fluid intelligence tests as time went by."
+Noir shifted in her chair, the highlighter still uncapped in her hand. "The passage says researchers compared data from over 4,000 middle-to-older-aged men and women. They linked lean muscle and abdominal fat measurements to fluid intelligence changes over a six-year period. The finding was that people with higher abdominal fat scored worse on fluid intelligence tests as time went by."
 
 "Q10," Mia said. "Scored. *Middle-aged people with higher measures of abdominal fat scored worse on measures of fluid intelligence as the years went by.* The word 'scored' does the heavy lifting there. It converts a physiological measurement into a cognitive outcome. It's the bridge between the body and the exam."
 
@@ -114,7 +114,7 @@ Feimo read. The passage described a program started in 2007, in which Indonesia'
 
 The logic was unexpected. Rural poor were using the money as makeshift insurance against bad weather. Normally, if rains were delayed, they would clear forest to plant more rice. With the cash transfer, they could afford to wait. The program that was designed to reduce poverty had the side effect of preserving forests.
 
-"Ferraro says: *Even if this program didn't reduce poverty, the value of the avoided deforestation just for carbon dioxide emissions alone is more than the program costs,*" Noah read aloud.
+"Ferraro says: *Even if this program didn't reduce poverty, the value of the avoided deforestation just for carbon dioxide emissions alone is more than the program costs,*" Noir read aloud.
 
 "That sentence," Professor Silence said, "is the most important sentence in the passage. Not because of its content but because of its structure. Ferraro is making an economic argument. He is saying that the environmental benefit alone, measured in carbon, exceeds the financial cost of the program. The poverty reduction is a bonus. The forest is the primary return on investment."
 
@@ -160,7 +160,7 @@ Mia looked at her. "Explain."
 
 "A word written in the Labyrinth's walls is permanent. It doesn't decay. It doesn't revise itself. If you write something wrong, the wrongness persists. The Victorians feared the photograph because it captured a position they could not later edit. We should fear the written word for the same reason."
 
-Noah uncapped her highlighter and drew a line through something in her booklet. "That's not a fear. That's a discipline. The permanence of writing is what makes it trustworthy. If words could revise themselves, no one would believe them."
+Noir uncapped her highlighter and drew a line through something in her booklet. "That's not a fear. That's a discipline. The permanence of writing is what makes it trustworthy. If words could revise themselves, no one would believe them."
 
 "The Labyrinth's walls do revise themselves," Yue said.
 
@@ -168,7 +168,7 @@ Everyone turned. Yue had not spoken since Feimo sat down. Her voice was soft, th
 
 "The walls change," Yue continued, her gaze still fixed on the middle distance. "Not often. Not visibly. But the text shifts. I have seen it. Words that were in one position yesterday are in a different position today. The content is the same. The arrangement is not."
 
-Noah's highlighter hovered.
+Noir's highlighter hovered.
 
 "That's impossible," Wren said, speaking for the first time. His voice was thin, the voice of someone who had been told to observe and was discovering that observation was harder than silence. "The Labyrinth's text is fixed. That's the fundamental principle. The walls store. They don't edit."
 
@@ -258,7 +258,7 @@ The group study broke at ten-thirty.
 
 Wren left first, his notebook closed, his expression neutral. He had recorded everything and understood, Feimo suspected, very little. That was the nature of surveillance: it captured content and missed context. The camera sees the position of the body but not the thought behind the eyes.
 
-Aya and Ryna left together, speaking in low voices that Feimo could not overhear. Noah stayed, packing her highlighters into a pencil case with the methodical care of someone who treated stationery as a form of emotional regulation. Yue had already gone, slipping out during the professor's final remarks with the silent efficiency that characterized all her movements.
+Aya and Ryna left together, speaking in low voices that Feimo could not overhear. Noir stayed, packing her highlighters into a pencil case with the methodical care of someone who treated stationery as a form of emotional regulation. Yue had already gone, slipping out during the professor's final remarks with the silent efficiency that characterized all her movements.
 
 Feimo and Mia were the last to leave.
 
@@ -292,13 +292,13 @@ She had developed a pattern in the weeks since the War Room meeting: three hours
 
 At two-seventeen she heard a sound.
 
-It came from the adjacent room, Mia's room, separated from hers by a wall that was thin enough to transmit muffled speech but thick enough to blur the words into indistinctness. Feimo had heard Mia talk in her sleep before. Usually it was fragments, single words or short phrases in English, the linguistic equivalent of muscle twitches: involuntary, meaningless, part of the body's nightly process of discharge and repair.
+It came from the adjacent room, Mia's room, separated from hers by a wall that was thin enough to transmit muffled signal tones but thick enough to blur them into indistinctness. Feimo had heard Mia's projection enter low-power states before. Usually it was signal noise, single words or short phrases in English, the linguistic equivalent of data dumps: involuntary, meaningless, part of the system's nightly process of cache clearing and memory defragmentation.
 
 This time was different.
 
 The words were in Chinese.
 
-Feimo lay still and listened. The wall softened the sounds but did not erase them, and what reached her ears was a stream of syllables, flowing without pause, the rhythm unlike anything she had heard from Mia in waking life. Mia's spoken Chinese was careful, deliberate, each word selected and placed with the precision of someone who knew the language well but did not yet trust herself with it. This was different. This was fluent. This was the kind of speech that belongs to a person who is not thinking about language but simply using it, the way one breathes, the way one's heart beats, without intention or effort.
+Feimo lay still and listened. Her ears — mobile, tufted, far more sensitive than any human ear — oriented toward the wall, filtering the signal from the ambient noise of the building's ventilation. The wall softened the sounds but did not erase them, and what reached her was a stream of syllables, flowing without pause, the rhythm unlike anything she had heard from Mia in waking life. Mia's spoken Chinese was careful, deliberate, each word selected and placed with the precision of someone who knew the language well but did not yet trust herself with it. This was different. This was fluent. This was the kind of speech that belongs to a consciousness that is not processing language but simply emitting it, the way a signal broadcasts, the way a frequency resonates, without intention or effort.
 
 "她说，那扇门后面不是危险，" Mia said. *She said what's behind that door isn't danger.*
 
@@ -312,21 +312,21 @@ Another pause. Longer this time.
 
 Feimo sat up in bed. Her hands were shaking, though the room was warm.
 
-Mia's voice continued, softer now, the words blurring as the wall and the hour and the depth of sleep conspired to dissolve them into sound without meaning. Feimo sat and listened until the voice stopped, until the only sound was the hum of the building's ventilation and the distant, ever-present footstep of a patrol in the corridor below.
+Mia's signal continued, softer now, the words blurring as the wall and the hour and the depth of the dormant state conspired to dissolve them into sound without meaning. Feimo sat and listened until the voice stopped, until the only sound was the hum of the building's ventilation and the distant, ever-present footstep of a patrol in the corridor below.
 
 She did not go back to sleep.
 
-She sat on the edge of her bed and thought about what she had heard. The words had been Mia's, but the voice had not. Not Mia's waking voice, with its carefully calibrated sardonicism, its cat puns deployed as defensive architecture, its refusal to be caught caring about anything with more intensity than the situation strictly required. The sleeping voice was unguarded. It spoke in the language Mia was still learning, and it said things that Mia, awake, would never say: that the system was storing memories in her body, that those memories were growing, that behind a door that should not exist lay not danger but a history that had not yet found its form.
+She sat on the edge of her bed and thought about what she had heard. The words had been Mia's, but the voice had not. Not Mia's waking voice, with its carefully calibrated sardonicism, its refusal to be caught caring about anything with more intensity than the situation strictly required. The dormant voice was unguarded. It spoke in the language Mia was still learning, and it said things that Mia, in full conscious control, would never say: that the system was storing memories in her projection, that those memories were growing, that behind a door that should not exist lay not danger but a history that had not yet found its form.
 
 Stream of consciousness, Feimo thought. The knowledge card she had studied last week. William James's term for the nature of human awareness: not a sequence of discrete states but a continuous flow, a river of thought in which each sensation, memory, and association merged into the next without clear boundary. The modernists had seized on the concept. Joyce had spent seven years writing a single day in Dublin, tracking the interior monologue of Leopold Bloom through eighteen hours of perception, association, and half-formed thought. Woolf had expanded the moment, taking a single instant of awareness and unfolding it into pages of layered consciousness. Proust had dissolved the boundary between present sensation and past memory entirely, the taste of a madeleine triggering an involuntary flood of recollection that consumed three volumes.
 
-Mia in her sleep was doing what the modernists had tried to do awake: letting the unconscious speak in its own language, without the mediation of the rational mind, without the editing function that converts raw thought into social performance.
+Mia in her dormant state was doing what the modernists had tried to do awake: letting the stored data speak in its own language, without the mediation of the conscious processing layer, without the editing function that converts raw signal into social performance.
 
 And Feimo was doing what she always did: listening. Observing. Noting the position of each element in the system and trying to understand the pattern that connected them.
 
 She stood up, crossed to her desk, and opened her notebook. She wrote in Chinese, small characters that filled the page edge to edge:
 
-*She speaks Chinese when she sleeps. The language she is still learning is the language her unconscious has already mastered. The system is storing memories in her the way it stores text in the walls. She is becoming a palimpsest, a text written over a text, the surface language hiding the depth language beneath.*
+*She speaks Chinese in her dormant state. The language she is still learning is the language her system has already stored. The Labyrinth is writing memories into her the way it writes text into the walls. She is becoming a palimpsest, a signal written over a signal, the surface language hiding the depth language beneath.*
 
 *I should wake her. I should tell her what she said. I should ask what she remembers.*
 
@@ -352,6 +352,28 @@ She would listen.
 
 ---
 
+**Vocabulary Spotlight**
+
+- **Recovery** /rɪˈkʌvəri/ — The process of returning to a normal state after damage or disruption. The Academy's physical recovery after the Fragmenter invasion (new plaster, fresh paint) is visible and fast. The intellectual and emotional recovery — students processing the attack, recalibrating their relationship to the Labyrinth — is slower and less visible. The Professor's group study is an attempt to catalyse the second kind of recovery through collective analysis.
+
+- **Debrief** /diːˈbriːf/ — A structured conversation designed to extract lessons from an experience. Cain debriefs to extract intelligence; the Professor debriefs to extract understanding. The same event, the same data, but two fundamentally different purposes: one seeks control, the other seeks insight.
+
+- **Palimpsest** /ˈpælɪmpsɛst/ — A manuscript page that has been written on, scraped off, and written on again, with traces of the earlier text still visible beneath the later one. Feimo's notebook entry describes Mia as a palimpsest: a consciousness in which the Labyrinth is writing new layers of language over existing ones, the surface (English, conscious) hiding the depth (Chinese, stored) beneath.
+
+---
+
+**Knowledge Cards**
+
+**Card #064: Modernism**
+
+Modernism (c. 1900–1940) was a radical break from 19th-century literary conventions. Informed by Freud's psychology, Marx's economics, and Einstein's physics, modernist writers — Joyce, Woolf, Kafka, Eliot, Pound — rejected linear narrative, omniscient narration, and the assumption that language could transparently represent reality. Modernism still believes in depth: it finds meaning in fragments, in the gap between surface and substance, in the things a character thinks but does not say. Its central technique is the juxtaposition of disparate materials — quotations, languages, registers — in a structure that generates meaning through collision rather than argument. In the Academy, the Labyrinth's bilingual walls are a Modernist text: meaning produced not by any single language but by the interaction between them.
+
+**Card #065: Stream of Consciousness**
+
+William James coined the term in 1890 to describe the nature of human awareness: not a sequence of discrete states but a continuous flow, a river of thought in which each sensation, memory, and association merges into the next without clear boundary. The modernist novelists seized on this concept. Joyce spent seven years writing a single day in Dublin (*Ulysses*, 1922), tracking Leopold Bloom's interior monologue through eighteen hours of perception, association, and half-formed thought. Woolf expanded the moment (*Mrs Dalloway*, 1925), unfolding a single instant of awareness into pages of layered consciousness. Proust dissolved the boundary between present sensation and past memory entirely (*In Search of Lost Time*, 1913–1927), the taste of a madeleine triggering an involuntary flood of recollection that consumed three volumes. Stream of consciousness is not just a technique; it is a claim about the nature of mind — that the truest self is the one that emerges when the editing function is suspended, when the conscious filter is removed, when the raw data of experience flows unmediated into language.
+
+---
+
 *Questions for Reflection:*
 
 1. The cloze passage on fluid intelligence argues that cognitive decline is not inevitable, that lifestyle factors can "prevent or delay" the process. How does this argument about the relationship between the body and the mind apply to the Academy as an institution? Can an institution's "fluid intelligence" be maintained, or does every system eventually accumulate its own form of abdominal fat?
@@ -362,4 +384,4 @@ She would listen.
 
 4. The translation passage describes a period of rapid growth in which "new staff define the norms of academic life" and old processes of admission "weaken." Is the Academy in such a period? If so, who are the "new staff," and what norms are they defining?
 
-5. Mia speaks Chinese in her sleep, a language she is still consciously learning. What does this suggest about the relationship between conscious and unconscious knowledge? Is there a form of understanding that bypasses deliberate study, and if so, what does it mean for the way we think about learning?
+5. Mia speaks Chinese in her dormant state, a language she is still consciously learning. What does this suggest about the relationship between conscious and stored knowledge? Is there a form of understanding that bypasses deliberate study, and if so, what does it mean for the way we think about learning?
