@@ -42,7 +42,7 @@ She reached up and touched her head. The ear flicked under her fingers. It was w
 
 The voice came from nowhere and everywhere, crisp and sharp as a paper cut. A column of pale blue light coalesced three feet to Feimo's left, swirled like frost forming on glass, solidified into a floating sphere, and then unfolded into the translucent projection of a young woman.
 
-She was beautiful in the way that a precisely engineered equation is beautiful: every line deliberate, every proportion exact. Dark hair cut to an immaculate bob that did not move, because holographic hair apparently did not need to obey physics. Eyes like polished obsidian, currently narrowed in what appeared to be professional-grade contempt. She wore a variant of the Academy uniform Feimo had never seen before, crisp and unwrinkled, with silver circuit-like patterns running along the cuffs. She hovered six inches above the floor with her arms crossed.
+She was beautiful in the way that a precisely engineered equation is beautiful: every line deliberate, every proportion exact. Dark hair cut to an immaculate bob that did not move, because holographic hair apparently did not need to obey physics. Eyes like polished obsidian, currently narrowed in what appeared to be professional-grade contempt. She wore a variant of the Academy uniform Feimo had never seen before, crisp and unwrinkled, with silver circuit-like patterns running along the cuffs. She hovered six inches above the floor with arms folded.
 
 The holographic girl looked Feimo up and down. Her gaze lingered on the ears, the tail, the coffee-stained textbook, and the small patch of drool still drying on Feimo's cheek.
 
@@ -108,9 +108,9 @@ The light shifted. A new voice, different timbre, warmer:
 
 *"The American scholar M.H. Abrams, in* The Mirror and the Lamp, *proposed that all literary activity involves four elements: the universe that literature describes, the work that is produced, the artist who creates it, and the audience that receives it. These four elements form a relational map. Any literary theory can be positioned on this map by identifying which element it privileges. Mimetic theories center the universe. Expressive theories center the artist. Objective theories center the work. Pragmatic theories center the audience. The four-element framework is the fundamental coordinate system of literary thought."*
 
-The amber light pulsed, and Feimo felt something shift inside her, a recognition, as if a door she had always walked past without noticing had suddenly opened. The four elements: world, work, artist, audience. A map. Every theory she had ever half-understood in her survey courses suddenly had a place to live.
+The amber light throbbed, and Feimo felt something shift inside her, a recognition, as if a door she had always walked past without noticing had suddenly opened. The four elements: world, work, artist, audience. A map. Every theory she had ever half-understood in her survey courses suddenly had a place to live.
 
-The light faded. Feimo found herself standing in the warm amber glow of a new corridor. The Bridge House banner hung above her, its crest shimmering. On her left lapel, a small badge had appeared: an arch bridge spanning a chasm, Glyphs flowing across it in miniature, warm to the touch.
+The light faded. Feimo found herself standing in the warm amber glow of a new corridor. The Bridge banner hung above her, its crest shimmering. On her left lapel, a small badge had appeared: an arch bridge spanning a chasm, Glyphs flowing across it in miniature, warm to the touch.
 
 "Bridge House," Mia said from behind her. There was something in her voice, a note that had not been there before. Not quite respect. More like recalibration, the sound of an equation being rebalanced. "The Labyrinth thinks you understand how words cross gaps. How meaning survives translation."
 
@@ -148,7 +148,7 @@ She reached out and touched option A. The Glyph for "affect" flared gold in her 
 
 *"Instead, the studies ended ___ giving their name to the 'Hawthorne effect,' the extremely influential idea that the very ___ of being experimented upon changed subjects' behavior."*
 
-More blanks appeared. Eighteen more, each one a fracture in the corridor's structure, each one a small crisis demanding resolution. Feimo moved through them steadily, her cat-eyes reading the dim text faster than any human eye could, her ears catching the sub-audible frequencies of the Glyphs as they pulsed in the walls.
+More blanks appeared. Eighteen more, each one a fracture in the corridor's structure, each one a small crisis demanding resolution. Feimo moved through them steadily, her cat-eyes reading the dim text faster than any human eye could, her ears catching the sub-audible frequencies of the Glyphs as they beat in the walls.
 
 **ended ___ giving their name**: "up." End up doing something. The studies did not plan to become famous. They did not set out to name a phenomenon. They just did. Sometimes the most important results are the ones nobody expected.
 
@@ -172,7 +172,7 @@ The corridor buckled. Feimo turned back to her corridor. The remaining blanks ho
 
 **___ the descriptions on record, no systematic ___ was found that levels of productivity were related to changes in lighting**: "Contrary to." "evidence." Contrary to what everyone believed, the evidence did not support the original conclusions. The descriptions on record said one thing; the reanalysis said another. The gap between narrative and data, between what we believe happened and what the numbers show, was a canyon.
 
-The corridor groaned. Feimo was sweating now, her ears flat against her skull, her tail wrapped tight around her leg. A chunk of ceiling cracked and fell, shattering on the floor into a shower of dimming letters.
+The stone groaned. Feimo was sweating now, her ears flat against her skull, her tail wrapped tight around her leg. A chunk of ceiling cracked and fell, shattering on the floor into a shower of dimming letters.
 
 **lighting was always changed on a Sunday**: The passage was providing context now, explaining why the original interpretation was misleading. The peculiar timing of the experiments, always shifting conditions on a rest day, had created a confounding variable no one had noticed for decades.
 
@@ -296,7 +296,7 @@ Then: "The Academy cannot afford to lose a student on orientation day. It's stan
 
 Feimo smiled into the couch cushion. Her tail curled around her ankle, warm and surprisingly comfortable, and the Bridge House badge on her lapel pulsed softly, keeping time with the hum of the walls.
 
-As her consciousness began to dissolve, pulling back toward the real world and the cold desk in Study Room 4B, she heard it one more time. Faint. Rhythmic. Rising from somewhere deep beneath the Bridge House dormitory, from beneath the entire Academy, from the dark and unmaintained corridors of the Deep Archive where the Labyrinth's oldest text lay eroding in silence.
+As her consciousness began to dissolve, pulling back toward the real world and the cold desk in Study Room 4B, she heard it one more time. Faint. Rhythmic. Rising from somewhere deep beneath the Bridge dormitory, from beneath the entire Academy, from the dark and unmaintained corridors of the Deep Archive where the Labyrinth's oldest text lay eroding in silence.
 
 *Tap. Tap. Tap.*
 
@@ -307,3 +307,4 @@ Feimo opened her eyes. Study Room 4B. Fluorescent lights. Cold boba tea. Her tex
 On her left lapel, invisible to everyone but her, a small badge glowed amber in the shape of an arch bridge.
 
 And from somewhere far away, so far that she might have imagined it, the knocking continued.
+ntinued.

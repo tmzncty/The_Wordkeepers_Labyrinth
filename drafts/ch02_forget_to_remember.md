@@ -204,7 +204,7 @@ Stars. Thousands of them, tens of thousands, scattered across a dome of absolute
 
 "And when a Pilgrim fails?"
 
-Mia did not answer immediately. She drifted to the center of the roof and hovered there, her translucent form catching the starlight, and for a moment she looked less like a hologram and more like a constellation herself, a pattern of light that someone had given a name and a purpose and then asked to keep watch over a sky full of other people's stories.
+Mia did not answer immediately. She drifted to the center of the roof and hovered there, her translucent form catching the starlight, and for an instant she looked less like a hologram and more like a constellation herself, a pattern of light that someone had given a name and a purpose and then asked to keep watch over a sky full of other people's stories.
 
 "When a Pilgrim fails," Mia said, "their star goes dark."
 

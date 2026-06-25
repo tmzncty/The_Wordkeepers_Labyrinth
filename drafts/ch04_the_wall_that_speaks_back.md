@@ -202,7 +202,7 @@ Feimo fell into step beside her. They walked through the Academy's central corri
 
 "The passage I translated. It mentioned that literature has been debated as a social ideology versus an aesthetic ideology. Is that debate real? Here in the Labyrinth?"
 
-Mia's flicker-rate increased slightly, a tell that Feimo had learned to read over the past few days as a sign that the AI was accessing data and deciding how much to share.
+Mia's flicker-rate increased somewhat, a tell that Feimo had learned to read over the past few days as a sign that the AI was accessing data and deciding how much to share.
 
 "The debate is the most real thing in the Labyrinth," Mia said. "The Labyrinth itself is built from every word ever written, read, spoken, or thought. Some of those words were written as pure social function: laws, contracts, bills of sale, government reports, accounting standards. They serve an economic purpose. They exist to record, to regulate, to enforce. They are the infrastructure of society. Other words were written as pure aesthetic experience: poetry, fiction, song, prayer. They serve no economic purpose. They exist to be felt, to be heard, to change the way the reader perceives the world."
 
@@ -305,3 +305,5 @@ She straightened her blazer, touched her Bridge badge for luck, and went to find
 She had crossed over once. The wall had bowed once. And somewhere in the deep layers of Room 12-B, an ancient text was still pressing its heartbeat against the stone, waiting for someone to keep it alive.
 
 She was going to be that someone.
+e.
+t someone.

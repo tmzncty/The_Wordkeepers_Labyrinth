@@ -44,7 +44,7 @@ He walked past her, close enough that she could smell something sharp and metall
 
 She had stood in the tunnel for a long time after he left, her ears rotating slowly, tracking the diminishing echo of his footsteps. He was not wrong. That was the worst part. He was not wrong, and she did not trust him, and both of those things were true at the same time.
 
-There was the evening Aya appeared at the study session without being invited, sat in the back row, and scored perfectly on the practice passage about scientific credibility. The passage described the process by which discovery claims became accepted: the collective scrutiny, the gatekeepers, the slow transformation of one researcher's "me, here, now" into the community's "anyone, anywhere, anytime." Aya had annotated the text with surgical precision, marking every logical connector, every transition, every moment where the author shifted from describing to arguing. Her margins were a masterclass in structural analysis.
+Such was the evening Aya appeared at the study session without being invited, sat in the back row, and scored perfectly on the practice passage about scientific credibility. The passage described the process by which discovery claims became accepted: the collective scrutiny, the gatekeepers, the slow transformation of one researcher's "me, here, now" into the community's "anyone, anywhere, anytime." Aya had annotated the text with surgical precision, marking every logical connector, every transition, every moment where the author shifted from describing to arguing. Her margins were a masterclass in structural analysis.
 
 Mia had looked at Aya's annotations and said nothing for three full seconds, which was the AI equivalent of a standing ovation.
 
@@ -287,3 +287,4 @@ And somewhere in the dormitory, on the other side of a wall, Yue turned a page i
 The year of trying was over.
 
 The year of everything else was about to begin.
+bout to begin.

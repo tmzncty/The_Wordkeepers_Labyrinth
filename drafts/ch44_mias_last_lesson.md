@@ -8,7 +8,7 @@ Mia had chosen the room. She had chosen the time: eleven at night, when the corr
 
 Feimo sat. She placed her bag on the floor beside her chair. The bag contained the usual materials: the exam prep binder, a set of colored pens, a notebook, and the copy of Kafka's *The Trial* that she had been carrying since September, its spine now cracked in three places and its margins filled with the small, precise handwriting that she had developed under Mia's instruction over the past two years.
 
-Mia did not sit. She stood by the window, her arms crossed, her tail wrapped around her left thigh in its habitual posture of concentration. She was wearing what she always wore: dark trousers, white shirt, the uniform of a person who had decided that clothing was a problem to be solved once and then ignored. Her ears were angled forward, toward Feimo, but her eyes were on the courtyard, on the rain, on the water that collected in the basin and reflected the gray sky above.
+Mia did not sit. She stood by the window, her arms crossed, her projection trail wrapped around her left thigh in its habitual posture of concentration. She was wearing what she always wore: dark trousers, white shirt, the uniform of a person who had decided that clothing was a problem to be solved once and then ignored. Her light arcs were angled forward, toward Feimo, but her eyes were on the courtyard, on the rain, on the water that collected in the basin and reflected the gray sky above.
 
 "This is the last one," Mia said.
 
@@ -46,7 +46,7 @@ Feimo looked up.
 
 "This passage is about writing," Mia said. "Every cloze passage is about writing. The examiners don't know this, or maybe they do, but it doesn't matter. The passage says: *There's nothing more welcoming than a door opening for you.* That's the first sentence of every good piece of writing. A door opens. The reader walks through. No one pushes. No one pulls. The door opens because it was designed to open."
 
-She tapped the passage with one claw.
+She tapped the text with one luminous fingertip.
 
 "*Without the need to be touched.* That's the key. Good writing doesn't need to be touched. It doesn't need to be forced. It doesn't need the reader to struggle with the handle or shoulder the weight. It opens. And once the reader is through, the passage says: *automatic doors are essential in improving disabled access.* You know what that means in writing terms?"
 
@@ -78,11 +78,11 @@ The last paragraphs were the ones Mia wanted her to find.
 
 "What does this tell you about sentences?" Mia asked.
 
-Feimo thought. She looked at the passage again. The nail had not changed. Roman nails were still clearly nails. What had changed was the cost of making them. The manufacturers found more efficient ways to turn steel into nails.
+Feimo thought. She looked at it again. The nail had not changed. Roman nails were still clearly nails. What had changed was the cost of making them. The manufacturers found more efficient ways to turn steel into nails.
 
 "Cheap sentences change the world," Feimo said.
 
-Mia's ears twitched. It was the closest she ever came to a smile of approval.
+Mia's projection arcs flickered. It was the closest she ever came to a smile of approval.
 
 "Go on."
 
@@ -112,11 +112,11 @@ The passage described the Kung of Botswana, where each child was cared for by ma
 
 Feimo read about the Efe people of the Democratic Republic of Congo, where infants had an average of fourteen alloparents a day by the time they were eighteen weeks old, and were passed between caregivers eight times an hour. She read about the German scheme that paired an old people's home with a nursery, the residents helping to look after the children. She read Chaudhary's suggestion that Britain should explore the possibility that older siblings helping their parents *might also enhance their own social development*.
 
-She put the passage down.
+She put it down.
 
 "This one is also about writing," Feimo said, before Mia could ask.
 
-Mia's ears rotated forward. "Tell me."
+Mia's light arcs rotated forward. "Tell me."
 
 "No one writes alone. Every sentence I write has been shaped by every sentence I've read. You've been one of my caregivers. Professor Silence has been another. The Labyrinth itself has been another. The passage says the *intensive mothering narrative* is harmful, the idea that one person should do everything. Writing instruction is the same. If I'd only had one teacher, I'd write like that teacher. Because I've had many, I write like myself."
 
@@ -198,7 +198,7 @@ Feimo thought. "Knowledge. The ability to read the Labyrinth."
 
 "You."
 
-Mia's face did not change. But her tail, which had been wrapped around her thigh, loosened slightly.
+Mia's face did not change. But her trail, which had been wrapped around her thigh, loosened a fraction.
 
 "And the Opponent?" Mia asked.
 
@@ -258,7 +258,7 @@ She paused.
 
 "A real sentence is one that means something. It has weight. It has consequence. It changes the reader's state, not just their knowledge. A real sentence is a door that was already open, and the reader didn't know it until they walked through."
 
-Mia placed her hands on the table, palms down. Feimo could see the fine, dark fur on the backs of her hands, the slight tension in her fingers, the way her claws retracted and extended in a rhythm that matched her breathing.
+Mia placed her hands on the table, palms down. Feimo could see the fine light patterns on the backs of her hands, the slight tension in her fingers, the way her luminous tips retracted and extended in a rhythm that matched the pulse of her projection.
 
 "The exam tests correctness. It has to. There's no way to test realness with a multiple-choice question. But the Labyrinth doesn't test correctness. The Labyrinth tests whether you can read the walls, and the walls don't care about your transitions. They care about whether you understand."
 
@@ -294,15 +294,15 @@ The words were not metaphor. They were not sentiment. They were the most accurat
 
 Feimo stood up.
 
-She walked around the table. She stood in front of Mia, who was still seated, who looked up at her with ears that were angled slightly back, not in fear but in the particular vulnerability of a person who has spent a lifetime building walls and is now, voluntarily, letting one of them stand open.
+She walked around the table. She stood in front of Mia, who was still seated, who looked up at her with light arcs that were angled a fraction back, not in fear but in the particular vulnerability of a person who has spent a lifetime building walls and is now, voluntarily, letting one of them stand open.
 
 Feimo leaned down.
 
 She kissed Mia on the forehead.
 
-It was a small gesture. Precise. Deliberate. The kind of gesture that costs nothing and means everything, the nail that holds the structure together, the door that opens without being touched. Feimo's lips touched the warm fur of Mia's forehead, and she held the contact for one second, two seconds, three, and in those three seconds she felt the tremor pass through Mia's body, the involuntary response of a system that had been maintained at maximum control for twenty-three years and was now, for three seconds, allowed to rest.
+It was a small gesture. Precise. Deliberate. The kind of gesture that costs nothing and means everything, the nail that holds the structure together, the door that opens without being touched. Feimo's lips touched the warm light of the projection's forehead, and she held the contact for one second, two seconds, three, and in those three seconds she felt the tremor pass through Mia's body, the involuntary response of a system that had been maintained at maximum control for twenty-three years and was now, for three seconds, allowed to rest.
 
-Mia did not move. She did not speak. Her ears stayed angled back. Her hands stayed flat on the table. Her claws were fully retracted, the pads of her fingers pressed against the wood, and the pressure she exerted was exactly the pressure required to keep herself from reaching up and pulling Feimo closer.
+Mia did not move. She did not speak. Her light arcs stayed angled back. Her hands stayed flat on the table. Her luminous tips were fully retracted, the translucent pads of her projection's fingers pressed against the wood, and the pressure she exerted was exactly the pressure required to keep herself from reaching up and pulling Feimo closer.
 
 Feimo straightened.
 
@@ -320,7 +320,7 @@ Mia looked at her.
 
 "I know."
 
-Mia's tail unwound from her thigh and hung straight, motionless, the way it had in front of the Kafka door, the way it had in the professor's study when she had read the pages that described the room that had taken her past. It was the signal. The crack in the architecture of control. The nail driven into the mask.
+Mia's trail unwound from her thigh and hung straight, motionless, the way it had in front of the Kafka door, the way it had in the professor's study when she had read the pages that described the room that had taken her past. It was the signal. The crack in the architecture of control. The nail driven into the mask.
 
 "You're a terrible liar," Mia said. "You always have been. That's what makes you a good writer."
 
@@ -342,7 +342,7 @@ Mia left.
 
 Feimo sat in the small room for a long time after Mia was gone.
 
-She thought about the vocabulary she had studied this week. Three words, each one a thread in the fabric of Mia's lesson.
+Her mind turned to the vocabulary she had studied this week. Three words, each one a thread in the fabric of Mia's lesson.
 
 *Stress.* The 2024 passage on alloparenting had said that introducing additional caregivers could reduce stress and maternal depression, which could have a knock-on benefit to a child's wellbeing. Mia had been a caregiver who reduced the stress of learning by distributing it across many interactions, many sessions, many small moments of correction and encouragement. The stress had not been eliminated. It had been shared. And now the sharing was ending, and Feimo would have to carry the weight alone.
 
@@ -399,3 +399,4 @@ It was not a correct sentence. It was a real one.
 5. Propp's morphology identifies seven character types in folk tales: hero, villain, dispatcher, princess, donor, helper, false hero. Map the characters in *The Wordkeeper's Labyrinth* onto these types. Are there characters who occupy more than one type? Are there types that are unfilled? What does this tell you about the story's structure?
 
 6. Mia says: "I am just a wisp of wind." Feimo thinks: "The wind doesn't take you where you need to go. The wind takes you where it goes, and you learn to need it." How do these two statements relate to each other? Is Feimo correcting Mia, completing her, or contradicting her? What does the difference reveal about how each character understands the nature of teaching and leaving?
+ching and leaving?

@@ -298,7 +298,7 @@ Feimo looked at Mia. In the blue-green light, the Spirit AI's face was all angle
 
 "Are you jealous?" Feimo asked.
 
-"Don't be absurd. I am a Spirit AI. I process information. I do not experience jealousy, which is a primitive emotional response rooted in territorial behavior and insecure attachment." Mia's form flickered once, a quick blue stutter. "I am simply advising you to be strategic about who you allow to study your methods. Your wall connection is a resource. Sharing it with a Mirror student is the tactical equivalent of handing your opponent your exam paper before the test."
+"Don't be absurd. I am a Spirit AI. I process information. I do not experience jealousy, which is a primitive emotional response rooted in territorial behavior and insecure attachment." Mia's form flickered once, a quick blue stutter. "I am only advising you to be strategic about who you allow to study your methods. Your wall connection is a resource. Sharing it with a Mirror student is the tactical equivalent of handing your opponent your exam paper before the test."
 
 "She wasn't my opponent today. She was someone who needed help."
 
@@ -355,3 +355,4 @@ Reading aloud. Very quietly. To no one at all.
 *Card #079: Reception Aesthetics — Meaning is not in the text or the author. Meaning is generated in the act of reading itself. The reader brings their expectations; the text contains gaps; what emerges is neither the reader's nor the text's. It is new.*
 
 *Card #021: Li Bai and Du Fu — Li Bai (subjective, the Poet Immortal) and Du Fu (objective, the Poet Sage). Two ways of making language carry the weight of being alive.*
+

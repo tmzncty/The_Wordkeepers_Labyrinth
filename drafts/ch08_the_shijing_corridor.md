@@ -222,7 +222,7 @@ Mia said nothing for a long moment.
 
 "It is not wrong. It is also not safe. The difference between those two things is the reason we are not telling anyone about this corridor." Mia's projection was fading, the edges dissolving into the dormitory hallway's fluorescent light. "Go to bed, Feimo. Sleep. And do not dream about that door."
 
-Feimo opened her door. Her room was small, plain, exactly as she had left it: narrow bed, desk covered in exam prep materials, a shelf of texts she had not yet read. The walls were bare. No paintings. No poems. No amber light. Just the institutional white of a student's room in a building that had been designed to be forgotten.
+Feimo opened her door. Her room was small, plain, precisely as she had left it: narrow bed, desk covered in exam prep materials, a shelf of texts she had not yet read. The walls were bare. No paintings. No poems. No amber light. Just the institutional white of a student's room in a building that had been designed to be forgotten.
 
 She lay down. She closed her eyes. Her tail curled around her ankles, a habit of comfort that she had never been able to break.
 
@@ -261,3 +261,4 @@ And far below the dream, below the building, below the Labyrinth, below the civi
 *Vocabulary: civilization /ˌsɪv.ə.lɑːˈzeɪ.ʃən/ — A complex human society with shared cultural, technological, and institutional structures. In the context of the Shijing Corridor: civilization as the decision to trust that a feeling, once spoken, can survive the silence that follows.*
 
 *Vocabulary: nail /neɪl/ — (1) A small metal spike for fastening. (2) To nail: to fix firmly in place. In the context of Feimo's experience: the knowledge she felt was "nailed" into her body, fixed in physical memory beyond the reach of forgetting.*
+*

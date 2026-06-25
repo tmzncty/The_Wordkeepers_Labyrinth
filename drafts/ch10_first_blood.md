@@ -306,7 +306,7 @@ The word "hugged" hung in the air between them, unexpected and imprecise, the ki
 
 Mia's form flickered. The circuit patterns on her cuffs pulsed once, a quick bright flare that she suppressed almost instantly. Her face did something that involved no fewer than nine micro-movements, each one cancelled by the next, a war between contempt and tenderness and professional distance and something older and deeper that Feimo could not name but could feel, warm and sharp, like the moment a word clicks into meaning.
 
-"The Labyrinth," Mia said, her voice exactly one half-step above its lowest register, "does not *hug*. It resonates. There is a difference."
+"The Labyrinth," Mia said, her voice precisely one half-step above its lowest register, "does not *hug*. It resonates. There is a difference."
 
 "There isn't."
 

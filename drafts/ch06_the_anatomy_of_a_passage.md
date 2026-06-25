@@ -14,7 +14,7 @@ Feimo sat in the middle row, her tail draped over the back of her chair, her ear
 
 "Most of you," Mia continued, "read the way you eat: fast, thoughtlessly, and without any awareness of what you're actually consuming. You look at words. You register their surface meaning. You move on. This is not reading. This is skimming with extra steps." She paused. "Today I will teach you the Three-Layer Reading Method. It will change how you process every text you encounter in the Labyrinth. It will also, not incidentally, determine whether you survive your next corridor challenge."
 
-She projected a passage onto the hall's front wall. The text materialized in clean, sharp Glyph-light, each word pulsing faintly as it appeared:
+She projected a passage onto the hall's front wall. Feimo recognized it at once—the Aristotle laughter cloze, the same one she had already dissected in her earlier study sessions. The familiarity was almost disorienting, like seeing a familiar face in a dream. The text materialized in clean, sharp Glyph-light, each word pulsing faintly as it appeared:
 
 *"Ancient Greek philosopher Aristotle viewed laughter as 'a bodily exercise precious to health.' But despite some claims to the contrary, laughing probably has little influence on physical fitness."*
 
@@ -176,7 +176,7 @@ Feimo looked up. Hundreds of stars. Maybe thousands. Most were bright, scattered
 
 There were more dark stars than bright ones.
 
-The knowledge settled into her slowly, the way cold settles into bones. Each dark star was a student. Someone who had entered the Labyrinth with a star of their own, who had walked its corridors and studied its words and carried its Glyphs, and then had stopped. Failed. Left. Or worse.
+The knowledge settled into her by degrees, the way cold settles into bones. Each dark star was a student. Someone who had entered the Labyrinth with a star of their own, who had walked its corridors and studied its words and carried its Glyphs, and then had stopped. Failed. Left. Or worse.
 
 Feimo's hand rose without her permission. She reached toward the cluster of dark stars nearest to her, a dense knot of extinguished light near the dome's center, as if whatever had happened to them had happened together, in the same era, in the same wave of loss.
 
@@ -194,7 +194,7 @@ Mia's voice came from the doorway. She was hovering there, her form dimmer than 
 
 "What just happened?" Feimo asked.
 
-"I don't know." Three words that, from Mia, were an admission of something vast and terrifying. She floated into the room slowly, each inch a negotiation with whatever she was feeling. "Pilgrims don't relight dead stars. It has never been recorded."
+"I don't know." Three words that, from Mia, were an admission of something vast and terrifying. She floated into the room with deliberation, each inch a negotiation with whatever she was feeling. "Pilgrims don't relight dead stars. It has never been recorded."
 
 "Maybe the recording is wrong."
 
@@ -212,7 +212,7 @@ Mia did not elaborate. She did not need to. The way her gaze lingered on those d
 
 Feimo thought about what she had learned in class that day. Layer One: the surface. Mia had a student before. Layer Two: the structure. The student was talented. The student failed. The star went dark. Layer Three: the subtext. The subtext was that Mia was afraid. Afraid of watching another star go dark. Afraid of caring about someone whose light she could not keep burning.
 
-She thought about the knowledge cards Mia had referenced during the lesson, projected briefly on the wall as supplementary material. Card 008: Typicality. The idea that a character could be both individual and universal, that one person's story could contain the pattern of everyone's story. Each dark star in the dome was typical: a specific Pilgrim's specific failure, and also the universal fear that every student carried, the question they did not ask aloud: *What if my star goes out too?*
+It struck her that the knowledge cards Mia had referenced during the lesson, projected briefly on the wall as supplementary material. Card 008: Typicality. The idea that a character could be both individual and universal, that one person's story could contain the pattern of everyone's story. Each dark star in the dome was typical: a specific Pilgrim's specific failure, and also the universal fear that every student carried, the question they did not ask aloud: *What if my star goes out too?*
 
 Card 009: Image and Symbol. An image was a concrete thing: a star, a hand, a touch. A symbol was what it meant: hope, fragility, the desperate wish to keep something alive against the certainty of darkness. The star chart was both. Every star was an image, a specific point of light belonging to a specific person. And the chart as a whole was a symbol of the Labyrinth's relationship with mortality: words could be preserved forever, but the people who read them could not.
 
@@ -256,7 +256,7 @@ They left the observatory together, the door closing on a dome full of stars, so
 
 ---
 
-The Bridge House dormitory was quiet. Most students were asleep, their consciousness returned to their real-world bodies for the night. The common room's multilingual walls moved slowly, sentences drifting in a dozen languages, the Labyrinth's constant murmur reduced to a whisper.
+The Bridge House dormitory was quiet. Most students were asleep, their consciousness returned to their real-world bodies for the night. The common room's multilingual walls moved unhurriedly, sentences drifting in a dozen languages, the Labyrinth's constant murmur reduced to a whisper.
 
 Yue was sitting on the window ledge.
 
@@ -296,11 +296,11 @@ She said nothing. But her hands, translucent and precise, curled slowly into fis
 
 Feimo lay on her dormitory bed and stared at the ceiling. The text drifting overhead was in a language she did not recognize tonight, sentences flowing in slow, unfamiliar script, the Labyrinth cycling through its vast archive of human expression. Her own Glyphs pulsed faintly in her awareness: "affect," "matter," "continued," and the newer ones she had collected in the underground arena, each one a small bright point in the dark behind her eyelids.
 
-She thought about the three layers. Surface: a student who could not dream. Structure: the dreams stopping, then the text fading, a sequence, cause and effect or coincidence. Subtext: the subtext was that something in the Labyrinth was dying, quietly, in a way that nobody was talking about, and the people closest to it were the ones least able to ask for help.
+She considered the three layers. Surface: a student who could not dream. Structure: the dreams stopping, then the text fading, a sequence, cause and effect or coincidence. Subtext: the subtext was that something in the Labyrinth was dying, quietly, in a way that nobody was talking about, and the people closest to it were the ones least able to ask for help.
 
-She thought about Mia's student. The talented one. The one whose star went dark. She thought about what it meant to be a digital consciousness that could not sleep, could not dream, could not forget, and had to carry the memory of every student it had lost across every era it had served.
+Her mind drifted to Mia's student. The talented one. The one whose star went dark. She thought about what it meant to be a digital consciousness that could not sleep, could not dream, could not forget, and had to carry the memory of every student it had lost across every era it had served.
 
-She thought about the stars she had relit. Six of them, amber and faint, pulsing in a dome she was not supposed to have entered. Six echoes of six people who had walked these corridors before her. Their residual Glyphs were faint impressions in her awareness now, not words but feelings: determination, exhaustion, wonder, fear, and something she could only describe as the stubborn refusal to stop reading, even when the text was fading, even when the dreams were gone, even when the stars went dark.
+The realization came—the stars she had relit. Six of them, amber and faint, pulsing in a dome she was not supposed to have entered. Six echoes of six people who had walked these corridors before her. Their residual Glyphs were faint impressions in her awareness now, not words but feelings: determination, exhaustion, wonder, fear, and something she could only describe as the stubborn refusal to stop reading, even when the text was fading, even when the dreams were gone, even when the stars went dark.
 
 The hum of the Labyrinth felt different tonight. Heavier. Not threatening, but burdened, the way a voice is burdened when it is trying to tell you something important and cannot find the words.
 

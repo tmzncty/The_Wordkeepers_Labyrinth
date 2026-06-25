@@ -288,7 +288,7 @@ Back in the Bridge House dormitory, Yue was awake.
 
 This was unusual. Yue slept more than anyone Feimo had ever met, a deep, bottomless sleep that seemed less like rest and more like a retreat into some inner space that waking life could not reach. But tonight she sat on the window ledge with her blank-paged book open on her knees and the moonlight touching her face in a way that made her look like an illustration from a text that had not been written yet.
 
-"You fought tonight," Yue said. It was not a question either. Yue had her own ways of knowing things, methods that did not involve the Labyrinth network or Resonance signatures or any of the standard detection mechanisms. She simply knew, the way some texts simply meant, without needing to be decoded.
+"You fought tonight," Yue said. It was not a question either. Yue had her own ways of knowing things, methods that did not involve the Labyrinth network or Resonance signatures or any of the standard detection mechanisms. She just knew, the way some texts plainly meant, without needing to be decoded.
 
 "I did," Feimo said, sitting on her bed. "I won two. Lost one."
 

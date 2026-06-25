@@ -390,7 +390,7 @@ Mia did not respond for twelve steps. Then: "I am required to advise you against
 
 Feimo wrapped her tail around her ankle. "It's a reflex."
 
-They reached the Bridge House common room. The couch Feimo had abandoned hours ago was still warm, her textbook still open, her cold boba tea still sitting on the side table. Everything exactly as she had left it. But Feimo was not the same. She carried four Glyphs now instead of six, but each one was sharper, clearer, more deeply understood. She carried the memory of a battle she had lost but a lesson she had won. She carried Noir's words, *you fight like a poet*, and Mia's grudging data point, and the sound of the knocking rising from the Deep Archive, patient and relentless and waiting.
+They reached the Bridge common room. The couch Feimo had abandoned hours ago was still warm, her textbook still open, her cold boba tea still sitting on the side table. Everything exactly as she had left it. But Feimo was not the same. She carried four Glyphs now instead of six, but each one was sharper, clearer, more deeply understood. She carried the memory of a battle she had lost but a lesson she had won. She carried Noir's words, *you fight like a poet*, and Mia's grudging data point, and the sound of the knocking rising from the Deep Archive, patient and relentless and waiting.
 
 She sat on the couch and opened her textbook to a different chapter. The heading read "Connotation, Denotation, and Contextual Meaning."
 
@@ -411,3 +411,4 @@ Someone was still down there. And Feimo was beginning to think they were not kno
 She closed her eyes and let the Labyrinth's hum carry her toward sleep. Tomorrow she would return to the arena. Tomorrow she would learn to fight more efficiently, to deploy her Glyphs with the precision of a Bridge student and the instinct of a cat.
 
 But tonight she was a girl on a couch, with a tail curled around her ankle and four words burning bright in the dark behind her eyelids, and the sound of knocking rising from the deep places of the world, patient and endless and full of meaning she had only just begun to grasp.
+ grasp.

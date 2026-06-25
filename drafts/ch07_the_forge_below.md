@@ -198,7 +198,7 @@ Mia extracted the lattice fragment. It came out as a sliver of blue-white light,
 
 "I wasn't planning on—"
 
-"You were planning exactly that. I could see it in the way your ears kept tracking toward the platform." Mia stood up. Or rather, her holographic form rose, the kneel dissolving into her usual hovering posture. "For the record, I disapprove of this entire enterprise. The underground arena is unregulated, dangerous, and staffed by students who think that losing Glyphs builds character. It does not. It builds idiocy."
+"You were planning precisely that. I could see it in the way your ears kept tracking toward the platform." Mia stood up. Or rather, her holographic form rose, the kneel dissolving into her usual hovering posture. "For the record, I disapprove of this entire enterprise. The underground arena is unregulated, dangerous, and staffed by students who think that losing Glyphs builds character. It does not. It builds idiocy."
 
 Feimo waited. She had learned to recognize the rhythm of Mia's disapproval: the official position, delivered with conviction, followed by a silence in which the unofficial position, the one Mia would never say aloud, lingered like a subtext waiting to be read.
 
@@ -316,7 +316,7 @@ There was that word again. Adequate. The highest compliment in Mia's vocabulary,
 
 "Then I am repeating myself, which is unusual and should not be interpreted as significant." She turned toward the door. "Come on. You have a dawn class, and if you show up with Glyph marks visible, there will be questions that neither of us wants to answer."
 
-Feimo stood. Her body ached in the specific, focused way of someone who had been tested and had passed, not with grace or elegance but with the stubborn, messy persistence of a student who refused to stop reading even when the text was fighting back.
+She got to her feet. Her body ached in the specific, focused way of someone who had been tested and had passed, not with grace or elegance but with the stubborn, messy persistence of a student who refused to stop reading even when the text was fighting back.
 
 She thought about Cain. His silver eyes. His perfect smile. His words: *Intuition is the excuse of the weak.* She thought about his offer, the Glyph shard freely given, and her refusal, and what that refusal meant in the context of a Labyrinth where every gift came with a cost and every conversation was a negotiation and every alliance was a structure that could support you or collapse beneath you depending on the architecture.
 
@@ -349,3 +349,4 @@ The words persisted.
 The way they always had.
 
 The way they always would.
+.

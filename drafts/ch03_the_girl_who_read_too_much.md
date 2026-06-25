@@ -254,7 +254,7 @@ They walked back through Mirror House in something that was not silence, because
 
 Bridge House was warm.
 
-The transition from Mirror House's silver-gray precision to Bridge House's amber glow was like stepping from a laboratory into a kitchen. The text on the walls flowed freely here, sentences from a dozen languages weaving around each other in the constant, gentle migration that Feimo had already come to think of as normal. The hum of the Labyrinth was warmer, softer, tuned to a frequency that her cat instincts read as *safe*.
+The transition from Mirror House's silver-gray precision to Bridge House's amber glow was like stepping from a laboratory into a kitchen. The carved words flowed freely here, sentences from a dozen languages weaving around each other in the constant, gentle migration that Feimo had already come to think of as normal. The hum of the Labyrinth was warmer, softer, tuned to a frequency that her cat instincts read as *safe*.
 
 She dropped onto her couch in the common room. Her three active Glyphs pulsed faintly in her awareness: "affect," "matter," "continued." Small words, common words, each one carrying the weight of the Hawthorne corridor and the strange, unsettling lesson that observation itself could change the thing observed. She released a long breath, the tension of Mirror House draining out of her muscles.
 
@@ -288,6 +288,7 @@ Then it stopped.
 
 Feimo opened her eyes. The common room was quiet. Yue had fallen asleep in her armchair, her blank book open on her lap, its pages as empty as the dreams she could no longer have.
 
-On Feimo's lapel, the Bridge House badge pulsed softly, warm against her chest, keeping time with the hum of the walls.
+On Feimo's lapel, the Bridge badge pulsed softly, warm against her chest, keeping time with the hum of the walls.
 
 Somewhere in Mirror House, in a corridor lined with cloudy mirrors, a passage waited behind a wall of stone and centuries of text. And somewhere in that passage, words were decaying in the dark, patient and silent, waiting for someone to listen.
+sten.
