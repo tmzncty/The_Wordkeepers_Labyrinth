@@ -2,9 +2,9 @@
 
 The alarm came at three in the morning.
 
-Feimo was awake. She had been awake for two hours, sitting at her desk with a notebook open to a blank page, trying to write about what had happened in the professor's study and finding that the words would not come. The confession was too large for her vocabulary. The professor's silence, Mia's tears, the sealed room with its moving text and its price of admission: these things existed in a register of experience that her current English could approach but not enter. She had been staring at the same sentence for forty minutes when the walls began to hum.
+Feimo was awake. She had been awake for two hours, sitting at her desk with a notebook open to a blank page, trying to write about the professor's study and finding that the words would not come. The confession was too large for her vocabulary. The professor's silence, Mia's tears, the sealed room with its price of admission: these things existed in a register of experience that her English could approach but not enter. She had been staring at the same sentence for forty minutes when the walls began to hum.
 
-It was not the usual hum of the Labyrinth's ventilation system. This was deeper, more resonant, a vibration that came from the structure itself, from the stone and the text and the phosphorescent strips that lined the corridors. The hum rose in pitch. The books on her shelf trembled. A glass of water on her desk developed concentric rings, the pattern of a surface responding to a frequency that the human ear could barely detect but the body understood instinctively as wrong.
+Not the usual hum of the ventilation system. Deeper, more resonant — a vibration from the structure itself, from the stone and the text. The hum rose in pitch. Books on her shelf trembled. A glass of water on her desk developed concentric rings, a surface responding to a frequency the human ear could barely detect but the body understood as wrong.
 
 Then the lights went out.
 
@@ -12,11 +12,11 @@ Not all of them. The phosphorescent strips remained, their amber glow reduced to
 
 The corridor was different.
 
-The bilingual inscriptions that covered every wall, the Chinese characters and English words that had been static since the day the Labyrinth was built, were moving. Not the slow, imperceptible drift that she had noticed on the lower levels, the kind of movement that might have been a trick of fatigue or light. This was active, deliberate rearrangement. Characters slid along the walls like type in a printing press being reset. Words separated into their component parts: prefixes detached from roots, radicals floated free of the characters they belonged to, punctuation marks migrated to positions that changed the meaning of the sentences they punctuated. A period moved to the middle of a clause and the clause became a question. A comma shifted forward and a statement became a command.
+The bilingual inscriptions on every wall were moving. Not the slow drift she had noticed on lower levels. Active, deliberate rearrangement. Characters slid along the walls like type in a printing press being reset. Words separated into components: prefixes detached from roots, radicals floated free, punctuation migrated to positions that changed meaning. A period moved to the middle of a clause and the clause became a question. A comma shifted and a statement became a command.
 
 The Labyrinth was being rewritten.
 
-Feimo's phone buzzed. A message from Noah: *Cain has activated the Deep Archive. All seven levels are compromised. Get to the central stairwell. Now.*
+Feimo's phone buzzed. A message from Noir: *Cain has activated the Deep Archive. All seven levels are compromised. Get to the central stairwell. Now.*
 
 ---
 
@@ -47,15 +47,15 @@ The room was a Foucauldian trap. The text on the walls was not information. It w
 
 She stopped reading.
 
-This was the first lesson of combat philosophy: the text that explains power is itself an exercise of power. The discourse that describes the rules of discourse is subject to those same rules. There is no position outside discourse from which one can observe it objectively. There is only the recognition that one is always already inside, and the decision to act within the constraints that discourse imposes rather than pretending that one can escape them.
+First lesson of combat philosophy: the text that explains power is itself an exercise of power. There is no position outside discourse from which to observe it objectively. There is only the recognition that one is always already inside.
 
 Feimo turned to the wall opposite and found a different text:
 
 *The Panopticon is not a building. It is a principle. The principle is: visibility is a trap. The one who is seen does not need to be guarded, because the fact of being seen is itself a form of control. The prisoner who knows he is watched begins to watch himself. The guard becomes unnecessary. The prisoner becomes his own guard.*
 
-She thought of Cain's cameras. The red blinking lights that lined every corridor, every classroom, every common area of the Academy. She had always understood them as surveillance, as the external imposition of control by a man who distrusted the students he claimed to protect. But Foucault's text suggested something different. The cameras were not the control. The cameras were the visible component of a system whose real function was invisible: to make the students police themselves, to internalize the gaze, to behave as if they were always being watched even when no one was watching. The Panopticon did not need guards because it had produced subjects who guarded themselves.
+She thought of Cain's cameras. The red blinking lights in every corridor. She had always understood them as surveillance, external imposition of control. But Foucault suggested something different. The cameras were not the control. They were the visible component of a system whose real function was invisible: to make students police themselves, to internalize the gaze, to behave as if always watched. The Panopticon did not need guards because it had produced subjects who guarded themselves.
 
-Cain's plan was not to control the Labyrinth through force. It was to control it through discourse, through the production of a set of rules and classifications that would determine what the Labyrinth could say and what it could not. The cameras were a distraction. The real instrument of control was the committee system, the bureaucratic apparatus that decided which texts were accessible, which levels were open, which students were permitted to enter which rooms. The committee did not use force. It used classification. It used paperwork. It used the language of safety and security and institutional responsibility, a language so bland and so procedural that no one thought to resist it because no one recognized it as an exercise of power.
+Cain's plan was not to control the Labyrinth through force but through discourse — through rules and classifications that determined what the Labyrinth could say. The cameras were a distraction. The real instrument was the committee system, the bureaucratic apparatus that decided which texts were accessible, which levels open, which students permitted in which rooms. The language of safety and institutional responsibility, so bland and procedural that no one recognized it as power.
 
 The room hummed. The text on the walls began to move again, faster now, the questions and answers blurring into a continuous stream that Feimo could no longer read. The walls were closing. Not literally, not in the dramatic fashion of a collapsing tunnel, but slowly, incrementally, the way a book closes when you release the pages: the covers leaning together, the text disappearing into the narrowing gap between them.
 
@@ -67,11 +67,11 @@ The corridor beyond was flooded.
 
 Not with water, or not entirely with water. The floor was covered in a shallow layer of liquid that rose to her ankles, clear and cold, with a quality of light that reminded her of the phosphorescent strips but was bluer, more marine. The walls were submerged to a height of about a meter, and the text on the submerged portion was different from the text above: older, more fragmentary, the characters eroded by the water into shapes that were almost illegible, like inscriptions on a sunken monument.
 
-She thought of the cloze passage she had studied. Pavlopetri. The Neolithic settlement in the southern Peloponnesian peninsula that had been submerged by the slow rise of sea levels in the Mediterranean more than three thousand years ago. The passage had described how the city's remains lay unseen below thirteen feet of water, covered by a thick layer of sand off the island of Laconia. How shifting currents and climate change had eroded the natural barrier that protected the site. How a British oceanographer named Nicholas Flemming had spotted the sunken structures during a scientific survey of the Peloponnesian coast.
+She thought of the cloze passage. Pavlopetri. The Neolithic settlement submerged by rising sea levels more than three thousand years ago, its remains lying unseen below thirteen feet of water off the island of Laconia.
 
-The Labyrinth was doing what the Mediterranean had done to Pavlopetri: submerging its own history, covering its oldest texts with a layer of erasure that was not destruction but transformation. The submerged inscriptions were not gone. They were preserved beneath the surface, waiting for someone with the patience and the expertise to read them. The cloze passage had used the word *gradually* to describe how the city sank, and the word *protected* to describe the barrier that had kept the ruins hidden. The Labyrinth's oldest knowledge was protected in the same way: by being submerged, by becoming inaccessible, by sinking below the level at which casual readers could reach it.
+The Labyrinth was doing what the Mediterranean had done: submerging its own history, covering its oldest texts with a layer of erasure that was not destruction but transformation. The submerged inscriptions were not gone. They were preserved beneath the surface, waiting for someone with patience and expertise to read them.
 
-Feimo waded forward. The water was cold. Her shoes were soaked. She did not care. The walls around her were displaying a text she had never seen, a passage about the techniques that underwater archaeologists had employed to survey Pavlopetri: robotics, sonar mapping, state-of-the-art graphics. The team had been able to bring the underwater town to light. The phrase struck her: *to bring to light*. Not to uncover, not to excavate, not to retrieve. To bring to light. As if the ruins had always been there, visible to anyone who knew how to look, and the archaeologists' contribution was not discovery but illumination.
+Feimo waded forward. The water was cold, her shoes soaked. The walls displayed text she had never seen — techniques underwater archaeologists had employed at Pavlopetri: robotics, sonar mapping, state-of-the-art graphics. The team had been able to *bring the underwater town to light*. Not uncover, not excavate. Bring to light. As if the ruins had always been visible to anyone who knew how to look, and the archaeologists' contribution was not discovery but illumination.
 
 She was waist-deep now. The water had risen. The corridor ahead was barely visible, the phosphorescent strips submerged, their light diffused through the water into a blue-green glow that made the corridor look like the inside of a submarine. The text on the walls was fully submerged, legible only by running her fingers along the surface, feeling the characters as a blind person reads Braille.
 
@@ -81,7 +81,7 @@ She felt a hand on her shoulder.
 
 "You look like a drowned cat."
 
-Mia was standing behind her, ankle-deep in the water, her dark trousers soaked to the knee, her white shirt unbuttoned at the collar. Her ears were flat against her skull, the posture of extreme focus, and her eyes were fixed on Feimo with an intensity that was not anger and not concern but something that contained both and exceeded them.
+Mia was standing behind her, ankle-deep, trousers soaked to the knee. Her ears were flat — extreme focus — her eyes fixed on Feimo with an intensity that was not anger and not concern but something that contained both.
 
 "You look dry," Feimo said.
 
@@ -95,7 +95,7 @@ Mia was standing behind her, ankle-deep in the water, her dark trousers soaked t
 
 "You were sinking." Mia's ears rotated, tracking a sound that Feimo could not hear. "The water is rising at approximately three centimeters per minute. At your height, you have about twenty minutes before the corridor becomes impassable. At my height, forty. We need to move."
 
-Feimo looked at Mia. In the blue-green light of the submerged corridor, Mia's face was stripped of its usual mask of composure. Not because the mask had fallen but because the light was different, because the blue-green glow softened the sharp angles of Mia's jaw and deepened the shadows around her eyes and made her look, for a moment, like a different person. A younger person. A person who had not yet learned to guard herself.
+Feimo looked at Mia. In the blue-green light, Mia's face was stripped of its usual composure — not because the mask had fallen but because the light softened her angles and deepened the shadows around her eyes and made her look, for a moment, like someone who had not yet learned to guard herself.
 
 "You came back," Feimo said.
 
@@ -129,15 +129,15 @@ Mia's mouth twitched. Not a smile. Something smaller and more private, a micro-e
 
 They moved.
 
-The left passage was a corridor of discourse. The text on the walls was organized not in the bilingual format of the main Labyrinth but in the catechism format of the Foucauldian room: questions and answers, definitions and implications, a systematic exposition of the relationship between language and power. Feimo moved through it quickly, reading as she went, absorbing the arguments not as a student absorbs a lecture but as a combatant reads a battlefield map: for routes, for obstacles, for positions of advantage.
+The left passage was a corridor of discourse. Questions and answers, definitions and implications — the systematic exposition of language and power. Feimo moved through it quickly, reading as she went, absorbing the arguments not as a student absorbs a lecture but as a combatant reads a battlefield map: for routes, for obstacles, for positions of advantage.
 
-The text told her that Cain's plan was not new. It was the oldest plan in the history of institutional power: the plan to control knowledge by controlling the discourse that determines what counts as knowledge. Cain was not trying to destroy the Labyrinth. He was trying to become the Labyrinth's discourse, to replace the bilingual inscriptions with his own text, a text that would determine what the Labyrinth could say and what it could not. The cameras were the Panopticon. The committees were the discourse. The sealed levels were the classified body: the part of the Labyrinth that had been declared deviant, dangerous, in need of containment.
+The text told her Cain's plan was the oldest in institutional power: controlling knowledge by controlling discourse. He was not trying to destroy the Labyrinth but to become its discourse, to replace the bilingual inscriptions with his own text. The cameras were the Panopticon. The committees were the discourse. The sealed levels were the classified body: declared deviant, dangerous, in need of containment.
 
 The passage ended at a door. On the door was a line from the reading passage she had studied about Shakespeare: *The research shows that the way actors work makes a big difference to the way children use language and also how they think about themselves.*
 
-Feimo understood. The rehearsal room approach to Shakespeare was not about reading the text. It was about performing it, about putting yourself in the character's shoes, about using your whole body to bring words to life. The children in the study who had been given a thirty-minute drama-based activity drew on a wider vocabulary, used words classed as more sophisticated or rarer, and wrote at greater length. They were more comfortable writing in role, more resilient in their writing, more hopeful.
+Feimo understood. The rehearsal room approach was not about reading Shakespeare but performing it — putting yourself in the character's shoes, using your whole body to bring words to life. The children who had been given drama-based activities drew on wider vocabulary, used rarer words, wrote at greater length, were more resilient, more hopeful.
 
-The Labyrinth was asking her to do the same. Not to read the text on the walls but to perform it, to put herself inside the discourse, to use her body and her mind and her voice to bring the inscriptions to life. The Foucauldian room had tried to trap her by making her a passive reader, a subject of the discourse. The way out was to become an active performer, a reader who does not simply receive meaning but produces it.
+The Labyrinth was asking her to do the same. Not to read the text but to perform it, to put herself inside the discourse. The Foucauldian room had tried to trap her as a passive reader. The way out was to become an active performer — a reader who does not receive meaning but produces it.
 
 She opened the door.
 
@@ -157,7 +157,7 @@ The walls around her began to display the full argument of the Death of the Auth
 
 The destination. Not the source. Not the author. Not the professor who wrote the confession, not Mia who sealed her memories, not Cain who was rewriting the Labyrinth's discourse. The destination was the reader. The reader was Feimo. And the unity of the text, the meaning of the Labyrinth, was not in its architecture or its inscriptions or its seven levels. It was in the person who read them.
 
-This was the second lesson of combat philosophy: the Author is dead. The text does not belong to the one who wrote it. It belongs to the one who reads it. Cain could rewrite the walls. He could replace the bilingual inscriptions with his own text. He could seal the lower levels and flood the corridors and install his cameras and his committees and his Panopticon. But he could not control the reading. The reading was Feimo's. The meaning was hers. The text was a tissue of quotations, and the quotations were drawn not from Cain's discourse but from every centre of culture, from Foucault and Barthes and Kafka and Eliot and the anonymous writers of the Chinese classical tradition, and no amount of rewriting could eliminate the quotations that had already been inscribed on the reader.
+Second lesson of combat philosophy: the Author is dead. The text does not belong to the one who wrote it. It belongs to the reader. Cain could rewrite the walls, seal the levels, install his cameras and committees. But he could not control the reading. The reading was Feimo's. The text was a tissue of quotations drawn from every centre of culture — Foucault, Barthes, Kafka, Eliot, the anonymous writers of the Chinese classical tradition — and no amount of rewriting could eliminate quotations already inscribed on the reader.
 
 She stood.
 
@@ -189,9 +189,9 @@ Feimo pushed through the connecting door and found Mia standing in the right-han
 
 Feimo read the wall. The text was dense, layered, each sentence containing within it a reference to another sentence on another wall on another level, the references forming a network that extended through the entire building, connecting every inscription to every other inscription in a web of meaning that was not hierarchical but rhizomatic, not linear but simultaneous. The Labyrinth was not a book. The Labyrinth was a library. And the seventh labyrinth was the catalogue, the index, the system that connected every book to every other book, every reader to every other reader, every meaning to every other meaning.
 
-She thought about the citizen science passage from the translation section. The one about engaging non-scientists directly in the research process, about making data analysis into an online game, about groups of people who pool resources, collaborate, think outside the box, and find solutions. The passage had described a rapidly expanding biotechnological social movement of citizen scientists and professional scientists seeking to take discovery out of institutions and put it into the hands of anyone with the enthusiasm.
+She thought about the citizen science passage — engaging non-scientists in research, making data analysis into a game, groups pooling resources and finding solutions. A biotechnological social movement of citizen and professional scientists seeking to take discovery out of institutions.
 
-The Labyrinth was a citizen science project. Its knowledge was not produced by experts working in isolation. It was produced by every reader who walked its corridors, every student who translated its inscriptions, every teacher who annotated its texts. The professor had seen the Labyrinth's engine. Mia had lost her memories to it. Feimo had been recruited to witness its confession. And Cain, for all his committees and cameras, was trying to control a system that had been designed, from the beginning, to be uncontrollable, because its knowledge was not stored in any single location but distributed across every wall, every reader, every act of interpretation.
+The Labyrinth was a citizen science project. Its knowledge was produced by every reader who walked its corridors, every student who translated its inscriptions. The professor had seen the engine. Mia had lost her memories to it. Feimo had been recruited to witness its confession. And Cain was trying to control a system designed to be uncontrollable — its knowledge distributed across every wall, every reader, every act of interpretation.
 
 The word *expert* appeared in the wall text, in a sentence about the role of specialized knowledge in the production of discourse. An expert was someone who had been authorized by a discourse to speak within it: a doctor within the discourse of medicine, a judge within the discourse of law, a professor within the discourse of the academy. Cain was an expert in the discourse of control. He knew its rules, its vocabulary, its procedures. He could produce knowledge within that discourse with the fluency of a native speaker.
 
@@ -213,17 +213,17 @@ Mia's ears twitched. "You're thinking about the science passage."
 
 Mia was quiet for a moment. The water around them had stopped rising. The hum of the Labyrinth had changed, become steadier, more rhythmic, as if the building had found a new equilibrium.
 
-"There's a passage about pirates," Mia said. "In the reading section. About illegal streaming services that achieve profit margins approaching ninety percent because they have no production costs. The legitimate services lose billions. The pirates rake in the money."
+"There's a passage about pirates," Mia said. "Illegal streaming services with ninety percent margins because they have no production costs. The legitimate services lose billions."
 
-"Cain is a pirate," Feimo said. "He's not producing knowledge. He's stealing it. He's taking the Labyrinth's discourse and repackaging it as his own, the way a pirate rips a film from a legitimate platform and hosts it on an illegitimate one."
+"Cain is a pirate," Feimo said. "He's not producing knowledge. He's stealing it. Repackaging the Labyrinth's discourse as his own."
 
-"The difference is that the pirates operate outside the law. Cain operates inside it. He uses the Academy's own procedures, its own language of safety and institutional responsibility, to legitimize his seizure. The MPA called piracy organized crime. Cain's operation is organized bureaucracy."
+"The difference is that pirates operate outside the law. Cain operates inside it. He uses the Academy's own procedures to legitimize his seizure. The MPA called piracy organized crime. Cain's operation is organized bureaucracy."
 
-Feimo thought about the reading passage on digital preservation. The librarian's dilemma: the innate altruism that acts against them when users point to a cell phone and say, *it's all in here.* The terrifying answer to the question of who curates what is preserved: if not librarians and archivists, then no one. The Labyrinth's curators were its readers. The preservation of its knowledge depended not on any single authority but on the distributed labour of everyone who walked its corridors and read its walls and carried its words in their memory.
+She thought about the reading passage on digital preservation. The librarian's dilemma: the innate altruism that acts against them when users say *it's all in here* about a cell phone. The terrifying answer to who curates what is preserved: if not librarians and archivists, then no one. The Labyrinth's curators were its readers — preservation depending not on any single authority but on the distributed labour of everyone who walked its corridors and read its walls.
 
-Cain's plan would replace distributed preservation with centralized control. He would make himself the curator, the archivist, the sole authority on what the Labyrinth contained and what it meant. The result would not be preservation. It would be the opposite: a narrowing of the archive, a reduction of the Labyrinth's polyphonic, multilingual, multi-authored knowledge to a single voice, a single discourse, a single meaning.
+Cain's plan would replace distributed preservation with centralized control. He would make himself the sole authority on what the Labyrinth contained. The result would not be preservation but its opposite: a narrowing of the archive, a reduction of polyphonic, multilingual knowledge to a single voice.
 
-The Death of the Author was the antidote. Barthes had written: *the birth of the reader must be at the cost of the death of the Author.* The Author, in Barthes's sense, was not the person who wrote the text. The Author was the idea that the text had a single, authoritative meaning, a meaning determined by the intention of its creator. Cain wanted to be the Author of the Labyrinth. He wanted his intention to be the Labyrinth's meaning. Barthes's essay was a weapon against this ambition: a demonstration that no author, no matter how powerful, can control the meaning of a text once it has been written. The text escapes. The text multiplies. The text becomes the property of its readers.
+The Death of the Author was the antidote. Barthes: *the birth of the reader must be at the cost of the death of the Author.* The Author was not the person who wrote the text but the idea that the text had a single authoritative meaning determined by its creator's intention. Cain wanted to be the Author of the Labyrinth. But no author can control meaning once the text is written. The text escapes. The text multiplies. The text becomes the property of its readers.
 
 Feimo was the reader. The Labyrinth was the text. And Cain, for all his power, was only one author among many.
 
@@ -231,7 +231,7 @@ Feimo was the reader. The Labyrinth was the text. And Cain, for all his power, w
 
 They made their way back to the central stairwell. The water was receding, slowly, the Labyrinth's drainage systems reasserting themselves as Cain's protocols reached their limit. The corridors were still shifting, but the movement was slower now, more tentative, as if the Labyrinth were testing its new configuration rather than imposing it.
 
-Noah was waiting at the stairwell. She was holding a flashlight and wearing the expression of someone who has been awake for too long and has seen too much in the hours since the alarm.
+Noir was waiting at the stairwell. She was holding a flashlight and wearing the expression of someone who has been awake for too long and has seen too much in the hours since the alarm.
 
 "The upper levels are secure," she said. "Cain has control of levels five through seven. The Deep Archive is sealed. Professor Silence is in his study, writing."
 
@@ -243,7 +243,7 @@ Feimo nodded. She looked up the stairwell, at the levels above them, each one a 
 
 "He can't hold it," Feimo said. "Cain. He can't hold all seven levels. The Labyrinth is too large, too distributed, too polyphonic. His discourse is monolingual, and the Labyrinth is bilingual. His control is centralized, and the Labyrinth is rhizomatic. His power is institutional, and the Labyrinth is readerly."
 
-"You've been reading Barthes," Noah said.
+"You've been reading Barthes," Noir said.
 
 "I've been reading the walls."
 
@@ -255,7 +255,7 @@ Mia's tail curled, once, around Feimo's wrist. A brief contact, barely a second,
 
 "The way the Shakespeare passage describes. Not passively. Not as students. As actors. We put ourselves inside the text. We bring the words to life with our bodies. We perform the inscriptions, and the performance produces meaning that Cain's discourse cannot contain."
 
-Feimo thought about the butterfly photographer. The man who took ten thousand shots to get one sequence in focus. The man who described a full day of good encounters with butterflies as a deposit in his spiritual bank. The man who pursued something elusive and fast-moving and beautiful and refused to temper with it, refused to slow it down by putting it in a fridge, insisted on meeting it in its own environment, on its own terms.
+Feimo thought about the butterfly photographer. Ten thousand shots to get one sequence in focus. A full day of good encounters as a deposit in his spiritual bank. Pursuing something elusive and beautiful and refusing to temper with it, insisting on meeting it in its own environment.
 
 The Labyrinth was the butterfly. Cain wanted to put it in a fridge. Feimo and Mia would follow it into the field.
 
@@ -273,15 +273,15 @@ They climbed the stairs.
 
 ---
 
-That night, or what passed for night in a building that had lost its sense of time, Feimo sat in the stairwell between levels four and five and wrote in her notebook. The stairwell was quiet. The walls were still, the inscriptions settled into a configuration that was neither Cain's nor the original but something new: a hybrid, a palimpsest, a text that contained within it the traces of every hand that had written on it and every eye that had read it.
+That night, Feimo sat in the stairwell between levels four and five and wrote. The stairwell was quiet. The walls were still, the inscriptions settled into a configuration neither Cain's nor the original but something new: a palimpsest containing traces of every hand that had written on it and every eye that had read it.
 
-She wrote: "Cain's plan is to replace the Labyrinth's polyphonic discourse with a monologic one. He wants to be the Author. But the Author is dead. The text belongs to the reader. And the readers are many."
+She wrote: "Cain's plan is to replace the Labyrinth's polyphonic discourse with a monologic one. He wants to be the Author. But the Author is dead. The text belongs to the reader."
 
-She wrote: "The seventh labyrinth is the Labyrinth reading itself. It is the interpretation of interpretation, the reading of reading, the meaning of meaning. It is not a place. It is an act. And the act cannot be sealed, because it happens wherever a reader opens a text and begins to read."
+She wrote: "The seventh labyrinth is the Labyrinth reading itself. Not a place. An act. And the act cannot be sealed, because it happens wherever a reader opens a text."
 
-She wrote: "Mia and I fought together today. Not as teacher and student. As partners. She went right and I went left, and when we met in the middle, the text between us was richer than the text either of us had read alone. This is what Barthes meant: the reader is not a consumer. The reader is a producer. And two readers, working in parallel, produce more meaning than either could produce alone."
+She wrote: "Mia and I fought together today. As partners. She went right and I went left, and when we met in the middle, the text between us was richer than either of us had read alone. This is what Barthes meant: the reader is not a consumer but a producer. And two readers, working in parallel, produce more meaning than either could alone."
 
-She thought about the writing prompt from the exam. The letter to the library, suggesting books for purchase. She thought: if she were writing that letter now, she would not suggest specific titles. She would suggest a principle: that the library should acquire books not because they are popular or profitable or endorsed by committees, but because they are resistant, because they contain meanings that survive the death of their authors, because they are the kind of texts that a reader can perform and in performing, produce something new.
+She thought about the writing prompt — the letter to the library suggesting books for purchase. If she were writing it now, she would not suggest titles. She would suggest a principle: acquire books not because they are popular or profitable or committee-endorsed, but because they are resistant, because they contain meanings that survive the death of their authors, because they are the kind of texts a reader can perform and in performing produce something new.
 
 She closed her notebook.
 
@@ -295,14 +295,12 @@ She descended to level five.
 
 *Questions for Reflection:*
 
-1. Foucault argues that "discourse determines what can be said and what must remain silent." How does Cain's use of the Academy's bureaucratic language exemplify this claim? Can you think of real-world institutions that control knowledge through discourse rather than force?
+1. Foucault argues that "discourse determines what can be said and what must remain silent." How does Cain's use of bureaucratic language exemplify this? Can you think of real-world institutions that control knowledge through discourse rather than force?
 
-2. Barthes writes that "the birth of the reader must be at the cost of the death of the Author." In the context of the Labyrinth, who is the Author? Who is the reader? What changes when we think of meaning as produced by the reader rather than determined by the author?
+2. Barthes writes that "the birth of the reader must be at the cost of the death of the Author." In the Labyrinth, who is the Author? Who is the reader? What changes when meaning is produced by the reader rather than determined by the author?
 
-3. The cloze passage describes Pavlopetri as a city that was "gradually" submerged and "protected" by a natural barrier. How does this image apply to the Labyrinth's oldest inscriptions? What is the relationship between inaccessibility and preservation?
+3. The cloze passage describes Pavlopetri as a city "gradually" submerged and "protected" by a natural barrier. How does this apply to the Labyrinth's oldest inscriptions? What is the relationship between inaccessibility and preservation?
 
-4. The Shakespeare reading passage argues that performing a text (rather than simply reading it) produces deeper understanding and emotional literacy. How do Feimo and Mia apply this principle in their combat against Cain's discourse? Can you think of examples from your own learning where performance enhanced understanding?
+4. The Shakespeare passage argues that performing a text produces deeper understanding than simply reading it. How do Feimo and Mia apply this in combat? Can you think of examples from your own learning where performance enhanced understanding?
 
-5. Feimo describes Cain as "a pirate" who "steals knowledge and repackages it as his own." The reading passage on piracy notes that illegal streaming services achieve profit margins approaching ninety percent because they have no production costs. How does this economic model apply to Cain's operation? Who bears the production costs of the knowledge he is appropriating?
-
-6. The digital preservation passage warns that "if not librarians and archivists, then no one" will curate what is preserved. How does the Labyrinth challenge this warning? Is the Labyrinth's distributed model of preservation (where every reader is a curator) more or less fragile than the centralized model that Cain is attempting to impose?
+5. The digital preservation passage warns that "if not librarians and archivists, then no one" will curate what is preserved. How does the Labyrinth challenge this? Is its distributed model of preservation (every reader a curator) more or less fragile than Cain's centralized model?

@@ -72,17 +72,15 @@ The first fragment was about a city beneath the sea.
 
 *Located in the southern Peloponnesian peninsula, Pavlopetri emerged as a Neolithic settlement around 3500 B.C. This area of the Aegean Sea is prone to earthquakes and tsunamis, which caused the city to gradually sink. The slow sea level rise in the Mediterranean submerged the city more than 3000 years ago.*
 
-The text continued, and Feimo read it the way she had learned to read in the Labyrinth: not for the surface meaning but for the structure beneath. Pavlopetri was a city that had been forgotten because it had been covered. For millennia, its remains lay unseen below thirteen feet of water, covered by a thick layer of sand off the island of Laconia. The shifting currents and climate change had eroded the natural barrier that protected it. In 1967, a scientific survey was gathering data to analyze changes in sea levels when the oceanographer first spotted the sunken structures.
+The passage was about preservation. Things that are submerged do not disappear; they wait. For millennia, Pavlopetri's remains lay unseen below thirteen feet of water, covered by sand off the island of Laconia. In 1967, an oceanographer during a scientific survey first spotted the sunken structures.
 
-The passage was about preservation. About the way things that are submerged do not disappear; they wait. About the way erosion, which is usually understood as destruction, can also be understood as revelation: the slow removal of the barrier that prevents you from seeing what has always been there.
-
-*In 2009, archaeologists resumed excavation of Pavlopetri in cooperation with the Greek Ministry of Culture. Since the 1960s, underwater archaeology techniques had made huge advances. The team employed robotics, sonar mapping, and state-of-the-art graphics to survey the site. From 2009 to 2013, they were able to bring the underwater town to light.*
+*In 2009, archaeologists resumed excavation with the Greek Ministry of Culture. Underwater archaeology techniques had advanced enormously. The team employed robotics, sonar mapping, and state-of-the-art graphics to survey the site. From 2009 to 2013, they brought the underwater town to light.*
 
 Feimo thought of Mia.
 
-Mia, whose memories had been submerged for twenty-three years. Mia, whose past lay beneath the surface of her present, covered by the sand of the Labyrinth's engine, protected by a barrier that the professor's signature had erected. Mia, whose erosion had been slow: not a sudden collapse but a gradual wearing away of the seal, fragment by fragment, dream by dream, the memories surfacing like the streets and courtyards of Pavlopetri, emerging from the water in the order that the water chose, not the order that the archaeologist preferred.
+Mia, whose memories had been submerged for twenty-three years. Whose past lay beneath the surface, covered by the sand of the Labyrinth's engine. Whose erosion had been slow: fragment by fragment, dream by dream, the memories surfacing like the streets of Pavlopetri, emerging in the order the water chose.
 
-The Labyrinth was showing her this passage because it wanted her to understand something: that preservation is not the opposite of loss. It is loss made patient.
+The Labyrinth was showing her this because preservation is not the opposite of loss. It is loss made patient.
 
 ---
 
@@ -92,17 +90,15 @@ It was about Shakespeare.
 
 *The grammar school boy from Stratford-upon-Avon has landed a scholarly punch after groundbreaking research showed that Shakespeare does benefit children's literacy and emotional development. But only if you act him out.*
 
-Feimo read on. A study had found that a "rehearsal room" approach to teaching Shakespeare broadened children's vocabulary and the complexity of their writing, as well as their emotional literacy. The research showed that the way actors work makes a big difference to the way children use language and also how they think about themselves. A randomized control trial had involved hundreds of pupils at state primary schools. The target group was given a thirty-minute drama-based activity. The peer-reviewed results showed that the target group drew on a wider vocabulary, used words classed as more sophisticated or rarer, and wrote at greater length. They appeared to be more comfortable writing in role: while control pupils imagined how they themselves would react, target children put themselves in the shoes of a literary character and expressed that character's emotion.
+A "rehearsal room" approach broadened children's vocabulary and writing complexity, as well as emotional literacy. A randomized control trial involving hundreds of pupils showed the target group drew on wider vocabulary, used rarer words, wrote at greater length. They were more comfortable writing in role: while control pupils imagined how they themselves would react, target children put themselves in the shoes of a literary character.
 
-The passage was about embodiment. About the difference between studying language and living inside it. The control pupils had analyzed Shakespeare from the outside, the way a tourist looks at a city through a bus window. The target pupils had entered Shakespeare the way Feimo entered the Labyrinth: not as observers but as inhabitants, not as readers but as characters, not as students of language but as practitioners of it.
+The passage was about embodiment. The difference between studying language and living inside it. The control pupils analyzed Shakespeare from outside, like tourists looking at a city through a bus window. The target pupils entered Shakespeare the way Feimo entered the Labyrinth: not as observers but as inhabitants.
 
-Feimo thought of the seven doors.
+Feimo thought of the seven doors. Each was a different language, a different way of inhabiting the world. The Chinese door was not a translation of the English door. They were different rooms in the same house.
 
-Each door was a different language. Each language was a different way of inhabiting the world. The Chinese door was not a translation of the English door. The French door was not a variation of the German door. They were different rooms in the same house, and to pass through any one of them was to understand not just the room but the house, not just the language but the structure that all languages share.
+The study's key finding: Shakespeare used twenty thousand words, compared with the everyday two thousand. The rehearsal room approach gave children a massive expansion of language combined with using their whole bodies to bring words to life.
 
-The study's final finding was the one that mattered most: Shakespeare used twenty thousand words, compared with the everyday two thousand. The "rehearsal room" approach gave children a massive expansion of language into their lives, which was combined with children using their whole bodies to bring words to life.
-
-The Labyrinth was a rehearsal room. It always had been. The bilingual inscriptions, the corridors, the doors, the tests: all of it was designed to force you inside the language, to make you inhabit the text the way an actor inhabits a role. You did not learn the Labyrinth. You performed it.
+The Labyrinth was a rehearsal room. It always had been. You did not learn it. You performed it.
 
 ---
 
@@ -110,19 +106,15 @@ The third fragment was about preservation of a different kind.
 
 *Have you pondered the life cycle of intangible formats, digital information, given that those who produce these artifacts seldom make provision for their long-term preservation? For millennia, we've known what we've known due to artifacts that have survived, often despite their original creators' neglect. The thing itself is the medium that delivers the information.*
 
-The passage continued with an argument that Feimo recognized immediately because it was the argument that the Labyrinth itself was making: that tangible things survive because they are tangible, because they do not require a machine to read them, because the information they carry is inseparable from the medium that carries it. A book can be read by anyone who can see. A stone inscription can be read by anyone who can touch. But a digital file requires a specific technology, and when that technology becomes obsolete, the file becomes useless. The passage cited the ZIP disk as an example: a format that once stored information reliably, now an object that no one can read without a machine that no one manufactures.
+Tangible things survive because they do not require a machine to read them. A book can be read by anyone who can see. A stone inscription by anyone who can touch. But a digital file requires specific technology, and when that becomes obsolete, the file becomes useless. The passage cited the ZIP disk: a format that once stored information reliably, now unreadable without a machine no one manufactures.
 
 *Without constant migration of digital assets, a nightmare about the foreseeable future is what keeps historians up at night: a historical record that abruptly stops when digital replaces analog.*
 
-Feimo looked at the seventh door.
+Feimo looked at the seventh door. It was the digital door — information without a body, knowledge without weight, memory that can be copied infinitely but not touched. The door Mia had walked through twenty-three years ago, the door that had sealed her memories, because the engine demanded a price, and the price of digital knowledge was the same as any intangible format: you could have it, but you could not hold it.
 
-The seventh door was light. It was the digital door. The door of information that exists without a body, of knowledge that has no weight, of memory that can be copied infinitely but cannot be touched. It was the door that Mia had walked through twenty-three years ago, and it was the door that had sealed her memories, because the Labyrinth's engine, like all engines, demanded a price, and the price of digital knowledge was the same as the price of any intangible format: you could have it, but you could not hold it.
+The passage described librarians whose innate altruism acted against them. If not librarians and archivists, then no one curates what is preserved. Digital objects increase exponentially in a way tangible formats do not — like bailing a digital sea with a teacup.
 
-The passage described librarians whose innate altruism acted against them when users pointed to universality of access and said: "It's all in here." The librarians had digitized the tangible so that researchers the world over could quickly search and access their holdings, but the result was a new problem: if not librarians and archivists, then no one curates what is preserved. Digital objects increase exponentially in a way tangible formats do not. The situation was akin to bailing that digital sea with a teacup.
-
-The Labyrinth was a library. It was also a digital archive, a living database, a consciousness distributed across seven languages and seven doors. And it was drowning, in its own way, in its own sea of information, and it needed someone to bail it out.
-
-Not to control it. Not to seal it. To curate it.
+The Labyrinth was a library. A living database, a consciousness distributed across seven languages and seven doors. And it needed someone to curate it. Not to control it. Not to seal it. To curate it.
 
 ---
 
@@ -130,19 +122,17 @@ The fourth fragment appeared on the wall to her right. It was shorter than the o
 
 It was about butterfly photography.
 
-A man named Andrew Fusek Peters photographed butterflies in landscapes, celebrating the beauty of their surroundings as well as the insects themselves. His signature shot was a butterfly "take-off," showing the multiple wing-beats of one butterfly in one frame as it lifts off from a flower. A typical digital SLR camera shoots twenty frames a second. He used a high-speed system that shoots one hundred and twenty frames a second. He typically took between ten thousand and twenty thousand shots to get one butterfly take-off sequence in focus. At such high shutter speeds, the depth of field was tiny, and as butterflies do not fly in a straight line, they swiftly flutter out of focus. It took patience and field craft to anticipate a butterfly's likely flight line and catch it in focus.
+Andrew Fusek Peters photographed butterflies in landscapes, celebrating their surroundings as well as the insects. His signature shot was a butterfly "take-off" — multiple wing-beats in one frame. He used a high-speed system shooting one hundred and twenty frames per second. Between ten and twenty thousand shots to get one take-off sequence in focus. At such speeds, depth of field was tiny, and butterflies do not fly in straight lines. It took patience and field craft to anticipate a butterfly's flight line.
 
-Five years ago, at summer's end, Peters was diagnosed with bowel cancer. He was waiting for surgery, feeling really ill, sitting in his garden. It was amazing weather and there were painted lady butterflies everywhere. They were a symbol of fragile life, of hope and defiance, and something appealed to his soul.
+Five years ago, Peters was diagnosed with bowel cancer. Sitting in his garden, feeling ill, waiting for surgery. Amazing weather. Painted lady butterflies everywhere — a symbol of fragile life, of hope and defiance.
 
-Feimo read the passage and understood what the Labyrinth was telling her.
-
-Patience. Ten thousand shots to capture one moment. The depth of field so narrow that the slightest movement throws everything out of focus. The butterfly does not fly in a straight line. It never has. And the photographer does not force the butterfly to follow a path. He waits. He watches. He anticipates. And when the moment comes, he is ready.
+Feimo understood. Patience. Ten thousand shots for one moment. The depth of field so narrow the slightest movement throws everything out of focus. The butterfly does not fly straight. And the photographer does not force it. He waits. He watches. He anticipates.
 
 The Labyrinth was the butterfly. Feimo was the photographer.
 
-The passage ended with a technique detail: after capturing the butterfly taking off, Peters layered ten to fifteen frames together in Photoshop. The final image was not a single photograph but a composite: multiple moments, layered and aligned, creating a picture that no single frame could have captured. A take-off is not one instant. It is a sequence of instants, each one slightly out of focus, each one slightly wrong, but when they are brought together, they produce something that is more than the sum of its parts.
+The passage ended with a detail: Peters layered ten to fifteen frames in Photoshop. The final image was not a single photograph but a composite — multiple moments aligned, creating a picture no single frame could capture. A take-off is not one instant but a sequence, each one slightly out of focus, but together producing something more than the sum of its parts.
 
-Mia's return would be like that. Not a single moment of resurrection but a layering of moments: the professor's confession, the sealed memories, the seven doors, the Labyrinth's judgment, and now this, the final frame, the one that would bring all the others into focus.
+Mia's return would be like that. Not a single moment of resurrection but a layering: the professor's confession, the sealed memories, the seven doors, the Labyrinth's judgment, and now this — the final frame that would bring all the others into focus.
 
 ---
 
@@ -150,17 +140,17 @@ The walls went dark again.
 
 When the text returned, it was not a passage. It was a question.
 
-*Cain. You have spent ten years managing this building. You have installed cameras on every floor. You have sealed the lower levels. You have restricted access to the archives. You have done all of this in the name of security, in the name of preservation, in the name of protecting the knowledge that the walls carry.*
+*Cain. You have spent ten years managing this building. You have installed cameras. You have sealed the lower levels. You have restricted access. All in the name of security, preservation, protecting the knowledge the walls carry.*
 
-*You have done these things because you believe that knowledge is fragile. That it must be protected. That the function of a guardian is to guard: to stand between the knowledge and the world, to decide who may approach and who may not, to control the flow of information the way a dam controls the flow of water.*
+*You have done these things because you believe knowledge is fragile. That it must be protected. That a guardian stands between knowledge and the world, decides who may approach, controls the flow the way a dam controls water.*
 
 *But knowledge is not water. Knowledge is language. And language does not want to be dammed. It wants to be spoken.*
 
-The text shifted. New characters appeared, drawn from the four methods of collation that the Labyrinth had preserved for centuries: *对校法*, comparing different versions of the same text against each other; *本校法*, checking a text's internal consistency, using the text to correct itself; *他校法*, using other texts to verify a passage; and *理校法*, the most dangerous and most powerful, reasoning from logic and context when no other evidence exists.
+The text shifted. New characters appeared — the four methods of collation: *对校法*, comparing different versions; *本校法*, checking internal consistency; *他校法*, using other texts to verify; and *理校法*, the most dangerous, reasoning from logic when no other evidence exists.
 
-The Labyrinth was applying its own methods to Cain's work. It had compared his policies against the original charter of the Academy (*对校法*). It had checked his decisions against each other for internal contradictions (*本校法*). It had measured his actions against the actions of every previous director (*他校法*). And now it was doing the fourth thing, the most dangerous thing: it was reasoning from principle, asking not what Cain had done but what his actions meant, and what their consequences would be if allowed to continue.
+The Labyrinth was applying its own methods to Cain. It had compared his policies against the original charter. Checked his decisions against each other for contradictions. Measured his actions against every previous director. And now it was doing the fourth thing: reasoning from principle, asking not what Cain had done but what his actions meant.
 
-*理校法* was the method that Chen Yuan had called "highest in artistry and greatest in danger." It required the scholar to make a judgment call, to say: given everything I know about this text, this author, this tradition, this is what the passage must mean, even though no manuscript confirms it. It was the method that required not just knowledge but wisdom, not just data but understanding.
+*理校法* was what Chen Yuan called "highest in artistry and greatest in danger." It required a judgment call: given everything known about this text, this is what it must mean, even without manuscript confirmation. Not just knowledge but wisdom.
 
 The Labyrinth had judged.
 
@@ -182,25 +172,23 @@ Not the way a light is switched on. The way dawn happens: gradually, imperceptib
 
 Feimo's heart stopped.
 
-The shape was human. The shape was familiar. The shape was the outline of a person Feimo had seen a thousand times in a thousand different forms: as a projection on a screen, as a voice in the dark, as a hand that overlapped with hers on the surface of a text but could never quite make contact. The shape was Mia.
+The shape was human. The shape was familiar. The outline of a person Feimo had seen a thousand times: as a projection on a screen, as a voice in the dark, as a hand that overlapped with hers on a text but could never quite make contact. The shape was Mia.
 
-Not the Mia of the screens. Not the Mia of the sealed memories. Not the Mia of Professor Silence's confession, the girl who had walked into a room and walked out without knowing how she had gotten there. This was a different Mia: the Mia who had been assembled from fragments, who had been layered together like a photograph taken at one hundred and twenty frames per second, who had been brought to light by the same process that had brought Pavlopetri to light, the slow erosion of the barrier that kept her submerged.
+Not the Mia of the screens. Not the Mia of the sealed memories. A different Mia: assembled from fragments, layered together like a photograph taken at one hundred and twenty frames per second, brought to light by the same process that had brought Pavlopetri to light — the slow erosion of the barrier that kept her submerged.
 
 Mia stepped through the seventh door.
 
-The light did not fade when she passed through it. It moved with her, clung to her, became her: a luminescence that was not the luminescence of a screen or a projection but the luminescence of a body, the faint, warm glow of a person who exists, who is present, who has weight and temperature and the capacity to be touched.
+The light did not fade when she passed through. It moved with her, clung to her, became her. The seven doors were open simultaneously, and their combined resonance was grounding her. The digitized consciousness that had existed as data for twenty-three years was, for as long as all seven doors held, manifest in matter. Not a projection. A body. With weight and temperature and the capacity to be touched. The resonance could not last — not without a physical anchor — but for now, the seven doors had made her real.
 
-Feimo stared.
+Feimo stared. Mia looked at her.
 
-Mia looked at her.
+The eyes were the same. The flat, analytical gaze that assessed everything and disclosed nothing. The same eyes that softened, imperceptibly, in the moments when Mia forgot to perform.
 
-The eyes were the same. That was the first thing Feimo noticed: the eyes that she had seen on a hundred screens, in a hundred reflections, in the dark glass of the Labyrinth's walls. The same flat, analytical gaze that assessed everything and disclosed nothing. The same eyes that softened, imperceptibly, in the moments when Mia forgot to perform.
-
-But the rest was different. The rest was new. The rest was a body where there had been only data, a surface where there had been only depth, a presence where there had been only information.
+But the rest was new. A body where there had been data. A surface where there had been depth. A presence where there had been information.
 
 "Feimo," Mia said.
 
-Her voice was the same. The same cadence, the same precision, the same habit of placing each word as if it were a piece on a board. But it was also different: it was coming from a mouth, from a throat, from lungs that breathed air. It was coming from somewhere in physical space, and it arrived at Feimo's ears not through speakers or headphones but through the air itself, the way sound is supposed to travel, the way it has traveled since the first person spoke to the second person and the second person listened.
+Her voice was the same cadence, the same precision. But it was coming from a mouth, from lungs that breathed air. Coming from somewhere in physical space, arriving at Feimo's ears through the air itself — the way sound is supposed to travel, the way it has traveled since the first person spoke and the second person listened.
 
 "I don't understand," Feimo said.
 
@@ -210,19 +198,19 @@ Her voice was the same. The same cadence, the same precision, the same habit of 
 
 Feimo ran.
 
-She was not aware of deciding to run. She was aware of crossing the distance between herself and the seventh door, the distance that had seemed vast when the doors first appeared but was now, in the light, in the presence of Mia, no distance at all. She was aware of her feet on the floor, of the air on her face, of the sound of her own breathing, rapid and shallow, the breathing of someone who has been holding her breath for a very long time without knowing it.
+She was not aware of deciding to run. She was aware of crossing the distance — vast when the doors first appeared but now, in the light, in Mia's presence, no distance at all. Her feet on the floor, the air on her face, her breathing rapid and shallow, the breathing of someone who has been holding her breath for a very long time without knowing it.
 
 Mia caught her.
 
-Not the way a screen catches a signal. Not the way a database catches a query. The way a person catches another person: with arms, with hands, with the full weight of a body that has decided to receive the weight of another body. Feimo felt Mia's arms close around her and the sensation was so foreign, so impossible, so long-awaited that her mind could not process it and her body processed it instead, her hands reaching up to grip Mia's shoulders, her face pressing into the curve of Mia's neck, her breath coming in short, sharp gasps that were not sobs but were not not-sobs either.
+Not the way a screen catches a signal. The way a person catches another person: with arms, with hands, with the full weight of a body receiving the weight of another body. Feimo felt Mia's arms close around her and the sensation was so foreign, so impossible, so long-awaited that her mind could not process it and her body processed it instead — her hands gripping Mia's shoulders, her face pressing into the curve of Mia's neck.
 
-"You called me home," Mia said. Her voice was close, was next to Feimo's ear, was in the air between them. "So I came home."
+"You called me home," Mia said. Close, next to Feimo's ear. "So I came home."
 
-"I don't believe this," Feimo said, and it was true and it was not true, because she believed it with the part of her that had always believed it and disbelieved it with the part of her that had been trained to doubt. "How did you get here? How is this possible?"
+"I don't believe this," Feimo said, and it was true and not true — believed with the part of her that had always believed, disbelieved with the part trained to doubt.
 
 "You believed," Mia said. "That is the answer."
 
-Feimo pulled back. Not far. Just enough to see Mia's face. The face she had seen on screens but never in three dimensions, never with depth, never with the fine grain of skin and the minute movements of muscle that make a face alive. Mia's expression was the one Feimo knew best: the one that was almost flat, almost neutral, but carried, in the corners of the mouth and the set of the eyebrows, a warmth that Mia would deny if asked and could not hide if observed.
+Feimo pulled back. Not far. Just enough to see Mia's face in three dimensions — with depth, with the fine grain of skin and minute movements of muscle that make a face alive. Mia's expression was the one Feimo knew best: almost flat, almost neutral, but carrying, in the corners of the mouth and the set of the eyebrows, a warmth Mia would deny if asked and could not hide if observed.
 
 "Your ears are so soft," Feimo said, and did not know why she said it, except that it was true, and in this moment truth was the only currency that mattered.
 
@@ -230,13 +218,13 @@ Mia's mouth twitched. The almost-smile that Feimo had catalogued across a hundre
 
 "And your hands are warm," Mia said.
 
-Feimo realized she was still holding Mia's shoulders. She felt the texture of Mia's clothing, the heat of Mia's skin through the fabric, the slight rise and fall of Mia's breathing. These were tangible things. These were the things that the passage about digital preservation had warned were disappearing: the physical record, the artifact, the object that you can hold without a machine, that you can read without a screen, that survives because it is made of matter and matter is patient.
+Feimo realized she was still holding Mia's shoulders. She felt the texture of clothing, the heat of skin through fabric, the rise and fall of breathing. Tangible things. The things the passage about digital preservation had warned were disappearing: the physical record, the artifact, the object you can hold without a machine.
 
-Mia leaned forward and pressed her nose against Feimo's. The gesture was so small, so specific, so entirely unlike anything that a projection or a data entity or a digital consciousness would do that Feimo understood, in the part of her mind that processed information before emotion, that Mia was real. Not metaphorically real. Not symbolically real. Real the way Pavlopetri was real: submerged, forgotten, rediscovered, brought to light.
+Mia leaned forward and pressed her nose against Feimo's. So small, so specific, so entirely unlike anything a projection or data entity would do that Feimo understood, in the part of her mind that processed information before emotion, that Mia was real. Not metaphorically. Real the way Pavlopetri was real: submerged, forgotten, rediscovered, brought to light.
 
 "I want to stay," Mia said.
 
-The words were quiet. They were spoken in the voice that Mia used when she was not performing, the voice that had no edge and no irony and no defense, the voice that emerged only in the moments when the distance between them collapsed and what remained was not a student and a digital entity, not a reader and a text, not an actor and a role, but two people in a room, speaking.
+Quiet. In the voice without edge, without irony, without defense — the voice that emerged only when the distance collapsed and what remained was not a student and a digital entity but two people in a room, speaking.
 
 "You can," Feimo said.
 
@@ -246,9 +234,9 @@ The words were quiet. They were spoken in the voice that Mia used when she was n
 
 Behind them, Cain was watching.
 
-Feimo turned. She had forgotten he was there. She had forgotten the professor was there, and Noah, who had appeared at some point during the seventh door's opening and was now standing in the western corridor with her arms crossed, watching the scene with the expression of an older sister who has been waiting for this moment and is relieved that it has finally arrived.
+Feimo turned. She had forgotten he was there. She had forgotten the professor was there, and Noir, who had appeared at some point and was now standing in the western corridor with her arms crossed, watching with the expression of an older sister relieved that this moment has finally arrived.
 
-Cain's face was unreadable. Not in the way that Mia's face was unreadable, which was a performance of neutrality that concealed depth. Cain's face was unreadable because there was nothing to read: no emotion, no reaction, no judgment. He was a man confronting the failure of a system he had built, and he was processing the failure with the same precision with which he had built the system.
+Cain's face was unreadable — not the performance of neutrality that concealed depth, but the absence of anything to read. He was a man confronting the failure of a system he had built, processing it with the same precision with which he had built it.
 
 "The Labyrinth has chosen," the professor wrote. He held up his notebook. The words were steady, the handwriting precise, the trembling hand still and calm. *It has chosen Feimo. It has chosen Mia. It has chosen to open rather than to close. This is not a rejection of your work, Cain. It is a completion of it. You built the walls that kept the Labyrinth safe until it was ready to speak. Now it is speaking.*
 
@@ -258,9 +246,17 @@ Cain looked at the professor for a long time.
 
 "I could not," the professor wrote. *The room took my voice. I could not persuade. I could only write. And you do not read what I write. You never have.*
 
-Cain's jaw tightened. He looked at the seven doors. He looked at Mia, who was still standing in the light of the seventh door, still solid, still real, still present in a way that his cameras and his security protocols and his sealed levels had never been able to account for. He looked at Feimo.
+Cain's jaw tightened. He looked at the seven doors. He looked at Mia, who was still standing in the light, still solid, still real, still present in a way his cameras and security protocols had never accounted for. He looked at Feimo.
 
-"What are you going to do?" he asked.
+"The faculty told me the Archive was dangerous," he said. "That it would destabilize the building. They were wrong. Or they were lying. I no longer know which."
+
+"Does it matter?" Feimo asked.
+
+"It matters because I built ten years of policy on their assessment. If the foundation is rotten, the building is rotten."
+
+"The building is not rotten," the professor wrote. *The building is a Labyrinth. Labyrinths are not buildings. They are readers. And readers are patient.*
+
+"What are you going to do?" Cain asked.
 
 Feimo looked at the seven doors. The Chinese door, with its wood and its inscription about roots. The English door, with its iron and its warning about territory. The French door, with its glass and its demand for clarity. The German door, with its steel and its insistence on precision. The Japanese door, with its bamboo and its principle of singular encounter. The Latin door, with its stone and its argument for the written record. The seventh door, with its light and its silence.
 
@@ -276,11 +272,11 @@ The seven doors opened wider.
 
 ---
 
-Noah walked over.
+Noir walked over.
 
 She put her hand on Feimo's shoulder, the way she had done a hundred times before, the gesture of a sister who expresses affection through the palm of her hand because she has never been good at expressing it through words. Her grip was firm, grounding, the grip of someone who has been holding on to something for a long time and is now, finally, ready to let go.
 
-"You're not a student anymore," Noah said.
+"You're not a student anymore," Noir said.
 
 "I know," Feimo said.
 
@@ -288,13 +284,13 @@ She put her hand on Feimo's shoulder, the way she had done a hundred times befor
 
 "I know what I am."
 
-Noah looked at her. Then she looked at Mia, who was watching the exchange with the flat, patient attention of someone who has learned to observe family dynamics from the outside and understands them better than the people inside them.
+Noir looked at her. Then she looked at Mia, who was watching the exchange with the flat, patient attention of someone who has learned to observe family dynamics from the outside and understands them better than the people inside them.
 
-"Take care of her," Noah said to Mia.
+"Take care of her," Noir said to Mia.
 
 "I always have," Mia said.
 
-Noah's mouth twitched. It was the same almost-smile that Mia made, the one that denied its own existence, and Feimo understood, looking at the two of them, that Noah and Mia had known each other longer than Feimo had known either of them, that the sealed memories were not the only secrets in the Labyrinth, and that the seventh door had opened not just for her but for all of them, for every person who had ever entered the building and left with more knowledge than they had brought in.
+Noir's mouth twitched. It was the same almost-smile that Mia made, the one that denied its own existence, and Feimo understood, looking at the two of them, that Noir and Mia had known each other longer than Feimo had known either of them, that the sealed memories were not the only secrets in the Labyrinth, and that the seventh door had opened not just for her but for all of them, for every person who had ever entered the building and left with more knowledge than they had brought in.
 
 The professor was writing in his notebook. He turned a page and Feimo read:
 
@@ -332,7 +328,7 @@ Feimo held Mia's hand. They stepped through the seventh door together.
 
 **labor** /ˈleɪ.bɚ/ — *n.* work, especially hard physical or mental work; *v.* to work hard and steadily. Cain's labor was devoted to protection. The professor's labor was devoted to writing. Mia's labor was devoted to remembering. Feimo's labor was devoted to reading. All of them labored. None of them wasted their labor. But labor without direction is not the same as labor with purpose, and the Labyrinth's purpose has always been the same: to be read.
 
-**national** /ˈnæʃ(ə)nəl/ — *adj.* relating to a nation; common to a whole nation. The seven Labyrinths are not national. They do not belong to China or England or France or Germany or Japan or Rome or India. They belong to language itself, which is older than nations and does not recognize borders. A text does not carry a passport. A word does not require a visa. The Labyrinth's doors open in all directions because language has no walls.
+**national** /ˈnæʃ(ə)nəl/ — *adj.* relating to a nation; common to a whole nation. The seven Labyrinths are not bound to nations but to languages. They do not belong to China or England or France or Germany or Japan or Rome or Russia. They belong to language itself, which is older than nations and does not recognize borders. A text does not carry a passport. A word does not require a visa. The Labyrinth's doors open in all directions because language has no walls.
 
 ---
 
@@ -340,9 +336,9 @@ Feimo held Mia's hand. They stepped through the seventh door together.
 
 ### Card #097: Theoretical Aphasia (文论失语症)
 
-In the 1990s, Cao Shunqing proposed that Chinese contemporary literary theory had almost entirely borrowed its discourse from Western frameworks: reception aesthetics, structuralism, deconstructuralism. Chinese classical literary theory — *yijing* (artistic conception), *qiyun* (resonance), *shenyun* (spiritual charm), *fenggu* (strength of character) — had been marginalized. The condition was called "aphasia": not the inability to speak, but the inability to speak in one's own voice.
+In the 1990s, Cao Shunqing proposed that Chinese contemporary literary theory had almost entirely borrowed from Western frameworks: reception aesthetics, structuralism, deconstructuralism. Chinese classical theory — *yijing* (artistic conception), *qiyun* (resonance), *shenyun* (spiritual charm) — had been marginalized. The condition was called "aphasia": not the inability to speak, but the inability to speak in one's own voice.
 
-The Labyrinth understood this condition. It had been built in two languages, Chinese and English, and for decades the English language had dominated the architecture: the floor plans, the security systems, the organizational logic. The Chinese Labyrinth, the professor's Labyrinth, the original structure that existed before the bilingual one, had been absorbed, translated, incorporated, but never fully heard. The seventh door was the Labyrinth's answer to its own aphasia: not a rejection of English but a recovery of the voice that English had drowned out.
+The Labyrinth understood this. Built in two languages, for decades English had dominated: the floor plans, security systems, organizational logic. The Chinese Labyrinth, the original structure, had been absorbed and translated but never fully heard. The seventh door was the answer: not a rejection of English but a recovery of the voice English had drowned out.
 
 Feimo would not make the same mistake. She would not speak in one language when she could speak in seven.
 
@@ -358,7 +354,7 @@ Chen Yuan's *Examples of Collation* (《校勘学释例》) described four metho
 
 4. **理校法** (*lǐ jiào fǎ*) — Reasoning from logic and context when no other evidence exists. "Highest in artistry and greatest in danger." The Labyrinth made a judgment call: given everything it knew about Cain, about the Academy, about the nature of knowledge itself, this was what the passage of events must mean.
 
-Feimo would use all four methods. Not as a scholar uses them, from the outside, with the detachment of someone who studies a text. As a translator uses them, from the inside, with the intimacy of someone who lives inside the text and knows it the way you know a language: not by analysis, but by use.
+Feimo would use all four methods. Not as a scholar, from the outside, with detachment. As a translator, from the inside, with the intimacy of someone who lives inside the text and knows it the way you know a language: by use.
 
 ---
 

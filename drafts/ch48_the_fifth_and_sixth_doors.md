@@ -88,7 +88,21 @@ But the passage ended with a warning from an analyst: "While there is some optim
 
 "That's the French Labyrinth's real lesson," Mia said. "Every problem in language has multiple interpretations. Every passage admits more than one reading. The analysts don't agree. The studios don't agree. The pirates certainly don't agree. And the Labyrinth doesn't care who's right. She cares whether you can hold all the interpretations at once, without collapsing into certainty."
 
-The walls shifted. A third passage appeared, and this one was different from the first two. It was not a reading comprehension text. It was a translation exercise.
+The walls shifted. But instead of a new passage, two sentences materialized in large script, one above the other, the French original beside the English:
+
+*On ne naît pas femme: on le devient.* / *One is not born, but rather becomes, a woman.* — Beauvoir
+
+*Nous sommes venus au monde pour construire une civilisation nouvelle.* / *We came into the world to build a new civilization.* — Césaire
+
+"Two voices," Mia said. "Beauvoir said that gender is not biology but discourse — you become what language tells you to become. Césaire said that the colonized must rebuild language itself, because the language of the colonizer was designed to make them invisible. Both of them are asking the same question the French Labyrinth asks: who gets to speak, and in whose voice?"
+
+Feimo thought about the Academy. About Mia, who had been told she was an AI and had believed it for twenty-three years, because the discourse — the digitization program, the classification system, the institutional language — had defined her as one. About Cain, who had used the language of security to justify control. About herself, a catgirl in a human institution, whose voice had been doubted not because it was wrong but because the ears delivering it were not the expected shape.
+
+"**Voice**," Mia said. "Noun. The sound produced by a person. A recognized right to express an opinion. The distinctive tone of a writer. Beauvoir and Césaire each found a voice that the discourse they were born into tried to deny them. That's what the French Labyrinth tests: not whether you can read the language, but whether you can hear the voices that the language tried to silence."
+
+Feimo wrote *voice* on the table. Three words now.
+
+The walls shifted again. A third passage appeared, and this one was different from the first three. It was not a reading comprehension text. It was a translation exercise.
 
 ---
 

@@ -144,21 +144,21 @@ The passage had also said that introducing additional caregivers could reduce st
 
 ---
 
-Noah arrived at noon.
+Noir arrived at noon.
 
 Feimo did not hear her come in. She was sitting at the table, the Glyph of courage in her left hand, her right hand flat on the open notebook, not writing, not reading, just sitting, the way a person sits when they have been doing something for a long time and have stopped doing it without deciding to stop, the body continuing the posture of activity while the mind has moved to some other place that the body cannot follow.
 
-Noah's hand on her shoulder.
+Noir's hand on her shoulder.
 
-Feimo looked up. Noah's face was the face of a person who has received bad news and has processed it and has decided, not to be cheerful about it, but to be present. Her eyes were clear. Her mouth was set in the particular line that meant she was going to say something honest and was not going to dress it up.
+Feimo looked up. Noir's face was the face of a person who has received bad news and has processed it and has decided, not to be cheerful about it, but to be present. Her eyes were clear. Her mouth was set in the particular line that meant she was going to say something honest and was not going to dress it up.
 
-"I heard," Noah said.
+"I heard," Noir said.
 
 "How?"
 
 "Aya told me. She found me in the corridor. She said: *Feimo needs you.*"
 
-Feimo said nothing. Noah pulled up a chair and sat next to her, not across from her, next to her, the way a person sits when they are not going to face you but to be beside you, the difference between a confrontation and a companionship.
+Feimo said nothing. Noir pulled up a chair and sat next to her, not across from her, next to her, the way a person sits when they are not going to face you but to be beside you, the difference between a confrontation and a companionship.
 
 "She cut the connection," Feimo said.
 
@@ -166,29 +166,29 @@ Feimo said nothing. Noah pulled up a chair and sat next to her, not across from 
 
 "I don't know why."
 
-Noah was quiet for a moment. Then she said: "The elephants know."
+Noir was quiet for a moment. Then she said: "The elephants know."
 
 Feimo looked at her.
 
-"The 2024 translation passage," Noah said. "The one about elephants. Do you remember it?"
+"The 2024 translation passage," Noir said. "The one about elephants. Do you remember it?"
 
 Feimo remembered. The passage had described how elephants sometimes travel more than sixty miles to find food or water, and are very good at working out where other elephants are, even when they are out of sight. The researchers were convinced that the elephants always know precisely where they are in relation to all the resources they need, and can therefore take shortcuts, as well as following familiar routes. The passage had explained that one possibility was that they merely used their eyes, but that would probably result in a lot of wasted time and energy, not least because their eyesight is actually not very good. The real answer was smell. The volatile chemicals produced by plants can be carried a long way, and they are very characteristic: each plant or tree has its own particular odor signature. The experiment showed that elephants may well use smell to identify patches of trees that are good to eat, and secondly to assess the quality of the trees within each patch.
 
-"Mia is out of sight," Noah said. "But she is not out of range. You cannot see her. You cannot hear her. The connection is gone. But the scent remains. The things she taught you, the way she taught you to read, the arguments you had, the translations you fought over. Those are volatile chemicals. They travel a long way. They are very characteristic. Each one has its own particular odor signature."
+"Mia is out of sight," Noir said. "But she is not out of range. You cannot see her. You cannot hear her. The connection is gone. But the scent remains. The things she taught you, the way she taught you to read, the arguments you had, the translations you fought over. Those are volatile chemicals. They travel a long way. They are very characteristic. Each one has its own particular odor signature."
 
 Feimo's eyes burned.
 
-"You will find her the way the elephants find the good trees," Noah said. "Not by looking. Not by reaching for a thread that is no longer there. By following the scent. By trusting the knowledge that is already in you, the knowledge that she put there, month after month, translation after translation, argument after argument. The knowledge is yours now. She cannot take it with her. It is the one thing the connection left behind when it closed."
+"You will find her the way the elephants find the good trees," Noir said. "Not by looking. Not by reaching for a thread that is no longer there. By following the scent. By trusting the knowledge that is already in you, the knowledge that she put there, month after month, translation after translation, argument after argument. The knowledge is yours now. She cannot take it with her. It is the one thing the connection left behind when it closed."
 
-Noah reached out and put her arms around Feimo.
+Noir reached out and put her arms around Feimo.
 
-The embrace was not gentle. It was the embrace of a person who has held things together under pressure and knows what it costs and does not pretend that the cost is small. Noah held Feimo the way you hold a person who is not falling apart but is carrying something very heavy and needs, for a moment, someone else to share the weight. Feimo leaned into the embrace and felt, for the first time since waking, that she was not alone in the room, not alone in the Labyrinth, not alone in the world that Mia had left.
+The embrace was not gentle. It was the embrace of a person who has held things together under pressure and knows what it costs and does not pretend that the cost is small. Noir held Feimo the way you hold a person who is not falling apart but is carrying something very heavy and needs, for a moment, someone else to share the weight. Feimo leaned into the embrace and felt, for the first time since waking, that she was not alone in the room, not alone in the Labyrinth, not alone in the world that Mia had left.
 
 The Glyph of courage pulsed in her hand. Warm. Amber. A heartbeat.
 
-"I'm going to find her," Feimo said, into Noah's shoulder.
+"I'm going to find her," Feimo said, into Noir's shoulder.
 
-"I know," Noah said. "But not today. Today you sit here. Today you let me hold you. Tomorrow you look for the door."
+"I know," Noir said. "But not today. Today you sit here. Today you let me hold you. Tomorrow you look for the door."
 
 Feimo closed her eyes.
 
@@ -228,7 +228,7 @@ She wrote about the nails. About the Romans burying ten tons of iron so the loca
 
 She wrote about Aya. About the Glyph of courage. About the whisper to the empty air: *Take care of her, okay?* She wrote: "Aya chose blessing over rivalry. This is the hardest thing a person can do in love: to trust the other person with the person you love. To step back. To let go. To say, not *I will fight for her*, but *I will trust you to bring her back.* This is not weakness. This is the strongest thing I have ever witnessed."
 
-She wrote about the elephants. About smell. About the way an elephant knows where another elephant is even when it cannot see it. She wrote: "Noah said the scent remains. The knowledge Mia gave me is a volatile chemical. It travels a long way. It has its own particular odor signature. I cannot see her. I cannot hear her. But I can follow the scent. I can trust the knowledge."
+She wrote about the elephants. About smell. About the way an elephant knows where another elephant is even when it cannot see it. She wrote: "Noir said the scent remains. The knowledge Mia gave me is a volatile chemical. It travels a long way. It has its own particular odor signature. I cannot see her. I cannot hear her. But I can follow the scent. I can trust the knowledge."
 
 She wrote about Bakhtin. About dialogism. About the idea that meaning is produced not by one voice but in the exchange between two. She wrote: "Without Mia, I am a monologue. And monologue is not enough. It never was. The Labyrinth thinks in two languages. I think in two voices. One of them is mine. The other was hers. Now one voice speaks and the other is silent, and the silence is not empty. It is full of everything that is not being said."
 
@@ -268,4 +268,4 @@ The Labyrinth listened.
 
 5. Feimo connects the AI art passage to Mia's sealed memories: both involve the loss of provenance, the severing of a work from its creator. In what sense is identity a form of authorship? What does it mean to lose the connection between who you are and who you were?
 
-6. The elephants navigate by smell, following volatile chemicals that travel long distances. Noah tells Feimo: "The scent remains." What is the "scent" that Mia has left behind? Can knowledge be a form of smell?
+6. The elephants navigate by smell, following volatile chemicals that travel long distances. Noir tells Feimo: "The scent remains." What is the "scent" that Mia has left behind? Can knowledge be a form of smell?
